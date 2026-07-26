@@ -2,7 +2,7 @@ name: Hent nyheder
 
 on:
   schedule:
-    - cron: "0 5,11,17 * * *"   # 3 gange dagligt (UTC)
+    - cron: "0 */2 * * *"       # hver 2. time
   workflow_dispatch:            # giver en "Run workflow"-knap
     inputs:
       antal:
