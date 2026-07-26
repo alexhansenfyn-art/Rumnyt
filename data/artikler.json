@@ -1,7 +1,136 @@
 {
-  "opdateret": "2026-07-26T11:04:35.476987+00:00",
-  "antal": 12,
+  "opdateret": "2026-07-26T15:26:53.078439+00:00",
+  "antal": 24,
   "artikler": [
+    {
+      "titel": "What happened to space horror movies?",
+      "link": "https://www.space.com/entertainment/space-movies-shows/what-happened-to-space-horror-movies",
+      "dato": "2026-07-26T13:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "They mostly don't come out anymore... mostly.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/FsjqinAPigRWm6qGyr2uNM-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Hvor blev rum-gyserfilm af?",
+      "resume_da": "En film- og spilskribent reflekterer over, hvorfor rum-gyserfilm er blevet sjældnere.",
+      "sektioner": [
+        {
+          "overskrift": "Rum-gysers tilbagegang",
+          "tekst": "Artiklen undrer sig over, hvorfor der ikke længere laves mange gyserfilm i rummet. Forfatteren har over **30 års** erfaring med at skrive om film og spil."
+        },
+        {
+          "overskrift": "Skribentens baggrund",
+          "tekst": "Matthew har en filmuddannelse fra Vassar College og har skrevet for medier som MTV og Washington Post. Han elsker sci-fi som Marvel, Star Wars og Doctor Who."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "30 år",
+          "label": "erfaring med film"
+        }
+      ],
+      "detaljer": [
+        "Forfatteren har skrevet om film i 20 betalte år.",
+        "Han har en grad i film fra Vassar College.",
+        "Han har skrevet for The Escapist, MTV, Flixist, Destructoid, Variety og Washington Post."
+      ],
+      "betydning": "Artiklen sætter fokus på en ændring i populærkulturen, som kan afspejle vores skiftende syn på rummet.",
+      "pointer": [
+        "Rum-gyserfilm er blevet mere sjældne.",
+        "Forfatteren er en erfaren filmanmelder.",
+        "Han elsker klassisk sci-fi.",
+        "Kultur kan påvirke vores opfattelse af rummet."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "NASA Astronaut Chris Williams, Crewmates Return from Space Station",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/",
+      "dato": "2026-07-26T10:59:44+00:00",
+      "kilde": "NASA",
+      "resume": "Concluding an eight-month science mission aboard the International Space Station, NASA astronaut Chris Williams returned to Earth on Sunday alongside Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev. The crew made its safe, parachute-assisted landing at 5:27 a.m. CDT (3:27 p.m., Kazakhstan time), southeast of Dzhezkazgan, after departing the space station at 2:03 a.m., aboard the [&#823",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/ms28soyuzjuly26.jpg?w=2048",
+      "billede_alt": "The Soyuz MS-28 spacecraft is seen as it lands in a remote area near the town of Zhezkazgan, Kazakhstan ",
+      "kategori": "Missioner",
+      "rubrik": "NASA-astronaut hjem efter 241 dage i rummet",
+      "resume_da": "NASA-astronaut Chris Williams og to russiske kosmonauter landede sikkert i Kasakhstan efter 241 dages mission ombord på Den Internationale Rumstation.",
+      "sektioner": [
+        {
+          "overskrift": "Sikker landing i Kasakhstan",
+          "tekst": "Soyuz MS-28 landede med faldskærm kl. 5:27 CDT (3:27 lokal tid) sydøst for Dzhezkazgan. Besætningen forlod rumstationen kl. 2:03 CDT samme dag."
+        },
+        {
+          "overskrift": "Videnskabelige fremskridt",
+          "tekst": "Williams støttede forskning i nye kræftbehandlinger og forbedret fremstilling af materialer til supercomputere og elektronik i rummet. Han udførte også to rumvandringer for at opgradere strømsystemet og reparere en arm på Canadarm2."
+        },
+        {
+          "overskrift": "Missionens omfang",
+          "tekst": "Besætningen rejste over **102 millioner miles** og kredsede om Jorden **3.856 gange** på **241 dage**. Det var den første rummission for Williams og Mikaev, og den anden for Kud-Sverchkov."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "241 dage",
+          "label": "Missionens varighed"
+        },
+        {
+          "tal": "3.856",
+          "label": "Antal jordomkredsninger"
+        },
+        {
+          "tal": "102 millioner miles",
+          "label": "Samlet rejst distance"
+        }
+      ],
+      "detaljer": [
+        "Opsendelse fandt sted 27. november 2025.",
+        "Williams er NASA-astronaut, de to andre er fra Roscosmos.",
+        "Efter landing flyver besætningen med helikopter til Karaganda i Kasakhstan.",
+        "Williams fortsætter til Johnson Space Center i Houston."
+      ],
+      "betydning": "Forskningen om bord hjælper med at forbedre livet på Jorden og forbereder fremtidige missioner til Månen og Mars.",
+      "pointer": [
+        "Astronaut hjem efter 241 dage i rummet",
+        "Forskning i kræftbehandling og materialer",
+        "To rumvandringer for reparationer",
+        "Del af forberedelser til Månen og Mars"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "An off-the-shelf camera could help us find more black holes smashing together",
+      "link": "https://www.space.com/astronomy/black-holes/an-off-the-shelf-camera-could-help-us-find-more-black-holes-smashing-together",
+      "dato": "2026-07-25T13:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "\"It doesn't require any new technology development, which is almost unheard of for solving a LIGO instrumentation problem.\"",
+      "billede": "https://cdn.mos.cms.futurecdn.net/Vxgwe7isFvnmp7Aru2GT6L-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Billigt kamera kan finde flere sorte huller",
+      "resume_da": "Et almindeligt kommercielt kamera kan opdage gravitationsbølger fra sorte huller, viser ny forskning.",
+      "sektioner": [
+        {
+          "overskrift": "Kamera opdager gravitationsbølger",
+          "tekst": "Forskere har vist, at et off-the-shelf kamera kan bruges til at opdage gravitationsbølger fra sorte huller, der smelter sammen. Kameraet er billigt og kan let installeres på eksisterende teleskoper."
+        },
+        {
+          "overskrift": "Flere opdagelser mulige",
+          "tekst": "Med denne teknik kan man opdage mange flere sorte hul-sammenstød end med nuværende metoder. Det kan give ny viden om universets udvikling."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Sharmila Kuthunur er en uafhængig rumjournalist baseret i Bengaluru, Indien.",
+        "Hun har en mastergrad i journalistik fra Northeastern University i Boston."
+      ],
+      "betydning": "For almindelige mennesker betyder det, at vi kan lære mere om sorte huller med billigere og mere tilgængeligt udstyr.",
+      "pointer": [
+        "Billigt kamera kan finde sorte huller.",
+        "Ny metode giver flere opdagelser.",
+        "Vigtigt for forskningen i universet."
+      ],
+      "prio": 5
+    },
     {
       "titel": "Rare blue optical transient points to possible new class of cosmic explosion",
       "link": "https://phys.org/news/2026-07-rare-blue-optical-transient-class.html",
@@ -44,7 +173,43 @@
         "Kan være ny type kosmisk eksplosion",
         "Fundet af kinesiske astronomer"
       ],
-      "prio": 6
+      "prio": 6,
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/chinese-astronomers-di-2.jpg",
+      "billede_alt": ""
+    },
+    {
+      "titel": "SpaceX's Starship megarocket makes the 'softest splashdown' ever after launching next-gen Starlink satellites in Flight 13 test (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-makes-the-softest-splashdown-ever-after-launching-next-gen-starlink-satellites-in-flight-13-test-video",
+      "dato": "2026-07-25T01:40:17+00:00",
+      "kilde": "Space.com",
+      "resume": "SpaceX launched Starship, the world's most powerful rocket, on a critical 13th test flight on July 24, a stunning test flight that notched big success and ended with a huge surprise.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/EBaFFerS5NjWzK94MM58t6-1280-80.png",
+      "billede_alt": "",
+      "kategori": "Opsendelser",
+      "rubrik": "SpaceX Starship når næsten perfekt landing",
+      "resume_da": "SpaceX's Starship gennemførte næsten perfekt blødsprøjt i havet efter 13. testflyvning med nye Starlink-satellitter.",
+      "sektioner": [
+        {
+          "overskrift": "Missionens mål",
+          "tekst": "Flight 13 testede forbedringer til Starship og sendte næste generation af Starlink-satellitter i kredsløb. Det var den mest succesfulde landing hidtil."
+        },
+        {
+          "overskrift": "Landingens præstation",
+          "tekst": "Super Heavy-boosteren udførte en kontrolleret landing i havet med minimal skade. Elon Musk kaldte det 'den blødeste vandsprøjtning nogensinde'."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Opsendelsen fandt sted fra Boca Chica, Texas.",
+        "Flyvningen er del af udviklingen mod genanvendelighed."
+      ],
+      "betydning": "Succesfulde test bringer Starship tættere på genanvendelige rumfartøjer, der kan sænke omkostningerne til rumrejser og satellitopsendelser.",
+      "pointer": [
+        "Test afsluttet uden sprængning.",
+        "Starlink-satellitter udsendt.",
+        "Næste store test: orbital landing."
+      ],
+      "prio": 7
     },
     {
       "titel": "SpaceX conducts 13th Starship test flight",
@@ -78,7 +243,9 @@
         "Udsendte fungerende satellitter",
         "Vigtigt skridt mod fuld drift"
       ],
-      "prio": 4
+      "prio": 4,
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starship-flt13-liftoff.jpeg?fit=1024%2C569&amp;ssl=1",
+      "billede_alt": "Starship Flight 13 liftoff"
     },
     {
       "titel": "ULA deals with financial challenges caused by Vulcan grounding",
@@ -110,7 +277,9 @@
         "Vulcan Centaur-raket er sat på jorden",
         "Økonomiske udfordringer for ULA"
       ],
-      "prio": 5
+      "prio": 5,
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55090240803_a555b0ee7e_k.jpg?fit=1024%2C683&amp;ssl=1",
+      "billede_alt": ""
     },
     {
       "titel": "Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand",
@@ -166,7 +335,9 @@
         "Pegasus-pram transporterer trinnet fra Florida til Mississippi.",
         "B-2-standen har tidligere testet Saturn V og SLS."
       ],
-      "prio": 5
+      "prio": 5,
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/NSF-2026-07-24-17-51-12-365.jpg",
+      "billede_alt": ""
     },
     {
       "titel": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
@@ -218,7 +389,9 @@
         "Billederne kalibrerer kameraer til Mars-mission",
         "Ankomst til Mars i 2027"
       ],
-      "prio": 5
+      "prio": 5,
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE%20Photo%20of%20Earth_Moon%201.png",
+      "billede_alt": ""
     },
     {
       "titel": "Rocks from unexplored far side of the moon help rewrite lunar history",
@@ -247,7 +420,9 @@
         "Resultaterne udfordrer ældre teorier om nedslag.",
         "Ny viden kaster lys over Jordens udvikling."
       ],
-      "prio": 7
+      "prio": 7,
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/rocks-from-unexplored.jpg",
+      "billede_alt": ""
     },
     {
       "titel": "New Crew Members Welcomed to International Space Station",
@@ -285,7 +460,9 @@
         "De skal være der i 8,5 måneder",
         "De udfører forskning og vænner sig til rummet"
       ],
-      "prio": 3
+      "prio": 3,
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/iss074e0814792orig.jpg?w=2048",
+      "billede_alt": "From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a portrait while holding a cake celebrating their recent arrival aboard the Interna"
     },
     {
       "titel": "NASA Announces New Spacecraft Technology Demonstration Mission at Moon",
@@ -332,7 +509,9 @@
         "Støtter op om NASA's Artemis-program",
         "Opsendelse planlagt til 2027"
       ],
-      "prio": 7
+      "prio": 7,
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/capstone2.jpg?w=2048",
+      "billede_alt": "Artist rendition of two Capstone 2 in space above the Moon."
     },
     {
       "titel": "Why Europa's hidden ocean may be more difficult to reach than scientists thought",
@@ -361,7 +540,9 @@
         "Ny forskning peger på adgangsproblemer",
         "Forskning ledet af Lujendra Ojha"
       ],
-      "prio": 7
+      "prio": 7,
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-europas-hidden-oce-2.jpg",
+      "billede_alt": ""
     },
     {
       "titel": "Io's volcanic output offers a 40‑day forecast of plasma density in Jupiter's magnetosphere",
@@ -400,7 +581,9 @@
         "Data fra Juno og IoIO blev sammenlignet",
         "Studiet forbedrer forståelsen af Jupiters rummiljø"
       ],
-      "prio": 5
+      "prio": 5,
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/telescope-reliably-pre.jpg",
+      "billede_alt": ""
     },
     {
       "titel": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis",
@@ -453,7 +636,9 @@
         "Støtter Artemis-missioner mod Månen og Mars.",
         "Første månebasemissioner allerede planlagt."
       ],
-      "prio": 6
+      "prio": 6,
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/bo.jpg?w=2048",
+      "billede_alt": ""
     },
     {
       "titel": "UK in pole position to lead key instrument in NASA's hunt for Earth-like worlds",
@@ -491,7 +676,314 @@
         "Teleskopet skal finde jordlignende planeter.",
         "Opsendelse om 20-30 år."
       ],
-      "prio": 7
+      "prio": 7,
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/uk-in-pole-position-to.jpg",
+      "billede_alt": ""
+    },
+    {
+      "titel": "LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT",
+      "link": "https://spacenews.com/latconnect-60-unveils-proprietary-ai-capabilities-following-growing-indo-pacific-defence-interest-in-swirsat/",
+      "dato": "2026-07-24T14:59:27+00:00",
+      "kilde": "SpaceNews",
+      "resume": "PERTH, Australia &#8211; 24 July 2026 &#8211; LatConnect 60 (&#8220;LC60&#8221;), an Australian satellite Earth observation and AI company, today unveiled a proprietary intelligence-fusion capability that leverages the latest advancements in [&#8230;] The post LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/latconnect-60.png?fit=277%2C277&amp;ssl=1",
+      "billede_alt": "latconnect 60 logo",
+      "kategori": "Satellitter",
+      "rubrik": "Australsk firma lancerer ny AI til satellitdata",
+      "resume_da": "LatConnect 60 har udviklet en proprietær AI-kapacitet, der kan smelte data sammen fra flere kilder. Det sker efter stigende forsvarsinteresse i regionen.",
+      "sektioner": [
+        {
+          "overskrift": "Ny AI-kapacitet",
+          "tekst": "LatConnect 60 fra Australien har afsløret en ny AI-datasmeltningsteknologi. Den kombinerer data fra forskellige kilder for at skabe mere avanceret overvågning."
+        },
+        {
+          "overskrift": "Forsvarsinteresse i SWIRSAT",
+          "tekst": "Interessen fra forsvarssektoren i Indo-Pacific-regionen for satellitten SWIRSAT er stigende. Det har fået firmaet til at fremvise sine nye AI-evner."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Firmaet er australsk og arbejder med jordobservation og AI.",
+        "AI-kapaciteten er proprietær og fokuserer på intelligensfusion.",
+        "Interessen kommer fra forsvarsområdet i Indo-Pacific-regionen.",
+        "SWIRSAT er en satellit, der vækker stigende opmærksomhed."
+      ],
+      "betydning": "Teknologien kan forbedre overvågning og sikkerhed, hvilket har betydning for global stabilitet og danske interesser i rumfart.",
+      "pointer": [
+        "Australien udvikler avanceret AI til satellitdata.",
+        "Forsvarsinteresse driver innovationen.",
+        "Teknologien fusionerer data fra flere kilder.",
+        "SWIRSAT-satellitten er i fokus."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "This Week's Sky at a Glance, July 24 – August 2",
+      "link": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-july-24-august-2/",
+      "dato": "2026-07-24T14:14:00+00:00",
+      "kilde": "Sky & Telescope",
+      "resume": "The waxing gibbous Moon passes Antares. Turn the Summer Triangle into the Summer Diamond. And as you snuggle into bed, would Vega land on your roof if it dropped out of the sky? The post This Week&#039;s Sky at a Glance, July 24 – August 2 appeared first on Sky &amp; Telescope .",
+      "billede": null,
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Himlen i denne uge: 24. juli – 2. august",
+      "resume_da": "Månen passerer Antares, og Sommertrekanten bliver til Sommertrekan. Få tips til at observere stjerner og planeter.",
+      "sektioner": [
+        {
+          "overskrift": "Månen møder Antares",
+          "tekst": "Den tiltagende måne passerer den lysende stjerne Antares i stjernebilledet Skorpionen. Det er et flot syn på aftenhimlen."
+        },
+        {
+          "overskrift": "Sommertrekanten",
+          "tekst": "Sommertrekanten, dannet af stjernerne Vega, Deneb og Altair, kan nu forvandles til en 'Sommertrekan' med lidt fantasi. Vega er den klareste af de tre."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Månen er i tiltagende fase og passerer Antares.",
+        "Sommertrekanten er synlig på aftenhimlen."
+      ],
+      "betydning": "For almindelige danskere giver artiklen enkle tips til at nyde nattehimlen og spotte kendte stjerner og planeter uden brug af teleskop.",
+      "pointer": [
+        "Månen nærmer sig Antares.",
+        "Sommertrekanten kan ses.",
+        "Let observation for alle.",
+        "Aftenhimlen byder på flot syn."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "Astronomers catch massive galaxy assembling piece by piece 1.2 billion years after Big Bang",
+      "link": "https://phys.org/news/2026-07-astronomers-massive-galaxy-piece-billion.html",
+      "dato": "2026-07-24T12:40:02+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Astronomers have discovered a remarkably tiny group of six young galaxies just 1.2 billion years after the Big Bang. This may be a rare glimpse of how some of the universe's largest galaxies formed. The paper outlining the findings was submitted to the arXiv preprint server on July 13.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-catch-a-ma.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Sjældent syn: Galakse samles af 6 unge galakser",
+      "resume_da": "Astronomer har opdaget en gruppe af seks unge galakser, der samles til en stor galakse kun 1,2 milliarder år efter Big Bang.",
+      "sektioner": [
+        {
+          "overskrift": "Opdagelse af galaksegruppe",
+          "tekst": "Astronomer har opdaget en usædvanlig lille gruppe af seks unge galakser. De befinder sig kun **1,2 milliarder år** efter Big Bang. Dette giver et sjældent indblik i, hvordan nogle af universets største galakser blev dannet."
+        },
+        {
+          "overskrift": "Forskningens betydning",
+          "tekst": "Fundet blev beskrevet i et videnskabeligt papir, der blev sendt til arXiv den **13. juli**. Det kan hjælpe forskere med at forstå, hvordan massive galakser voksede sig store i det tidlige univers."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1,2 milliarder år",
+          "label": "efter Big Bang"
+        },
+        {
+          "tal": "6",
+          "label": "ung galakser"
+        }
+      ],
+      "detaljer": [
+        "Gruppen består af seks unge galakser.",
+        "Opdagelsen kan vise, hvordan store galakser opstår."
+      ],
+      "betydning": "Opdagelsen giver en sjælden mulighed for at forstå, hvordan universets største galakser blev dannet – noget der kan udvide vores viden om kosmos' udvikling.",
+      "pointer": [
+        "Seks unge galakser samlet.",
+        "Kun 1,2 milliarder år efter Big Bang.",
+        "Kan forklare dannelse af store galakser.",
+        "Papir udgivet 13. juli."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Office of Space Commerce to move ahead on mission authorization",
+      "link": "https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization/",
+      "dato": "2026-07-24T12:04:34+00:00",
+      "kilde": "SpaceNews",
+      "resume": "The Commerce Department is moving ahead with plans to implement a voluntary mission authorization system for novel space activities that are not regulated by other agencies. The post Office of Space Commerce to move ahead on mission authorization appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/jordan-housesci260715.jpeg?fit=1024%2C683&amp;ssl=1",
+      "billede_alt": "Jordan",
+      "kategori": "Politik & penge",
+      "rubrik": "USA rykker på godkendelse af nye rummissioner",
+      "resume_da": "Det amerikanske handelsministerium går videre med planer om et frivilligt system til godkendelse af nye rumaktiviteter, der ikke reguleres af andre myndigheder.",
+      "sektioner": [
+        {
+          "overskrift": "Nyt godkendelsessystem",
+          "tekst": "Handelsministeriet vil indføre et frivilligt system til autorisation af nye rumaktiviteter. Systemet gælder for missioner, der ikke dækkes af andre myndigheder."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Systemet er frivilligt for nye rumaktiviteter.",
+        "Det omfatter missioner, der ikke reguleres af andre agenturer."
+      ],
+      "betydning": "Systemet kan gøre det lettere for private virksomheder at få grønt lys til innovative rummissioner, hvilket kan fremskynde udviklingen af ny rumteknologi.",
+      "pointer": [
+        "Handelsministeriet tager næste skridt mod autorisation af rummissioner.",
+        "Systemet er målrettet nye aktiviteter uden eksisterende regulering.",
+        "Ordningen er frivillig."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "This Week In Space LIVE: The Viking Mars landings 50 years later",
+      "link": "https://www.space.com/astronomy/mars/this-week-in-space-live-the-viking-mars-landings-50-years-later",
+      "dato": "2026-07-24T12:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "Tune in today, July 24, at 1:30 p.m. ET for a LIVE This Week In Space taping to mark the 50th anniversary of the Viking landings on Mars.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/R6N8LpbqFTf394f8g3PALH-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Viking-landingerne fylder 50 år",
+      "resume_da": "Space.com-redaktør Tariq Malik markerede 50-året for Viking-missionen med et live-afsnit af podcasten This Week In Space.",
+      "sektioner": [
+        {
+          "overskrift": "Podcasten This Week In Space",
+          "tekst": "Tariq Malik og rumhistorikeren Rod Pyle optog et live-afsnit af podcasten 'This Week In Space' i anledning af Viking-landingernes 50-års jubilæum. Jubilæet faldt i juni 2025."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "50 år",
+          "label": "Jubilæum for Viking-landing"
+        }
+      ],
+      "detaljer": [
+        "Tariq Malik er redaktør på Space.com",
+        "Han har været med Space.com siden 2001",
+        "Han modtog Harry Kolcum Award for fremragende rumrapportering i 2022"
+      ],
+      "betydning": "Viking-missionerne var de første vellykkede landing på Mars og lagde grunden til al senere marsforskning.",
+      "pointer": [
+        "Viking-landingerne var i 1976",
+        "50-året er i 2026",
+        "Podcasten kan ses på TWiT-netværket"
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "New Jersey Meteorite Offers Early Solar System Clues",
+      "link": "https://skyandtelescope.org/astronomy-news/new-jersey-meteorite-offers-early-solar-system-clues/",
+      "dato": "2026-07-24T12:00:00+00:00",
+      "kilde": "Sky & Telescope",
+      "resume": "When a meteorite tore through a New Jersey home, the homeowner quickly preserved the fragments. Now, they're giving scientists a look at Earth's early history. The post New Jersey Meteorite Offers Early Solar System Clues appeared first on Sky &amp; Telescope .",
+      "billede": null,
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "New Jersey-meteorit giver indsigt i Solsystemets barndom",
+      "resume_da": "En meteorit, der styrtede gennem et hus i New Jersey, er blevet analyseret og giver forskere ny viden om Solsystemets tidlige historie.",
+      "sektioner": [
+        {
+          "overskrift": "Meteoritten og dens rejse",
+          "tekst": "Meteoritten faldt gennem taget på et hus i New Jersey og blev hurtigt samlet af husejeren. Den er en sjælden type, der stammer fra Solsystemets tidlige dage."
+        },
+        {
+          "overskrift": "Videnskabelig betydning",
+          "tekst": "Forskere har studeret meteoritten og fundet spor af mineraler, der kan fortælle om forholdene lige efter Solsystemets dannelse. Den giver et sjældent indblik i jordens og planeterne oprindelse."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Meteoritten styrtede gennem et hus i New Jersey.",
+        "Husejeren bevarede fragmenterne hurtigt.",
+        "Den giver ledetråde om Solsystemets tidlige historie."
+      ],
+      "betydning": "Den hjælper forskere med at forstå, hvordan Jorden og andre planeter blev dannet, hvilket kan kaste lys over livets oprindelse.",
+      "pointer": [
+        "Sjælden meteorit fundet i New Jersey",
+        "Giver ny viden om Solsystemets barndom",
+        "Hurtig indsamling sikrede analysemuligheder"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Should scientists have research 'reserves' on the moon?",
+      "link": "https://phys.org/news/2026-07-scientists-reserves-moon.html",
+      "dato": "2026-07-24T11:40:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "The worlds of the solar system are exciting and, so far, mostly pristine places for planetary scientists to study. As space missions continue to travel to Mars, Europa, asteroids and other worlds, questions arise about keeping them safe for continued exploration and observation.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/should-scientists-have.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Skal der være forskningsreserver på Månen?",
+      "resume_da": "Mens vi udforsker Månen og andre himmellegemer, opstår spørgsmålet om at beskytte dem mod menneskelig påvirkning. Nogle forskere foreslår at udlægge særlige 'reserve'-områder.",
+      "sektioner": [
+        {
+          "overskrift": "Beskyttelse af måneområder",
+          "tekst": "Månen er i dag mest uberørt, men fremtidige missioner kan ændre det. Forskere diskuterer derfor at oprette særlige beskyttede zoner på Månen. Disse zoner skal bevares som referenceområder."
+        },
+        {
+          "overskrift": "International enighed om regler",
+          "tekst": "Der findes allerede internationale aftaler om at beskytte rummet, fx Outer Space Treaty. Men nye regler kan være nødvendige for at sikre, at måne-reserverne respekteres."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Månen og andre himmellegemer er stort set uberørte og vigtige for forskning.",
+        "Der er bekymring for, at menneskelig aktivitet kan forurene eller ødelægge unikke områder.",
+        "En mulig løsning er at udpege særlige ‘forskningsreserver’ på Månen."
+      ],
+      "betydning": "For almindelige mennesker betyder det, at fremtidens rumrejser og minedrift på Månen kan blive reguleret, så vi bevarer uberørte områder til forskning og eftertiden.",
+      "pointer": [
+        "Månen er næsten uberørt",
+        "Forskere vil beskytte nogle områder",
+        "Regler kan komme fra internationale aftaler",
+        "Det kan påvirke fremtidig måneaktivitet"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Hubble Spies One-Sided Spiral",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/",
+      "dato": "2026-07-24T11:11:08+00:00",
+      "kilde": "NASA",
+      "resume": "This Hubble image features spiral galaxy NGC 4654, located 72 million light-years away in the constellation Virgo (the Maiden).",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC4654_potm2607a.jpg?w=3984&#038;h=3826&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A spiral galaxy. It has a prominent spiral arm on one side (lower left) and a wide, glowing core. Dark brown filaments of dust swirl through its disk, while blue clusters of stars are visible mostly g",
+      "kategori": "Astronomi",
+      "rubrik": "Hubble fanger asymmetrisk galakse",
+      "resume_da": "Hubble-teleskopet har fotograferet spiralgalaksen NGC 4654, som er asymmetrisk på grund af påvirkning fra andre galakser og intergalaktisk gas.",
+      "sektioner": [
+        {
+          "overskrift": "Asymmetrisk galakse",
+          "tekst": "NGC 4654 er en spiralgalakse **72 millioner lysår** væk. Den har en lang gashale på den ene side, mens den anden side er afrundet. Det skyldes, at galaksen bevæger sig så hurtigt gennem den varme gas mellem galakserne, at gassen trækkes ud og danner halen."
+        },
+        {
+          "overskrift": "Manglende stjerner på den ene side",
+          "tekst": "Galaksens stjerner er også ujævnt fordelt. Den ene spiralarm har mange stjerner og gas, mens den modsatte arm næsten ingen har. Astronomer mener, at et tidligere tæt møde med nabogalaksen NGC 4639 for omkring **500 millioner år siden** rev gas væk og stoppede stjernedannelsen på den side."
+        },
+        {
+          "overskrift": "Aktiv stjernedannelse",
+          "tekst": "På trods af de voldsomme kræfter danner NGC 4654 stadig næsten **to solmasser** stjerner om året. De lyserøde bobler på billedet er områder med nyfødte stjerner. Dataene bruges til at forstå, hvordan gas bevæger sig i galakser og danner stjerner."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "72 millioner lysår",
+          "label": "Afstand fra Jorden"
+        },
+        {
+          "tal": "500 millioner år",
+          "label": "Siden møde med nabogalakse"
+        },
+        {
+          "tal": "2 solmasser/år",
+          "label": "Stjernedannelseshastighed"
+        }
+      ],
+      "detaljer": [
+        "Galaksen er en 'intermediær' spiralgalakse med svag bjælkestruktur.",
+        "Gashalen skyldes 'ram pressure stripping'."
+      ],
+      "betydning": "Studiet af galakser som NGC 4654 hjælper forskere med at forstå, hvordan galakser udvikler sig og vekselvirker med hinanden, hvilket giver indsigt i universets opbygning.",
+      "pointer": [
+        "Hubble har fotograferet den asymmetriske spiralgalakse NGC 4654.",
+        "Galaksens form skyldes både hurtig bevægelse og et tidligere møde med en nabogalakse.",
+        "Den danner stadig aktivt stjerner, på trods af påvirkningerne.",
+        "Dataene bruges til at undersøge gasbevægelser og stjernedannelse i galakser."
+      ],
+      "prio": 5
     }
   ]
 }
