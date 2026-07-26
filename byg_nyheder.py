@@ -103,6 +103,40 @@ def ren_tekst(html, maks=6000):
     return tekst[:maks]
 
 
+SKIP_BILLEDE = ("feedburner", "doubleclick", "pixel", "1x1", "spacer.gif", "gravatar", "blank.gif")
+
+
+def entry_billede(e, brodtekst):
+    """Find et brugbart billede i RSS-punktet. Returnerer (url, beskrivelse) eller (None, '')."""
+    kandidater = []
+
+    for felt in ("media_content", "media_thumbnail"):
+        for m in getattr(e, felt, None) or []:
+            if m.get("url"):
+                kandidater.append((m["url"], int(m.get("width") or 0)))
+
+    for enc in getattr(e, "enclosures", None) or []:
+        if str(enc.get("type", "")).startswith("image/") and enc.get("href"):
+            kandidater.append((enc["href"], 0))
+
+    for m in re.finditer(r'<img[^>]+src=["\']([^"\']+)["\']', brodtekst or "", re.I):
+        kandidater.append((m.group(1), 0))
+
+    for url, _bredde in sorted(kandidater, key=lambda k: -k[1]):
+        url = url.strip()
+        if not url.startswith("http"):
+            continue
+        if any(s in url.lower() for s in SKIP_BILLEDE):
+            continue
+        alt = ""
+        m = re.search(r'<img[^>]+alt=["\']([^"\']*)["\']', brodtekst or "", re.I)
+        if m:
+            alt = m.group(1)[:200]
+        return url, alt
+
+    return None, ""
+
+
 def entry_dato(e):
     for felt in ("published_parsed", "updated_parsed"):
         v = getattr(e, felt, None)
@@ -130,12 +164,15 @@ def hent_feeds(verbose=True):
                 if getattr(e, "content", None):
                     brodtekst = e.content[0].get("value", "")
                 brodtekst = brodtekst or getattr(e, "summary", "") or ""
+                billede, billede_alt = entry_billede(e, brodtekst)
                 punkter.append({
                     "titel": (getattr(e, "title", "") or "").strip(),
                     "link": (getattr(e, "link", "") or "").strip(),
                     "dato": d.isoformat(),
                     "kilde": navn,
                     "resume": ren_tekst(getattr(e, "summary", ""), 400),
+                    "billede": billede,
+                    "billede_alt": billede_alt,
                     "_tekst": ren_tekst(brodtekst),
                 })
                 nye += 1
@@ -205,6 +242,8 @@ def saml(punkt, svar):
         "dato":      punkt["dato"],
         "kilde":     punkt["kilde"],
         "resume":    punkt["resume"],
+        "billede":     punkt.get("billede"),
+        "billede_alt": punkt.get("billede_alt", ""),
         "kategori":  kat if kat in KATEGORIER else "Missioner",
         "rubrik":    rubrik[:80],
         "resume_da": (svar.get("resume_da") or "").strip(),
@@ -260,6 +299,16 @@ def main():
         if art:
             nye.append(art)
             print(f"        → {art['rubrik']}")
+
+    # Efterfyld billeder på tidligere artikler, hvis de stadig ligger i et feed
+    billeder = {p["link"]: (p.get("billede"), p.get("billede_alt", "")) for p in punkter if p.get("billede")}
+    efterfyldt = 0
+    for a in gamle.get("artikler", []):
+        if not a.get("billede") and a.get("link") in billeder:
+            a["billede"], a["billede_alt"] = billeder[a["link"]]
+            efterfyldt += 1
+    if efterfyldt:
+        print(f"\nEfterfyldte billeder på {efterfyldt} tidligere artikler.")
 
     alle = nye + gamle.get("artikler", [])
     alle.sort(key=lambda a: a.get("dato", ""), reverse=True)
