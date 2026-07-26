@@ -1,0 +1,48 @@
+name: Hent nyheder
+
+on:
+  schedule:
+    - cron: "0 5,11,17 * * *"   # 3 gange dagligt (UTC)
+  workflow_dispatch:            # giver en "Run workflow"-knap
+    inputs:
+      antal:
+        description: "Maks. antal nye artikler at genfortælle"
+        required: false
+        default: "12"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hent-nyheder
+  cancel-in-progress: false
+
+jobs:
+  hent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Kør pipelinen
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python byg_nyheder.py --antal ${{ github.event.inputs.antal || 12 }}
+
+      - name: Commit hvis der er nyt
+        run: |
+          git config user.name  "Rumnyt bot"
+          git config user.email "actions@github.com"
+          if git diff --quiet -- data/artikler.json; then
+            echo "Ingen nye artikler."
+          else
+            git add data/artikler.json
+            git commit -m "Nyheder opdateret $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
