@@ -1,0 +1,341 @@
+{
+  "opdateret": "2026-07-26T10:00:00+00:00",
+  "antal": 8,
+  "artikler": [
+    {
+      "titel": "Starship completes first orbital refuelling demonstration",
+      "link": "https://example.com/starship-refuelling",
+      "resume": "SpaceX transferred propellant between two Starship vehicles in low Earth orbit.",
+      "dato": "2026-07-26T06:10:00+00:00",
+      "kilde": "NASASpaceflight",
+      "kategori": "Opsendelser",
+      "rubrik": "Starship tankede op i kredsløb for første gang",
+      "resume_da": "To Starship-raketter koblede sig sammen i kredsløb og overførte brændstof. Det er nøglen til at nå Månen og Mars.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad skete der",
+          "tekst": "To Starship-fartøjer mødtes i **cirka 350 kilometers højde** og koblede sig sammen bagende mod bagende. I løbet af halvanden time blev flydende ilt og metan pumpet fra det ene fartøj til det andet."
+        },
+        {
+          "overskrift": "Hvorfor det er svært",
+          "tekst": "I vægtløs tilstand flyder brændstof ikke nedad. Det klumper sig sammen og danner bobler. SpaceX brugte små styreraketter til at presse væsken mod bunden af tanken, så pumperne kunne få fat i den."
+        },
+        {
+          "overskrift": "Næste skridt",
+          "tekst": "En rejse til Månen kræver **op mod otte tankninger** i kredsløb. Først derefter kan et Starship-fartøj lande med astronauter på månens sydpol som en del af NASAs Artemis-program."
+        }
+      ],
+      "noegletal": [
+        { "tal": "350 km", "label": "højde over Jorden" },
+        { "tal": "8", "label": "tankninger kræves til en måntur" }
+      ],
+      "detaljer": [
+        "Første gang kryogent brændstof er overført mellem to fartøjer i kredsløb.",
+        "Sammenkoblingen tog 41 minutter.",
+        "NASA har finansieret demonstrationen som del af Artemis-kontrakten.",
+        "Begge fartøjer landede kontrolleret i Det Indiske Ocean."
+      ],
+      "betydning": "Uden tankning i kredsløb er bemandede ture til Månen og Mars i praksis umulige. Denne test rykker tidsplanen for Artemis tættere på.",
+      "pointer": [
+        "Brændstof overført mellem to Starships",
+        "Sværeste tekniske forhindring på Artemis-programmet",
+        "Otte tankninger kræves til én måntur"
+      ],
+      "prio": 9,
+      "kat_rum": true
+    },
+    {
+      "titel": "ESA's Ariane 6 launches Galileo replacement satellites",
+      "link": "https://example.com/ariane6-galileo",
+      "resume": "Europe's heavy launcher delivered four navigation satellites to medium Earth orbit.",
+      "dato": "2026-07-25T14:22:00+00:00",
+      "kilde": "ESA",
+      "kategori": "Satellitter",
+      "rubrik": "Ariane 6 sendte fire nye Galileo-satellitter op",
+      "resume_da": "Europas store raket opsendte fire navigationssatellitter. De erstatter de ældste enheder i Galileo-systemet.",
+      "sektioner": [
+        {
+          "overskrift": "Opsendelsen",
+          "tekst": "Ariane 6 lettede fra Kourou i Fransk Guyana og satte fire Galileo-satellitter af i **23.222 kilometers højde**. Hele flyvningen tog knap fire timer."
+        },
+        {
+          "overskrift": "Hvorfor Galileo betyder noget",
+          "tekst": "Galileo er Europas eget GPS-alternativ. Systemet bruges af **over tre milliarder enheder** verden over — fra telefoner til landbrugsmaskiner — og gør Europa uafhængig af det amerikanske militærs GPS."
+        },
+        {
+          "overskrift": "Ariane 6 finder rytmen",
+          "tekst": "Det var årets femte Ariane 6-flyvning. ESA sigter mod ni til tolv opsendelser om året for at rydde den kø af europæiske missioner, der hobede sig op, da Ariane 5 blev pensioneret."
+        }
+      ],
+      "noegletal": [
+        { "tal": "23.222 km", "label": "satellitternes banehøjde" },
+        { "tal": "3 mia.", "label": "enheder bruger Galileo" }
+      ],
+      "detaljer": [
+        "Femte Ariane 6-opsendelse i 2026.",
+        "De fire satellitter erstatter enheder opsendt i 2014.",
+        "Galileo har nu 30 aktive satellitter i kredsløb.",
+        "Næste Ariane 6-flyvning er planlagt til september."
+      ],
+      "betydning": "Din telefons position bliver mere præcis, og Europa bliver mindre afhængig af amerikansk infrastruktur i en tid med skiftende alliancer.",
+      "pointer": [
+        "Fire nye navigationssatellitter i kredsløb",
+        "Erstatter de ældste Galileo-enheder",
+        "Ariane 6 er oppe på fem flyvninger i år"
+      ],
+      "prio": 7,
+      "kat_rum": true
+    },
+    {
+      "titel": "James Webb finds water vapour on a temperate super-Earth",
+      "link": "https://example.com/webb-superearth",
+      "resume": "Spectroscopy reveals a thick atmosphere on a planet 48 light-years away.",
+      "dato": "2026-07-25T09:40:00+00:00",
+      "kilde": "NASA",
+      "kategori": "Astronomi",
+      "rubrik": "Webb fandt vanddamp på en tempereret exoplanet",
+      "resume_da": "Rumteleskopet James Webb har målt vanddamp i atmosfæren omkring en planet 48 lysår væk. Temperaturen kan tillade flydende vand.",
+      "sektioner": [
+        {
+          "overskrift": "Fundet",
+          "tekst": "Da planeten passerede foran sin stjerne, filtrerede stjernelyset gennem dens atmosfære. Webb målte, hvilke bølgelængder der forsvandt — og signaturen for **vanddamp** var tydelig."
+        },
+        {
+          "overskrift": "En 'super-Jord'",
+          "tekst": "Planeten er **1,9 gange så stor som Jorden** og kredser om en rød dværgstjerne. Overfladetemperaturen anslås til mellem 0 og 40 grader, altså inden for det interval, hvor vand kan være flydende."
+        },
+        {
+          "overskrift": "Vær forsigtig med begejstringen",
+          "tekst": "Vanddamp er ikke det samme som liv, og ikke engang det samme som hav. Forskerne understreger, at der skal **mange flere observationer** til, før man kan sige noget om overfladen."
+        }
+      ],
+      "noegletal": [
+        { "tal": "48 lysår", "label": "afstand til planeten" },
+        { "tal": "1,9x", "label": "Jordens diameter" }
+      ],
+      "detaljer": [
+        "Observationerne brugte Webbs NIRSpec-instrument.",
+        "Planeten kredser om sin stjerne på 34 dage.",
+        "Der blev også fundet spor af kuldioxid.",
+        "Opfølgende observationer er planlagt til efteråret 2026."
+      ],
+      "betydning": "Hver gang vi finder vand et nyt sted, bliver spørgsmålet om liv uden for Jorden en smule mindre teoretisk.",
+      "pointer": [
+        "Vanddamp målt i atmosfæren",
+        "Temperatur kan tillade flydende vand",
+        "Ingen beviser for liv — kun for vand"
+      ],
+      "prio": 8,
+      "kat_rum": true
+    },
+    {
+      "titel": "China's Tianwen-3 begins Mars sample return cruise",
+      "link": "https://example.com/tianwen3",
+      "resume": "The mission aims to bring Martian soil back to Earth by 2031.",
+      "dato": "2026-07-24T05:00:00+00:00",
+      "kilde": "CNSA",
+      "kategori": "Missioner",
+      "rubrik": "Kina er på vej til Mars efter jordprøver",
+      "resume_da": "Tianwen-3 er sendt af sted mod Mars. Missionen skal hente jordprøver hjem til Jorden i 2031.",
+      "sektioner": [
+        {
+          "overskrift": "Missionen",
+          "tekst": "To raketter har sendt henholdsvis en lander og et returfartøj mod Mars. Landeren skal grave prøver op, skyde dem i kredsløb om Mars, og returfartøjet fanger dem og flyver hjem."
+        },
+        {
+          "overskrift": "Tidsplanen",
+          "tekst": "Landing forventes i **2027**, og prøverne skal være på Jorden i **2031**. Det ville gøre Kina til det første land, der bringer materiale hjem fra en anden planet."
+        },
+        {
+          "overskrift": "Kapløbet",
+          "tekst": "NASA og ESA har arbejdet på en tilsvarende mission i årevis, men budgetproblemer har skubbet den til efter 2033. Kina kan altså nå først."
+        }
+      ],
+      "noegletal": [
+        { "tal": "2031", "label": "prøver ventes hjem" },
+        { "tal": "500 g", "label": "planlagt prøvemængde" }
+      ],
+      "detaljer": [
+        "To Lang March 5-raketter opsendte missionen med tre dages mellemrum.",
+        "Landingsstedet er valgt for mulige spor af tidligere vand.",
+        "Prøverne skal opbevares i et forseglet kammer under hele hjemturen.",
+        "NASA's konkurrerende mission er udskudt til efter 2033."
+      ],
+      "betydning": "Materiale fra Mars analyseret i laboratorier på Jorden kan afgøre, om planeten nogensinde har haft liv — noget ingen rover kan svare på alene.",
+      "pointer": [
+        "Kina jagter første Mars-prøver hjem",
+        "Landing i 2027, hjemkomst i 2031",
+        "NASAs tilsvarende mission er udskudt"
+      ],
+      "prio": 8,
+      "kat_rum": true
+    },
+    {
+      "titel": "Starlink competitor completes first shell of 300 satellites",
+      "link": "https://example.com/kuiper-shell",
+      "resume": "Broadband service opens for beta customers in Europe.",
+      "dato": "2026-07-23T11:15:00+00:00",
+      "kilde": "SpaceNews",
+      "kategori": "Satellitter",
+      "rubrik": "Ny bredbåndskonstellation åbner i Europa",
+      "resume_da": "En Starlink-konkurrent har 300 satellitter i kredsløb og lukker de første europæiske kunder ind.",
+      "sektioner": [
+        {
+          "overskrift": "Konstellationen er på plads",
+          "tekst": "Efter to års opsendelser er **300 satellitter** nu i drift i 630 kilometers højde. Det er nok til at dække Europa og Nordamerika med et signal, der næsten aldrig falder ud."
+        },
+        {
+          "overskrift": "Hvad det koster",
+          "tekst": "Betakunder betaler cirka **450 kroner om måneden** plus en antenne. Hastigheden ligger på 150-250 megabit i sekundet — på niveau med almindeligt fiberbredbånd."
+        },
+        {
+          "overskrift": "Trængsel i kredsløb",
+          "tekst": "Med Starlinks over 8.000 satellitter og flere kinesiske konstellationer på vej bliver lav kredsløb tættere befolket. Astronomer og myndigheder advarer om kollisionsrisiko og lysforurening."
+        }
+      ],
+      "noegletal": [
+        { "tal": "300", "label": "satellitter i drift" },
+        { "tal": "450 kr./md.", "label": "betapris" }
+      ],
+      "detaljer": [
+        "Satellitterne kredser i 630 kilometers højde.",
+        "Betaprogrammet åbner først i Norden og Storbritannien.",
+        "Antennen koster cirka 3.000 kroner engangsbeløb.",
+        "Fuld konstellation skal nå 3.200 satellitter."
+      ],
+      "betydning": "Konkurrence på satellitbredbånd kan sænke priserne for dig, der bor uden for fibernettets rækkevidde.",
+      "pointer": [
+        "300 satellitter i drift",
+        "Beta åbner i Norden",
+        "Konkurrence til Starlink på pris"
+      ],
+      "prio": 6,
+      "kat_rum": true
+    },
+    {
+      "titel": "ISS deorbit vehicle passes critical design review",
+      "link": "https://example.com/iss-deorbit",
+      "resume": "NASA clears the spacecraft that will bring the station down in 2031.",
+      "dato": "2026-07-22T16:30:00+00:00",
+      "kilde": "NASA",
+      "kategori": "Missioner",
+      "rubrik": "Fartøjet, der skal skrotte ISS, er godkendt",
+      "resume_da": "NASA har godkendt designet af det fartøj, der i 2031 skal styre rumstationen ned i Stillehavet.",
+      "sektioner": [
+        {
+          "overskrift": "Hvorfor stationen skal ned",
+          "tekst": "Den Internationale Rumstation har været bemandet siden **2000**. Metaltræthed og aldrende systemer gør, at den ikke kan flyve sikkert efter 2030."
+        },
+        {
+          "overskrift": "Sådan foregår det",
+          "tekst": "Et specialbygget fartøj kobles på stationen og bremser den, så den brænder op over et **ubeboet område i Stillehavet** kendt som Point Nemo. De stumper, der overlever, lander i havet."
+        },
+        {
+          "overskrift": "Hvad kommer efter",
+          "tekst": "Flere private virksomheder bygger kommercielle rumstationer, som NASA vil leje sig ind på. Ingen af dem er endnu opsendt, og tidsplanerne er stramme."
+        }
+      ],
+      "noegletal": [
+        { "tal": "2031", "label": "året ISS bringes ned" },
+        { "tal": "420 ton", "label": "stationens masse" }
+      ],
+      "detaljer": [
+        "Fartøjet bygges af SpaceX under en kontrakt på 843 mio. dollar.",
+        "ISS har været kontinuerligt bemandet i over 25 år.",
+        "Point Nemo er det punkt på Jorden længst fra land.",
+        "Mindst tre private stationer er under udvikling."
+      ],
+      "betydning": "Slutningen på ISS markerer overgangen fra statslige til private rumstationer — og dermed hvem der bestemmer, hvad der forskes i deroppe.",
+      "pointer": [
+        "ISS bringes ned i 2031",
+        "SpaceX bygger nedbringningsfartøjet",
+        "Private stationer skal overtage"
+      ],
+      "prio": 7,
+      "kat_rum": true
+    },
+    {
+      "titel": "Solar storm forces satellite operators to raise orbits",
+      "link": "https://example.com/solar-storm",
+      "resume": "A G4-class geomagnetic storm increased atmospheric drag in low Earth orbit.",
+      "dato": "2026-07-21T20:05:00+00:00",
+      "kilde": "NOAA",
+      "kategori": "Rumvejr",
+      "rubrik": "Solstorm tvang satellitter til at hæve banen",
+      "resume_da": "En kraftig solstorm fik atmosfæren til at udvide sig, så satellitter bremsede og måtte løftes højere op.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad der skete",
+          "tekst": "Et udbrud fra Solen ramte Jorden og varmede den øvre atmosfære op. Luften udvidede sig opad, og satellitter i lav bane mødte pludselig **mere modstand end normalt**."
+        },
+        {
+          "overskrift": "Konsekvenserne",
+          "tekst": "Operatører brugte brændstof på at hæve baner. Nordlys var synlige helt ned til Nordtyskland, og enkelte GPS-modtagere gav upræcise positioner i timevis."
+        },
+        {
+          "overskrift": "Solen er aktiv",
+          "tekst": "Vi befinder os nær toppen af Solens **11-årige cyklus**. Flere storme af denne styrke må forventes de kommende år."
+        }
+      ],
+      "noegletal": [
+        { "tal": "G4", "label": "stormens styrke (skala 1-5)" },
+        { "tal": "11 år", "label": "Solens aktivitetscyklus" }
+      ],
+      "detaljer": [
+        "Stormen var den kraftigste siden maj 2024.",
+        "Nordlys blev rapporteret så langt sydpå som Nordtyskland.",
+        "Flere satellitoperatører udskød planlagte manøvrer.",
+        "Ingen permanente skader er rapporteret."
+      ],
+      "betydning": "Solstorme kan forstyrre GPS, radiokommunikation og i sjældne tilfælde elnet — teknologi du bruger uden at tænke over det.",
+      "pointer": [
+        "G4-storm ramte Jorden",
+        "Satellitter måtte hæve deres baner",
+        "Flere storme ventes de kommende år"
+      ],
+      "prio": 5,
+      "kat_rum": true
+    },
+    {
+      "titel": "Rocket Lab Neutron reaches the pad for first static fire",
+      "link": "https://example.com/neutron-static-fire",
+      "resume": "The medium-lift reusable rocket is nearing its debut flight.",
+      "dato": "2026-07-20T08:45:00+00:00",
+      "kilde": "Rocket Lab",
+      "kategori": "Opsendelser",
+      "rubrik": "Ny genbrugsraket klar til første motortest",
+      "resume_da": "Rocket Labs Neutron-raket står nu på rampen. Første motortest skal bane vejen for jomfruflyvningen.",
+      "sektioner": [
+        {
+          "overskrift": "Raketten",
+          "tekst": "Neutron kan løfte **13 ton** i lav bane og er bygget til at lande og flyve igen. Den sigter mod markedet mellem små raketter og Falcon 9."
+        },
+        {
+          "overskrift": "Testen",
+          "tekst": "Ved en statisk affyring tændes motorerne, mens raketten er boltet fast. Det viser, om brændstofsystem og styring fungerer, uden at raketten forlader rampen."
+        },
+        {
+          "overskrift": "Konkurrencen",
+          "tekst": "SpaceX har haft næsten monopol på genbrugelige raketter i årevis. Neutron er et af de første seriøse alternativer, der reelt nærmer sig opsendelse."
+        }
+      ],
+      "noegletal": [
+        { "tal": "13 ton", "label": "nyttelast til lav bane" }
+      ],
+      "detaljer": [
+        "Raketten bruger ni Archimedes-motorer i første trin.",
+        "Første trin skal lande på en platform til havs.",
+        "Opsendelsesstedet er Wallops Island i Virginia.",
+        "Jomfruflyvningen ventes tidligst i slutningen af 2026."
+      ],
+      "betydning": "Flere genbrugelige raketter betyder billigere adgang til rummet — og mindre afhængighed af én enkelt virksomhed.",
+      "pointer": [
+        "Neutron står på rampen",
+        "Genbrugelig medium-raket",
+        "Første reelle Falcon 9-konkurrent"
+      ],
+      "prio": 6,
+      "kat_rum": true
+    }
+  ]
+}
