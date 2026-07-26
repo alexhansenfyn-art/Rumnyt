@@ -43,7 +43,7 @@ KILDER = [
     ("ESA",             "https://www.esa.int/rssfeed/Our_Activities/Space_Science"),
     ("SpaceNews",       "https://spacenews.com/feed/"),
     ("NASASpaceflight", "https://www.nasaspaceflight.com/feed/"),
-    ("Ars Technica",    "https://feeds.arstechnica.com/arstechnica/space"),
+    ("Space.com",       "https://www.space.com/feeds.xml"),
     ("Phys.org Rum",    "https://phys.org/rss-feed/space-news/"),
     ("Sky & Telescope", "https://skyandtelescope.org/feed/"),
 ]
