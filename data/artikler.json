@@ -1,7 +1,52 @@
 {
-  "opdateret": "2026-07-26T15:48:43.174415+00:00",
-  "antal": 36,
+  "opdateret": "2026-07-26T20:18:18.299709+00:00",
+  "antal": 48,
   "artikler": [
+    {
+      "titel": "Gamma-ray pulsations reveal extreme 3.2-millisecond pulsar 3,900 light-years away",
+      "link": "https://phys.org/news/2026-07-gamma-ray-pulsations-reveal-extreme.html",
+      "dato": "2026-07-26T18:00:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "By analyzing the data from NASA's Fermi gamma-ray space telescope, Chinese astronomers have investigated a recently identified millisecond pulsar known as PSR J0435+3233. As a result, they found that the pulsar exhibits gamma-ray pulsations. The discovery was detailed in a paper published July 17 on the pre-print server arXiv.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/gamma-ray-pulsations-d.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Millisekund-pulsar fundet 3.900 lysår væk",
+      "resume_da": "Kinesiske astronomer har opdaget, at pulsaren PSR J0435+3233 udsender gammastrålepulseringer. Den er 3.900 lysår væk og roterer på kun 3,2 millisekunder.",
+      "sektioner": [
+        {
+          "overskrift": "Nye data fra Fermi-teleskop",
+          "tekst": "Forskere fra Kina brugte data fra NASAs Fermi-gammastråleteleskop til at analysere pulsaren PSR J0435+3233. De fandt, at den udsender regelmæssige gammastrålepulser."
+        },
+        {
+          "overskrift": "Ekstremt hurtig rotation",
+          "tekst": "Pulsaren roterer en gang hver **3,2 millisekunder**. Det svarer til over 18.000 omdrejninger i minuttet. Den befinder sig **3.900 lysår** fra Jorden."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "3,2 millisekunder",
+          "label": "Rotationstid"
+        },
+        {
+          "tal": "3.900 lysår",
+          "label": "Afstand til Jorden"
+        }
+      ],
+      "detaljer": [
+        "Opdagelsen blev offentliggjort 17. juli på arXiv",
+        "Data fra Fermi-gammastråleteleskopet blev brugt",
+        "Pulsaren kaldes PSR J0435+3233"
+      ],
+      "betydning": "Opdagelsen hjælper forskere med at forstå ekstreme himmellegemer og deres stråling. Det kan også give indsigt i universets fysik.",
+      "pointer": [
+        "Pulsar roterer på 3,2 millisekunder",
+        "Afstand: 3.900 lysår",
+        "Gammastrålepulseringer opdaget",
+        "Fermi-teleskopets data analyseret"
+      ],
+      "prio": 4
+    },
     {
       "titel": "What happened to space horror movies?",
       "link": "https://www.space.com/entertainment/space-movies-shows/what-happened-to-space-horror-movies",
@@ -1454,6 +1499,457 @@
         "Behov for bedre beskyttelse"
       ],
       "prio": 6
+    },
+    {
+      "titel": "Crews Move Artemis IV Liquid Hydrogen Tank",
+      "link": "https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/",
+      "dato": "2026-07-23T15:20:19+00:00",
+      "kilde": "NASA",
+      "resume": "Crews at NASA’s Michoud Assembly Facility in New Orleans transport the 130-foot-tall Artemis IV liquid hydrogen tank out of a production cell inside the main factory building into a detached test building on a separate portion of the 829-acre site on May 15, 2026. The liquid hydrogen tank will form part of the core stage for [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/maf-20260515-cs4-lh2to451-08orig.jpg?w=2048",
+      "billede_alt": "In the foreground, a few pink flowers on a grassy field lean to the right. Behind them is a long, silver cylinder being moved by crews in bright green safety shirts and vests. The massive object is th",
+      "kategori": "Missioner",
+      "rubrik": "Artemis IV brinttank flyttet til test",
+      "resume_da": "NASA har flyttet en 130 fod høj brinttank til test. Den skal bruges til Artemis IV-missionen.",
+      "sektioner": [
+        {
+          "overskrift": "Tanken flyttes",
+          "tekst": "Den **130 fod** høje tank blev transporteret fra produktionshallen til en testbygning den **15. maj 2026**. Testbygningen ligger på samme område på Michoud-fabrikken i New Orleans."
+        },
+        {
+          "overskrift": "Brint til raketmotorer",
+          "tekst": "Brinttanken er en del af SLS-raketten. Den indeholder tusindvis af liter superkoldt brændstof til en af raketmotorerne. Artemis IV-missionen skal bringe astronauter til månen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "130 fod",
+          "label": "tankens højde"
+        },
+        {
+          "tal": "829 acres",
+          "label": "fabrikkens areal"
+        }
+      ],
+      "detaljer": [
+        "Tanken er lavet til Artemis IV-missionen.",
+        "Den blev flyttet den 15. maj 2026.",
+        "Flytningen foregik på NASA's Michoud-fabrik."
+      ],
+      "betydning": "Artemis-programmet skal sende mennesker til Månen igen, og denne tank er en vigtig del af raketten.",
+      "pointer": [
+        "Brinttank flyttet til test i New Orleans",
+        "Artemis IV-raket får superkoldt brændstof",
+        "NASA forbereder næste måneopsendelse"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Will Bruey on rethinking the role of pharmaceuticals in low Earth orbit",
+      "link": "https://spacenews.com/will-bruey-on-rethinking-the-role-of-pharmaceuticals-in-low-earth-orbit/",
+      "dato": "2026-07-23T15:13:33+00:00",
+      "kilde": "SpaceNews",
+      "resume": "In this episode, David Ariosto speaks with Varda CEO Will Bruey at the Ascend conference. They discuss how Varda hopes to play a role bridging medicine and low Earth orbit [&#8230;] The post Will Bruey on rethinking the role of pharmaceuticals in low Earth orbit appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/space-minds-podcast-varda-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Lægemidler i rummet: Varda vil revolutionere produktion",
+      "resume_da": "Varda Space Industries CEO Will Bruey taler om, hvordan rummet kan bruges til at fremstille bedre lægemidler.",
+      "sektioner": [
+        {
+          "overskrift": "Rummet som medicinlab",
+          "tekst": "Varda Space Industries vil bruge mikrotyngdekraft i lavt jordkredsløb til at fremstille lægemidler. I rummet kan molekyler danne mere rene krystaller, hvilket kan føre til mere effektive medikamenter."
+        },
+        {
+          "overskrift": "Første missioner på vej",
+          "tekst": "Virksomheden planlægger at sende sin første produktionskapsel til Den Internationale Rumstation. Målet er at teste teknologi og vise, at medicin kan produceres kommercielt i rummet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Varda CEO talte på Ascend-konferencen.",
+        "Virksomheden fokuserer på at bygge bro mellem medicin og lavt jordkredsløb."
+      ],
+      "betydning": "Hvis Varda lykkes, kan det føre til billigere og bedre medicin til gavn for patienter på Jorden.",
+      "pointer": [
+        "Rummet kan forbedre medicinproduktion",
+        "Varda tester teknologi på ISS",
+        "Kommerciel rummedicin på vej"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "'Star Trek: Strange New Worlds'' season 4 opener is a pulpy sci-fi joy packed with dinosaurs, martians, and a 5th planet where the asteroid belt should be",
+      "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-4-opener-is-a-pulpy-sci-fi-joy-built-on-some-fun-scientific-what-ifs",
+      "dato": "2026-07-23T13:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "Dinosaurs, Martians, and the fate of the human race? This could be more than your standard day at the office for the Enterprise crew.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/6PzAee78EWCeeCtbZi7PZQ-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Star Trek-anmeldelse: Sæson 4 åbner med dinosaurer",
+      "resume_da": "Artiklen er en anmeldelse af Star Trek: Strange New Worlds sæson 4-premiere, skrevet af en sci-fi-journalist med baggrund i SFX.",
+      "sektioner": [
+        {
+          "overskrift": "Journalistens baggrund",
+          "tekst": "Artiklens forfatter har elsket sci-fi siden barndommen, hvor han så Star Wars som fireårig. Han har en universitetsgrad i fysik og har arbejdet som redaktør på SFX i **12 år**."
+        },
+        {
+          "overskrift": "Anmeldelsens indhold",
+          "tekst": "Premieren beskrives som en pulpy sci-fi-glæde med dinosaurer og marsboere. Historien foregår på en femte planet, hvor asteroidebæltet burde være."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Forfatteren så Star Wars som fireårig",
+        "Han har en fysikgrad fra universitetet",
+        "Han var redaktør på SFX i 12 år",
+        "Han har mødt fem Doctor Who'er, to Starfleet-kaptajner og en Luke Skywalker"
+      ],
+      "betydning": "For danske seere giver anmeldelsen et indblik i, hvad de kan forvente af den nye sæson af et populært sci-fi-show.",
+      "pointer": [
+        "Anmeldelse af Star Trek: Strange New Worlds sæson 4",
+        "Premieren indeholder dinosaurer og marsboere",
+        "Handlingen foregår på en mystisk femte planet",
+        "Forfatteren har lang erfaring med sci-fi"
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "Airbus space business takes advantage of growing demand for satellite systems",
+      "link": "https://spacenews.com/airbus-space-business-takes-advantage-of-growing-demand-for-satellite-systems/",
+      "dato": "2026-07-23T11:55:22+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Airbus executives say the turnaround in the company’s space business came just in time to tap growing demand, particularly from Europe, for space capabilities as it pursues a joint venture. The post Airbus space business takes advantage of growing demand for satellite systems appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/aeolus2.jpeg?fit=1024%2C724&amp;ssl=1",
+      "billede_alt": "Aeolus-2",
+      "kategori": "Politik & penge",
+      "rubrik": "Airbus rumdivision høster fordele af stor efterspørgsel",
+      "resume_da": "Airbus' rumdivision oplever stor vækst drevet af Europas stigende behov for satellitsystemer.",
+      "sektioner": [
+        {
+          "overskrift": "Stigende efterspørgsel fra Europa",
+          "tekst": "Airbus' rumdivision har vendt udviklingen og oplever nu stor efterspørgsel, især fra Europa. Virksomheden arbejder på et joint venture for at udnytte væksten."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Airbus rumdivision er vendt til vækst",
+        "Efterspørgslen kommer især fra Europa",
+        "Airbus forfølger et joint venture"
+      ],
+      "betydning": "Historien viser, at Europas investeringer i rumfart betaler sig, hvilket kan føre til flere danske job og teknologisk udvikling.",
+      "pointer": [
+        "Airbus' rumdivision oplever vækst",
+        "Efterspørgslen kommer især fra Europa",
+        "Joint venture er på vej"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "JWST captures rare glimpse of early black hole growing inside network of young galaxies",
+      "link": "https://phys.org/news/2026-07-jwst-captures-rare-glimpse-early.html",
+      "dato": "2026-07-23T11:40:02+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Astronomers using the James Webb Space Telescope have captured one of the clearest views yet of how an early supermassive black hole may grow within a network of young galaxies. The compact active galaxy, seen just a billion years after the Big Bang, lies beside a 12,000-parsec-long filament containing multiple galaxies that are expected to merge within a few hundred million years.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/jwst-captures-a-rare-g.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "JWST ser tidligt sort hul vokse i galakse-netværk",
+      "resume_da": "James Webb-teleskopet har fanget et sjældent syn af et supermassivt sort hul, der vokser i et netværk af unge galakser kun én milliard år efter Big Bang.",
+      "sektioner": [
+        {
+          "overskrift": "Det sjældne syn",
+          "tekst": "Astronomer har brugt James Webb-rumteleskopet til at se et supermassivt sort hul i en tidlig fase af vækst. Det kompakte aktive sort hul blev set, som det så ud for omkring **12,8 milliarder år siden**."
+        },
+        {
+          "overskrift": "Galakse-netværket",
+          "tekst": "Det sorte hul ligger ved siden af en **12.000 parsec** lang filament eller tråd, som indeholder flere unge galakser. Disse galakser forventes at smelte sammen inden for et par hundrede millioner år."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12.000 parsec",
+          "label": "længde af filament"
+        },
+        {
+          "tal": "én milliard år",
+          "label": "alder af universet dengang"
+        }
+      ],
+      "detaljer": [
+        "Observationen viser et kompakt, aktivt supermassivt sort hul.",
+        "Det sorte hul ses i et netværk af galakser, der forventes at smelte sammen.",
+        "Filamentet er 12.000 parsec langt (ca. 39.000 lysår)."
+      ],
+      "betydning": "Det giver ny viden om, hvordan de første supermassive sorte huller voksede sig store i det tidlige univers - en proces, der har betydning for forståelsen af galaksedannelse.",
+      "pointer": [
+        "JWST har set et tidligt sort hul i vækst.",
+        "Det ligger i et netværk af galakser.",
+        "Galakserne smelter sammen om få hundrede millioner år.",
+        "Synet er sjældent og klart."
+      ],
+      "prio": 8
+    },
+    {
+      "titel": "Starship Flight 13 achieves new firsts for SpaceX",
+      "link": "https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/",
+      "dato": "2026-07-23T05:01:59+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "On the third attempt of Starship Flight 13, Booster 20 and Ship 40 lifted off&#8230; The post Starship Flight 13 achieves new firsts for SpaceX appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/NSF-2026-07-25-02-56-35-223.jpg",
+      "billede_alt": "",
+      "kategori": "Opsendelser",
+      "rubrik": "SpaceX Starship flyvning 13 nåede nye milepæle",
+      "resume_da": "Starship Flight 13 opsendtes 24. juli efter to afbrydelser. Boosteren havarerede ved landing, men rumskibet gennemførte alle mål, herunder udsætning af 20 Starlink-satellitter.",
+      "sektioner": [
+        {
+          "overskrift": "Opsendelse og afbrydelser",
+          "tekst": "Første forsøg 16. juli blev afbrudt ved T-minus 0, fordi kun **29** af **33** motorer tændte. Årsagen var fugt i seks raptor-motorer, som gav lav iltturbopumpetryk. Alle seks blev skiftet. Andet forsøg 23 juli blev aflyst på grund af vejret. Tredje forsøg 24. juli lykkedes med alle **33** motorer tændte."
+        },
+        {
+          "overskrift": "Boosterens landing mislykkedes",
+          "tekst": "Booster 20 udførte boostback-forbrænding perfekt, men under landing tændte først **10** raptorer, så **8** og til sidst **5**. Den ramte vandet for hårdt og sprængtes. Dette var anden gang i træk, at en booster havarerede."
+        },
+        {
+          "overskrift": "Rumskibet fløj perfekt",
+          "tekst": "Ship 40 opnåede alle mål: det udsatte **20** Starlink-satellitter, genantændte en raptor-motor i rummet og splashdownede præcist. Efter landing flød det på vandet i stedet for at eksplodere, hvilket gav ekstra data om varmeskjoldet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "33",
+          "label": "motorers antal på Booster 20"
+        },
+        {
+          "tal": "20",
+          "label": "Starlink-satellitter udsat"
+        },
+        {
+          "tal": "5:51 p.m. CDT",
+          "label": "opsendelsestid 24. juli"
+        }
+      ],
+      "detaljer": [
+        "Første gang en fuld Starship-stak foretog en tændingsabort ved T-0.",
+        "Efter aborten blev motor E4, E5, E6, E12 og E13 udskiftet.",
+        "Vejr var et stort problem for andet forsøg, som blev aflyst timer før.",
+        "Ship 40 gav udvidede billeder af varmeskjold, fordi det ikke eksploderede efter landing."
+      ],
+      "betydning": "Missionen viser, at Starship kan udsætte satellitter og genantænde motorer i rummet, hvilket er afgørende for fremtidige måne- og Mars-missioner. For almindelige danskere betyder det billigere og hyppigere internet via Starlink og lavere priser på rumfart.",
+      "pointer": [
+        "33 motorer tændte ved liftoff",
+        "20 Starlink-satellitter sat i kredsløb",
+        "Raptor genantændelse i rummet",
+        "Booster havarerede ved landing"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Soyuz MS-29 crew arrives at ISS, U.S. EVA completes Canadarm2 repairs",
+      "link": "https://www.nasaspaceflight.com/2026/07/iss-roundup-072226/",
+      "dato": "2026-07-22T22:59:06+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "The International Space Station’s (ISS) crew grew by three members with the arrival of the&#8230; The post Soyuz MS-29 crew arrives at ISS, U.S. EVA completes Canadarm2 repairs appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/IMG_5280.jpeg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Ny besætning ankommer til ISS efter Canadarm2-reparation",
+      "resume_da": "Soyuz MS-29 bragte tre astronauter til ISS den 14. juli, mens en rumvandring tidligere reparerede robotarmen Canadarm2.",
+      "sektioner": [
+        {
+          "overskrift": "Canadarm2 repareret",
+          "tekst": "Den 30. juni udførte NASA-astronauterne Jessica Meir og Chris Williams en **7 timer og 20 minutter** lang rumvandring. De udskiftede robotarmen Canadarm2's håndledsled, som havde fungeret fejlagtigt siden **27. maj**. Det var den **280. rumvandring** til støtte for ISS."
+        },
+        {
+          "overskrift": "Soyuz MS-29 ankommer",
+          "tekst": "Soyuz MS-29 blev sendt op den **14. juli** fra Bajkonur i Kasakhstan. Ombord var kosmonauterne Pyotr Dubrov og Anna Kikina samt NASA-astronaut Anil Menon. Efter en **3 timer og 5 minutter** lang rejse lagde de til ved stationen."
+        },
+        {
+          "overskrift": "Videnskab om bord",
+          "tekst": "Astronauter arbejder på flere eksperimenter, blandt andet om bakteriers resistens mod antibiotika i vægtløs tilstand. Den **25. juni** sekventerede Jack Hathaway mikrobiologisk DNA. Den **6. juli** behandlede Meir og Hathaway bruskceller i et laboratorium om bord."
+        },
+        {
+          "overskrift": "Fremtiden efter ISS",
+          "tekst": "NASA planlægger at udfase ISS omkring **2030** og er i gang med at finde kommercielle alternativer. Den **6. juli** offentliggjorde de et udkast til en anmodning om forslag. Virksomheder som Axiom Space, Starlab Space, Blue Origin og Vast er blandt kandidaterne."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "7 timer 20 min",
+          "label": "Varighed af rumvandring"
+        },
+        {
+          "tal": "3 timer 5 min",
+          "label": "Rejsetid for Soyuz MS-29"
+        },
+        {
+          "tal": "2030",
+          "label": "Forventet nedlukning af ISS"
+        }
+      ],
+      "detaljer": [
+        "Rumvandring U.S. EVA 95 fandt sted den 30. juni.",
+        "Soyuz MS-29 lagde til ved Prichal-modulet kl. 17:52 UTC.",
+        "Ekspedition 75 begynder i slutningen af juli.",
+        "Crew-13 forventes at lette i september 2026."
+      ],
+      "betydning": "ISS er et vigtigt laboratorium for forskning, der kan gavne både astronauter og patienter på Jorden. Samtidig viser overgangen til kommercielle stationer, at rumfart bliver mere tilgængeligt for private virksomheder.",
+      "pointer": [
+        "Canadarm2 er repareret efter en fejl i maj.",
+        "Tre nye astronauter er ankommet til ISS.",
+        "Forskning på ISS kan forbedre medicin på Jorden.",
+        "NASA arbejder på at erstatte ISS med kommercielle stationer."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "China’s Shijian-31 satellite is sweeping GEO using a unique orbit",
+      "link": "https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/",
+      "dato": "2026-07-22T21:13:08+00:00",
+      "kilde": "SpaceNews",
+      "resume": "HELSINKI — A classified satellite launched by China in June is operating in a creative orbit, giving it a unique vantage point over the geostationary belt. Shijian-31 launched on a [&#8230;] The post China’s Shijian-31 satellite is sweeping GEO using a unique orbit appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Shijian31-CZ3B-XSLC-16june2026-CASC.jpg?fit=1024%2C599&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Kinesisk satellit scanner GEO fra unik bane",
+      "resume_da": "En hemmelig kinesisk satellit, Shijian-31, bruger en kreativ bane til at overvåge geostationære satellitter.",
+      "sektioner": [
+        {
+          "overskrift": "Unik bane",
+          "tekst": "Shijian-31 blev sendt op i juni og bevæger sig i en bane, der giver den et særligt udsyn over geostationærbæltet. Banen gør det muligt for satellitten at scanne området på en ny måde."
+        },
+        {
+          "overskrift": "Klassificeret mission",
+          "tekst": "Satellitten er klassificeret, så detaljer om dens formål er hemmelige. Eksperter mener, den kan bruges til at inspicere andre satellitter eller overvåge aktiviteter i rummet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Shijian-31 er en kinesisk satellit opsendt i juni.",
+        "Den bruger en kreativ bane til at overvåge geostationærbæltet."
+      ],
+      "betydning": "Kinas evne til at overvåge rummet kan påvirke international rumfart og sikkerhed.",
+      "pointer": [
+        "Hemmelig kinesisk satellit",
+        "Unik bane giver særligt udsyn",
+        "Opsendt i juni",
+        "Kan overvåge andre satellitter"
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "FCC approves sweeping space reforms while clearing more C-band for 5G",
+      "link": "https://spacenews.com/fcc-approves-sweeping-space-reforms-while-clearing-more-c-band-for-5g/",
+      "dato": "2026-07-22T18:31:36+00:00",
+      "kilde": "SpaceNews",
+      "resume": "The FCC voted July 22 to push satellite operators out of more C-band spectrum for a 5G auction next year, while approving a licensing overhaul aimed at accelerating the commercial space economy. The post FCC approves sweeping space reforms while clearing more C-band for 5G appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/01_astra_26_H.jpg?fit=1024%2C792&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "FCC rydder spektrum til 5G og lemper regler for rumfart",
+      "resume_da": "USA's telemyndighed har godkendt at frigøre mere C-bånd til 5G og samtidig reformeret licensregler for at fremme kommerciel rumfart.",
+      "sektioner": [
+        {
+          "overskrift": "Mere 5G-spektrum",
+          "tekst": "FCC vedtog den 22. juli at rydde yderligere dele af C-båndet, så satellitoperatører skal flytte sig for at give plads til en 5G-auktion næste år. Beslutningen følger tidligere spektrumfrigivelser og skal sikre hurtigere mobilnet."
+        },
+        {
+          "overskrift": "Licensreformer for kommerciel rumfart",
+          "tekst": "Samtidig godkendte FCC en omfattende reform af licenssystemet, der skal gøre det hurtigere og billigere at få tilladelser til satellitter og andre rumaktiviteter. Målet er at fremskynde væksten i den kommercielle rumøkonomi."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "FCC stemte for at rydde mere C-båndsspektrum til 5G-auktion i 2026",
+        "Licensreformerne skal accelerere kommerciel rumfart",
+        "Afgørelsen blev truffet 22. juli"
+      ],
+      "betydning": "Bedre 5G-dækning kan komme danskere til gode, og reformer kan bane vejen for nye rumtjenester som satellit-internet.",
+      "pointer": [
+        "5G-auktion næste år",
+        "Satellitoperatører mister spektrum",
+        "Nye licensregler for rumfart",
+        "FCC vil fremme kommerciel rumøkonomi"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Rescuing satellites is harder than it looks. A growing space junk problem will make doing so more important",
+      "link": "https://phys.org/news/2026-07-satellites-harder-space-junk-problem.html",
+      "dato": "2026-07-22T17:40:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "A commercial robotic spacecraft called LINK launched on an emergency mission to save NASA's Neil Gehrels Swift Observatory, which has been slowly falling toward Earth, on July 3, 2026. Over the coming weeks, LINK, built by Katalyst Space Technologies, will try to grasp the telescope, then spend months raising it to a safer orbit.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2025/space-junk-1.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Robot redder NASAs Swift-teleskop fra rumaffald",
+      "resume_da": "En kommerciel robot er sendt op for at redde NASAs Swift-teleskop, som er faldet mod Jorden. Missionen skal vise, om det er muligt at reparere og genplacere satellitter.",
+      "sektioner": [
+        {
+          "overskrift": "Akut redningsmission",
+          "tekst": "Robotten LINK blev sendt af sted **3. juli 2026** for at redde NASAs Neil Gehrels Swift Observatory. Teleskopet har langsomt mistet højde og er på vej ned mod Jorden. LINK skal forsøge at gribe fat i teleskopet og derefter bruge flere måneder på at hæve det til en sikrere bane."
+        },
+        {
+          "overskrift": "Tekniske udfordringer",
+          "tekst": "At redde satellitter er sværere, end det ser ud. Rumaffald gør opgaven mere kompliceret, fordi der er større risiko for kollisioner. Katalyst Space Technologies, der byggede LINK, står over for en af de mest komplekse rummissioner til dato."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Redningsmissionen startede 3. juli 2026",
+        "LINK er bygget af Katalyst Space Technologies",
+        "Swift-teleskopet har mistet højde og falder mod Jorden"
+      ],
+      "betydning": "Hvis missionen lykkes, kan det bane vejen for, at vi i fremtiden kan reparere og genbruge satellitter i stedet for at skyde nye op – det sparer penge og reducerer rumaffald.",
+      "pointer": [
+        "Robotten LINK skal redde Swift-teleskopet",
+        "Swift falder langsomt mod Jorden",
+        "Missionen viser, hvor svært det er at redde satellitter",
+        "Rumaffald gør problemet værre"
+      ],
+      "prio": 8
+    },
+    {
+      "titel": "Juno takes temperature of Jupiter's fiery moon Io",
+      "link": "https://phys.org/news/2026-07-juno-temperature-jupiter-fiery-moon.html",
+      "dato": "2026-07-22T17:07:19+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "NASA's Juno mission has provided the first measurements of the temperature below the surface of Jupiter's moon Io, revealing significant heating within the shallow subsurface of the most volcanically active world in the solar system. Collected during two close flybys, the data also show that most of Io's surface is remarkably smooth and composed of material with very low density.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/juno-takes-temperature.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Juno måler temperaturer under overfladen på Jupiters måne Io",
+      "resume_da": "NASA's Juno-rumsonde har for første gang målt temperaturen under overfladen på Io, den mest vulkansk aktive måne i solsystemet. Data viser stor varme i den lave undergrund.",
+      "sektioner": [
+        {
+          "overskrift": "Første temperaturmålinger",
+          "tekst": "Juno har under to tætte forbiflyvninger målt varmen under Ios overflade. Resultaterne afslører betydelig opvarmning i den lave undergrund."
+        },
+        {
+          "overskrift": "Overfladen er glat",
+          "tekst": "Målingerne viser, at det meste af Ios overflade er bemærkelsesværdigt glat og består af materiale med meget lav tæthed."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2",
+          "label": "antal forbiflyvninger"
+        }
+      ],
+      "detaljer": [
+        "Juno er en NASA-mission",
+        "Io er den mest vulkansk aktive måne i solsystemet",
+        "Data blev indsamlet under to tætte forbiflyvninger",
+        "Overfladen er overvejende glat og lavdensitetsmateriale"
+      ],
+      "betydning": "Målingerne hjælper forskere med at forstå, hvordan vulkanisme på Io fungerer, og kan give indsigt i planetdannelse og varmetransport.",
+      "pointer": [
+        "Første temperaturmålinger under Ios overflade",
+        "Betydelig varme i den lave undergrund",
+        "Overfladen er glat og har lav tæthed"
+      ],
+      "prio": 7
     }
   ]
 }
