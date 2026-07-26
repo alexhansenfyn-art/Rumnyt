@@ -291,7 +291,9 @@ function tegn(){
   const feed = document.getElementById('feed');
 
   if (!arts.length){
-    feed.innerHTML = '<div class="empty">Ingen historier i denne kategori.</div>';
+    feed.innerHTML = state.data.length
+      ? '<div class="empty">Ingen historier i denne kategori.</div>'
+      : '<div class="empty">Rumnyt er under opbygning — de første rigtige nyheder er på vej.</div>';
     return;
   }
   feed.innerHTML = state.view === 'magasin'
@@ -330,8 +332,9 @@ fetch('data/artikler.json')
   .then(r => r.json())
   .then(j => {
     state.data = j.artikler || [];
-    document.getElementById('metaLine').textContent =
-      `${state.data.length} historier · senest opdateret ${new Date(j.opdateret).toLocaleString('da-DK', { day:'numeric', month:'long', hour:'2-digit', minute:'2-digit' })}`;
+    document.getElementById('metaLine').textContent = j.opdateret
+      ? `${state.data.length} historier · senest opdateret ${new Date(j.opdateret).toLocaleString('da-DK', { day:'numeric', month:'long', hour:'2-digit', minute:'2-digit' })}`
+      : 'Ingen nyheder indlæst endnu.';
     tegnKategorier();
     tegn();
   })
