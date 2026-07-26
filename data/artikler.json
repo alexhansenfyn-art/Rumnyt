@@ -1,5 +1,497 @@
 {
-  "opdateret": null,
-  "antal": 0,
-  "artikler": []
+  "opdateret": "2026-07-26T11:04:35.476987+00:00",
+  "antal": 12,
+  "artikler": [
+    {
+      "titel": "Rare blue optical transient points to possible new class of cosmic explosion",
+      "link": "https://phys.org/news/2026-07-rare-blue-optical-transient-class.html",
+      "dato": "2026-07-25T12:40:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Chinese astronomers report the detection of a peculiar optical transient event that occurred in the center of a dwarf galaxy. The newly discovered event, designated AT2019ijn, is a fast-rising, slow-decaying blue optical transient with exceptionally bright radio emission. The finding was detailed in a paper published July 6 in The Astrophysical Journal Letters.",
+      "kategori": "Astronomi",
+      "rubrik": "Blåt lysglimt kan være ny type kosmisk eksplosion",
+      "resume_da": "Kinesiske astronomer har opdaget et sjældent blåt lysglimt i midten af en dværggalakse. Begivenheden, AT2019ijn, har usædvanlig kraftig radioudsendelse og kan repræsentere en helt ny type eksplosion.",
+      "sektioner": [
+        {
+          "overskrift": "Opdagelse af AT2019ijn",
+          "tekst": "Astronomer har opdaget et usædvanligt optisk lysglimt i centrum af en dværggalakse. Begivenheden fik navnet AT2019ijn og er hurtigt stigende, men aftager langsomt."
+        },
+        {
+          "overskrift": "Særlige kendetegn",
+          "tekst": "AT2019ijn er en blå optisk transient med en exceptionelt lysstærk radioudsendelse. Den hurtige stigning og langsomme aftagen adskiller den fra kendte eksplosionstyper."
+        },
+        {
+          "overskrift": "Mulig ny klasse",
+          "tekst": "Forskerne mener, at AT2019ijn kan være en ny type kosmisk eksplosion. Resultaterne blev offentliggjort den **6. juli** i The Astrophysical Journal Letters."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "6. juli",
+          "label": "Offentliggørelsesdato"
+        }
+      ],
+      "detaljer": [
+        "AT2019ijn er en blå optisk transient",
+        "AT2019ijn har lysstærk radioudsendelse",
+        "Den stiger hurtigt og aftager langsomt",
+        "Fundet i centrum af en dværggalakse"
+      ],
+      "betydning": "Opdagelsen udfordrer vores forståelse af, hvilke typer eksplosioner der findes i universet. Det kan føre til ny viden om stjerners død og dannelsen af tunge grundstoffer.",
+      "pointer": [
+        "Sjældent blåt lysglimt i dværggalakse",
+        "Kraftig radioudsendelse er usædvanlig",
+        "Kan være ny type kosmisk eksplosion",
+        "Fundet af kinesiske astronomer"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "SpaceX conducts 13th Starship test flight",
+      "link": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
+      "dato": "2026-07-25T00:29:32+00:00",
+      "kilde": "SpaceNews",
+      "resume": "SpaceX launched Starship on its 13th suborbital test flight July 24, correcting some of the issues seen on the previous flight while deploying functioning satellites for the first time. The post SpaceX conducts 13th Starship test flight appeared first on SpaceNews .",
+      "kategori": "Opsendelser",
+      "rubrik": "SpaceX gennemfører 13. Starship-testflyvning",
+      "resume_da": "Starship fløj for 13. gang. Den løste nogle problemer fra sidste flyvning og sendte fungerende satellitter i rummet for første gang.",
+      "sektioner": [
+        {
+          "overskrift": "Testflyvningens formål",
+          "tekst": "SpaceX gjennemførte den 13. suborbitale testflyvning af Starship den 24. juli. Flyvningen rettede op på nogle af problemerne fra den foregående flyvning."
+        },
+        {
+          "overskrift": "Første satellitudsætning",
+          "tekst": "For første gang udsatte Starship fungerende satellitter under en testflyvning. Det viser fremskridt mod rakettenes egentlige formål."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "13. testflyvning af Starship",
+        "Fandt sted 24. juli",
+        "Suborbital flyvning"
+      ],
+      "betydning": "Starship er en af de mest kraftfulde raketter nogensinde. Testene viser, at den nærmer sig at kunne bruges til kommercielle og videnskabelige missioner.",
+      "pointer": [
+        "Starship fløj for 13. gang",
+        "Løste tidligere problemer",
+        "Udsendte fungerende satellitter",
+        "Vigtigt skridt mod fuld drift"
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "ULA deals with financial challenges caused by Vulcan grounding",
+      "link": "https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/",
+      "dato": "2026-07-24T20:18:19+00:00",
+      "kilde": "SpaceNews",
+      "resume": "United Launch Alliance’s corporate parents have guaranteed a loan to the company as it addresses “financial challenges” caused by the grounding of its Vulcan Centaur rocket. The post ULA deals with financial challenges caused by Vulcan grounding appeared first on SpaceNews .",
+      "kategori": "Politik & penge",
+      "rubrik": "ULA får lån efter Vulcan-rakets problemer",
+      "resume_da": "United Launch Alliance's ejere har garanteret et lån til at håndtere økonomiske udfordringer som følge af, at Vulcan Centaur-raketten er sat på jorden.",
+      "sektioner": [
+        {
+          "overskrift": "Økonomiske udfordringer",
+          "tekst": "ULA's ejere har stillet garanti for et lån til virksomheden. Det skal dække de økonomiske problemer, der er opstået, fordi Vulcan Centaur-raketten er sat på jorden. Lånet viser, at ULA's moderselskaber bakker op om virksomheden."
+        },
+        {
+          "overskrift": "Vulcan-raketten på jorden",
+          "tekst": "Vulcan Centaur-raketten er i øjeblikket sat på jorden. Det betyder, at ULA ikke kan sende satellitter op med den raket. Det har skabt økonomiske vanskeligheder for virksomheden."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "ULA's ejere har garanteret et lån til virksomheden",
+        "Lånet skal tackle økonomiske problemer fra Vulcan Centaur-raketten, der er sat på jorden"
+      ],
+      "betydning": "Historien viser, at selv store rumfartsvirksomheder kan få økonomiske problemer, når deres raketter har tekniske problemer. Det kan forsinke opsendelser af satellitter, som vi alle bruger til fx vejr og kommunikation.",
+      "pointer": [
+        "ULA's ejere stiller garanti for lån",
+        "Vulcan Centaur-raket er sat på jorden",
+        "Økonomiske udfordringer for ULA"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand",
+      "link": "https://www.nasaspaceflight.com/2026/07/blue-ng-gs2-hot-fires-stennis-b-2/",
+      "dato": "2026-07-24T18:01:12+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "NASA and Blue Origin have finalized plans to hot-fire test the second stage of the&#8230; The post Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand appeared first on NASASpaceFlight.com .",
+      "kategori": "Missioner",
+      "rubrik": "Blue Origin tester New Glenns andet trin på NASA-anlæg",
+      "resume_da": "Blue Origin og NASA har aftalt at teste rakettrinnet på Stennis Space Center, efter at affyringsrampen i Florida blev ødelagt i en eksplosion.",
+      "sektioner": [
+        {
+          "overskrift": "Test på Stennis-anlæg",
+          "tekst": "NASA og Blue Origin har indgået en aftale om at bruge B-2-standen på Stennis Space Center til test af andet trin på New Glenn-raketten. Testene forventes at begynde i efteråret **2026**."
+        },
+        {
+          "overskrift": "Eksplosion forsinkede planer",
+          "tekst": "Den 28. maj **2026** skete en voldsom eksplosion under en test på affyringsrampe 36 i Florida. Lynafledertårne væltede, transportøren blev ødelagt, og store dele af rampen blev beskadiget. Det tvinger Blue Origin til at finde alternative testmuligheder."
+        },
+        {
+          "overskrift": "Pegasus-pram transporterer trin",
+          "tekst": "NASA's pram Pegasus, der tidligere har transporteret rumfærge-tanke og SLS-kernetrin, vil fragte det andet trin fra Kennedy Space Center til Stennis. Prammen ankommer til Florida omkring 10.-12. august **2026**."
+        },
+        {
+          "overskrift": "B-2-standens historie",
+          "tekst": "B-2-standen blev bygget i **1960'erne** til Apollo-programmet og har testet Saturn V-trin, rumfærgekomponenter og SLS-kernetrin. Den skal nu modificeres til New Glenns andet trin, der bruger brint og ilt."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "400.000 pund",
+          "label": "thrust i vakuum"
+        },
+        {
+          "tal": "310 fod",
+          "label": "længde på Pegasus-pram"
+        },
+        {
+          "tal": "28. maj 2026",
+          "label": "dato for eksplosion"
+        }
+      ],
+      "detaljer": [
+        "Andet trin hedder GS2 og har to BE-3U-motorer.",
+        "Blue Origin vil bruge testene til at kvalificere trinnet.",
+        "NASA leverer ingeniører, udstyr og ændringer af standen.",
+        "Målet er at sende New Glenn i luften igen inden udgangen af 2026."
+      ],
+      "betydning": "Historien viser, hvordan kommercielle rumfartsselskaber som Blue Origin samarbejder med NASA for at komme videre efter uheld. Det er relevant, fordi månelandinger og fremtidige missioner til Månen er afhængige af, at raketter som New Glenn bliver testet og klar til opsendelse.",
+      "pointer": [
+        "New Glenns andet trin testes på NASA-anlæg efter rampeeksplosion.",
+        "Testene starter i efteråret 2026.",
+        "Pegasus-pram transporterer trinnet fra Florida til Mississippi.",
+        "B-2-standen har tidligere testet Saturn V og SLS."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
+      "link": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
+      "dato": "2026-07-24T17:47:06+00:00",
+      "kilde": "NASA",
+      "resume": "On July 3, one of NASA’s two Mars-destined ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft captured photos of Earth and the Moon in visible and thermal infrared light. At the time, the spacecraft was 363,250 miles (584,600 kilometers) from Earth and 115,600 miles (186,100 kilometers) from the Moon, making the Moon appear relatively […]",
+      "kategori": "Missioner",
+      "rubrik": "ESCAPADE-satellit fotograferer Jorden og Månen",
+      "resume_da": "En af NASA's to ESCAPADE-satellitter har taget billeder af Jorden og Månen i både synligt og termisk infrarødt lys.",
+      "sektioner": [
+        {
+          "overskrift": "Billederne viser kontrast",
+          "tekst": "Det synlige billede viser Jorden og Månen som halvmåner, kun **8%** belyst af Solen. I det termiske infrarøde billede ses Jorden oplyst af sin egen varme, mens Månen er langt koldere."
+        },
+        {
+          "overskrift": "Afstand og formål",
+          "tekst": "Satellitten var **584.600 km** fra Jorden og **186.100 km** fra Månen, da billederne blev taget. Billederne bruges til at kalibrere kameraerne, inden de skal studere Mars."
+        },
+        {
+          "overskrift": "Rejseplan for ESCAPADE",
+          "tekst": "Satellitterne befinder sig ved Lagrange-punkt 2. I november 2026 flyver de forbi Jorden for at få fart mod Mars, hvor de ankommer i september 2027."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "584.600 km",
+          "label": "Afstand fra Jorden"
+        },
+        {
+          "tal": "186.100 km",
+          "label": "Afstand fra Månen"
+        },
+        {
+          "tal": "8%",
+          "label": "Belyst overflade"
+        }
+      ],
+      "detaljer": [
+        "Billederne er taget 3. juli 2026",
+        "Kameraerne er bygget af Northern Arizona University",
+        "Månen er koldere pga. manglende atmosfære",
+        "Satellitterne er bygget af Rocket Lab"
+      ],
+      "betydning": "Billederne viser, hvordan rumteknologi kan bruges til at studere både Jorden og andre planeter, og de er et skridt på vejen til at forstå Mars' atmosfære.",
+      "pointer": [
+        "ESCAPADE-satellit fotograferer Jorden og Månen",
+        "Synligt og termisk infrarødt lys viser forskelle",
+        "Billederne kalibrerer kameraer til Mars-mission",
+        "Ankomst til Mars i 2027"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Rocks from unexplored far side of the moon help rewrite lunar history",
+      "link": "https://phys.org/news/2026-07-unexplored-side-moon-rewrite-lunar.html",
+      "dato": "2026-07-24T17:20:04+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Ancient samples from the moon's far side are helping scientists uncover how asteroid impacts shaped the early solar system. The findings challenge decades of thinking about when those impacts occurred and offer new insights into the conditions that influenced Earth's evolution.",
+      "kategori": "Forskning",
+      "rubrik": "Månebjergarter fra nærmest ukendt side",
+      "resume_da": "Nye prøver fra Månens bagside ændrer vores forståelse af, hvornår og hvordan asteroider påvirkede det tidlige solsystem.",
+      "sektioner": [
+        {
+          "overskrift": "Prøver fra bagsiden",
+          "tekst": "Forskere har analyseret gamle bjergarter fra Månens bagside. Resultaterne udfordrer årtiers teorier om, hvornår store asteroidenedslag fandt sted i solsystemets barndom."
+        },
+        {
+          "overskrift": "Nyt perspektiv på nedslag",
+          "tekst": "Prøverne giver indsigt i de forhold, der påvirkede Jordens udvikling. De ændrer vores billede af, hvordan asteroider formede de tidlige planeter."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [],
+      "betydning": "Ny viden om Månens historie hjælper os med at forstå Jordens egen fortid og de kræfter, der formede vores planet.",
+      "pointer": [
+        "Prøver fra Månens bagside er sjældne og værdifulde.",
+        "Resultaterne udfordrer ældre teorier om nedslag.",
+        "Ny viden kaster lys over Jordens udvikling."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "New Crew Members Welcomed to International Space Station",
+      "link": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/",
+      "dato": "2026-07-24T16:43:02+00:00",
+      "kilde": "NASA",
+      "resume": "From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a July 18, 2026, photo while holding a cake celebrating their recent arrival aboard the International Space Station. The trio arrived at the space station on July 14, 2026, after launching from the Baikonur Cosmodrome [&#8230;]",
+      "kategori": "Missioner",
+      "rubrik": "Tre nye astronauter ankommer til ISS",
+      "resume_da": "Den 14. juli 2026 ankom tre nye besætningsmedlemmer til Den Internationale Rumstation. De skal opholde sig der i otte en halv måned.",
+      "sektioner": [
+        {
+          "overskrift": "Velkomst på rumstationen",
+          "tekst": "Den 18. juli 2026 poserede de tre nye astronauter med en kage for at fejre deres ankomst. De ankom til ISS den 14. juli efter at være blevet sendt op fra Baikonur-kosmodromen i Kasakhstan samme dag."
+        },
+        {
+          "overskrift": "Missionens længde og formål",
+          "tekst": "De tre er i anden uge af deres planlagte **8,5 måneder** lange mission. De bruger deres nye færdigheder til at udføre rumforskning og vænner sig samtidig til at bo og arbejde i rummet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "8,5 måneder",
+          "label": "Missionens varighed"
+        }
+      ],
+      "detaljer": [
+        "Ankom til ISS den 14. juli 2026",
+        "Opsendt fra Baikonur-kosmodromen i Kasakhstan",
+        "Besætningen består af Anna Kikina, Pyotr Dubrov (Roscosmos) og Anil Menon (NASA)"
+      ],
+      "betydning": "Missionen viser det fortsatte internationale samarbejde om rumforskning. Forskning på ISS bidrager til ny viden, som kan gavne livet på Jorden.",
+      "pointer": [
+        "Tre astronauter ankom til ISS i juli 2026",
+        "De skal være der i 8,5 måneder",
+        "De udfører forskning og vænner sig til rummet"
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "NASA Announces New Spacecraft Technology Demonstration Mission at Moon",
+      "link": "https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/",
+      "dato": "2026-07-24T16:35:46+00:00",
+      "kilde": "NASA",
+      "resume": "NASA is working with industry to advance the next phase of cislunar infrastructure for the agency’s Artemis program and Moon Base, including orbital assets and demonstrations. Under a contract awarded to Advanced Space, the agency’s CAPSTONE 02 mission will demonstrate rendezvous and proximity operations, autonomous navigation, and cislunar communication capabilities while continuing to characteri",
+      "kategori": "Missioner",
+      "rubrik": "Ny NASA-mission skal teste måne-navigation",
+      "resume_da": "NASA har annonceret CAPSTONE 02-missionen, der i 2027 sender to små rumfartøjer til Månen for at teste navigation, møde- og kommunikationsteknologi til brug for Artemis-programmet.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad går missionen ud på",
+          "tekst": "CAPSTONE 02 sender to identiske rumfartøjer på **400 kg** hver i kredsløb om Månen. De skal demonstrere avanceret relativ navigation og evnen til at mødes og arbejde sammen i Månens gravitationsfelt."
+        },
+        {
+          "overskrift": "Teknologien der testes",
+          "tekst": "Missionen tester tre NASA-udviklede navigationssoftwarepakker og et kamera fra Lawrence Livermore National Laboratory. Systemerne skal gøre navigation mere automatisk og mindske afhængigheden af jordbaseret sporing."
+        },
+        {
+          "overskrift": "Hvorfor er det vigtigt",
+          "tekst": "Teknikkerne skal bruges, når NASA-astronauter skal dokke med månelandere i kredsløb om Månen – en kritisk del af Artemis-missionerne. Da forholdene ikke kan genskabes på Jorden, må de testes i rummet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2027",
+          "label": "Planlagt opsendelsesår"
+        },
+        {
+          "tal": "400 kg",
+          "label": "Vægt af hvert rumfartøj"
+        }
+      ],
+      "detaljer": [
+        "Rumfartøjerne leveres af Terran Orbital Systems",
+        "Missionen er en opfølgning på den oprindelige CAPSTONE-mission",
+        "CAPSTONE 02 er finansieret af NASA's Human Spaceflight Mission Directorate"
+      ],
+      "betydning": "Missionen baner vejen for sikker transport af astronauter til og fra Månens overflade, hvilket er afgørende for fremtidig månebase og dybere rumrejser.",
+      "pointer": [
+        "To små rumfartøjer testes i Månekredsløb",
+        "Fokus på automatisk møde- og navigationsteknologi",
+        "Støtter op om NASA's Artemis-program",
+        "Opsendelse planlagt til 2027"
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Why Europa's hidden ocean may be more difficult to reach than scientists thought",
+      "link": "https://phys.org/news/2026-07-europa-hidden-ocean-difficult-scientists.html",
+      "dato": "2026-07-24T16:00:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Europa, one of Jupiter's icy moons, has long fascinated scientists because of what may lie beneath its frozen shell: a global ocean of liquid water. That hidden ocean has made Europa one of the most compelling places in the solar system to study the conditions that might support life. But new research led by Rutgers scientist Lujendra Ojha suggests one of the most promising shortcuts to Europa's o",
+      "kategori": "Forskning",
+      "rubrik": "Europas skjulte ocean sværere at nå",
+      "resume_da": "Nye forskning viser, at adgangen til Europas underjordiske ocean kan være langt mere kompliceret end hidtil antaget.",
+      "sektioner": [
+        {
+          "overskrift": "Oceanet under isen",
+          "tekst": "Europa, en af Jupiters ismåner, menes at have et globalt flydende hav under sin iskolde overflade. Dette skjulte hav gør Europa til et af de mest interessante steder i solsystemet for at studere mulige betingelser for liv."
+        },
+        {
+          "overskrift": "Ny forskningsresultater",
+          "tekst": "En ny undersøgelse ledet af forskeren Lujendra Ojha fra Rutgers viser, at en af de mest lovende genveje til Europas hav måske er langt mere kompliceret end tidligere antaget. Resultaterne har betydning for fremtidige missioner til månen."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [],
+      "betydning": "Forskningen understreger, at det kan være sværere end forventet at udforske Europas hav, hvilket påvirker planerne om at søge efter liv i vores solsystem.",
+      "pointer": [
+        "Europa har et globalt hav under isen",
+        "Ny forskning peger på adgangsproblemer",
+        "Forskning ledet af Lujendra Ojha"
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Io's volcanic output offers a 40‑day forecast of plasma density in Jupiter's magnetosphere",
+      "link": "https://phys.org/news/2026-07-io-volcanic-output-40day-plasma.html",
+      "dato": "2026-07-24T15:40:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "A careful statistical comparison of observations recorded by NASA's Juno mission and the Planetary Science Institute's Io Input Output observatory (IoIO) shows that IoIO observations reliably predict the density of Jupiter's plasma disk, an important part of Jupiter's magnetosphere, according to a new Geophysical Research Letters paper co-authored by Planetary Science Institute Senior Scientist Je",
+      "kategori": "Forskning",
+      "rubrik": "Ios vulkaner forudsiger plasma omkring Jupiter",
+      "resume_da": "Forskere har opdaget, at observationer af Ios vulkanudbrud kan forudsige plasmatætheden i Jupiters magnetosfære 40 dage i forvejen.",
+      "sektioner": [
+        {
+          "overskrift": "Sammenhæng mellem Io og Jupiter",
+          "tekst": "Ved at sammenligne data fra NASAs Juno-mission og observatoriet IoIO fandt forskerne en klar sammenhæng. Observationer af Ios vulkanudbrud kan forudsige plasmatætheden i Jupiters magnetosfære med **40** dages varsel."
+        },
+        {
+          "overskrift": "Metode og resultater",
+          "tekst": "Forskerne brugte statistik til at sammenligne observationer fra Juno og IoIO. Resultatet viser, at IoIOs observationer er en pålidelig indikator for tætheden af Jupiters plasma-disk."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "40 dage",
+          "label": "Forudsigelsestid"
+        }
+      ],
+      "detaljer": [
+        "Studiet er publiceret i Geophysical Research Letters",
+        "Jeff Morgenthaler fra Planetary Science Institute er medforfatter",
+        "Jian-Zhao Wang fra University of Colorado Boulder er hovedforfatter"
+      ],
+      "betydning": "Forståelse af Jupiters magnetosfære kan hjælpe os med at beskytte rumfartøjer mod skadelig stråling og give indsigt i planeternes dynamik.",
+      "pointer": [
+        "Ios vulkanudbrud påvirker Jupiters magnetosfære",
+        "40 dages forudsigelse af plasmatæthed er mulig",
+        "Data fra Juno og IoIO blev sammenlignet",
+        "Studiet forbedrer forståelsen af Jupiters rummiljø"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis",
+      "link": "https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/",
+      "dato": "2026-07-24T15:30:21+00:00",
+      "kilde": "NASA",
+      "resume": "NASA and Blue Origin announced Friday they recently agreed to conduct second stage hot fire testing for the company’s New Glenn rocket on the B-2 test stand at the agency’s Stennis Space Center near Bay St. Louis, Mississippi. The annex to a reimbursable Space Act Agreement signed earlier this month highlights NASA’s commitment to working [&#8230;]",
+      "kategori": "Missioner",
+      "rubrik": "Blue Origin tester på NASA's historiske Saturn V-stand",
+      "resume_da": "NASA og Blue Origin indgår aftale om at teste New Glenn-raket på B-2 teststand, som tidligere blev brugt til Saturn V. Testene starter i efteråret 2026 og støtter Artemis-missioner mod Månen.",
+      "sektioner": [
+        {
+          "overskrift": "Historisk teststand genbruges",
+          "tekst": "B-2 teststanden blev oprindeligt bygget i 1960'erne til at teste Saturn V-raketter til Apollo-programmet. Nu skal den bruges til andettrins test af Blue Origins New Glenn-raket. NASA står for ingeniørarbejde og udstyr til at klargøre standen."
+        },
+        {
+          "overskrift": "Artemis-missioner får ny raket",
+          "tekst": "New Glenn skal bruges til at sende månelandingsmissioner under Artemis-programmet. Artemis III vil teste sammenkobling af Orion med kommercielle månelandere i lavt jordkredsløb. Testene på Stennis forventes at begynde i efteråret 2026."
+        },
+        {
+          "overskrift": "Månebase på vej",
+          "tekst": "I maj annoncerede NASA de første tre månebasemissioner. Blue Origin skal sende en robotmission til Sydpolen med sin Blue Moon Mark 1-lander. Det skal bane vejen for astronautlandinger i **2028** under Artemis IV og V."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "200.000 pund",
+          "label": "Trykkraft pr. BE-3 motor i vakuum"
+        },
+        {
+          "tal": "2026",
+          "label": "Teststart for New Glenn andet trin"
+        },
+        {
+          "tal": "2028",
+          "label": "Artemis IV og V landinger"
+        }
+      ],
+      "detaljer": [
+        "Aftalen er en tilføjelse til en eksisterende Space Act-aftale.",
+        "B-2 teststanden har tidligere testet Saturn V og SLS-kernetrin.",
+        "New Glenns andet trin bruger to BE-3-motorer med flydende ilt og brint.",
+        "Senatorer og kongresmedlemmer roser aftalen for at skabe arbejdspladser.",
+        "NASA-administrator Jared Isaacman siger partnerskaber styrker industriens base."
+      ],
+      "betydning": "Aftalen viser, hvordan kommercielle firmaer som Blue Origin hjælper NASA med at nå Månen. Det betyder flere måne-missioner og danske virksomheder kan få del i opgaver gennem europæiske partnerskaber.",
+      "pointer": [
+        "NASA og Blue Origin tester New Glenn på historisk stand.",
+        "Testene starter i efteråret 2026.",
+        "Støtter Artemis-missioner mod Månen og Mars.",
+        "Første månebasemissioner allerede planlagt."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "UK in pole position to lead key instrument in NASA's hunt for Earth-like worlds",
+      "link": "https://phys.org/news/2026-07-uk-pole-position-key-instrument.html",
+      "dato": "2026-07-24T15:00:09+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "UK astronomers are a step closer to playing a leading role in NASA's search for alien life in the coming decades as they continue developing one of the core instruments of the Habitable Worlds Observatory (HWO). The exciting mission—the U.S. space agency's next flagship space telescope after the Nancy Grace Roman Space Telescope—is expected to launch in the 2040s.",
+      "kategori": "Forskning",
+      "rubrik": "Storbritannien på vej til at lede NASA-instrument",
+      "resume_da": "Britiske astronomer udvikler et nøgleinstrument til NASAs næste store rumteleskop, Habitable Worlds Observatory, der skal søge efter beboelige exoplaneter.",
+      "sektioner": [
+        {
+          "overskrift": "Missionens formål",
+          "tekst": "Habitable Worlds Observatory (HWO) bliver NASAs næste flagskibsteleskop efter Nancy Grace Roman-teleskopet. Det skal lede efter jordlignende planeter og tegn på liv i universet."
+        },
+        {
+          "overskrift": "Britisk rolle",
+          "tekst": "UK astronomer er tæt på at få en ledende rolle i at udvikle et af teleskopets kerneinstrumenter. De er allerede i gang med at udvikle teknologien."
+        },
+        {
+          "overskrift": "Tidsplan",
+          "tekst": "Rumteleskopet forventes at blive opsendt i **2040'erne**. Det bliver et af de mest ambitiøse projekter inden for jagten på fremmed liv."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Storbritannien står til at lede udviklingen af et nøgleinstrument.",
+        "HWO bliver NASAs næste flagskibsteleskop efter Roman-teleskopet.",
+        "Opsendelse forventes i 2040'erne.",
+        "Missionen skal søge efter jordlignende verdener."
+      ],
+      "betydning": "Missionen kan afgøre, om der findes liv på andre planeter, og Storbritanniens rolle viser, at europæisk forskning fortsat er central i rumforskningen.",
+      "pointer": [
+        "Briterne er tæt på at lede et NASA-projekt.",
+        "Teleskopet skal finde jordlignende planeter.",
+        "Opsendelse om 20-30 år."
+      ],
+      "prio": 7
+    }
+  ]
 }
