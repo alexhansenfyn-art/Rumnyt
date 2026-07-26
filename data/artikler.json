@@ -1,6 +1,6 @@
 {
-  "opdateret": "2026-07-26T15:26:53.078439+00:00",
-  "antal": 24,
+  "opdateret": "2026-07-26T15:48:43.174415+00:00",
+  "antal": 36,
   "artikler": [
     {
       "titel": "What happened to space horror movies?",
@@ -984,6 +984,476 @@
         "Dataene bruges til at undersøge gasbevægelser og stjernedannelse i galakser."
       ],
       "prio": 5
+    },
+    {
+      "titel": "Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites",
+      "link": "https://spacenews.com/lightning-strikes-long-march-3b-after-liftoff-kinetica-1-launches-5-satellites/",
+      "dato": "2026-07-24T10:32:53+00:00",
+      "kilde": "SpaceNews",
+      "resume": "HELSINKI — China conducted a pair of launches Thursday, including a Long March 3B rocket which delivered its payload to orbit despite a lightning strike. The Long March 3B rocket [&#8230;] The post Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Tianlian2-06-CZ3B-XSLC-23july2026-CASC.jpg?fit=1024%2C599&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Opsendelser",
+      "rubrik": "Lyn rammer kinesisk raket under opsendelse",
+      "resume_da": "En kinesisk Long March 3B-raket blev ramt af lynet kort efter liftoff, men satte alligevel sin nyttelast i kredsløb. Samme dag opsendte Kinetica-1 fem satellitter.",
+      "sektioner": [
+        {
+          "overskrift": "Lynnedslag under opsendelse",
+          "tekst": "En Long March 3B-raket blev ramt af lynet lige efter afgang torsdag. Trods lynnedslaget fortsatte raketten, og den satte sin nyttelast i kredsløb. Det er sjældent, at lyn rammer raketter under opsendelse."
+        },
+        {
+          "overskrift": "Anden opsendelse samme dag",
+          "tekst": "Samme dag sendte Kinetica-1-raketten fem satellitter i kredsløb. Opsendelsen fandt sted fra et andet sted i Kina. Det viser Kinas stigende opsendelsestakt."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Long March 3B leverede nyttelast til kredsløb på trods af lynnedslag",
+        "Kinetica-1 opsendte fem satellitter samme dag"
+      ],
+      "betydning": "Historien viser, at raketter kan modstå uventede hændelser som lyn, hvilket er vigtigt for fremtidens rumfart og sikkerhed.",
+      "pointer": [
+        "Kinesisk raket ramt af lyn",
+        "Nyttelast i kredsløb trods lynnedslag",
+        "To opsendelser på samme dag",
+        "Kinas rumprogram i fremgang"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "EU delays release of Copernicus imagery over Gulf of Oman",
+      "link": "https://spacenews.com/eu-delays-release-of-copernicus-imagery-over-gulf-of-oman/",
+      "dato": "2026-07-24T10:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "JOHANNESBURG — The European Union has ordered a 24-hour delay in the release of some Sentinel-1 and Sentinel-2 imagery following a request from the United States based on concerns that [&#8230;] The post EU delays release of Copernicus imagery over Gulf of Oman appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/The_Gulf-scaled.jpg?fit=1024%2C900&amp;ssl=1",
+      "billede_alt": "The Gulf of Oman, imaged in September 2018 by the Copernicus Sentinel-3A satellite. Credit: ESA; CC BY-SA 3.0 IGO",
+      "kategori": "Politik & penge",
+      "rubrik": "EU forsinker frigivelse af satellitbilleder",
+      "resume_da": "EU har på USAs anmodning udskudt frigivelsen af Sentinel-1 og Sentinel-2 billeder over Omanbugten med 24 timer.",
+      "sektioner": [
+        {
+          "overskrift": "Hvorfor forsinkelsen",
+          "tekst": "EU's Copernicus-program skulle have frigivet billeder fra Sentinel-1 og Sentinel-2 satellitterne over Omanbugten. Men USA bad om en **24-timers** forsinkelse. EU efterkom anmodningen."
+        },
+        {
+          "overskrift": "Ukendt årsag",
+          "tekst": "Det er uvist, hvorfor USA ønskede forsinkelsen. Men det kan skyldes militære eller sikkerhedsmæssige hensyn. Omanbugten er et strategisk vigtigt område."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "24 timer",
+          "label": "Forsinkelse af billeder"
+        }
+      ],
+      "detaljer": [
+        "EU's Copernicus-program forsinkede frigivelse af Sentinel-1 og Sentinel-2 billeder.",
+        "Forsinkelsen var på 24 timer.",
+        "Anmodningen kom fra USA.",
+        "Billederne dækker Omanbugten."
+      ],
+      "betydning": "Sagen viser, at adgang til satellitbilleder kan blive påvirket af politiske hensyn, hvilket kan få betydning for overvågning af miljø og sikkerhed.",
+      "pointer": [
+        "EU udsætter frigivelse af satellitbilleder.",
+        "USA bad om forsinkelsen.",
+        "Billeder over Omanbugten.",
+        "Forsinkelse på 24 timer."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Young rift flanks suggest Venus remains tectonically active",
+      "link": "https://phys.org/news/2026-07-young-rift-flanks-venus-tectonically.html",
+      "dato": "2026-07-24T09:00:05+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Venus is an inhospitable place, with temperatures soaring to several hundred degrees Celsius (hundreds of degrees Fahrenheit) and no oceans like those on Earth. Planetary scientists long believed Venus was geologically dormant. However, recent research indicates that Venus remains geologically \"alive\" and even hosts active volcanoes.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/venus-dead-far-from-it.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Venus er geologisk aktiv med unge sprækker",
+      "resume_da": "Ny forskning viser, at Venus' overflade har unge sprækker, hvilket tyder på, at planeten stadig er geologisk aktiv og kan have aktive vulkaner.",
+      "sektioner": [
+        {
+          "overskrift": "Venus geologiske aktivitet",
+          "tekst": "Planetforskere troede længe, at Venus var geologisk død. Men nye undersøgelser af unge sprækker på overfladen viser, at planeten stadig er geologisk aktiv. Det betyder, at Venus kan have aktive vulkaner."
+        },
+        {
+          "overskrift": "Ungt sprækkelandskab",
+          "tekst": "Sprækkerne på Venus er relativt unge og viser tegn på fortsat bevægelse i planetens indre. Dette indikerer, at Venus' skorpe stadig deformeres, hvilket overrasker forskerne."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Venus har temperaturer på flere hundrede grader Celsius",
+        "Planeten har ingen oceaner som Jorden",
+        "Forskere troede tidligere, at Venus var geologisk inaktiv",
+        "Unge sprækker på Venus' overflade tyder på aktiv geologi"
+      ],
+      "betydning": "For almindelige mennesker viser forskningen, at vores naboplanet ikke er en død verden, men stadig er dynamisk, hvilket kan hjælpe os med at forstå planeternes udvikling.",
+      "pointer": [
+        "Venus var tidligere anset for geologisk død",
+        "Unge sprækker indikerer aktivitet",
+        "Forskere ser nu tegn på aktive vulkaner"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Air Force takes over troubled military GPS receiver program",
+      "link": "https://spacenews.com/air-force-takes-over-troubled-military-gps-receiver-program/",
+      "dato": "2026-07-24T09:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "The Air Force Life Cycle Management Center will oversee development, integration and sustainment of equipment used to access the military’s encrypted GPS signal The post Air Force takes over troubled military GPS receiver program appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/09/050304-A-4920C-019.jpg?fit=1024%2C672&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Air Force overtager GPS-modtagerprogram",
+      "resume_da": "Det amerikanske luftvåbens center for livscyklusstyring overtager ansvaret for et problemfyldt program med militære GPS-modtagere.",
+      "sektioner": [
+        {
+          "overskrift": "Programmet skifter hænder",
+          "tekst": "Air Force Life Cycle Management Center overtager udvikling, integration og vedligeholdelse af udstyr til adgang til militærets krypterede GPS-signal. Programmet har tidligere haft problemer."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Programmet omfatter udstyr til den krypterede militære GPS-signal."
+      ],
+      "betydning": "Ændringen kan påvirke pålideligheden og sikkerheden af militær GPS-navigation, som også har civile anvendelser.",
+      "pointer": [
+        "Luftvåbnet tager over efter problemer.",
+        "Programmet dækker militære GPS-modtagere.",
+        "Nyt center skal stå for udvikling og vedligehold."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "A Million-Panel Project",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
+      "dato": "2026-07-24T04:01:00+00:00",
+      "kilde": "NASA",
+      "resume": "Utah’s new solar power and battery storage facility is among the largest in the region.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-million-panel-project/solarutah_oli_20240616.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Nyt solcelleanlæg i Utah med én million paneler",
+      "resume_da": "Et kæmpe solcelle- og batterianlæg i Utah, Green River Energy Center, er åbnet med næsten én million paneler. Det kan levere strøm til over 100.000 hjem.",
+      "sektioner": [
+        {
+          "overskrift": "Anlæggets størrelse og kapacitet",
+          "tekst": "Green River Energy Center har næsten **én million** solpaneler og cirka **500** batterier. Det har en solkapacitet på **400 megawatt** og lige så meget batterilagerkapacitet."
+        },
+        {
+          "overskrift": "Energi døgnet rundt",
+          "tekst": "Med batterierne kan anlægget levere strøm også om natten eller når solen ikke skinner. Det er tilsluttet eksisterende elledninger, der tidligere blev brugt til kulkraftværker i området."
+        },
+        {
+          "overskrift": "Utahs skiftende energimiks",
+          "tekst": "Kul var i **2015** omkring **75 %** af Utahs elproduktion, men faldt til cirka **50 %** i **2025**. Samtidig steg solenergi fra næsten intet til omkring **14 %** i samme periode."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "400 MW",
+          "label": "Solcellekapacitet"
+        },
+        {
+          "tal": "400 MW",
+          "label": "Batterilagerkapacitet"
+        },
+        {
+          "tal": "100.000+ hjem",
+          "label": "Strøm til antal hjem"
+        }
+      ],
+      "detaljer": [
+        "Anlægget ligger ca. 210 km sydøst for Salt Lake City.",
+        "Satellitbilleder fra Landsat 8 viser anlægget før og efter byggeri.",
+        "Udbygningen af solenergi i Utah er del af en større amerikansk trend."
+      ],
+      "betydning": "Historien viser, hvordan satellitdata kan overvåge overgangen til vedvarende energi, hvilket er vigtigt for klimaindsatsen. Sol- og batterianlæg af denne størrelse bliver mere almindelige og påvirker elpriser og forsyningssikkerhed.",
+      "pointer": [
+        "Utah får et af USA's største solcelle- og batterianlæg.",
+        "Anlægget bruger gamle kulkraftværkers elledninger.",
+        "Kulandelen i Utahs elproduktion er faldet markant.",
+        "Satellitbilleder dokumenterer energiomstillingen."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/",
+      "dato": "2026-07-24T01:22:13+00:00",
+      "kilde": "NASA",
+      "resume": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, July 27, 2026 As an APXS uplink lead and strategic planner, I have the privilege of working with the rover engineers most days that I am on operations. The APXS instrument measures the chemistry of rocks, unconsolidated materials and […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/july/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04955_opgs_edr_ncam_NRB_837362437EDR_S1231344NCAM00594M_.jpg?w=1024&#038;h=512&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A black and white landscape photograph taken on Mars by the Curiosity rover. In the foreground, scattered rocks and uneven sandy terrain lead up to a rocky outcropping with distinct horizontal geologi",
+      "kategori": "Missioner",
+      "rubrik": "Curiosity hylder rover-ingeniørerne",
+      "resume_da": "NASA's Marsrover Curiosity fortsætter sin opstigning på Mount Sharp, takket være ingeniørernes ekspertise i at navigere og betjene robotten.",
+      "sektioner": [
+        {
+          "overskrift": "Ingeniørernes rolle",
+          "tekst": "Rover-ingeniører sikrer, at Curiosity sikkert kan placere sin robotarm og måle kemi på sten. De vurderer terræn for farer som sandfælder og stejle skråninger."
+        },
+        {
+          "overskrift": "Nylige resultater",
+          "tekst": "Holdet analyserede **fem** stenmål med APXS- og MAHLI-instrumenter. Curiosity har tilbagelagt over **37 kilometer** og steget **1,35 kilometer** i højde."
+        },
+        {
+          "overskrift": "Fremtidige mål",
+          "tekst": "Roveren nærmer sig Yardang-formationen og undersøger en mulig erosionsflade. Boring er genoptaget efter en motorfejl i **2016**, og der er boret over **20** huller siden."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "37 km",
+          "label": "Samlet kørt distance"
+        },
+        {
+          "tal": "1,35 km",
+          "label": "Højdegevinst"
+        },
+        {
+          "tal": "20+",
+          "label": "Borede mål efter reparation"
+        }
+      ],
+      "detaljer": [
+        "APXS-måler kemi på sten, og MAHLI tager nærbilleder.",
+        "Ingeniørerne omkonfigurerede boreteknikken efter motorfejl i 2016.",
+        "Curiosity undersøger sulfat/karbonat-enheder på Mount Sharp."
+      ],
+      "betydning": "Missionen viser, hvordan samarbejde mellem videnskab og teknik muliggør langvarig udforskning af Mars, hvilket giver viden om planetens historie og potentiale for liv.",
+      "pointer": [
+        "Rover-ingeniører sikrer sikker navigation og instrumentbrug.",
+        "Curiosity har kørt 37 km og steget 1,35 km på Mars.",
+        "Nylig analyse af fem stenmål i støvet terræn.",
+        "Boring genoptaget efter 2016-motorfejl med over 20 succesfulde boringer."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Poland commits $745 million to EU’s IRIS² constellation project",
+      "link": "https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/",
+      "dato": "2026-07-23T21:14:49+00:00",
+      "kilde": "SpaceNews",
+      "resume": "WARSAW, Poland — The Polish government has agreed to invest around $745 million in the development of the planned IRIS² multi-orbit satellite internet constellation with the European Union.&#160; The money [&#8230;] The post Poland commits $745 million to EU’s IRIS² constellation project appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/IRIS2-image.jpg?fit=1024%2C819&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Polen investerer 745 mio. $ i EU's internet-satellitter",
+      "resume_da": "Polen har forpligtet sig til at investere omkring 745 millioner dollars i EU's IRIS²-satellitkonstellation, der skal levere bredbåndsinternet.",
+      "sektioner": [
+        {
+          "overskrift": "Polsk investering i IRIS²",
+          "tekst": "Den polske regering har godkendt en investering på omkring **745 millioner dollars** til udviklingen af EU's planlagte IRIS²-satellitkonstellation. Projektet skal levere bredbåndsinternet fra flere baner."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "745 mio. $",
+          "label": "Polsk investering"
+        }
+      ],
+      "detaljer": [
+        "Polen investerer i EU's IRIS²-satellitinternetprojekt",
+        "Konstellationen skal operere i flere baner",
+        "Beløbet er ca. 745 millioner dollars"
+      ],
+      "betydning": "Investeringen styrker Europas uafhængighed inden for satellitkommunikation og kan give danskere adgang til et europæisk alternativ til Starlink.",
+      "pointer": [
+        "Polen skyder 745 mio. $ i EU-projekt",
+        "IRIS² skal give bredbånd fra rummet",
+        "Konstellation bliver et europæisk alternativ",
+        "EU satser på uafhængig internet-infrastruktur"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech",
+      "link": "https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/",
+      "dato": "2026-07-23T19:23:13+00:00",
+      "kilde": "SpaceNews",
+      "resume": "SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space [&#8230;] The post Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2020/02/rsz_matossian.png?fit=879%2C586&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Nyt venturefirma vil investere i rumteknologi",
+      "resume_da": "Mark Matossian, en erfaren iværksætter, har sammen med to andre stiftet Whipsmart Ventures, en fond der skal investere i rum- og dybteknologi.",
+      "sektioner": [
+        {
+          "overskrift": "Hvem står bag?",
+          "tekst": "Fonden er stiftet af rum-iværksætteren Mark Matossian, en softwareingeniør og en bestsellerforfatter. De vil fokusere på at skyde penge i startup-virksomheder inden for rumfart og avanceret teknologi."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Mark Matossian har erfaring fra rum-startups.",
+        "Whipsmart Ventures er en venturekapitalfond.",
+        "Fonden fokuserer på space og deep tech."
+      ],
+      "betydning": "Flere investeringer i rumteknologi kan føre til nye produkter og tjenester, som også kan komme almindelige danskere til gode, fx bedre satellitkommunikation eller jordobservation.",
+      "pointer": [
+        "Ny fond til rumteknologi",
+        "Stiftet af Mark Matossian og to andre",
+        "Investerer i startups"
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Look for NASA+ Now Streaming on Amazon Fire TV",
+      "link": "https://www.nasa.gov/news-release/look-for-nasa-now-streaming-on-amazon-fire-tv/",
+      "dato": "2026-07-23T19:11:29+00:00",
+      "kilde": "NASA",
+      "resume": "Continuing agency efforts to bring space closer to home, NASA+ is heading to more streaming platforms. On Thursday, NASA announced its programming is on Fire TV Channels. Fire TV customers can easily access this content by asking Alexa+ on compatible devices. Future programming on Fire TV may include science mission launches, a test flight for [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/nasa-promo-image-horizontal.png?w=2048",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "NASA+ nu tilgængeligt på Amazon Fire TV",
+      "resume_da": "NASA+ udvider til Amazon Fire TV, så flere kan se gratis, reklamefri rumfartsindhold. Fremtidige programmer inkluderer Artemis-missioner og månedeleverancer.",
+      "sektioner": [
+        {
+          "overskrift": "Hvor kan man se?",
+          "tekst": "NASA+ er nu tilgængelig på Fire TV Channels via Amazon Fire TV. Brugere kan få adgang ved at spørge Alexa+ på kompatible enheder. Tjenesten er fortsat gratis og uden reklamer på NASA's app og hjemmeside."
+        },
+        {
+          "overskrift": "Hvad vises fremover?",
+          "tekst": "Fremtidigt indhold kan omfatte videnskabelige missioner, testflyvninger med menneskelige landingssystemer, robotmåneleverancer og den første bemandede måneflyvning under Artemis. Målet er at dele rumfartens historie med et bredt publikum."
+        },
+        {
+          "overskrift": "Baggrund for samarbejdet",
+          "tekst": "NASA's general manager Rebecca Sirmons siger, at streamingpartnere hjælper med at nå ud til flest mulige. Distributionen er et skridt i at opfylde løftet om større indsigt i agenturets arbejde."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2026-07-24",
+          "label": "Nyhedens dato"
+        }
+      ],
+      "detaljer": [
+        "NASA+ er gratis og reklamefri.",
+        "Tilgængelig på NASA app, hjemmeside og nu Fire TV.",
+        "Artemis II tiltrak global opmærksomhed.",
+        "NASA planlægger den første månebase."
+      ],
+      "betydning": "Almindelige danskere kan nu lettere følge med i NASA's missioner via deres Fire TV, hvilket gør rumfart mere tilgængeligt og inspirerende.",
+      "pointer": [
+        "NASA+ på Amazon Fire TV.",
+        "Gratis og uden reklamer.",
+        "Artemis-missioner og månebase.",
+        "Start ved at spørge Alexa+."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Hawai'i serves as model for Western researchers studying the moon's volcanic history",
+      "link": "https://phys.org/news/2026-07-hawaii-western-moon-volcanic-history.html",
+      "dato": "2026-07-23T18:00:06+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "The moon is 384,000 kilometers (239,000 miles) away from Earth, but one of the best places to study its surface is much closer to home. Western planetary scientist Catherine Neish and PhD candidate Sashank Vanga traveled to Hawai'i Volcanoes National Park in June to investigate lava flows that could reveal new clues about the moon's volcanic past.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/hawaii-serves-as-model.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Hawai'i hjælper forskere med at forstå Månens vulkanhistorie",
+      "resume_da": "Forskere studerer lavafloder i Hawai'i for at lære mere om Månens vulkanske fortid.",
+      "sektioner": [
+        {
+          "overskrift": "Forskere rejser til Hawai'i",
+          "tekst": "Planetforsker Catherine Neish og ph.d.-studerende Sashank Vanga besøgte Hawai'i Volcanoes National Park i juni. De undersøgte lavafloder, der kan give ny viden om Månens vulkanske historie."
+        },
+        {
+          "overskrift": "Månen og Hawai'i som model",
+          "tekst": "Månen er **384.000 kilometer** væk, men Hawai'i er et af de bedste steder at studere dens overflade. Lavafloderne på Hawai'i minder om dem på Månen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "384.000 km",
+          "label": "Afstand fra Jorden til Månen"
+        }
+      ],
+      "detaljer": [
+        "Forskere fra Western University studerer lavafloder i Hawai'i for at forstå Månens vulkanhistorie.",
+        "Catherine Neish og Sashank Vanga rejste til Hawai'i i juni."
+      ],
+      "betydning": "Forskningen kan hjælpe os med at forstå, hvordan Månen blev til, og hvilke processer der formede dens overflade.",
+      "pointer": [
+        "Hawai'i bruges som model for Månens vulkanisme.",
+        "Forskere studerer lavafloder for at lære om Månens fortid.",
+        "Månen er 384.000 km væk, men studeres tættere på Jorden."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "How much better is the Canon EOS R6 III than previous models for astrophotography?",
+      "link": "https://www.space.com/stargazing/astrophotography/how-much-better-is-the-canon-eos-r6-iii-than-previous-models-for-astrophotography",
+      "dato": "2026-07-23T18:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "The latest edition of the Canon EOS R6 III adds 8 MP in resolution compared to the EOS R6 II, a CFexpress card slot and improved low-light autofocusing capability but do these upgrades actually benefit the astrophotographer?",
+      "billede": "https://cdn.mos.cms.futurecdn.net/7NmjGn4wiWvy6tVsLQ7Toh-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Canon EOS R6 III: bedre til astrofotografi?",
+      "resume_da": "Canon EOS R6 III er blevet forbedret til astrofotografi, men præcise detaljer mangler i kilden.",
+      "sektioner": [
+        {
+          "overskrift": "Forfatterens baggrund",
+          "tekst": "Harry, en e-commerce skribent hos Space.com, har stor erfaring med astrofotografi og har fanget himmellegemer med mange kameraer. Han har set Perseid-meteorregn hver sommer siden barndommen."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Artiklen nævner ikke specifikke forbedringer for Canon EOS R6 III."
+      ],
+      "betydning": "Artiklen er relevant for danskere, der overvejer at opgradere kamera til astrofotografi, men kilden giver ingen konkrete data.",
+      "pointer": [
+        "Forfatteren er erfaren astrofotograf.",
+        "Kilden mangler tekniske detaljer.",
+        "Artiklen fokuserer på forfatterens baggrund."
+      ],
+      "prio": 2
+    },
+    {
+      "titel": "Most powerful Northern Lights in a generation expose weaknesses in UK infrastructure",
+      "link": "https://phys.org/news/2026-07-powerful-northern-generation-expose-weaknesses.html",
+      "dato": "2026-07-23T15:40:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Millions of people across the UK marveled at the spectacular northern lights that lit up the night sky in May 2024. But while the display captivated skywatchers, the geomagnetic storm behind it also served as the biggest test in a generation of the UK's preparedness for severe space weather. So did it pass?",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/most-powerful-northern-1.jpg",
+      "billede_alt": "",
+      "kategori": "Rumvejr",
+      "rubrik": "Nordlys i maj udstiller sårbarheder i britisk infrastruktur",
+      "resume_da": "Det kraftige nordlys i maj 2024, skabt af en geomagnetisk storm, afslørede svagheder i Storbritanniens beredskab mod rumvejr.",
+      "sektioner": [
+        {
+          "overskrift": "Spektakulært nordlys",
+          "tekst": "I maj 2024 så millioner af mennesker i Storbritannien et pragtfuldt nordlys. Det var en af de mest intense nordlys-oplevelser i en menneskealder."
+        },
+        {
+          "overskrift": "Storm som test",
+          "tekst": "Den geomagnetiske storm, der skabte nordlyset, var den største test i årtier af landets beredskab mod kraftigt rumvejr. Myndighederne måtte vurdere, om infrastrukturen kunne klare sig."
+        },
+        {
+          "overskrift": "Resultat og konsekvenser",
+          "tekst": "Stormen viste, at der er sårbarheder i den britiske infrastruktur. Eksperter undersøger nu, hvordan man bedre kan beskytte sig mod fremtidige hændelser."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Millioner af mennesker i Storbritannien så nordlyset i maj 2024.",
+        "Den geomagnetiske storm var den største test i en generation.",
+        "Stormen afslørede svagheder i landets beredskab mod rumvejr."
+      ],
+      "betydning": "Rumvejr som geomagnetiske storme kan påvirke strømforsyning, kommunikation og satellitter, hvilket er relevant for alle, der er afhængige af teknologi.",
+      "pointer": [
+        "Kraftigt nordlys over Storbritannien",
+        "Største test af beredskab i årtier",
+        "Infrastruktur-sårbarheder opdaget",
+        "Behov for bedre beskyttelse"
+      ],
+      "prio": 6
     }
   ]
 }
