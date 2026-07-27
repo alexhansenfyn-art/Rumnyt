@@ -1,7 +1,500 @@
 {
-  "opdateret": "2026-07-27T10:56:10.623613+00:00",
-  "antal": 55,
+  "opdateret": "2026-07-27T18:01:13.349939+00:00",
+  "antal": 67,
   "artikler": [
+    {
+      "titel": "NASA Astronaut Chris Williams Returns to Earth",
+      "link": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/",
+      "dato": "2026-07-27T16:48:46+00:00",
+      "kilde": "NASA",
+      "resume": "NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in Kazakhstan. This was Williams&#8217; first mission. Williams spent eight months aboard the International Space Station, where he supported a wide range of&#160;scientific investigations&#160;and technology demonstr",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/55419246867-809993deb3-o.jpg?w=2048",
+      "billede_alt": "NASA astronaut Chris Williams grins at the camera while holding a walkie-talkie up to his ear. He&#039;s wearing a blue and white spacesuit that has various patches on the chest and left arm. His helm",
+      "kategori": "Missioner",
+      "rubrik": "NASA-astronaut Chris Williams tilbage på Jorden",
+      "resume_da": "Chris Williams landede i Kasakhstan efter otte måneder på ISS. Det var hans første rummission.",
+      "sektioner": [
+        {
+          "overskrift": "Landing i Kasakhstan",
+          "tekst": "NASA-astronaut Chris Williams landede den **26. juli 2026** i Kasakhstan sammen med kosmonauterne Sergey Kud-Sverchkov og Sergei Mikaev. De var en del af Ekspedition **74**."
+        },
+        {
+          "overskrift": "Otte måneder på ISS",
+          "tekst": "Williams tilbragte **otte måneder** om bord på Den Internationale Rumstation. Han udførte forskellige videnskabelige undersøgelser og testede ny teknologi."
+        },
+        {
+          "overskrift": "To rumvandringer",
+          "tekst": "Under missionen gennemførte han **to rumvandringer**. Den ene var for at forberede opgraderinger af rumstationens strømsystem, den anden for at udskifte en defekt samling på robotarmen Canadarm2."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "8 måneder",
+          "label": "Tid på ISS"
+        },
+        {
+          "tal": "2",
+          "label": "Antal rumvandringer"
+        }
+      ],
+      "detaljer": [
+        "Første mission for Chris Williams.",
+        "Landede den 26. juli 2026 i Kasakhstan.",
+        "Han fløj med kosmonauterne Sergey Kud-Sverchkov og Sergei Mikaev.",
+        "Arbejdede på strømsystemopgraderinger og Canadarm2-reparation."
+      ],
+      "betydning": "Missioner som denne holder ISS i drift og fremmer forskning, der kan gavne alle på Jorden.",
+      "pointer": [
+        "Williams vendte tilbage efter otte måneder.",
+        "Han udførte to rumvandringer.",
+        "Missionen inkluderede videnskab og teknologitest.",
+        "Det var hans første rumrejse."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Extragalactic positron-annihilation hotspots might mean Milky Way produces far more positrons than thought",
+      "link": "https://phys.org/news/2026-07-extragalactic-positron-annihilation-hotspots-milky.html",
+      "dato": "2026-07-27T16:30:02+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Positrons—the antimatter counterpart of electrons—are created in high-energy cosmic processes. When normal matter meets its antimatter counterpart, they annihilate, or vanish, and produce a distinctive 511 keV gamma-ray signal. Scientists use this signal to detect where these annihilations occur.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/potential-extragalacti.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Mælkevejen skaber måske langt flere positroner end troet",
+      "resume_da": "Nye hotspots uden for Mælkevejen, hvor positroner udslettes, tyder på, at vores galakse producerer mange flere positroner end tidligere antaget.",
+      "sektioner": [
+        {
+          "overskrift": "Positroner og deres signal",
+          "tekst": "Positroner er elektroners antistof. Når de møder almindeligt stof, udsletter de hinanden og sender et karakteristisk gamma-strålesignal med energien **511 keV**. Forskere bruger dette signal til at finde, hvor udslettelser sker."
+        },
+        {
+          "overskrift": "Nye hotspots opdaget",
+          "tekst": "Astronomer har fundet hotspots uden for Mælkevejen, hvor positroner udslettes. Det kan betyde, at vores galakse producerer langt flere positroner end hidtil antaget. Opdagelsen ændrer vores forståelse af kosmiske processer."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "511 keV",
+          "label": "Gamma-stråleenergi ved udslettelse"
+        }
+      ],
+      "detaljer": [
+        "Positroner skabes i højenergiske kosmiske processer.",
+        "Udslettelse sker, når stof møder antistof.",
+        "Der er opdaget positron-udslettelses-hotspots uden for Mælkevejen."
+      ],
+      "betydning": "Opdagelsen udfordrer vores viden om stof og antistof i universet og kan føre til ny indsigt i kosmiske stråler og gammastråling.",
+      "pointer": [
+        "Positroner er antistof til elektroner.",
+        "Udslettelse sender 511 keV gamma-stråling.",
+        "Hotspots uden for Mælkevejen fundet.",
+        "Mælkevejen producerer måske flere positroner."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
+      "link": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/",
+      "dato": "2026-07-27T16:06:37+00:00",
+      "kilde": "NASA",
+      "resume": "NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena are rare to begin with, and none had ever before been seen so far outside of a galaxy’s core. “We were looking for these star-shredding events as a way […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia22/pia22355/PIA22355.jpg?w=3816&#038;h=2160&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "An artist",
+      "kategori": "Astronomi",
+      "rubrik": "Vildt sort hul set flå stjerne i stykker",
+      "resume_da": "NASA's Swift-observatorium har fanget et supermassivt sort hul, der river en stjerne i stykker langt ude i en galakses udkant – noget aldrig set før.",
+      "sektioner": [
+        {
+          "overskrift": "En sjælden begivenhed",
+          "tekst": "En stjerne kom for tæt på et sort hul med en masse på omkring **1 million** sole og blev flået i stykker. Hændelsen skete i en galakse **750 millioner** lysår væk og blev første gang set i november 2025 af Zwicky Transient Facility."
+        },
+        {
+          "overskrift": "Optisk og UV målinger",
+          "tekst": "Swift-målinger viste en temperatur på omkring **54.000** grader Fahrenheit (ca. **30.000** grader Celsius). I ultraviolet lys lyste hændelsen klarere end hele sin værtsgalakse og udstrålede lyset fra **10 milliarder** sole."
+        },
+        {
+          "overskrift": "Hvorfor skete det her?",
+          "tekst": "Forskere mener, at det sorte hul stammer fra en mindre galakse, der er blevet opslugt af en større. Gravitationskræfterne fra sammenstødet kan have slynget det sorte hul ud i galaksens udkant – over **30.000** lysår fra centrum."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1 million solmasser",
+          "label": "Sort huls masse"
+        },
+        {
+          "tal": "750 millioner lysår",
+          "label": "Afstand til Jorden"
+        },
+        {
+          "tal": "30.000 grader Celsius",
+          "label": "Temperatur af blitzen"
+        }
+      ],
+      "detaljer": [
+        "Før 2024 var stjerne-flåning kun set i galaksekerner.",
+        "Kun omkring 30 sådanne hændelser findes årligt på himlen.",
+        "Det sorte hul er en af kun få bekræftede 'vandrende' supermassive sorte huller.",
+        "Opdagelsen kan hjælpe med at finde flere skjulte sorte huller."
+      ],
+      "betydning": "Opdagelsen viser, at sorte huller kan vandre langt fra deres fødested, hvilket ændrer vores forståelse af galaksesammenstød og universets udvikling.",
+      "pointer": [
+        "Sjælden observation af stjernerivning uden for galaksekernen",
+        "Sort hul vejer en million gange Solen",
+        "Flået stjerne lyste som 10 milliarder sole",
+        "Metoden kan finde flere vandrende sorte huller"
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "NASA to Cover Three US Spacewalks, Host Preview News Conference",
+      "link": "https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
+      "dato": "2026-07-27T14:35:11+00:00",
+      "kilde": "NASA",
+      "resume": "NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar arrays, replace a communications antenna, and connect power and data cables in support of space station operations. Experts will preview the upcoming spacewalks during a news conference at 2 p.m. EDT, Thursday, July 30, [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/meir.jpg?w=2048",
+      "billede_alt": "006B6348.NEF",
+      "kategori": "Missioner",
+      "rubrik": "Tre rumvandringer i august på ISS",
+      "resume_da": "NASA sender astronauter ud på tre rumvandringer i august for at opgradere solpaneler, udskifte antenne og forberede stationens fremtid.",
+      "sektioner": [
+        {
+          "overskrift": "Første rumvandring: 6. august",
+          "tekst": "Jessica Meir og Anil Menon går ud for at installere hardware til en ny solpanel. Det syvende IROSA-panel skal levere mere strøm og hjælpe med kontrolleret deorbit. Rumvandringen varer ca. **6,5** timer."
+        },
+        {
+          "overskrift": "Anden rumvandring: 13. august",
+          "tekst": "To astronauter udskifter en jord-til-rum-antenne, der bruges til højhastighedskommunikation mellem Houston og ISS."
+        },
+        {
+          "overskrift": "Tredje rumvandring: 25. august",
+          "tekst": "Astronauterne tilslutter kabler og data relæ-systemer til vedligeholdelse og forberedelse af deorbit. De udskifter også en navigationshjælp til dokning på Harmony-modulet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "3",
+          "label": "antal rumvandringer i august"
+        },
+        {
+          "tal": "6,5 timer",
+          "label": "varighed af første rumvandring"
+        }
+      ],
+      "detaljer": [
+        "Rumvandring 96 er den sjette for Meir og første for Menon.",
+        "Antennen er en kritisk del af NASAs kommunikationssystem.",
+        "Det er den 281., 282. og 283. rumvandring i ISS' historie."
+      ],
+      "betydning": "Rumvandringerne sikrer, at ISS fortsat kan fungere og modtage nye solpaneler, hvilket er afgørende for stationens levetid og fremtidige deorbit.",
+      "pointer": [
+        "Tre rumvandringer i august.",
+        "Opgradering af solpaneler og antenne.",
+        "Forberedelse til stationens deorbit.",
+        "Første rumvandring for astronaut Menon."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "We've found huge discounts on a range of ZWO astronomy cameras, including three we love",
+      "link": "https://www.space.com/stargazing/skywatching-kit/bh-photo-and-video-has-discounted-a-range-of-zwo-astronomy-cameras-including-three-we-loved",
+      "dato": "2026-07-27T14:25:40+00:00",
+      "kilde": "Space.com",
+      "resume": "Save on ZWO astrophotography gear at B&amp;H Photo Video. Shop discounts on astrocams, telescopes and mounts to upgrade your stargazing setup with top deals today.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/NzfmttTKCSM4zLKaRPnEyZ-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Store rabatter på ZWO astrokameraer",
+      "resume_da": "Tre populære ZWO-kameraer til astrofotografering er på tilbud. Find gode besparelser på modeller, der er elsket af både nybegyndere og erfarne.",
+      "sektioner": [
+        {
+          "overskrift": "Rabatter på kameraer",
+          "tekst": "ZWO har sat priserne ned på flere af deres populære astrokameraer. Tre af vores favoritmodeller er blandt dem, der er på tilbud. Det er en god mulighed for at spare penge på udstyr til astrofotografering."
+        },
+        {
+          "overskrift": "Hvem er Harry?",
+          "tekst": "Harry er skribent hos Space.com og har dækket kameraer og astronomi siden december 2024. Han har en bachelor i amerikansk litteratur og har stor erfaring med astrofotografering. Han elsker at fange nattehimlens vidundere."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [],
+      "betydning": "For almindelige danskere, der er interesserede i astrofotografering, kan rabatterne gøre det billigere at komme i gang eller opgradere udstyr.",
+      "pointer": [],
+      "prio": 3
+    },
+    {
+      "titel": "NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/",
+      "dato": "2026-07-27T14:00:14+00:00",
+      "kilde": "NASA",
+      "resume": "NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/07/STScI-01KXZZ6H029XBJTKYKRPARFJE9.jpg?w=8502&#038;h=4935&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "The left half of the disk of the Andromeda galaxy, with a jagged outer edge at the top and bottom on a black background. At right, the galaxy’s center is a horizontal yellow oval extending across abou",
+      "kategori": "Astronomi",
+      "rubrik": "Hubble afslører: Andromeda-galaksen danner færre stjerner",
+      "resume_da": "Stjernedannelsen i Andromeda-galaksen er faldet kraftigt de seneste 500 millioner år, viser nye Hubble-data. Udviklingen skyldes formentlig et tidligere sammenstød med en anden galakse.",
+      "sektioner": [
+        {
+          "overskrift": "500 millioner års nedgang",
+          "tekst": "Forskere har brugt Hubble-teleskopet til at kortlægge **200 millioner** stjerner i Andromeda-galaksen. De fandt, at stjernedannelsen er faldet støt i de sidste **500 millioner år**, med et endnu større dyk de seneste **40 millioner år**."
+        },
+        {
+          "overskrift": "Dannelsesraten i dag",
+          "tekst": "For **500 millioner år siden** dannede Andromeda omkring én solmasse om året. For **40 millioner år siden** var raten halveret. I dag er den nede på en **femtedel** af en solmasse om året."
+        },
+        {
+          "overskrift": "Mulig forklaring",
+          "tekst": "Nedgangen skyldes sandsynligvis en naturlig afmatning efter et sammenstød med en anden galakse for omkring **2 milliarder år siden**. Forskere undersøger også, om nabogalaksen M32 har spillet en rolle."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2,5 millioner lysår",
+          "label": "Afstand til Andromeda"
+        },
+        {
+          "tal": "200 millioner",
+          "label": "Kortlagte stjerner"
+        },
+        {
+          "tal": "500 millioner år",
+          "label": "Nedgangens varighed"
+        }
+      ],
+      "detaljer": [
+        "Undersøgelsen er baseret på data fra to Hubble-undersøgelser: PHAT og PHAST.",
+        "Forskerne målte stjernedannelse i tusindvis af 300 lysår brede områder.",
+        "Resultaterne er offentliggjort i The Astrophysical Journal."
+      ],
+      "betydning": "Andromeda ligner vores Mælkevej, så studiet hjælper os med at forstå, hvordan galakser som vores udvikler sig over tid.",
+      "pointer": [
+        "Stjernedannelse i Andromeda falder drastisk.",
+        "Hubble kortlagde 200 millioner stjerner.",
+        "Nedgangen skyldes sandsynligvis en gammel kollision.",
+        "Studiet giver indsigt i Mælkevejens fortid."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Orbes unveils Exo-ORB and agreement with Symphony Space",
+      "link": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/",
+      "dato": "2026-07-27T13:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "SAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station. Exo-ORB, which is [&#8230;] The post Orbes unveils Exo-ORB and agreement with Symphony Space appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_orbes_symphony.png?fit=879%2C493&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Orbes vil sende Exo-ORB-satellit til rumstation",
+      "resume_da": "Orbes har indgået aftale om at sende satellitten Exo-ORB til at fotografere Symfoni Space's ubemandede rumstation.",
+      "sektioner": [
+        {
+          "overskrift": "Aftale med Symfoni Space",
+          "tekst": "Orbes, en startup fra Sydcalifornien, annoncerede den 27. juli en aftale om at sende Exo-ORB-satellitten til Symfoni Space's ubemandede rumstation. Satellitten skal indsamle billeder af stationen."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Orbes er en startup fra Sydcalifornien.",
+        "Exo-ORB er en fritflyvende satellit.",
+        "Symfoni Space's rumstation er ubemandet.",
+        "Målet er at indsamle billeder af rumstationen."
+      ],
+      "betydning": "Det viser, at private virksomheder samarbejder om at dokumentere og markedsføre rumstationer.",
+      "pointer": [
+        "Orbes laver en billedmission.",
+        "Exo-ORB er en lille satellit.",
+        "Den skal fotografere en station.",
+        "Samarbejde mellem to startups."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Could we send a spacecraft to a black hole?",
+      "link": "https://phys.org/news/2026-07-spacecraft-black-hole.html",
+      "dato": "2026-07-27T12:20:04+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Black holes represent some of the most extreme environments in the universe. They are the sources of the strongest gravitational fields, allowing us to test Einstein's theory of general relativity to an extent impossible with small objects. But we are also reaching the limit of what we can learn about one remotely. So, various authors have put forward ideas for how we might eventually send a probe",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-we-send-a-spacec.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Kan vi sende en sonde til et sort hul?",
+      "resume_da": "Forskere har idéer til at sende en lille sonde til et sort hul. En ny undersøgelse ser på, hvad der kræves for at nå et nærliggende sort hul.",
+      "sektioner": [
+        {
+          "overskrift": "Sorte huller som test",
+          "tekst": "Sorte huller har de stærkeste tyngdefelter i universet. De er ideelle til at teste Einsteins generelle relativitetsteori. Men vi når grænsen for, hvad vi kan lære på afstand."
+        },
+        {
+          "overskrift": "Forslag om sonde",
+          "tekst": "Flere forskere har foreslået at sende en sonde direkte til et sort hul. Cosimo Bambi fra Fudan University i Shanghai er en af dem. Han har udgivet en artikel om, hvad der skal til for at sende en sonde på et gram til et nærliggende sort hul."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1 gram",
+          "label": "Sondens vægt"
+        }
+      ],
+      "detaljer": [
+        "Sorte huller har de stærkeste tyngdefelter i universet.",
+        "De kan teste Einsteins generelle relativitetsteori.",
+        "Forskere har idéer til at sende en sonde til et sort hul.",
+        "Cosimo Bambi foreslår en grams-stor sonde til et nærliggende sort hul."
+      ],
+      "betydning": "Hvis det lykkes, kan det give helt ny viden om sorte huller og naturlovene. Det kan også inspirere til fremtidige rummissioner.",
+      "pointer": [
+        "Sorte huller er ekstreme og kan teste relativitetsteori.",
+        "Forskere vil sende en sonde tæt på.",
+        "Bambi har en plan for en lille sonde.",
+        "Projektet er stadig på tegnebrættet."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Are we missing alien lighthouses?",
+      "link": "https://phys.org/news/2026-07-alien-lighthouses.html",
+      "dato": "2026-07-27T12:00:10+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Searching for extraterrestrial intelligence has so far primarily meant focusing on one particular type of signal—and that signal has normally been based on our own current cutting-edge technology. But what if that's the wrong way to look for signs of alien intelligence? What if a resource-conscious civilization decided it was too complicated to send femtosecond lasers in high-energy bursts across ",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/are-we-missing-alien-l.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Mangler vi aliens' fyrtårne i rummet?",
+      "resume_da": "Ny forskning foreslår, at vi måske leder efter aliens på den forkerte måde. I stedet for korte lysglimt bør vi lede efter langvarige pulserende signaler.",
+      "sektioner": [
+        {
+          "overskrift": "Nyt syn på signaleftersøgning",
+          "tekst": "Indtil nu har søgningen efter rumvæsener mest fokuseret på korte, kraftige lasersignaler. Men en ny undersøgelse foreslår, at en ressourcebevidst civilisation måske vælger at sende langvarige pulserende signaler i stedet."
+        },
+        {
+          "overskrift": "Langvarige beacon-signaler",
+          "tekst": "Forskerne Dániel Apai, Chia-Lung Lin og Kevin Wagner argumenterer for, at vi bør lede efter 'interstellare beacons', der pulserer over længere tid. De har lagt deres idé som et fortryk på arXiv."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Traditionel søgning fokuserer på femtosekund-lasere med højenergibursts.",
+        "Ny metode foreslår langvarige pulserende signaler.",
+        "Forskerne bag er Dániel Apai, Chia-Lung Lin og Kevin Wagner.",
+        "Artiklen er tilgængelig som preprint på arXiv."
+      ],
+      "betydning": "For almindelige danskere betyder det, at vores jagt på udenjordisk liv måske udvides og bliver mere nuanceret, hvilket kan bringe os tættere på et svar på det store spørgsmål: Er vi alene?",
+      "pointer": [
+        "Vi leder måske efter de forkerte signaler.",
+        "Aliens kan sende langsomme, pulserende signaler.",
+        "Forskningen er publiceret som preprint.",
+        "Kan ændre fremtidig eftersøgning efter rumvæsener."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "SpaceNews Welcomes Max Aliprandi as Business Development Associate",
+      "link": "https://spacenews.com/spacenews-welcomes-max-aliprandi-as-business-development-associate/",
+      "dato": "2026-07-27T12:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "SpaceNews today announced that Max Aliprandi has joined the company as Business Development Associate, strengthening the company&#8217;s sales, business development and product teams as SpaceNews continues to expand its audience, [&#8230;] The post SpaceNews Welcomes Max Aliprandi as Business Development Associate appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SN-logo-square.jpg?fit=900%2C900&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "SpaceNews ansætter ny forretningsudvikler",
+      "resume_da": "SpaceNews har ansat Max Aliprandi som Business Development Associate for at styrke salg og udvikling.",
+      "sektioner": [
+        {
+          "overskrift": "Ny medarbejder",
+          "tekst": "Max Aliprandi er startet som Business Development Associate hos SpaceNews. Han skal styrke virksomhedens salg, forretningsudvikling og produktteams."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Max Aliprandi er ansat som Business Development Associate",
+        "SpaceNews udvider sit publikum og sine teams"
+      ],
+      "betydning": "Nyheden er mest relevant for medie- og rumfartsbranchen, da den signalerer vækst i SpaceNews.",
+      "pointer": [
+        "SpaceNews har ansat Max Aliprandi",
+        "Han skal arbejde med salg og udvikling",
+        "Virksomheden udvider sit publikum"
+      ],
+      "prio": 1
+    },
+    {
+      "titel": "Private companies could ruin the night sky for the entire world, and international law can't stop them",
+      "link": "https://www.space.com/space-exploration/satellites/private-companies-could-ruin-the-night-sky-for-the-entire-world-and-international-law-cant-stop-them",
+      "dato": "2026-07-27T12:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "The U.S. Federal Communications Commission (FCC) can single-handedly approve space projects that will change the night sky around the world. The international community can do very little against it.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/oHxeWK77Qj6SD8CaHK8yhA-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Private firmaer kan ødelægge nattehimlen",
+      "resume_da": "International lov kan ikke stoppe private firmaer fra at forstyrre nattehimlen med satellitter og rumreklamer.",
+      "sektioner": [
+        {
+          "overskrift": "Problemet med private rumaktiviteter",
+          "tekst": "Private firmaer planlægger tusindvis af satellitter og endda rumreklamer. Det kan gøre nattehimlen meget lysere og forstyrre astronomiske observationer. International lov har ingen regler, der kan forhindre det."
+        },
+        {
+          "overskrift": "Manglende regulering",
+          "tekst": "Der findes ingen internationale love, der specifikt beskytter nattehimlen mod lysforurening fra rummet. FN's regler om rummet er forældede og fokuserer ikke på dette problem. Eksperter advarer om, at det kan være for sent at handle, når skaden først er sket."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Private firmaer som SpaceX og Amazon sender tusindvis af satellitter op.",
+        "Reklamer i rummet kunne være synlige med det blotte øje.",
+        "Astronomer frygter, at forskning bliver umulig på grund af lysforurening."
+      ],
+      "betydning": "Hvis nattehimlen bliver ødelagt, mister vi adgangen til et af de få uberørte naturområder, der er synlige for alle mennesker.",
+      "pointer": [
+        "Private firmaer planlægger masseopsendelser af satellitter.",
+        "Reklamer i rummet kan gøre nattehimlen endnu lysere.",
+        "International lov har ingen regler mod rum-forurening.",
+        "Astronomi og stjernekiggeri kan blive umuligt."
+      ],
+      "prio": 8
+    },
+    {
+      "titel": "Amazon files application for direct-to-device satellite constellation",
+      "link": "https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/",
+      "dato": "2026-07-27T11:59:34+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Amazon has filed plans with the Federal Communications Commission for a constellation of more than 5,100 satellites that would provide direct-to-device (D2D) services using Globalstar spectrum. The post Amazon files application for direct-to-device satellite constellation appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Amazon-Leo-D2D-scaled.jpeg?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Satellitter",
+      "rubrik": "Amazon ansøger om 5.100 D2D-satellitter",
+      "resume_da": "Amazon har ansøgt FCC om at opsende over 5.100 satellitter til direkte kommunikation med enheder ved hjælp af Globalstars spektrum.",
+      "sektioner": [
+        {
+          "overskrift": "Ansøgning og omfang",
+          "tekst": "Amazon har indgivet en ansøgning til den amerikanske telemyndighed FCC for en konstellation af over **5.100** satellitter. Formålet er at tilbyde direkte-til-enhed (D2D) tjenester."
+        },
+        {
+          "overskrift": "Spektrumspartnerskab med Globalstar",
+          "tekst": "Tjenesterne vil bruge spektrum fra Globalstar. Amazons plan bygger på en eksisterende aftale med satellitoperatøren."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "over 5.100",
+          "label": "Antal satellitter"
+        }
+      ],
+      "detaljer": [
+        "Amazon har ansøgt FCC om tilladelse til en satellitkonstellation.",
+        "Konstellationen skal levere direkte-til-enhed (D2D) tjenester.",
+        "Tjenesterne benytter Globalstars spektrum.",
+        "Ansøgningen blev offentliggjort af SpaceNews."
+      ],
+      "betydning": "Hvis projektet realiseres, kan det give bredbåndsdækning til mobiltelefoner direkte fra rummet, hvilket kan forbedre forbindelsen i områder uden mobilmaster.",
+      "pointer": [
+        "Amazon søger om 5.100+ D2D-satellitter.",
+        "Bruger Globalstars spektrum.",
+        "Kan give direkte mobildækning fra rummet."
+      ],
+      "prio": 6
+    },
     {
       "titel": "AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart",
       "link": "https://spacenews.com/ai-in-orbit-is-a-double-edged-sword-heres-how-to-keep-it-from-cutting-space-cooperation-apart/",
