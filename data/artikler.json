@@ -1,7 +1,458 @@
 {
-  "opdateret": "2026-07-27T18:01:13.349939+00:00",
-  "antal": 67,
+  "opdateret": "2026-07-27T21:53:13.854079+00:00",
+  "antal": 78,
   "artikler": [
+    {
+      "titel": "Hubble shows star formation in Andromeda galaxy is winding down",
+      "link": "https://phys.org/news/2026-07-hubble-star-formation-andromeda-galaxy.html",
+      "dato": "2026-07-27T21:20:09+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "A new study using data from NASA's Hubble Space Telescope finds that star formation in the nearby Andromeda galaxy has undergone a 500-million-year decline, with an even steeper drop in the last 40 million years. Andromeda, a spiral galaxy comparable in size to our Milky Way, is close enough to be seen with the unaided eye from areas with dark skies. Located about 2.5 million light-years from Eart",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/hubble-shows-star-form.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Hubble: Stjernedannelse i Andromeda aftager kraftigt",
+      "resume_da": "En ny analyse fra Hubble-teleskopet viser, at stjernedannelsen i Andromedagalaksen er faldet over de seneste 500 millioner år. Faldet er steget yderligere de sidste 40 millioner år.",
+      "sektioner": [
+        {
+          "overskrift": "Andromedas aftagende stjernedannelse",
+          "tekst": "Andromeda er en spiralgalakse på størrelse med Mælkevejen og ligger **2,5 millioner lysår** fra Jorden. Nye Hubble-data viser, at stjernedannelsen i galaksen har været faldende i **500 millioner år**, og faldet er accelereret de sidste **40 millioner år**."
+        },
+        {
+          "overskrift": "Hvorfor det betyder noget",
+          "tekst": "Andromeda er så tæt på, at astronomer kan studere dens stjerner i detaljer. Den udvikling, man ser her, kan give indsigt i, hvordan galakser som vores egen Mælkevej har udviklet sig over tid."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2,5 millioner lysår",
+          "label": "Afstand til Andromeda"
+        },
+        {
+          "tal": "500 millioner år",
+          "label": "Faldets varighed"
+        },
+        {
+          "tal": "40 millioner år",
+          "label": "Seneste acceleration"
+        }
+      ],
+      "detaljer": [
+        "Hubble-data viser fald i stjernedannelse i Andromeda over 500 mio. år.",
+        "Faldet er steget de seneste 40 mio. år.",
+        "Andromeda er en spiralgalakse som Mælkevejen, 2,5 mio. lysår væk.",
+        "Andromeda kan ses med det blotte øje fra mørke himmelstrøg."
+      ],
+      "betydning": "Studiet af Andromeda hjælper forskere med at forstå, hvordan store spiralgalakser udvikler sig, herunder vores egen Mælkevej, og hvad der sker, når stjernedannelsen aftager.",
+      "pointer": [
+        "Stjernedannelse i Andromeda falder markant.",
+        "Faldet er accelereret de sidste 40 mio. år.",
+        "Andromeda er den nærmeste store spiralgalakse.",
+        "Data fra Hubble giver ny viden om galakseudvikling."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Mercury reveals short-lived radiation belts during its swing farther from the sun",
+      "link": "https://phys.org/news/2026-07-mercury-reveals-short-belts-sun.html",
+      "dato": "2026-07-27T20:40:06+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Mercury was long considered the exception to the rule that magnetic planets have radiation belts similar to Earth's Van Allen belts, but a new study by University of Michigan Engineering and the University of California, Berkeley, suggests otherwise—Mercury occasionally has such a layer of radiation in its magnetic field.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/mercury-has-part-time.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Merkurs strålingsbælter varer kun kort tid",
+      "resume_da": "En ny undersøgelse viser, at Merkur har kortvarige strålingsbælter, når planeten er længst fra Solen.",
+      "sektioner": [
+        {
+          "overskrift": "Strålingsbælter opdaget",
+          "tekst": "Merkur har tidligere været undtagelsen, da man troede, at magnetiske planeter altid har strålingsbælter som Jordens Van Allen-bælter. En ny undersøgelse fra University of Michigan og UC Berkeley viser dog, at Merkur **af og til** har et sådant lag af stråling i sit magnetfelt."
+        },
+        {
+          "overskrift": "Kortvarige fænomener",
+          "tekst": "Strålingsbælterne på Merkur er **kortvarige** og opstår kun, når planeten er længst fra Solen. Det forklarer, hvorfor de ikke er blevet opdaget før. Forskerne brugte data fra rumfartøjet MESSENGER."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Merkur har et magnetfelt.",
+        "Strålingsbælterne minder om Jordens Van Allen-bælter.",
+        "Undersøgelsen kommer fra University of Michigan Engineering og UC Berkeley.",
+        "Data er fra MESSENGER-rumfartøjet."
+      ],
+      "betydning": "Opdagelsen ændrer vores forståelse af, hvordan magnetiske planeter fungerer, og kan hjælpe os med at forstå andre planeters magnetfelter bedre.",
+      "pointer": [
+        "Merkur kan have strålingsbælter.",
+        "De er kun aktive ved stor afstand til Solen.",
+        "Fundet bygger på gamle data fra MESSENGER.",
+        "Det udfordrer tidligere antagelser om magnetiske planeter."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Launch Preview: Falcon 9 and Chang Zheng rockets set to launch this week",
+      "link": "https://www.nasaspaceflight.com/2026/07/launch-preview-072726/",
+      "dato": "2026-07-27T20:31:02+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "Five orbital launches are scheduled worldwide for this week. In China, a Chang Zheng 6A&#8230; The post Launch Preview: Falcon 9 and Chang Zheng rockets set to launch this week appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/Falcon-9-launch-and-landing-Credit-Julia-Bergeron-for-NSF-scaled.jpeg",
+      "billede_alt": "",
+      "kategori": "Opsendelser",
+      "rubrik": "Fem rumopsendelser på én uge",
+      "resume_da": "Denne uge byder på fem opsendelser: to kinesiske Chang Zheng-raketter og tre SpaceX Falcon 9, heraf to Starlink-missioner og en hemmelig NRO-opsendelse.",
+      "sektioner": [
+        {
+          "overskrift": "Kinesiske Chang Zheng-raketter",
+          "tekst": "Onsdag opsendes en Chang Zheng 7A fra Wenchang, der kan løfte **12.000 kg** til lavt jordkredsløb. Torsdag følger en Chang Zheng 6A fra Taiyuan med en kapacitet på **5.000 kg**. Begge bærer ukendte nyttelaster."
+        },
+        {
+          "overskrift": "SpaceX Falcon 9-missioner",
+          "tekst": "Onsdag sender SpaceX 22 Starlink v2 Mini-satellitter i kredsløb fra Californien. Torsdag følger en hemmelig mission for det amerikanske efterretningskontor NRO. Søndag afsluttes ugen med endnu 24 Starlink-satellitter fra Californien."
+        },
+        {
+          "overskrift": "Raketternes genbrug",
+          "tekst": "SpaceX genbruger raketterne: booster B1081 flyver for **26. gang**, B1096 for **7. gang**, og B1063 for **34. gang**. De lander på droneskibe i Stillehavet eller på land."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "5",
+          "label": "Orbitale opsendelser på en uge"
+        },
+        {
+          "tal": "12.000 kg",
+          "label": "Chang Zheng 7A's løftekapacitet til LEO"
+        },
+        {
+          "tal": "182",
+          "label": "Orbitale opsendelser i 2026 indtil nu"
+        }
+      ],
+      "detaljer": [
+        "Chang Zheng 7A letter onsdag 29. juli kl. 11:42 UTC.",
+        "Chang Zheng 6A letter torsdag 30. juli kl. 01:00 UTC.",
+        "Starlink Group 17-52 letter onsdag 29. juli kl. 02:00 UTC (30. juli dansk tid).",
+        "NROL-95 letter torsdag 30. juli kl. 07:09 UTC.",
+        "Starlink Group 17-53 letter søndag 2. august kl. 14:00 UTC.",
+        "Chang Zheng 7A er 60,13 m høj; Chang Zheng 6A er 50 m høj."
+      ],
+      "betydning": "Rumopsendelser skaber teknologi, der bruges i hverdagen – fx vejrudsigt, GPS og internet. Flere ugentlige opsendelser viser, hvor hurtigt rumindustrien vokser.",
+      "pointer": [
+        "Fem opsendelser på én uge.",
+        "Kina sender to ukendte satellitter op.",
+        "SpaceX opsender Starlink-satellitter til internet.",
+        "Hemmelig NRO-mission torsdag."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Upper C-band auction offers another lift for GEO industry",
+      "link": "https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/",
+      "dato": "2026-07-27T20:11:07+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostationary spacecraft and other transition costs. The post Upper C-band auction offers another lift for GEO industry appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SES-Press-Release_SES-Completes-Acquisition-of-Intelsat_image-scaled-1.jpg?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "SES’s Betzdorf headquarters in Luxembourg, shown here with its satellite antenna field, anchors the company’s global operations following its Intelsat acquisition.",
+      "kategori": "Politik & penge",
+      "rubrik": "Milliarder på spil i FCC's C-bånd-auktion",
+      "resume_da": "Satellitoperatører ser frem til over 6 milliarder dollars for at rydde C-båndsspektrum til FCC's auktion i 2024.",
+      "sektioner": [
+        {
+          "overskrift": "Stort beløb til rydning",
+          "tekst": "Satellitoperatører kan få mere end **6 milliarder dollars** for hurtigt at rydde det øvre C-båndsspektrum. FCC planlægger at auktionere spektret næste år."
+        },
+        {
+          "overskrift": "Milliarder til nye satellitter",
+          "tekst": "Der er også milliarder af dollars øremærket til nye geostationære rumfartøjer. Pengene skal dække omstillingsomkostningerne."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "over 6 milliarder dollars",
+          "label": "rydning af C-bånd"
+        }
+      ],
+      "detaljer": [
+        "FCC ønsker at auktionere det øvre C-bånd i 2024.",
+        "Satellitoperatører modtager betaling for at frigøre spektret."
+      ],
+      "betydning": "Auktionen kan frigøre mere spektrum til 5G og mobilt bredbånd, hvilket kan forbedre dækningen og hastigheden i Danmark.",
+      "pointer": [
+        "Satellitfirmaer tjener kassen på spektrumrydning.",
+        "Ny geostationære satellitter skal bygges.",
+        "Spektret kan bruges til bedre mobilnet."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "What Australian lakes showed us about Martian hydrology",
+      "link": "https://phys.org/news/2026-07-australian-lakes-martian-hydrology.html",
+      "dato": "2026-07-27T19:40:06+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "The expansive red bluffs of Western Australia's Yilgarn Craton give the landscape a Martian appearance. It turns out the resemblance is more than superficial: The Yilgarn Craton also shares geological characteristics with lakes in Mars' Terra Sirenum region. T. A. Plattner and colleagues recently characterized those shared features to shed light on the region's aqueous history and its potential to",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-australian-lakes.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Australske søer afslører Mars' vandhistorie",
+      "resume_da": "Forskere har fundet ligheder mellem søer i Australien og Mars, hvilket kan fortælle om vandets rolle på Mars.",
+      "sektioner": [
+        {
+          "overskrift": "Mars-lignende landskab i Australien",
+          "tekst": "De røde klipper i det vestlige Australiens Yilgarn Craton ligner Mars' overflade. Forskere har opdaget, at området også deler geologiske træk med søer i Mars' Terra Sirenum-region."
+        },
+        {
+          "overskrift": "Fælles træk undersøgt",
+          "tekst": "T. A. Plattner og kolleger analyserede disse fælles træk for at forstå områdets vandhistorie. Resultaterne er offentliggjort i tidsskriftet *Earth and Space Science*."
+        },
+        {
+          "overskrift": "Muligt liv på Mars",
+          "tekst": "Studiet kan også kaste lys over, om Terra Sirenum engang har kunnet understøtte liv. Lighederne med australske søer giver vigtige ledetråde."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Yilgarn Craton i Australien har et Mars-lignende udseende.",
+        "Området deler geologiske træk med Mars' Terra Sirenum-søer.",
+        "Forskningen er udført af T. A. Plattner og offentliggjort i *Earth and Space Science*.",
+        "Formålet er at forstå vandets historie og potentialet for liv på Mars."
+      ],
+      "betydning": "For almindelige danskere viser studiet, hvordan jordiske landskaber kan hjælpe os med at forstå Mars' fortid – og dermed chancen for, at der har eksisteret liv på den røde planet.",
+      "pointer": [
+        "Australske søer minder om Mars-søer",
+        "Hjælper med at forstå Mars' vandhistorie",
+        "Kan indikere tidligere betingelser for liv",
+        "Forskning offentliggjort i videnskabeligt tidsskrift"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "'Dead stars' may have surprisingly healthy appetites",
+      "link": "https://phys.org/news/2026-07-dead-stars-healthy-appetites.html",
+      "dato": "2026-07-27T19:40:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "\"Dead stars\" known as white dwarfs have already shown the potential to help us better understand how planetary systems, including our own solar system, take shape and evolve. Now, research from the University of Michigan and the University of Colorado Boulder suggests that potential could be even greater than anticipated.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/dead-stars-may-have-su.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Døde stjerner kan æde planeter og måner",
+      "resume_da": "Hvide dværge, døde stjerner, kan fortælle os mere om planetsystemers udvikling end hidtil antaget, viser ny forskning.",
+      "sektioner": [
+        {
+          "overskrift": "Hvide dværges appetit",
+          "tekst": "Forskere fra University of Michigan og University of Colorado Boulder har opdaget, at hvide dværge kan opsluge materiale fra planeter og måner. Det betyder, at de kan give os spor om, hvordan planetsystemer dannes og ændrer sig."
+        },
+        {
+          "overskrift": "Større potentiale end ventet",
+          "tekst": "Allerede tidligere vidste man, at hvide dværge kan hjælpe os med at forstå vores eget solsystems udvikling. Den nye forskning viser, at deres potentiale er endnu større."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Hvide dværge er døde stjerner.",
+        "Forskningen kommer fra University of Michigan og University of Colorado Boulder.",
+        "Hvide dværge kan opsluge planeter og måner."
+      ],
+      "betydning": "Forskningen kan give os bedre indsigt i, hvordan vores eget solsystem og andre planetsystemer har udviklet sig over tid.",
+      "pointer": [
+        "Hvide dværge kan spise planeter og måner.",
+        "De kan afsløre planetsystemers historie.",
+        "Potentialet er større end tidligere antaget.",
+        "Forskningsresultaterne er fra to amerikanske universiteter."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Seven possible quasar lenses emerge from AI scan of 800,000 DESI objects",
+      "link": "https://phys.org/news/2026-07-quasar-lenses-emerge-ai-scan.html",
+      "dato": "2026-07-27T19:20:07+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Quasars, distant cores of galaxies powered by supermassive black holes, are among the most luminous objects in the universe. While not uncommon, their brightness can make it difficult to accurately measure the galaxies they reside in. This means scientists must use gravitational lensing to assist in analyzing these bright objects, a method that relies on studying how an object's strong gravity ben",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-discover-s-3.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "AI finder syv mulige kvazarlinser",
+      "resume_da": "Kunstig intelligens har gennemsøgt 800.000 objekter og fundet syv sjældne kvazarlinser, der kan hjælpe astronomer med at studere sorte huller og galakser.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er kvazarlinser?",
+          "tekst": "Kvasarer er klare kerner i galakser, drevet af supermassive sorte huller. Deres lys kan gøre det svært at måle værtsgalaksen. Derfor bruger astronomer gravitationel linseeffekt, hvor tyngdekraften bøjer lyset, til at analysere dem."
+        },
+        {
+          "overskrift": "AI-scanningsmetode",
+          "tekst": "Forskere brugte kunstig intelligens til at gennemsøge **800.000** objekter fra DESI-undersøgelsen. AI'en fandt frem til syv mulige nye kvazarlinser, hvilket er sjældent, fordi sådanne linser er vanskelige at opdage."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "800.000",
+          "label": "gennemsøgte objekter"
+        },
+        {
+          "tal": "7",
+          "label": "fundne mulige linser"
+        }
+      ],
+      "detaljer": [
+        "Kvasarer er blandt de mest lysstærke objekter i universet.",
+        "Gravitationel linsning udnytter galaksers tyngdekraft til at bøje lys.",
+        "Kvazarlinser er sjældne på trods af kvasarers kraftfulde tyngdekraft."
+      ],
+      "betydning": "Opdagelsen kan forbedre vores forståelse af sorte huller og galaksers udvikling, hvilket giver ny indsigt i universets opbygning.",
+      "pointer": [
+        "Kvasarer er meget lyse galaksekerner.",
+        "Gravitationelle linser hjælper med at måle galakser.",
+        "AI gennemsøgte 800.000 objekter.",
+        "Syv nye linser er nu fundet."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+      "dato": "2026-07-27T18:49:20+00:00",
+      "kilde": "NASA",
+      "resume": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live United States-based media interested [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/chris-williams-post-mission-conference-july-27.jpg?w=2048",
+      "billede_alt": "NASA astronaut Chris Williams shows off the Destiny laboratory module’s Microgravity Science Glovebox aboard the International Space Station. WIlliams was supporting semiconductor crystal research to ",
+      "kategori": "Missioner",
+      "rubrik": "NASA-astronauten Chris Williams gennemgår sin ISS-mission",
+      "resume_da": "NASA-astronauten Chris Williams deler erfaringer fra sin 8-måneders mission på Den Internationale Rumstation den 4. august.",
+      "sektioner": [
+        {
+          "overskrift": "Om pressemødet",
+          "tekst": "NASA-astronauten Chris Williams taler om sin mission den 4. august. Pressemødet sendes live fra Johnson Space Center i Houston."
+        },
+        {
+          "overskrift": "Missionens resultater",
+          "tekst": "Williams brugte **241 dage** i rummet og rejste over **102 millioner miles**. Han støttede forskning i nye kræftbehandlinger og forbedret produktion af materialer til supercomputere."
+        },
+        {
+          "overskrift": "Rumvandringer",
+          "tekst": "Under missionen udførte Williams to rumvandringer. En af dem skulle forberede opgraderinger af rumstationens strømsystem."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "241 dage",
+          "label": "Missionens varighed"
+        },
+        {
+          "tal": "102 millioner miles",
+          "label": "Rejst distance"
+        },
+        {
+          "tal": "2",
+          "label": "Rumvandringer"
+        }
+      ],
+      "detaljer": [
+        "Vendte tilbage til Jorden den 26. juli.",
+        "Williams var flight engineer på Expedition 73/74.",
+        "Han gennemførte 3.856 kredsløb om Jorden.",
+        "Seks besøgende rumfartøjer ankom, otte forlod stationen.",
+        "Forskning i nye kræftbehandlinger og materialer til high-performance computere."
+      ],
+      "betydning": "Missionen viser, hvordan rumforskning kan forbedre livet på Jorden, især inden for kræftbehandling og elektronikproduktion.",
+      "pointer": [
+        "Pressemøde 4. august kl. 20:45 dansk tid.",
+        "Williams tilbragte 241 dage i rummet.",
+        "To rumvandringer for at opgradere stationen.",
+        "Forskning i kræftbehandling og materialer."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Astronomers identify one of the universe's rarest black hole events",
+      "link": "https://phys.org/news/2026-07-astronomers-universe-rarest-black-hole.html",
+      "dato": "2026-07-27T18:20:04+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "A team of astronomers at the University of North Carolina at Chapel Hill has observed an extremely rare \"wandering\" black hole located tens of thousands of light-years from the center of its galaxy. This finding could reshape scientists' understanding of how massive black holes move through the universe after galaxies collide. The findings are published in The Astrophysical Journal Letters.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/unc-chapel-hill-astron.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Sjældent vandrende sort hul opdaget",
+      "resume_da": "Astronomer har observeret et vandrende sort hul langt fra sin galakses centrum. Opdagelsen kan ændre forståelsen af sorte hullers bevægelser efter galaksekollisioner.",
+      "sektioner": [
+        {
+          "overskrift": "Sjældent vandrende sort hul",
+          "tekst": "Et hold astronomer fra University of North Carolina har set et ekstremt sjældent 'vandrende' sort hul. Det befinder sig titusindvis af lysår fra centrum af sin galakse."
+        },
+        {
+          "overskrift": "Fundet offentliggjort",
+          "tekst": "Resultaterne er publiceret i tidsskriftet The Astrophysical Journal Letters. Opdagelsen kan ændre forskernes forståelse af, hvordan massive sorte huller bevæger sig gennem universet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "titusindvis af lysår",
+          "label": "Afstand fra galaksecentrum"
+        }
+      ],
+      "detaljer": [
+        "Opdagelsen blev gjort af et hold ved University of North Carolina at Chapel Hill",
+        "Det er et af de sjældneste sorte hul-fænomener",
+        "Fundet er publiceret i The Astrophysical Journal Letters"
+      ],
+      "betydning": "Opdagelsen kan give ny viden om, hvordan sorte huller bevæger sig efter galaksekollisioner, hvilket er vigtigt for at forstå galaksers udvikling.",
+      "pointer": [
+        "Sjældent vandrende sort hul fundet",
+        "Ligger langt fra galaksecentrum",
+        "Kan ændre teorier om sorte huller"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "NASA Science Soars During August Total Solar Eclipse",
+      "link": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/",
+      "dato": "2026-07-27T18:01:14+00:00",
+      "kilde": "NASA",
+      "resume": "Each time the Moon covers the Sun during a total solar eclipse — darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona — it presents new opportunities to better understand our star and its influence on Earth. On Wednesday, Aug. 12, as the next total solar eclipse sweeps over Greenland, Iceland, […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse-2024/Eclipse_SwRI_mosaic_processed.jpg?w=8960&#038;h=5040&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "NASA-fly og balloner jagter solformørkelse",
+      "resume_da": "Den 12. august 2026 skygger Månen Solen over Grønland, Island og Spanien. NASA sender et højtflyvende jetfly og videnskabelige balloner op for at studere solens yderste atmosfære og jordens atmosfære.",
+      "sektioner": [
+        {
+          "overskrift": "Jetfly følger månens skygge",
+          "tekst": "NASA's WB-57-fly flyver i **50.000 fods** højde for at observere solkoronaen i næsten **3 minutter**, længere end de **2 minutter og 18 sekunder** på jorden. Flyet har fire kameraer, der tager **20 billeder i sekundet** for at studere koronaens struktur og varme."
+        },
+        {
+          "overskrift": "Balloner overvåger atmosfæren",
+          "tekst": "Studerende fra amerikanske universiteter sender **80 balloner** op fra Island for at måle, hvordan formørkelsen påvirker jordens grænselag. Målet er at se, om grænselaget kollapser under formørkelsen, ligesom det skete ved tidligere formørkelser."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "50.000 fod",
+          "label": "Flyets flyvehøjde"
+        },
+        {
+          "tal": "20 billeder/sek",
+          "label": "Kameraets hastighed"
+        },
+        {
+          "tal": "80 balloner",
+          "label": "Antal balloner fra Island"
+        }
+      ],
+      "detaljer": [
+        "Formørkelsen finder sted 12. august 2026.",
+        "NASA's WB-57-jetfly bærer instrumentet SCIFLI Multispectral Airborne Imager (SAMI).",
+        "Flyet kan observere infrarøde bølgelængder, der normalt absorberes af atmosfæren.",
+        "Ballonprojektet ledes af Montana State University og University of Idaho.",
+        "Ballonerne opsendes 18 timer før til 8 timer efter formørkelsen.",
+        "Tidligere ballonflyvninger viste grænselagskollaps ved klart vejr, men ikke ved skyet."
+      ],
+      "betydning": "Solformørkelser giver forskere en unik mulighed for at studere solens korona og dens påvirkning af jordens atmosfære, hvilket forbedrer vores forståelse af rumvejr og dets effekt på satellitter og teknologi.",
+      "pointer": [
+        "NASA jager solformørkelse med jetfly og balloner",
+        "Flyet ser koronaen i 3 minutter i 50.000 fods højde",
+        "80 balloner måler atmosfæriske forandringer over Island",
+        "Studiet hjælper med at forstå solens indflydelse på Jorden"
+      ],
+      "prio": 4
+    },
     {
       "titel": "NASA Astronaut Chris Williams Returns to Earth",
       "link": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/",
@@ -494,6 +945,51 @@
         "Kan give direkte mobildækning fra rummet."
       ],
       "prio": 6
+    },
+    {
+      "titel": "Are aliens harvesting the spin of stars?",
+      "link": "https://phys.org/news/2026-07-aliens-harvesting-stars.html",
+      "dato": "2026-07-27T11:40:05+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "One of the challenges of searching for technosignatures (i.e., signs that intelligent life somewhere in the universe has created technology) is understanding what to look for. Technology is a very broad area, and different types would show up as different features. One of the most commonly cited is a Dyson sphere, which attempts to encapsulate a star and capture its outgoing light to produce energ",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/are-aliens-harvesting.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Ledte aliens efter stjerners spin?",
+      "resume_da": "En tyrkisk gymnasieelev foreslår i et nyt videnskabeligt papir, at vi måske har ledt efter Dyson-sfærer på forkert måde – aliens kunne høste energi fra stjernernes rotation i stedet for lys.",
+      "sektioner": [
+        {
+          "overskrift": "Dyson-sfærer i nyt lys",
+          "tekst": "Dyson-sfærer er teoretiske konstruktioner, der omslutter en stjerne for at opsamle dens lysenergi. Hidtil har astronomer ledt efter overskudsvarme i det infrarøde spektrum, men uden held."
+        },
+        {
+          "overskrift": "Ny idé: rotationsenergi",
+          "tekst": "Sahin Torlakcik peger på, at en avanceret civilisation i stedet kunne høste energi fra en stjernes spin. Det ville kræve en markant opbremsning af stjernens rotation, hvilket kunne måles."
+        },
+        {
+          "overskrift": "Metode til at teste teorien",
+          "tekst": "Forskeren foreslår at lede efter stjerner, der roterer langsommere end forventet. Hvis en stjerne pludselig mister rotationsenergi, kan det være tegn på udenjordisk teknologi."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "0",
+          "label": "fundne Dyson-sfærer hidtil"
+        }
+      ],
+      "detaljer": [
+        "Papiret er på arXiv som preprint.",
+        "Forfatteren er tyrkisk high school-student.",
+        "Teknologi er bredt felt – derfor svært at vide, hvad man skal lede efter."
+      ],
+      "betydning": "For almindelige danskere viser det, at søgningen efter fremmed liv er i konstant udvikling og kræver kreativ tænkning. Selom du ikke er forsker, kan du være med til at forme de spørgsmål, vi stiller om universet.",
+      "pointer": [
+        "Ny teori om alternative Dyson-sfærer.",
+        "Fokuserer på spin-energi i stedet for lys.",
+        "Stjerner med unormal opbremsning kan være spor.",
+        "Studie er endnu ikke fagfællebedømt."
+      ],
+      "prio": 4
     },
     {
       "titel": "AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart",
