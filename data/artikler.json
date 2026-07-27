@@ -1,7 +1,92 @@
 {
-  "opdateret": "2026-07-26T20:18:18.299709+00:00",
-  "antal": 48,
+  "opdateret": "2026-07-27T10:56:10.623613+00:00",
+  "antal": 55,
   "artikler": [
+    {
+      "titel": "AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart",
+      "link": "https://spacenews.com/ai-in-orbit-is-a-double-edged-sword-heres-how-to-keep-it-from-cutting-space-cooperation-apart/",
+      "dato": "2026-07-27T10:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "When we talk about stopping an arms race in space, people usually say that we need treaties that every state must follow or agreements that states can choose to follow. [&#8230;] The post AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/161021-D-ZZ999-998-e1771452020431.jpg?fit=1024%2C550&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "AI i rummet: et tveægget sværd for samarbejde",
+      "resume_da": "Kunstig intelligens i rummet kan både fremme og true samarbejde. Eksperter siger, at vi har brug for nye regler for at undgå en rustningskapløb i rummet.",
+      "sektioner": [
+        {
+          "overskrift": "Truslen fra AI i rummet",
+          "tekst": "AI i rummet kan gøre satellitter smartere, men også gøre dem til våben. Når AI styrer satellitter, kan det føre til misforståelser og konflikter. Der er en risiko for, at AI bliver brugt til angreb i rummet."
+        },
+        {
+          "overskrift": "Løsninger findes i regler",
+          "tekst": "For at undgå en rustningskapløb i rummet foreslår eksperter nye internationale regler. De siger, at vi har brug for både bindende traktater og frivillige aftaler. Reglerne skal sikre, at AI bruges ansvarligt i rummet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "AI i rummet er et tveægget sværd for internationalt samarbejde.",
+        "Traditionelt tales der om traktater eller frivillige aftaler for at stoppe rustningskapløb i rummet.",
+        "AI kan både forbedre og true samarbejdet i rummet."
+      ],
+      "betydning": "AI i rummet påvirker os alle, fordi det kan føre til konflikter, der påvirker jordens sikkerhed og satellitbaserede tjenester som GPS og kommunikation.",
+      "pointer": [
+        "AI i rummet kan misforstås og eskalere konflikter.",
+        "Nye regler er nødvendige for at undgå rustningskapløb.",
+        "Både bindende og frivillige aftaler er i spil."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Juno reveals surprising subsurface tempertures at Io, remarkably smooth surface",
+      "link": "https://www.nasaspaceflight.com/2026/07/juno-io-subsurface-temps/",
+      "dato": "2026-07-26T23:21:55+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "Following two flybys of Jupiter&#8217;s innermost Galilean moon Io, teams using data from NASA&#8217;s Juno&#8230; The post Juno reveals surprising subsurface tempertures at Io, remarkably smooth surface appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/io-juno-oct-2023-e1785107357626.png",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Juno måler varme under Ios overflade",
+      "resume_da": "Juno-sonden har for første gang målt temperaturer under overfladen på Jupiter-månen Io og fundet en overraskende glat overflade.",
+      "sektioner": [
+        {
+          "overskrift": "Underjordisk varme målt",
+          "tekst": "Juno brugte sit mikrostrålingsinstrument (MWR) til at måle varme fra få centimeter til flere meters dybde under Ios overflade. Temperaturen steg med over **40 grader Fahrenheit** blot nogle få fod nede, hvilket er langt mere end solvarme alene kan forklare."
+        },
+        {
+          "overskrift": "To teorier om varmen",
+          "tekst": "Forskerne har to mulige forklaringer: Enten har Io en ledende skorpe, der leder varme op fra indre, eller også varmer afkølende lava under jorden overfladen op. Den målte varmestrøm er næsten **30 gange** større end Jordens gennemsnit."
+        },
+        {
+          "overskrift": "Overfladen er meget glat",
+          "tekst": "MWR-data viste også, at Ios overflade er bemærkelsesværdigt glat – som de store sletter i Nordamerika – og består af lavdensitetsmateriale som pimpsten eller vulkansk aske. De glatte områder strækker sig over **100 km** eller mere."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "40 grader F",
+          "label": "temperaturstigning få fod nede"
+        },
+        {
+          "tal": "30 gange",
+          "label": "Jordens gennemsnitlige varmestrøm"
+        }
+      ],
+      "detaljer": [
+        "Målingerne blev gjort under to forbiflyvninger: 30. dec. 2023 og 3. feb. 2024.",
+        "Juno kom inden for ca. 1.500 km af Ios overflade.",
+        "Io er det mest vulkansk aktive himmellegeme i solsystemet.",
+        "Juno har været ved Jupiter siden 2016 og gennemførte sit 85. kredsløb 5. juli 2026."
+      ],
+      "betydning": "Forståelse af Ios varme kan hjælpe forskere med at studere Jordens vulkaner og tidevandsopvarmning, som også driver underjordiske oceaner på andre måner som Europa.",
+      "pointer": [
+        "Første måling af underjordisk varme på Io",
+        "Temperatur stiger stejlt lige under overfladen",
+        "Overfladen er overraskende glat og porøs",
+        "Metoden kan bruges til at studere vulkaner på Jorden"
+      ],
+      "prio": 5
+    },
     {
       "titel": "Gamma-ray pulsations reveal extreme 3.2-millisecond pulsar 3,900 light-years away",
       "link": "https://phys.org/news/2026-07-gamma-ray-pulsations-reveal-extreme.html",
@@ -1950,6 +2035,223 @@
         "Overfladen er glat og har lav tæthed"
       ],
       "prio": 7
+    },
+    {
+      "titel": "Jupiter-mass 'exomoon' orbiting brown dwarf challenges cosmic labels",
+      "link": "https://phys.org/news/2026-07-jupiter-mass-exomoon-orbiting-brown.html",
+      "dato": "2026-07-22T15:00:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Observations made with the European Southern Observatory's Very Large Telescope (ESO's VLT) have revealed evidence for a moon-like object in the CD-35 2722 system. Unlike moons in our solar system, the newly found object does not orbit a planet, raising questions about what to name it. Instead, it circles a brown dwarf, an object larger than a planet, that orbits the CD-35 2722 star. If confirmed,",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-exomoon-detection.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Første mulige 'exomåne' fundet omkring brun dværg",
+      "resume_da": "Astronomer har med ESO's VLT-teleskop fundet tegn på et månelignende objekt, der kredser om en brun dværg i systemet CD-35 2722. Objektet udfordrer vores definition af, hvad en måne er.",
+      "sektioner": [
+        {
+          "overskrift": "Uventet opdagelse",
+          "tekst": "Observations with the ESO Very Large Telescope has revealed a moon-like object in the CD-35 2722 system. Unlike moons in our solar system, it does not orbit a planet, but rather a brown dwarf. This is the first such object found outside the solar system."
+        },
+        {
+          "overskrift": "Hvad er en exomåne?",
+          "tekst": "En exomåne er en måne, der kredser om en planet uden for vores solsystem. Men dette objekt kredser om en brun dværg, som er større end en planet, men mindre end en stjerne. Derfor er det svært at klassificere objektet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Objektet blev fundet med ESO's Very Large Telescope",
+        "Det kredser om en brun dværg i systemet CD-35 2722",
+        "Hvis bekræftet, ville det være den første exomåne, der er opdaget"
+      ],
+      "betydning": "Opdagelsen udfordrer vores forståelse af, hvad måner og planeter er, og åbner for nye spørgsmål om dannelsen af himmellegemer.",
+      "pointer": [
+        "Første tegn på exomåne",
+        "Kredser om brun dværg",
+        "Opdaget med ESO's VLT",
+        "Udvider grænserne for kosmiske labels"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Path to Starship Flight 13 requires additional Booster 20 test",
+      "link": "https://www.nasaspaceflight.com/2026/07/path-flight-13-attempt-2-test/",
+      "dato": "2026-07-22T14:57:56+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "SpaceX continues to target no earlier than Thursday, July 23, for the next attempt to&#8230; The post Path to Starship Flight 13 requires additional Booster 20 test appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/NSF-2026-07-22-15-44-28-486.jpg",
+      "billede_alt": "",
+      "kategori": "Opsendelser",
+      "rubrik": "SpaceX vil forsøge Starship Flight 13 senest 23. juli",
+      "resume_da": "SpaceX har udskiftet to motorer på Booster 20 efter en automatisk abort under sidste forsøg. Næste forsøg tidligst 23. juli.",
+      "sektioner": [
+        {
+          "overskrift": "Motorfejl ved sidste forsøg",
+          "tekst": "Under affyringsforsøget den 16. juli tændte **29** af Boosters **33** Raptor-motorer. Fire motorer tændte ikke, hvilket udløste en automatisk abort. Systemet kan tåle op til tre motorfejl under opstart."
+        },
+        {
+          "overskrift": "Udskiftning af motorer",
+          "tekst": "SpaceX CEO Elon Musk sagde, at to Raptor-motorer blev skiftet for at sikre en god flyvning. Tre motorer er set på SpaceX's testanlæg i McGregor. En af dem var tidligere brugt på Booster 19."
+        },
+        {
+          "overskrift": "Test og forberedelser",
+          "tekst": "En Spin Prime-test blev udført den 22. juli, inden raketten blev tømt. Ship 40 skal rulles ud og stables ovenpå Booster 20. Lanceringen ventes tidligst 23. juli."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "29",
+          "label": "tændte motorer"
+        },
+        {
+          "tal": "33",
+          "label": "motor i alt"
+        },
+        {
+          "tal": "4",
+          "label": "motorer der ikke tændte"
+        }
+      ],
+      "detaljer": [
+        "Abort skete efter tænding af detonationsdæmpningssystem.",
+        "Forsøg 16. juli: hold ved T-60 sekunder, abort efter motorfejl.",
+        "20 Starlink V3-satellitter var ombord på Ship 40.",
+        "SpaceX har offentliggjort vej- og strandlukninger for 23. juli."
+      ],
+      "betydning": "Starship er verdens største raket og skal gøre rumfart billigere. Missionen tester ny motor og satellitudsætning, hvilket er vigtigt for fremtidige opsendelser.",
+      "pointer": [
+        "Fjerde motorfejl forårsagede abort.",
+        "To motorer skiftet efter fejl.",
+        "Test den 22. juli i Texas.",
+        "Næste forsøg tidligst 23. juli."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Astronomers are still trying to understand how a galaxy's spiral arms form",
+      "link": "https://phys.org/news/2026-07-astronomers-galaxy-spiral-arms.html",
+      "dato": "2026-07-22T14:20:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "The Whirlpool galaxy (M51) is a classic grand spiral galaxy. It was the first object identified as a spiral, way back in 1845. At the time, it and other galaxies were considered spiral nebulae, since astronomers didn't know other galaxies existed. Edwin Hubble finally proved that there were other galaxies in the early 1920s.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-are-still.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Forskere undersøger hvordan spiralarme i galakser opstår",
+      "resume_da": "Astronomer forsøger stadig at forstå, hvordan galaksers spiralarme dannes. Hvirvelgalaksen (M51) var den første galakse, der blev identificeret som spiral i 1845.",
+      "sektioner": [
+        {
+          "overskrift": "Spiralgalaksers oprindelse",
+          "tekst": "Forskere har i årtier studeret, hvordan galaksers spiralarme opstår. Den klassiske Hvirvelgalakse (M51) blev første gang set som spiral i **1845**."
+        },
+        {
+          "overskrift": "Historisk betydning",
+          "tekst": "På det tidspunkt troede astronomer, at galakser var spiralformede tåger (nebulæer), fordi man ikke vidste, at andre galakser fandtes. Det var først i **1920'erne**, at Edwin Hubble beviste eksistensen af andre galakser."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1845",
+          "label": "år, spiral opdaget"
+        },
+        {
+          "tal": "1920'erne",
+          "label": "år, andre galakser bevist"
+        }
+      ],
+      "detaljer": [
+        "Hvirvelgalaksen (M51) er en klassisk grand spiralgalakse.",
+        "M51 var det første objekt, der blev identificeret som spiral.",
+        "Galakser blev oprindeligt kaldt spiralnebulæer.",
+        "Edwin Hubble beviste, at der findes andre galakser i 1920'erne."
+      ],
+      "betydning": "At forstå spiralarmes dannelse hjælper os med at forstå galaksers udvikling, hvilket giver indsigt i universets struktur og vores egen galakses historie.",
+      "pointer": [
+        "Hvirvelgalaksen var den første kendte spiralgalakse.",
+        "Spiralopdagelsen skete i 1845.",
+        "Før Hubble troede man, galakser var tåger.",
+        "Hubble beviste eksistensen af andre galakser i 1920'erne."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "The strategic competition with China: winning the multi-domain race",
+      "link": "https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/",
+      "dato": "2026-07-22T13:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete. The introduction of repeating rifles transformed infantry combat during the 19th [&#8230;] The post The strategic competition with China: winning the multi-domain race appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/CZ6A-Qianfan-6th-18-TSLC-17oct2025-CASC1.jpg?fit=1024%2C604&amp;ssl=1",
+      "billede_alt": "A Long March 6A rocket lifts off from the Taiyuan Satellite Launch Center in northern China, producing a bright plume of exhaust against a clear sky, with four lightning towers surrounding the launch ",
+      "kategori": "Politik & penge",
+      "rubrik": "Strategisk konkurrence med Kina: Vind i alle domæner",
+      "resume_da": "Militær innovation ændrer krigsførelse, og rummet er en central arena i konkurrencen med Kina.",
+      "sektioner": [
+        {
+          "overskrift": "Historisk innovation",
+          "tekst": "Militær innovation har altid ændret krigens regler. Nye våben som repetergeværer gjorde tidligere strategier forældede."
+        },
+        {
+          "overskrift": "Rummet som arena",
+          "tekst": "I dag foregår konkurrencen på tværs af domæner, herunder rummet. At dominere i rummet er afgørende for militær overlegenhed."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Militær innovation omskriver konstant krigsførelsens regler.",
+        "Repetergeværer ændrede infanterikamp i 1800-tallet.",
+        "Rummet er en nøglearena i den strategiske konkurrence med Kina."
+      ],
+      "betydning": "Artiklen understreger, at rummet er blevet en central slagmark i stormagtsrivalisering, hvilket påvirker dansk sikkerhedspolitik og rumfartssamarbejde.",
+      "pointer": [
+        "Historien viser, at ny teknologi ændrer krig.",
+        "Rummet er nu en del af konkurrencen.",
+        "Kina udfordrer USA's dominans.",
+        "Det kræver nye strategier på tværs af domæner."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "New timelapse video shows NASA's Psyche spacecraft zooming by Mars",
+      "link": "https://www.space.com/astronomy/mars/new-timelapse-video-shows-nasas-psyche-spacecraft-zooming-by-mars",
+      "dato": "2026-07-22T12:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "\"We didn't anticipate big discoveries, given how extensively the planet has been studied, but we did complement Mars science with the data we collected through Psyche's unique perspective.\"",
+      "billede": "https://cdn.mos.cms.futurecdn.net/eJQFPKa8b8xRUvw7gyWR3B-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Psyche-sonde svirrer forbi Mars på vej til asteroide",
+      "resume_da": "NASA's Psyche-sonde fløj tæt forbi Mars i maj 2023. Et nyt time-lapse-video viser forbløffende detaljer fra forbiflyvningen.",
+      "sektioner": [
+        {
+          "overskrift": "Time-lapse video",
+          "tekst": "Et nyt time-lapse-video fra NASA viser Psyche-sondens forbiflyvning af Mars i maj 2023. Videoen er sammensat af **60** billeder taget over en periode på omkring en time."
+        },
+        {
+          "overskrift": "Sondens mission",
+          "tekst": "Psyche-sonden er på vej mod asteroiden Psyche, der ligger i asteroidebæltet mellem Mars og Jupiter. Asteroiden menes at være en eksponeret kerne fra en planet, der aldrig blev dannet."
+        },
+        {
+          "overskrift": "Forbiflyvningens formål",
+          "tekst": "Forbiflyvningen af Mars brugte planetens tyngdekraft til at slynge Psyche-sonden videre mod sit mål. Teknikken kaldes en 'gravity assist' og sparer brændstof."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "60 billeder",
+          "label": "Antal billeder i time-lapse"
+        }
+      ],
+      "detaljer": [
+        "Forbiflyvningen fandt sted i maj 2023.",
+        "Videoen er optaget over cirka en time.",
+        "Sonden er på vej til asteroiden Psyche."
+      ],
+      "betydning": "Missionen kan hjælpe forskere med at forstå, hvordan planeter dannes, og hvad der gemmer sig i deres kerner.",
+      "pointer": [
+        "Time-lapse viser Mars-forbiflyvning.",
+        "60 billeder over en time.",
+        "Gravity assist sparer brændstof.",
+        "Mål: asteroiden Psyche."
+      ],
+      "prio": 5
     }
   ]
 }
