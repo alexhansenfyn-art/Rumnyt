@@ -1,7 +1,102 @@
 {
-  "opdateret": "2026-07-28T15:55:57.252196+00:00",
-  "antal": 87,
+  "opdateret": "2026-07-28T20:38:10.619895+00:00",
+  "antal": 89,
   "artikler": [
+    {
+      "titel": "The future of the UK's renowned Lovell radio telescope is in question after a funding cut",
+      "link": "https://phys.org/news/2026-07-future-uk-renowned-lovell-radio.html",
+      "dato": "2026-07-28T17:40:11+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Scientists have reacted with alarm to news that the British government will cut funding to the world-famous radio telescope at the Jodrell Bank Observatory, a UNESCO World Heritage Site in northwest England that has been helping explore the cosmos for almost 70 years.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-future-of-the-uks.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Lovell-teleskopets fremtid truet af britisk sparekniv",
+      "resume_da": "Storbritannien nedskærer støtten til det verdenskendte Lovell-radioteleskop, hvilket kan true dets drift.",
+      "sektioner": [
+        {
+          "overskrift": "Nedskæring vækker bekymring",
+          "tekst": "Forskere reagerer med alarm på nyheden om, at den britiske regering skærer i finansieringen til Lovell-radioteleskopet. Teleskopet er en del af Jodrell Bank Observatory, der er på UNESCOs verdensarvsliste."
+        },
+        {
+          "overskrift": "Historisk teleskop truet",
+          "tekst": "Lovell-teleskopet har været med til at udforske universet i næsten **70 år**. Det er verdensberømt og et vigtigt redskab for astronomien."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "70 år",
+          "label": "Teleskopets alder"
+        }
+      ],
+      "detaljer": [
+        "Den britiske regering skærer i finansieringen til Lovell-radioteleskopet.",
+        "Teleskopet ligger ved Jodrell Bank Observatory i det nordvestlige England.",
+        "Observatoriet er på UNESCOs verdensarvsliste."
+      ],
+      "betydning": "Nedskæringer i forskning kan forsinke vores forståelse af universet og påvirke danske forskeres samarbejde med Storbritannien.",
+      "pointer": [
+        "Lovell-teleskopet er truet af sparekniven.",
+        "Det har været i drift i næsten 70 år.",
+        "Forskere er bekymrede for fremtiden.",
+        "Staten har reduceret støtten."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Ship 40’s flawless flight promotes next mission catch potential",
+      "link": "https://www.nasaspaceflight.com/2026/07/ship-40-catch-potential/",
+      "dato": "2026-07-28T17:33:20+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "SpaceX’s Starship Flight 13 demonstrated that the Ship can complete its mission and return intact,&#8230; The post Ship 40&#8217;s flawless flight promotes next mission catch potential appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/NSF-2026-07-28-17-55-41-344.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Starship Flight 13: Ship succes, booster smadret",
+      "resume_da": "SpaceX's Ship 40 fløj fejlfrit, overlevede landing i havet og flød intakt. Booster 20 styrtede ned under landing.",
+      "sektioner": [
+        {
+          "overskrift": "Ship 40's perfekte flyvning",
+          "tekst": "Ship 40 fløj fejlfrit fra start til slut. Den udsatte **20** Starlink V3-satellitter og gennemførte genindtræden og landing uden problemer. Skibet flød intakt i Det Indiske Ocean efter landing."
+        },
+        {
+          "overskrift": "Booster 20's mislykkede landing",
+          "tekst": "Booster 20 forsøgte landing, men kun **10** af **13** center-motorer tændte. Boosteren ramte vandet med høj fart og eksploderede. Det var kun boosterens anden flyvning, så SpaceX vil lære af fejlen."
+        },
+        {
+          "overskrift": "FAA kræver ikke undersøgelse",
+          "tekst": "På trods af landingens fiasko kræver den amerikanske luftfartsmyndighed FAA ikke en officiel undersøgelse af Flight 13. Det skyldes formentlig, at der ikke var nogen risiko for offentligheden."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "33",
+          "label": "motorer på Super Heavy"
+        },
+        {
+          "tal": "10 af 13",
+          "label": "motorer tændte ved landing"
+        },
+        {
+          "tal": "20",
+          "label": "Starlink-satellitter udsat"
+        }
+      ],
+      "detaljer": [
+        "Første forsøg blev afbrudt pga. fire motorer, der ikke startede.",
+        "Andet forsøg blev aflyst pga. skyer, der blokerede observation af varmeskjold.",
+        "Tredje forsøg lykkedes den 24. juli med kun seks minutters forsinkelse.",
+        "Ship 40 flød intakt i havet og giver mulighed for at indsamle data om varmeskjoldet."
+      ],
+      "betydning": "Missionen viser, at Starship-shipet snart kan gøres genanvendeligt. Det bringer SpaceX tættere på målet om at sende store nyttelaster og mennesker til Månen og Mars.",
+      "pointer": [
+        "Ship 40 fløj perfekt og flød intakt.",
+        "Booster 20 styrtede ned i havet.",
+        "FAA kræver ikke undersøgelse.",
+        "Næste flyvning kan forsøge at fange boosteren."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Evidence of giant rings in Venus's atmosphere uncovered in archived observations",
       "link": "https://phys.org/news/2026-07-evidence-giant-venus-atmosphere-uncovered.html",
