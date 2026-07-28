@@ -1,7 +1,101 @@
 {
-  "opdateret": "2026-07-27T21:53:13.854079+00:00",
-  "antal": 78,
+  "opdateret": "2026-07-28T07:48:35.299079+00:00",
+  "antal": 80,
   "artikler": [
+    {
+      "titel": "Smoke Blankets Oregon",
+      "link": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
+      "dato": "2026-07-28T04:01:00+00:00",
+      "kilde": "NASA",
+      "resume": "Lightning storms have ignited dozens of fires in central and eastern Oregon.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-blankets-oregon/oregonfires_amo_20260726.jpg?w=2160&#038;h=1740&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "Long plumes of gray wildfire smoke stream northeast from a line of fires in central and eastern Oregon, including the Beachcomb, Shingle, and Second Flat fires that threatened communities.",
+      "kategori": "Rumvejr",
+      "rubrik": "Røg fra skovbrande dækker Oregon",
+      "resume_da": "Tørke, tordenvejr og kraftig vind har ført til omfattende skovbrande i Oregon. NASA's Aqua-satellit har fanget billeder af røgfaner, der dækker hundredvis af kvadratkilometer.",
+      "sektioner": [
+        {
+          "overskrift": "Lyn starter brande",
+          "tekst": "Tørre tordenbyger over Cascade Range den **15. juli 2026** forårsagede tusindvis af lynnedslag i Oregon og Washington. Dagen efter opdagede NASA-satellitter et stort antal skovbrande i det centrale og østlige Oregon."
+        },
+        {
+          "overskrift": "Brande spreder sig",
+          "tekst": "Brandene blev styrket af vind og tørke. Da NASA's Aqua-satellit tog billedet den **26. juli**, sivede røg fra snesevis af store brande, der havde brændt hundredvis af kvadratkilometer. Over **10.000** brandfolk bekæmpede brandene."
+        },
+        {
+          "overskrift": "Luftkvalitet og evakuering",
+          "tekst": "Røgen førte til luftkvalitetsadvarsler i det østlige Oregon, og mange samfund måtte evakuere. De største aktive brande var Hay Creek Complex, Brewer, Big Grass, Akawa Butte og Powder River. Flere var mindre end **5 %** under kontrol."
+        },
+        {
+          "overskrift": "Omfattende skader",
+          "tekst": "Pr. **27. juli 2026** havde brandene i Oregon brændt over **1 million acres**. I hele USA var der brændt over **4 millioner acres** – det 10-årige gennemsnit for denne tid på året er **3,4 millioner acres**."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1 million acres",
+          "label": "Brændt areal i Oregon"
+        },
+        {
+          "tal": "4 millioner acres",
+          "label": "Brændt areal i USA"
+        },
+        {
+          "tal": "3,4 millioner acres",
+          "label": "10-års gennemsnit"
+        }
+      ],
+      "detaljer": [
+        "Billedet blev taget af MODIS-instrumentet på NASAs Aqua-satellit den 26. juli 2026.",
+        "Brandene startede efter tørre tordenbyger den 15. juli 2026.",
+        "Flere brande var mindre end 5 % under kontrol.",
+        "Oregon aktiverede sin Emergency Conflagration Act for at beskytte samfund.",
+        "NASA tilbyder værktøjer som FIRMS og Worldview til overvågning af brande."
+      ],
+      "betydning": "Skovbrande påvirker luftkvaliteten og kan true både mennesker og miljø. Satellitdata gør det muligt at følge brandene i realtid og forbedre beredskabet.",
+      "pointer": [
+        "Tørke og lynnedslag har antændt omfattende brande i Oregon.",
+        "Røgen breder sig over store områder og forringer luftkvaliteten.",
+        "Mere end 10.000 brandfolk er indsat.",
+        "Brandarealet overstiger gennemsnittet for denne tid på året."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "How NASA plans to build the Habitable Worlds Observatory",
+      "link": "https://phys.org/news/2026-07-nasa-habitable-worlds-observatory.html",
+      "dato": "2026-07-27T22:20:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "We've been covering the journey of the Habitable Worlds Observatory for some time now. Over the past few years, it's gone from a proposal to a relatively fleshed-out plan for how and what the next Great Observatory should do—in this case, look at and characterize potentially habitable exoplanets.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-nasa-plans-to-buil.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "NASA vil bygge nyt teleskop til beboelige exoplaneter",
+      "resume_da": "Det Habitable Worlds Observatory skal finde og studere jordlignende planeter uden for solsystemet. Projektet er gået fra idé til en konkret plan.",
+      "sektioner": [
+        {
+          "overskrift": "Teleskopets formål",
+          "tekst": "Observatoriet skal blive det næste store NASA-observatorium. Dets primære opgave er at kigge på og karakterisere potentielt beboelige exoplaneter."
+        },
+        {
+          "overskrift": "Planens udvikling",
+          "tekst": "I de seneste år er projektet gået fra et forslag til en relativt udarbejdet plan. Det er nu klart, hvordan og hvad teleskopet skal gøre."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Observatoriet skal erstatte James Webb-rumteleskopet som næste store NASA-observatorium.",
+        "Fokus er på at finde og analysere jordlignende planeter i beboelige zoner."
+      ],
+      "betydning": "Hvis det lykkes, kan vi finde ud af, om der findes andre planeter med liv. Det vil ændre vores forståelse af universet.",
+      "pointer": [
+        "Finde jordlignende exoplaneter",
+        "Kortlægge beboelige zoner",
+        "Næste store NASA-teleskop",
+        "Fra idé til konkret plan"
+      ],
+      "prio": 7
+    },
     {
       "titel": "Hubble shows star formation in Andromeda galaxy is winding down",
       "link": "https://phys.org/news/2026-07-hubble-star-formation-andromeda-galaxy.html",
