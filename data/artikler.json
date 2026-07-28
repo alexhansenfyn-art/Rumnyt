@@ -1,7 +1,294 @@
 {
-  "opdateret": "2026-07-28T07:48:35.299079+00:00",
-  "antal": 80,
+  "opdateret": "2026-07-28T15:55:57.252196+00:00",
+  "antal": 87,
   "artikler": [
+    {
+      "titel": "Evidence of giant rings in Venus's atmosphere uncovered in archived observations",
+      "link": "https://phys.org/news/2026-07-evidence-giant-venus-atmosphere-uncovered.html",
+      "dato": "2026-07-28T15:40:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "In 2010, scientists waiting to use the William Herschel Telescope in the Canary Islands captured a brief 36 minutes of images of Venus. They were waiting for the sun to set so they could look at distant stars and dust disks around young stars. Consequently, little attention was paid to the data, which was filed away in the archives.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-ev.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Kæmperinge opdaget i Venus' atmosfære",
+      "resume_da": "Forskere har genfundet gamle data fra 2010, der viser gigantiske ringe i Venus' atmosfære.",
+      "sektioner": [
+        {
+          "overskrift": "Gamle data genopdaget",
+          "tekst": "I 2010 optog forskere **36 minutter** af billeder af Venus med William Herschel-teleskopet. Dataene blev gemt væk og først nu genfundet og analyseret."
+        },
+        {
+          "overskrift": "Kæmperinge i atmosfæren",
+          "tekst": "Analysen afslørede store ringstrukturer i Venus' atmosfære. Ringerne strækker sig over store afstande og er tidligere ukendte."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "36 minutter",
+          "label": "observationstid"
+        }
+      ],
+      "detaljer": [
+        "Observationer fra 2010 med William Herschel-teleskopet.",
+        "Data var arkiveret, indtil de nu blev genanalyseret.",
+        "Ringe i Venus' atmosfære er en ny opdagelse."
+      ],
+      "betydning": "Opdagelsen ændrer vores forståelse af Venus' atmosfære og kan hjælpe med at forstå vejrfænomener på andre planeter.",
+      "pointer": [
+        "Data fra 2010 gemt væk i arkiver.",
+        "Kun 36 minutters observation.",
+        "Store ringe i atmosfæren.",
+        "Ny viden om Venus."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Tabby's star may be orbited by a planetary-mass companion",
+      "link": "https://phys.org/news/2026-07-tabby-star-orbited-planetary-mass.html",
+      "dato": "2026-07-28T14:00:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "By analyzing data from NASA's Transiting Exoplanet Survey Satellite (TESS) and conducting new radial velocity measurements, U.K. and French astronomers have found evidence that the mysterious Tabby's star may be orbited by an object about nine times more massive than Jupiter. The new findings are published on the preprint server arXiv.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/tabbys-star-may-be-orb-1.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Tabby's star har muligvis en planet på størrelse med 9 Jupiter",
+      "resume_da": "Astronomer har fundet tegn på, at den mystiske Tabby's star har en følgesvend, der er ni gange så massiv som Jupiter.",
+      "sektioner": [
+        {
+          "overskrift": "Nye målinger",
+          "tekst": "Forskere fra Storbritannien og Frankrig har analyseret data fra NASAs TESS-rumteleskop og foretaget nye radialhastighedsmålinger. De fandt beviser for, at Tabby's star har en følgesvend."
+        },
+        {
+          "overskrift": "Massiv planet",
+          "tekst": "Objektet, der kredser om stjernen, er omkring **ni gange mere massivt** end Jupiter. Det tyder på, at det kan være en planet eller en brun dværg."
+        },
+        {
+          "overskrift": "Tabby's star",
+          "tekst": "Tabby's star er kendt for sine mystiske lysstyrkesvingninger, som tidligere har fået astronomer til at spekulere i om en såkaldt Dyson-sfære kunne være årsagen. De nye resultater giver en mere naturlig forklaring."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "9 gange Jupiter",
+          "label": "Masse af objektet"
+        }
+      ],
+      "detaljer": [
+        "Data fra TESS og nye radialhastighedsmålinger er anvendt.",
+        "Fundet er offentliggjort på preprint-serveren arXiv."
+      ],
+      "betydning": "Opdagelsen giver en mulig forklaring på Tabby's stars mystiske lysændringer og viser, hvordan TESS kan finde skjulte planeter omkring mærkelige stjerner.",
+      "pointer": [
+        "Tabby's star har en massiv følgesvend.",
+        "Objektet er 9 gange tungere end Jupiter.",
+        "Data fra TESS var afgørende."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Martian space suits will need to be 40% lighter",
+      "link": "https://phys.org/news/2026-07-martian-space-lighter.html",
+      "dato": "2026-07-28T13:40:05+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Long before a human ever sets foot on the Red Planet, we already know how harsh the environment is. Once a human finally does, the only things protecting them from that environment will be the infrastructure we've built there and the spacesuit that keeps them in a protective bubble. Unfortunately, modern spacesuits aren't built with Martian gravity, which is three-eighths of Earth's, in mind. To p",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/martian-space-suits-wi.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Mars-rumdragter skal være 40% lettere",
+      "resume_da": "Nye NASA-undersøgelser viser, at moderne rumdragter er for tunge til Mars' lave tyngdekraft. De skal reduceres med 40% for at være brugbare.",
+      "sektioner": [
+        {
+          "overskrift": "Tyngdekraftens udfordring",
+          "tekst": "Mars' tyngdekraft er kun **3/8** af Jordens. Det betyder, at en dragt, der vejer **100 kg** på Jorden, kun vejer **37,5 kg** på Mars. Men selv det er for tungt til effektiv bevægelse."
+        },
+        {
+          "overskrift": "Nye krav til design",
+          "tekst": "NASA og industriens ingeniører præsenterede på den 55. internationale konference om miljøsystemer (ICES) en analyse, der viser, at fremtidige Mars-dragter skal veje maksimalt **60 kg** på Jorden – en reduktion på **40%** i forhold til nuværende dragter."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "40%",
+          "label": "vægtreduktion nødvendig"
+        },
+        {
+          "tal": "3/8",
+          "label": "Mars' tyngdekraft ift. Jorden"
+        }
+      ],
+      "detaljer": [
+        "Nuværende generation af rumdragter er designet til Jordens tyngdekraft.",
+        "Mars' tyngdekraft er kun 3/8 af Jordens.",
+        "En dragt på 100 kg på Jorden vejer 37,5 kg på Mars.",
+        "NASA-industri-team præsenterede på ICES 2025.",
+        "Kravet om 40% vægtreduktion gælder for Mars-dragter."
+      ],
+      "betydning": "For almindelige danskere viser dette, at rumfart kræver avancerede materialer og design – en udfordring, der kan føre til teknologiske gennembrud med jordiske anvendelser.",
+      "pointer": [
+        "Nuværende rumdragter for tunge til Mars",
+        "40% vægtreduktion påkrævet",
+        "Mars' tyngdekraft er 3/8 af Jordens",
+        "Fremtidens Mars-dragter skal veje under 60 kg på Jorden"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Chicxulub's lingering dust may have turned falling debris into a global firestorm",
+      "link": "https://phys.org/news/2026-07-chicxulub-lingering-falling-debris-global.html",
+      "dato": "2026-07-28T13:00:04+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Sixty-six million years ago, the six-mile-wide (10-kilometer-wide) Chicxulub asteroid crash-landed in Mexico's Yucatán Peninsula and changed life on Earth forever. The reign of the dinosaurs ended, and only creatures that could shelter in burrows or shallow waters survived into the age of mammals that followed.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2023/asteroid-dinosaurs.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Chicxulub-støv gjorde nedfald til global brandstorm",
+      "resume_da": "Nyt studie viser, at støv fra asteroide-nedslaget for 66 mio. år siden fik nedfaldende materiale til at antænde og skabe en global ildstorm.",
+      "sektioner": [
+        {
+          "overskrift": "Nedslagets globale konsekvenser",
+          "tekst": "For **66 millioner** år siden ramte en **10 km** bred asteroide Jorden ved Chicxulub. Nedslaget udryddede dinosaurerne og ændrede livet for altid. Kun dyr, der kunne gemme sig i huler eller lavt vand, overlevede."
+        },
+        {
+          "overskrift": "Støvets rolle i brandstormen",
+          "tekst": "Forskere mener, at støv fra nedslaget fik nedfaldende rumrester til at antænde. Dette skabte en global ildstorm, der forstærkede masseudryddelsen. Støvet blokerede også sollyset i lang tid."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "66 millioner år",
+          "label": "Siden nedslaget"
+        },
+        {
+          "tal": "10 km",
+          "label": "Asteroidens bredde"
+        }
+      ],
+      "detaljer": [
+        "Nedslaget skete på Yucatán-halvøen i Mexico.",
+        "Kun dyr i huler eller lavt vand overlevede.",
+        "Støvet førte til en global ildstorm."
+      ],
+      "betydning": "Historien forklarer, hvordan et enkelt nedslag kan ændre Jordens klima og livsbetingelser dramatisk – vigtigt for at forstå masseudryddelser.",
+      "pointer": [
+        "Asteroide på 10 km ramte Jorden",
+        "Udryddede dinosaurerne",
+        "Støv udløste global brandstorm",
+        "Kun huler og lavt vand reddede liv"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "JWST could spot volcanic 'exo-Ios' around super-Jupiters",
+      "link": "https://phys.org/news/2026-07-jwst-volcanic-exo-ios-super.html",
+      "dato": "2026-07-28T12:20:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Jupiter's moon Io is the most volcanically active planetary body in the solar system, boasting hundreds of active volcanoes that spew molten lava into space. This activity results from a process called tidal heating, in which Jupiter's massive gravity constantly stretches and compresses the much smaller moon during its noncircular orbit.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/jwst-could-spot-volcan.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "JWST kan finde vulkanske exomåner som Jupiters Io",
+      "resume_da": "Jupiters måne Io er det mest vulkansk aktive sted i solsystemet. Nu viser ny forskning, at James Webb-teleskopet kan opdage lignende vulkanmåner omkring fjerne super-Jupitere.",
+      "sektioner": [
+        {
+          "overskrift": "Ios vulkanske aktivitet",
+          "tekst": "Jupiters måne Io har hundredvis af aktive vulkaner, som spyr smeltet lava ud i rummet. Den voldsomme vulkanisme skyldes tidevandsopvarmning, fordi Jupiters tyngdekraft strækker og presser månen i dens elliptiske bane."
+        },
+        {
+          "overskrift": "JWST's rolle",
+          "tekst": "Ifølge ny forskning kan James Webb-rumteleskopet (JWST) opdage tilsvarende vulkanmåner omkring super-Jupitere i andre solsystemer. Teleskopet kan måle varmeudstråling fra vulkansk lava på sådanne exomåner."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Io er det mest vulkansk aktive sted i solsystemet",
+        "Vulkanismen skyldes tidevandsopvarmning",
+        "JWST kan potentielt spotte vulkanske exomåner hos super-Jupitere"
+      ],
+      "betydning": "Forskningen kan hjælpe med at forstå, hvordan tidevandsopvarmning påvirker måners geologi og atmosfære – også i andre planetsystemer.",
+      "pointer": [
+        "Io har hundredvis af vulkaner",
+        "Tidevandsopvarmning driver vulkanismen",
+        "JWST kan finde vulkanske exomåner",
+        "Super-Jupitere er gode mål"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Astronomers find strongest evidence yet that Betelgeuse has a companion",
+      "link": "https://phys.org/news/2026-07-astronomers-strongest-evidence-betelgeuse-companion.html",
+      "dato": "2026-07-28T12:00:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "At long last, astronomers have firm evidence that Betelgeuse, one of the most famous stars in the night sky, is not alone. Using the European Southern Observatory's Very Large Telescope (ESO's VLT), a team led by French researcher Miguel Montargès obtained the clearest image yet of what is likely Betelgeuse B, the star orbiting Betelgeuse. \"This is the conclusion of a century-long quest,\" Montargè",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-find-stron.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Betelgeuse har fået en stjernenabo",
+      "resume_da": "Astronomer har taget det hidtil skarpeste billede af en følgesvend til den berømte stjerne Betelgeuse. Opdagelsen afslutter en søgen, der har stået på i over 100 år.",
+      "sektioner": [
+        {
+          "overskrift": "Århundredes jagt er slut",
+          "tekst": "Franske Miguel Montargès og hans hold brugte ESO's Very Large Telescope til at finde stjernen. De fik det tydeligste billede nogensinde af det, der menes at være Betelgeuse B. Montargès kalder det afslutningen på en søgen, der har varet i **100 år**."
+        },
+        {
+          "overskrift": "Hvad opdagelsen betyder",
+          "tekst": "Betelgeuse er en af de mest kendte stjerner på nattehimlen. Nu ved vi, at den ikke er alene. Følgesvenden kredser om Betelgeuse og kaldes Betelgeuse B."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "100 år",
+          "label": "søgenens varighed"
+        }
+      ],
+      "detaljer": [
+        "Opdagelsen blev gjort med ESO's Very Large Telescope (VLT).",
+        "Holdet blev ledet af Miguel Montargès.",
+        "Betelgeuse B er en stjerne, der kredser om Betelgeuse."
+      ],
+      "betydning": "Opdagelsen giver ny viden om en af de mest kendte stjerner, hvilket kan hjælpe os med at forstå, hvordan stjerner og solsystemer dannes.",
+      "pointer": [
+        "Første klare bevis på Betelgeuses følgesvend",
+        "Brug af avanceret teleskopteknologi",
+        "Afslutter en 100 år gammel søgen"
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Moon's thick crust could amplify elusive gravitational-wave signals",
+      "link": "https://phys.org/news/2026-07-moon-thick-crust-amplify-elusive.html",
+      "dato": "2026-07-28T11:00:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Gravitational waves are tiny ripples in the fabric of spacetime that are produced when massive objects in the cosmos accelerate or collide. By detecting these waves, astrophysicists can study various cosmic events, including black hole mergers, neutron star collisions and the early evolution of the universe.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-moon-could-amplify.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Månens tykke skorpe kan forstærke gravitationsbølger",
+      "resume_da": "Forskere mener, at Månens tykke skorpe kan fungere som en forstærker af gravitationsbølger. Det kan hjælpe med at opdage svage signaler, som ellers ville være umulige at måle.",
+      "sektioner": [
+        {
+          "overskrift": "Gravitationsbølger og Månen",
+          "tekst": "Gravitationsbølger er små krusninger i rumtidens stof, som opstår, når massive objekter accelererer eller kolliderer. De kan blandt andet bruges til at studere sorte hul-kollisioner og neutronstjerne-sammenstød. Ifølge ny forskning kan Månens tykke skorpe forstærke disse bølger."
+        },
+        {
+          "overskrift": "Ny opdagelsesmulighed",
+          "tekst": "Månens skorpe er tykkere end Jordens, og det menes at kunne fungere som en slags detektor. Det kan gøre det muligt at opdage gravitationsbølger, der hidtil har været for svage til at måle."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Gravitationsbølger er små krusninger i rumtidens stof.",
+        "De opstår ved acceleration eller kollision af massive objekter.",
+        "Månens tykke skorpe kan forstærke signaler fra disse bølger."
+      ],
+      "betydning": "Opdagelsen kan give forskere en ny måde at måle gravitationsbølger på, hvilket kan føre til ny viden om universet.",
+      "pointer": [
+        "Månen kan forstærke gravitationsbølger.",
+        "Det kan afsløre skjulte sorte hul-kollisioner.",
+        "Ny metode til at studere universets tidlige udvikling."
+      ],
+      "prio": 7
+    },
     {
       "titel": "Smoke Blankets Oregon",
       "link": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
