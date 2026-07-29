@@ -1,7 +1,466 @@
 {
-  "opdateret": "2026-07-29T08:04:02.336520+00:00",
-  "antal": 94,
+  "opdateret": "2026-07-29T16:01:55.697175+00:00",
+  "antal": 100,
   "artikler": [
+    {
+      "titel": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
+      "link": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
+      "dato": "2026-07-29T15:30:00+00:00",
+      "kilde": "NASA",
+      "resume": "As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission scientists: honeycomb-like textures called polygonal fractures, each one about 1.5 to 3 inches (4 to 8 centimeters) across. The mission has spotted small patches of these geometric shapes several times [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia26729-curiosity-discovers-a-field-of-martian-polygons.png?w=2048",
+      "billede_alt": "A panoramic view of a sweeping Martian plain covered in patterned fractures leading toward distant hills showcases the terrain explored by NASA&#039;s Curiosity rover to investigate the planet&#039;s ",
+      "kategori": "Missioner",
+      "rubrik": "Curiosity finder enormt bikagemønster på Mars",
+      "resume_da": "NASA's Mars-rover Curiosity har opdaget et stort område med honeycomb-lignende polygoner på Mars, noget aldrig set før i så stor skala.",
+      "sektioner": [
+        {
+          "overskrift": "Enormt bikagemønster fundet",
+          "tekst": "Curiosity fandt et stort felt med polygonale brud, der ligner en bikage, i en dal kaldet Valle Grande. Mønstrene er **1,5 til 3 tommer (4-8 cm)** tværs over og spreder sig så langt roveren kan se."
+        },
+        {
+          "overskrift": "Mulig oprindelse og historie",
+          "tekst": "Nogle polygoner er gamle muddersprækker, men andre kan være dannet af temperaturændringer eller kompression. Curiosity har tidligere påvist, at Mars havde vand, kemi og næringsstoffer, der kunne understøtte mikrobielt liv. Billiarder af år siden var området præget af søer og vandløb."
+        },
+        {
+          "overskrift": "Nye spor om Mars' fortid",
+          "tekst": "Roveren har tidligere fundet organiske molekyler, der kan være forstadier til RNA og DNA. Det er uvist, om de kommer fra biologiske eller geologiske processer, men de bekræfter, at den gamle Mars havde den rette kemi til liv."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1,5-3 tommer (4-8 cm)",
+          "label": "Polygonernes størrelse"
+        },
+        {
+          "tal": "20 fod (6 meter)",
+          "label": "Højde på butte Miraflores"
+        },
+        {
+          "tal": "14 år",
+          "label": "Tid siden landing på Mars"
+        }
+      ],
+      "detaljer": [
+        "Panoramaet blev taget den 19. og 20. juni 2026 på sol 4930 og 4931.",
+        "Miraflores er en butte med tykt sandlag på toppen.",
+        "Curiosity landede den 5. august 2012.",
+        "Roveren har kørt op ad Mount Sharp siden 2014."
+      ],
+      "betydning": "Historien viser, at Mars havde betingelser for liv, og de nye polygoner kan give vigtige spor om planetens fortid. For danskere er det et eksempel på, hvordan rumforskning afslører, hvor udbredt vand og livsbetingelser var i solsystemet.",
+      "pointer": [
+        "Curiosity fandt et stort honeycomb-lignende mønster på Mars.",
+        "Polygonerne er dannet af muddersprækker eller tryk.",
+        "Mars havde engang søer og vandløb.",
+        "Fundet bekræfter gamle livsbetingelser på Mars."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Understanding How Martian Auroras Are Made",
+      "link": "https://www.nasa.gov/image-article/understanding-how-martian-auroras-are-made/",
+      "dato": "2026-07-29T15:20:28+00:00",
+      "kilde": "NASA",
+      "resume": "This July 23, 2026, illustration depicts charged particles from a solar storm stripping away charged particles of Mars&#8217; atmosphere, one of the processes of Martian atmosphere loss studied by NASA&#8217;s MAVEN (Mars Atmosphere and Volatile Evolution) mission. NASA MAVEN mission scientists have found that certain types of auroras on Mars form in a similar way [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/pia22076.jpg?w=2048",
+      "billede_alt": "In this illustration, yellow charged particles from the Sun strip off rainbow-colored charged particles from Mars (in the foreground). The Martian particles stream away from the planet, toward the vie",
+      "kategori": "Forskning",
+      "rubrik": "Mars-auroraer minder om dem på Jorden",
+      "resume_da": "NASA's MAVEN-mission har opdaget, at nogle typer nordlys på Mars dannes på samme måde som på Jorden: når solens partikler rammer atmosfæren.",
+      "sektioner": [
+        {
+          "overskrift": "Ligner Jordens nordlys",
+          "tekst": "Forskere fra NASA's MAVEN-mission har fundet, at visse typer auroraer på Mars dannes på samme måde som på Jorden. Det sker, når ladede partikler fra solen rammer planetens atmosfære. Illustrationen viser, hvordan solstorme kan fjerne ladede partikler fra Mars' atmosfære."
+        },
+        {
+          "overskrift": "MAVEN studerer atmosfæretab",
+          "tekst": "MAVEN-missionen har til formål at undersøge, hvordan Mars mister sin atmosfære. Denne viden hjælper forskerne med at forstå klimaforandringer på Mars gennem tiden."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Illustrationen fra 23. juli 2026 viser ladede partikler fra en solstorm, der fjerner partikler fra Mars' atmosfære.",
+        "MAVEN står for Mars Atmosphere and Volatile Evolution."
+      ],
+      "betydning": "At forstå Mars' atmosfære hjælper os med at lære mere om planetens historie og muligheder for fremtidig beboelse.",
+      "pointer": [
+        "Mars har nordlys ligesom Jorden.",
+        "Solstorme påvirker Mars' atmosfære.",
+        "MAVEN-missionen undersøger atmosfæretab."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "ESCAPADE's cameras capture Earth and moon",
+      "link": "https://phys.org/news/2026-07-escapade-cameras-capture-earth-moon.html",
+      "dato": "2026-07-29T14:40:04+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "In November 2025, NASA's Mars-bound ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft launched from Cape Canaveral with special cargo on board: two camera systems designed and built by faculty and students at NAU, with support from the University of California, Berkeley, and Rocket Lab.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/nau-camera-captures-ea.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "ESCAPADE fanger Jorden og Månen på kamera",
+      "resume_da": "NASAs ESCAPADE-rumfartøj på vej til Mars har taget billeder af Jorden og Månen med kameraer bygget af studerende.",
+      "sektioner": [
+        {
+          "overskrift": "Kameraer fra studerende",
+          "tekst": "To kamerasystemer designet og bygget af studerende og ansatte på Northern Arizona University (NAU) er om bord på ESCAPADE. Projektet er støttet af University of California, Berkeley, og Rocket Lab."
+        },
+        {
+          "overskrift": "Billeder fra rejsen",
+          "tekst": "Rumfartøjet opsendt i november 2025 fangede billeder af Jorden og Månen undervejs. Det viser, at kameraerne fungerer, som de skal."
+        },
+        {
+          "overskrift": "Mission mod Mars",
+          "tekst": "ESCAPADE er på vej til Mars for at studere plasma og acceleration. Kameraerne giver videnskabelige data og undervisningsmuligheder."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "November 2025",
+          "label": "Opsendelsesmåned"
+        }
+      ],
+      "detaljer": [
+        "Kameraerne er designet og bygget af studerende på NAU.",
+        "Støtte fra UC Berkeley og Rocket Lab.",
+        "Rumfartøjet er på vej til Mars."
+      ],
+      "betydning": "Missionen viser, at studerende kan bidrage til avancerede rumprojekter, og billederne skaber offentlig interesse.",
+      "pointer": [
+        "Studerende byggede kameraer til NASA-fartøj.",
+        "Jorden og Månen fotograferet under rejsen.",
+        "Rumfartøjet opsendt i november 2025.",
+        "Mission er rettet mod Mars."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE",
+      "link": "https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae/",
+      "dato": "2026-07-29T14:38:53+00:00",
+      "kilde": "SpaceNews",
+      "resume": "PERTH, Western Australia — LatConnect 60 (LC60) is executing on a multi-geography industrial plan to accelerate its SWIRSAT constellation, anchoring core technology development and payload manufacturing in Western Australia while [&#8230;] The post LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/latconnect-60-logo-square-scaled.png?fit=1024%2C1024&amp;ssl=1",
+      "billede_alt": "latconnect 60 logo",
+      "kategori": "Satellitter",
+      "rubrik": "LatConnect 60 udvider jordobservationskonstellation",
+      "resume_da": "LatConnect 60 planlægger at accelerere sin SWIRSAT-konstellation med aktiviteter i Australien, Malaysia og UAE.",
+      "sektioner": [
+        {
+          "overskrift": "Multi-geografisk plan",
+          "tekst": "LatConnect 60 udfører en industriel plan på tværs af flere lande for at accelerere sin SWIRSAT-konstellation. Kerneudvikling og fremstilling af nyttelast forankres i Western Australia."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [],
+      "betydning": "Artiklen viser, hvordan rumindustrien udnytter globale partnerskaber til at opbygge satellitkonstellationer hurtigere.",
+      "pointer": [
+        "SWIRSAT er en jordobservationskonstellation",
+        "Kernekapacitet placeres i Western Australia",
+        "Ekspansion til Malaysia og UAE"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Black hole 'blast' reaches 300,000 light-years",
+      "link": "https://phys.org/news/2026-07-black-hole-blast-years.html",
+      "dato": "2026-07-29T14:20:10+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "A team of researchers has discovered that winds generated by supermassive black holes are 100 times more powerful than previously thought, carrying energy across distances of approximately 300,000 light-years. The discovery demonstrates that these explosive winds affect the vast expanse of space beyond the galaxies they inhabit.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/black-hole-blast-reach.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Sort hul sender vind 300.000 lysår ud",
+      "resume_da": "Sort huls vinde er 100 gange kraftigere end hidtil antaget og når 300.000 lysår ud i rummet.",
+      "sektioner": [
+        {
+          "overskrift": "Kraftige vinde opdaget",
+          "tekst": "Forskere har opdaget, at vinde fra supermassive sorte huller er **100 gange** kraftigere end tidligere antaget. Vindene strækker sig over **300.000 lysår** og påvirker rummet langt uden for deres galakser."
+        },
+        {
+          "overskrift": "Større rækkevidde end ventet",
+          "tekst": "Opdagelsen viser, at de eksplosive vinde har stor indflydelse på det omkringliggende rum. De kan ændre forståelsen af, hvordan sorte huller påvirker galaksedannelse og udvikling."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "300.000 lysår",
+          "label": "Vindens rækkevidde"
+        },
+        {
+          "tal": "100 gange",
+          "label": "Kraftigere end antaget"
+        }
+      ],
+      "detaljer": [
+        "Vindene genereres af supermassive sorte huller.",
+        "De når længder på cirka 300.000 lysår.",
+        "Påvirker rummet uden for galakserne."
+      ],
+      "betydning": "Forståelsen af sorte hullers påvirkning på universet bliver ændret, hvilket kan give indsigt i galaksers udvikling.",
+      "pointer": [
+        "Vindene er 100 gange stærkere end først troet.",
+        "Rækker 300.000 lysår ud i rummet.",
+        "Påvirker områder uden for galakserne."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "NASA Webb Explores Family Tree of Newly Discovered Distant Objects",
+      "link": "https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
+      "dato": "2026-07-29T14:00:00+00:00",
+      "kilde": "NASA",
+      "resume": "Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots (LRDs) have been the subject of great interest to astronomers. Understanding the nature of these extremely distant, compact red sources has been a puzzling scientific endeavor. One popular theory is that little red dots are supermassive black holes known as active […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KVTW3MA3BWZ66MW2C9HG0601.png?w=16191&#038;h=7844&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A rectangular image with thousands of galaxies of various shapes and colors on the black background of space. Some are noticeably spirals, either face-on or edge-on, while others are blobby elliptical",
+      "kategori": "Astronomi",
+      "rubrik": "Webb udforsker 'små røde prikkers' skæbne",
+      "resume_da": "Forskere har brugt James Webb-teleskopet til at studere galaksen 'Saguaro' og foreslår, at de mystiske 'små røde prikker' er en midlertidig fase af aktive sorte huller.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er små røde prikker?",
+          "tekst": "Siden deres opdagelse i **2022** har 'små røde prikker' (LRD) været et mysterium. De er kompakte, røde kilder i det tidlige univers. En teori siger, at de er supermassive sorte huller, men de opfører sig anderledes end dem i nærheden."
+        },
+        {
+          "overskrift": "Saguaro-galaksen giver spor",
+          "tekst": "Forskerne analyserede galaksen WISEA J123635.56+621424.2, kaldet 'Saguaro', der ligger **3,3 milliarder år** efter Big Bang. Dens centrum ligner en lille rød prik. Data fra Webb og Hubble viste, at kernen er lysere i ultraviolet og infrarød end i synligt lys, ligesom fjerne LRD."
+        },
+        {
+          "overskrift": "Fremtid for de røde prikker",
+          "tekst": "Holdet konkluderer, at LRDer kan være en midlertidig fase af meget aktive sorte huller. De forsvinder, når universet ældes. Saguaro er et sjældent eksempel på en LRD på lavere afstand, hvilket gør det muligt at studere deres udvikling."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2022",
+          "label": "Opdagelse af små røde prikker"
+        },
+        {
+          "tal": "3,3 milliarder år",
+          "label": "Alder af Saguaro-galaksen efter Big Bang"
+        }
+      ],
+      "detaljer": [
+        "Studiet blev offentliggjort i The Astrophysical Journal den 29. juli 2024.",
+        "Holdet brugte arkivdata fra Hubble (ultraviolet) og Webb (infrarød).",
+        "Chandra-observatoriet detekterede svag røntgenstråling fra Saguaro, hvilket indikerer et aktivt sort hul."
+      ],
+      "betydning": "Forståelsen af 'små røde prikker' giver indsigt i, hvordan sorte huller og galakser udvikler sig i det tidlige univers – noget der hjælper os med at forstå universets historie.",
+      "pointer": [
+        "Små røde prikker blev opdaget i 2022 med Webb.",
+        "De er kompakte, røde kilder i det tidlige univers.",
+        "Saguaro-galaksen er et sjældent nært eksempel.",
+        "Forskere mener de er aktive sorte huller i en midlertidig fase."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "First 3D map reveals hidden thermal structure of nearby interstellar medium",
+      "link": "https://phys.org/news/2026-07-3d-reveals-hidden-thermal-nearby.html",
+      "dato": "2026-07-29T13:40:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Astronomers have built the first three-dimensional map of gas temperature in the space surrounding our solar system, revealing a far messier and more dynamic picture than current models predict. The study was submitted to the arXiv preprint server on July 16.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-3d-map-reveals-t.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "3D-kort viser skjult varme i nærrummet",
+      "resume_da": "Astronomer har lavet det første tredimensionelle kort over gastemperatur i rummet omkring solsystemet. Det viser et mere rodet og dynamisk billede end tidligere modeller.",
+      "sektioner": [
+        {
+          "overskrift": "Nyt 3D-kort over rummet",
+          "tekst": "Astronomer har skabt det første 3D-kort over gastemperatur i det interstellare medium nær vores solsystem. Resultaterne viser en mere kompleks struktur end hidtil antaget."
+        },
+        {
+          "overskrift": "Termisk struktur afsløret",
+          "tekst": "Kortet afslører skjulte varmestrukturer i rummet omkring os. Det viser, at temperaturen varierer meget mere end tidligere modeller har forudsagt."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Studiet blev indsendt til arXiv preprint server den 16. juli.",
+        "Kortet er det første tredimensionelle over gastemperatur i det nære interstellare medium."
+      ],
+      "betydning": "Forståelse af rummet omkring solsystemet er vigtig for at forudsige, hvordan partikler og stråling påvirker Jorden og rumfartøjer.",
+      "pointer": [
+        "Første 3D-kort af gastemperatur nær solsystemet",
+        "Afslører mere dynamisk billede end forventet",
+        "Indsendt til arXiv 16. juli"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Contractor to Civil Servant: NASA Welcomes Ray Williams",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-ray-williams/",
+      "dato": "2026-07-29T13:32:50+00:00",
+      "kilde": "NASA",
+      "resume": "Ray Williams’ progression at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has uniquely prepared him for his new role. As part of NASA’s plan to restore core competencies by converting contractors to civil service, the New Orleans native and Grambling State University graduate now works as a supervisor for test operations support at [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/s26-007-ray-williams.jpg?w=2048",
+      "billede_alt": "Headshot of Ray Williams",
+      "kategori": "Politik & penge",
+      "rubrik": "NASA ansætter kontraktansat som fast tjenestemand",
+      "resume_da": "Ray Williams er blandt de første ingeniører, der bliver fastansat hos NASA som led i at styrke kernekompetencer. Han har 28 års erfaring fra testfaciliteten E-Complex.",
+      "sektioner": [
+        {
+          "overskrift": "Ny rolle hos NASA",
+          "tekst": "Ray Williams er blevet fastansat som civil tjenestemand hos NASA's Stennis Space Center. Han arbejder som supervisor for testoperationssupport ved E-Complex, et anlæg til fremdriftstest. Han er en af de første, der skifter fra kontraktansat til fastansat som led i NASAs plan om at styrke tekniske kernekompetencer."
+        },
+        {
+          "overskrift": "28 års erfaring",
+          "tekst": "Williams startede i **1998** som elektrikerkontraktansat under anlæggets design- og byggefase. Han avancerede til instrument- og elingeniør og har i alt **28 års** erfaring. Han kender faciliteten og udfordringerne for teknikerne indgående."
+        },
+        {
+          "overskrift": "E-Complex' fleksibilitet",
+          "tekst": "E-Complex kan håndtere ekstremt høje tryk og store mængder superkolde kryogener. Det adskiller sig fra andre testkomplekser ved at være meget tilpasningsdygtigt. Kommercielle partnere kan få testet store, komplekse komponenter under nøjagtige, ekstreme forhold."
+        },
+        {
+          "overskrift": "Mission mod Månen",
+          "tekst": "Williams ser sit arbejde som en drøm, der startede med en skoleudflugt til NASA Stennis. Han bidrager nu til Artemis-missionerne, hvor NASA vender tilbage til Månen og bygger en månebase."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "28 år",
+          "label": "Williams' erfaring hos NASA"
+        },
+        {
+          "tal": "1998",
+          "label": "Startår hos NASA"
+        }
+      ],
+      "detaljer": [
+        "Ray Williams er supervisor for testoperationssupport ved E-Complex.",
+        "Han er blandt de første, der skifter fra kontraktansat til fastansat civil tjenestemand.",
+        "E-Complex tester fremdriftssystemer med høj- og lavtryksanlæg.",
+        "Williams startede som elektrikerkontraktansat i 1998.",
+        "Han har 28 års erfaring.",
+        "Faciliteten kan tilpasses kommercielle partneres behov."
+      ],
+      "betydning": "Historien viser, at NASA satser på at fastholde ekspertise internt for at mindske risici. Det er vigtigt for danskere, fordi rumfart er en global industri, hvor kompetencer og samarbejde med kommercielle aktører er afgørende.",
+      "pointer": [
+        "NASA styrker interne kompetencer ved fastansættelse.",
+        "Ray Williams har 28 års erfaring fra testfacilitet.",
+        "E-Complex tilpasses til kommercielle partneres testbehov.",
+        "Faciliteten støtter Artemis-missionen mod Månen."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Fortastra and Hadrian join forces to streamline satellite production",
+      "link": "https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/",
+      "dato": "2026-07-29T13:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "SAN FRANCISCO – Fortastra, a Los Angeles startup focused on defending on-orbit infrastructure, is working with manufacturing specialist Hadrian to explore ways to apply precision machining and additive manufacturing to [&#8230;] The post Fortastra and Hadrian join forces to streamline satellite production appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_hadrian_f3.jpg?fit=879%2C703&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Samarbejde for at gøre satellitproduktion billigere",
+      "resume_da": "Fortastra og Hadrian samarbejder om at bruge avancerede fremstillingsmetoder til at gøre satellitter hurtigere og billigere at producere.",
+      "sektioner": [
+        {
+          "overskrift": "Nyt samarbejde mellem virksomheder",
+          "tekst": "Den Los Angeles-baserede startup Fortastra, der beskytter ruminfrastruktur, arbejder med specialisten Hadrian. De undersøger, hvordan præcisionsbearbejdning og additiv fremstilling kan gøre satellitproduktionen mere effektiv."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Fortastra er en startup fra Los Angeles, der fokuserer på at forsvare infrastruktur i rummet.",
+        "Hadrian er en specialiseret fremstillingsvirksomhed."
+      ],
+      "betydning": "Det kan føre til billigere og hurtigere produktion af satellitter, hvilket i sidste ende kan gøre rumteknologi mere tilgængelig for almindelige mennesker.",
+      "pointer": [
+        "Fortastra og Hadrian vil optimere satellitproduktion.",
+        "Præcisionsbearbejdning og 3D-print skal gøre processen billigere.",
+        "Lettere adgang til rummet kan komme samfundet til gode."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "H3 to launch next ispace lunar lander mission",
+      "link": "https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/",
+      "dato": "2026-07-29T12:10:11+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Japanese lunar lander developer ispace has selected the H3 rocket to launch its next mission in 2028, creating what the companies called Japan’s first private lunar transportation system. The post H3 to launch next ispace lunar lander mission appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/h3-202512.jpeg?fit=1024%2C808&amp;ssl=1",
+      "billede_alt": "H3 launch",
+      "kategori": "Missioner",
+      "rubrik": "japansk månelander får h3-raket i 2028",
+      "resume_da": "Ispace vælger H3-raketten til sin næste månelander-mission i 2028. Det skaber Japans første private månetransportsystem.",
+      "sektioner": [
+        {
+          "overskrift": "Missionen i 2028",
+          "tekst": "Det japanske firma ispace har valgt H3-raketten til sin næste månelander-mission. Opsendelsen er planlagt til **2028**."
+        },
+        {
+          "overskrift": "Japans første private månetransport",
+          "tekst": "Sammen med raketproducenten kalder de det Japans første private månetransportsystem. Det skal sende en lander til Månen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2028",
+          "label": "planlagt opsendelsesår"
+        }
+      ],
+      "detaljer": [
+        "Ispace udvikler månelandere.",
+        "H3 er en japansk bæreraket.",
+        "Firmaerne kalder det Japans første private månetransportsystem."
+      ],
+      "betydning": "Mere privat rumfart betyder flere missioner til Månen. Det kan bane vej for kommerciel aktivitet på Månen.",
+      "pointer": [
+        "Ispace sender lander til Månen i 2028.",
+        "H3-raketten skal bruges.",
+        "Det er Japans første private månetransport.",
+        "Private firmaer får større rolle i rumfart."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "A distant primordial object may be a newborn 'Little Red Dot'",
+      "link": "https://phys.org/news/2026-07-distant-primordial-newborn-red-dot.html",
+      "dato": "2026-07-29T12:00:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "The infrared-sensitive James Webb Space Telescope (JWST) has conducted multiple surveys of the very distant universe, digging into what was happening in the first billion years after the Big Bang. As part of these deep surveys, its sensors have been picking up mysterious objects dubbed \"Little Red Dots.\" It has found more than 300 of them since their discovery in 2024. These intriguing little obje",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-distant-primordial-o.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Mystiske røde prikker i det tidlige univers",
+      "resume_da": "JWST har opdaget over 300 mystiske 'Little Red Dots' fra det tidlige univers. En af dem kan være en nyfødt, lille galakse.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er Little Red Dots?",
+          "tekst": "James Webb Space Telescope har fundet over **300** af disse objekter siden opdagelsen i **2024**. De ser ud som fjerne, små røde prikker på JWST's billeder."
+        },
+        {
+          "overskrift": "En mulig nyfødt galakse",
+          "tekst": "Et af objekterne kan være en 'nyfødt' galakse fra tiden kort efter Big Bang. Det viser, at JWST kan fange helt tidlige stadier af galaksedannelse."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "300+",
+          "label": "Antal opdagede røde prikker"
+        },
+        {
+          "tal": "2024",
+          "label": "Opdagelsesår"
+        }
+      ],
+      "detaljer": [
+        "Objekterne kaldes 'Little Red Dots' og ses kun med JWST's infrarøde sensorer.",
+        "De befinder sig i det første milliard år efter Big Bang.",
+        "En af prikkerne er særligt interessant, da den kan være en nyfødt galakse."
+      ],
+      "betydning": "Opdagelsen hjælper forskere med at forstå, hvordan de første galakser blev født og udviklede sig i universets barndom.",
+      "pointer": [
+        "JWST har fundet hundredvis af 'Little Red Dots'.",
+        "Objekterne er små og røde på JWST-billeder.",
+        "En prik kan være en nyfødt galakse.",
+        "De giver ny viden om universets tidligste tider."
+      ],
+      "prio": 7
+    },
     {
       "titel": "Sizing Up the Sargassum Belt",
       "link": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/",
@@ -3699,223 +4158,6 @@
         "Overfladen er glat og har lav tæthed"
       ],
       "prio": 7
-    },
-    {
-      "titel": "Jupiter-mass 'exomoon' orbiting brown dwarf challenges cosmic labels",
-      "link": "https://phys.org/news/2026-07-jupiter-mass-exomoon-orbiting-brown.html",
-      "dato": "2026-07-22T15:00:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Observations made with the European Southern Observatory's Very Large Telescope (ESO's VLT) have revealed evidence for a moon-like object in the CD-35 2722 system. Unlike moons in our solar system, the newly found object does not orbit a planet, raising questions about what to name it. Instead, it circles a brown dwarf, an object larger than a planet, that orbits the CD-35 2722 star. If confirmed,",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-exomoon-detection.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Første mulige 'exomåne' fundet omkring brun dværg",
-      "resume_da": "Astronomer har med ESO's VLT-teleskop fundet tegn på et månelignende objekt, der kredser om en brun dværg i systemet CD-35 2722. Objektet udfordrer vores definition af, hvad en måne er.",
-      "sektioner": [
-        {
-          "overskrift": "Uventet opdagelse",
-          "tekst": "Observations with the ESO Very Large Telescope has revealed a moon-like object in the CD-35 2722 system. Unlike moons in our solar system, it does not orbit a planet, but rather a brown dwarf. This is the first such object found outside the solar system."
-        },
-        {
-          "overskrift": "Hvad er en exomåne?",
-          "tekst": "En exomåne er en måne, der kredser om en planet uden for vores solsystem. Men dette objekt kredser om en brun dværg, som er større end en planet, men mindre end en stjerne. Derfor er det svært at klassificere objektet."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Objektet blev fundet med ESO's Very Large Telescope",
-        "Det kredser om en brun dværg i systemet CD-35 2722",
-        "Hvis bekræftet, ville det være den første exomåne, der er opdaget"
-      ],
-      "betydning": "Opdagelsen udfordrer vores forståelse af, hvad måner og planeter er, og åbner for nye spørgsmål om dannelsen af himmellegemer.",
-      "pointer": [
-        "Første tegn på exomåne",
-        "Kredser om brun dværg",
-        "Opdaget med ESO's VLT",
-        "Udvider grænserne for kosmiske labels"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Path to Starship Flight 13 requires additional Booster 20 test",
-      "link": "https://www.nasaspaceflight.com/2026/07/path-flight-13-attempt-2-test/",
-      "dato": "2026-07-22T14:57:56+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "SpaceX continues to target no earlier than Thursday, July 23, for the next attempt to&#8230; The post Path to Starship Flight 13 requires additional Booster 20 test appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/NSF-2026-07-22-15-44-28-486.jpg",
-      "billede_alt": "",
-      "kategori": "Opsendelser",
-      "rubrik": "SpaceX vil forsøge Starship Flight 13 senest 23. juli",
-      "resume_da": "SpaceX har udskiftet to motorer på Booster 20 efter en automatisk abort under sidste forsøg. Næste forsøg tidligst 23. juli.",
-      "sektioner": [
-        {
-          "overskrift": "Motorfejl ved sidste forsøg",
-          "tekst": "Under affyringsforsøget den 16. juli tændte **29** af Boosters **33** Raptor-motorer. Fire motorer tændte ikke, hvilket udløste en automatisk abort. Systemet kan tåle op til tre motorfejl under opstart."
-        },
-        {
-          "overskrift": "Udskiftning af motorer",
-          "tekst": "SpaceX CEO Elon Musk sagde, at to Raptor-motorer blev skiftet for at sikre en god flyvning. Tre motorer er set på SpaceX's testanlæg i McGregor. En af dem var tidligere brugt på Booster 19."
-        },
-        {
-          "overskrift": "Test og forberedelser",
-          "tekst": "En Spin Prime-test blev udført den 22. juli, inden raketten blev tømt. Ship 40 skal rulles ud og stables ovenpå Booster 20. Lanceringen ventes tidligst 23. juli."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "29",
-          "label": "tændte motorer"
-        },
-        {
-          "tal": "33",
-          "label": "motor i alt"
-        },
-        {
-          "tal": "4",
-          "label": "motorer der ikke tændte"
-        }
-      ],
-      "detaljer": [
-        "Abort skete efter tænding af detonationsdæmpningssystem.",
-        "Forsøg 16. juli: hold ved T-60 sekunder, abort efter motorfejl.",
-        "20 Starlink V3-satellitter var ombord på Ship 40.",
-        "SpaceX har offentliggjort vej- og strandlukninger for 23. juli."
-      ],
-      "betydning": "Starship er verdens største raket og skal gøre rumfart billigere. Missionen tester ny motor og satellitudsætning, hvilket er vigtigt for fremtidige opsendelser.",
-      "pointer": [
-        "Fjerde motorfejl forårsagede abort.",
-        "To motorer skiftet efter fejl.",
-        "Test den 22. juli i Texas.",
-        "Næste forsøg tidligst 23. juli."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Astronomers are still trying to understand how a galaxy's spiral arms form",
-      "link": "https://phys.org/news/2026-07-astronomers-galaxy-spiral-arms.html",
-      "dato": "2026-07-22T14:20:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "The Whirlpool galaxy (M51) is a classic grand spiral galaxy. It was the first object identified as a spiral, way back in 1845. At the time, it and other galaxies were considered spiral nebulae, since astronomers didn't know other galaxies existed. Edwin Hubble finally proved that there were other galaxies in the early 1920s.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-are-still.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Forskere undersøger hvordan spiralarme i galakser opstår",
-      "resume_da": "Astronomer forsøger stadig at forstå, hvordan galaksers spiralarme dannes. Hvirvelgalaksen (M51) var den første galakse, der blev identificeret som spiral i 1845.",
-      "sektioner": [
-        {
-          "overskrift": "Spiralgalaksers oprindelse",
-          "tekst": "Forskere har i årtier studeret, hvordan galaksers spiralarme opstår. Den klassiske Hvirvelgalakse (M51) blev første gang set som spiral i **1845**."
-        },
-        {
-          "overskrift": "Historisk betydning",
-          "tekst": "På det tidspunkt troede astronomer, at galakser var spiralformede tåger (nebulæer), fordi man ikke vidste, at andre galakser fandtes. Det var først i **1920'erne**, at Edwin Hubble beviste eksistensen af andre galakser."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1845",
-          "label": "år, spiral opdaget"
-        },
-        {
-          "tal": "1920'erne",
-          "label": "år, andre galakser bevist"
-        }
-      ],
-      "detaljer": [
-        "Hvirvelgalaksen (M51) er en klassisk grand spiralgalakse.",
-        "M51 var det første objekt, der blev identificeret som spiral.",
-        "Galakser blev oprindeligt kaldt spiralnebulæer.",
-        "Edwin Hubble beviste, at der findes andre galakser i 1920'erne."
-      ],
-      "betydning": "At forstå spiralarmes dannelse hjælper os med at forstå galaksers udvikling, hvilket giver indsigt i universets struktur og vores egen galakses historie.",
-      "pointer": [
-        "Hvirvelgalaksen var den første kendte spiralgalakse.",
-        "Spiralopdagelsen skete i 1845.",
-        "Før Hubble troede man, galakser var tåger.",
-        "Hubble beviste eksistensen af andre galakser i 1920'erne."
-      ],
-      "prio": 3
-    },
-    {
-      "titel": "The strategic competition with China: winning the multi-domain race",
-      "link": "https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/",
-      "dato": "2026-07-22T13:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete. The introduction of repeating rifles transformed infantry combat during the 19th [&#8230;] The post The strategic competition with China: winning the multi-domain race appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/CZ6A-Qianfan-6th-18-TSLC-17oct2025-CASC1.jpg?fit=1024%2C604&amp;ssl=1",
-      "billede_alt": "A Long March 6A rocket lifts off from the Taiyuan Satellite Launch Center in northern China, producing a bright plume of exhaust against a clear sky, with four lightning towers surrounding the launch ",
-      "kategori": "Politik & penge",
-      "rubrik": "Strategisk konkurrence med Kina: Vind i alle domæner",
-      "resume_da": "Militær innovation ændrer krigsførelse, og rummet er en central arena i konkurrencen med Kina.",
-      "sektioner": [
-        {
-          "overskrift": "Historisk innovation",
-          "tekst": "Militær innovation har altid ændret krigens regler. Nye våben som repetergeværer gjorde tidligere strategier forældede."
-        },
-        {
-          "overskrift": "Rummet som arena",
-          "tekst": "I dag foregår konkurrencen på tværs af domæner, herunder rummet. At dominere i rummet er afgørende for militær overlegenhed."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Militær innovation omskriver konstant krigsførelsens regler.",
-        "Repetergeværer ændrede infanterikamp i 1800-tallet.",
-        "Rummet er en nøglearena i den strategiske konkurrence med Kina."
-      ],
-      "betydning": "Artiklen understreger, at rummet er blevet en central slagmark i stormagtsrivalisering, hvilket påvirker dansk sikkerhedspolitik og rumfartssamarbejde.",
-      "pointer": [
-        "Historien viser, at ny teknologi ændrer krig.",
-        "Rummet er nu en del af konkurrencen.",
-        "Kina udfordrer USA's dominans.",
-        "Det kræver nye strategier på tværs af domæner."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "New timelapse video shows NASA's Psyche spacecraft zooming by Mars",
-      "link": "https://www.space.com/astronomy/mars/new-timelapse-video-shows-nasas-psyche-spacecraft-zooming-by-mars",
-      "dato": "2026-07-22T12:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "\"We didn't anticipate big discoveries, given how extensively the planet has been studied, but we did complement Mars science with the data we collected through Psyche's unique perspective.\"",
-      "billede": "https://cdn.mos.cms.futurecdn.net/eJQFPKa8b8xRUvw7gyWR3B-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Psyche-sonde svirrer forbi Mars på vej til asteroide",
-      "resume_da": "NASA's Psyche-sonde fløj tæt forbi Mars i maj 2023. Et nyt time-lapse-video viser forbløffende detaljer fra forbiflyvningen.",
-      "sektioner": [
-        {
-          "overskrift": "Time-lapse video",
-          "tekst": "Et nyt time-lapse-video fra NASA viser Psyche-sondens forbiflyvning af Mars i maj 2023. Videoen er sammensat af **60** billeder taget over en periode på omkring en time."
-        },
-        {
-          "overskrift": "Sondens mission",
-          "tekst": "Psyche-sonden er på vej mod asteroiden Psyche, der ligger i asteroidebæltet mellem Mars og Jupiter. Asteroiden menes at være en eksponeret kerne fra en planet, der aldrig blev dannet."
-        },
-        {
-          "overskrift": "Forbiflyvningens formål",
-          "tekst": "Forbiflyvningen af Mars brugte planetens tyngdekraft til at slynge Psyche-sonden videre mod sit mål. Teknikken kaldes en 'gravity assist' og sparer brændstof."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "60 billeder",
-          "label": "Antal billeder i time-lapse"
-        }
-      ],
-      "detaljer": [
-        "Forbiflyvningen fandt sted i maj 2023.",
-        "Videoen er optaget over cirka en time.",
-        "Sonden er på vej til asteroiden Psyche."
-      ],
-      "betydning": "Missionen kan hjælpe forskere med at forstå, hvordan planeter dannes, og hvad der gemmer sig i deres kerner.",
-      "pointer": [
-        "Time-lapse viser Mars-forbiflyvning.",
-        "60 billeder over en time.",
-        "Gravity assist sparer brændstof.",
-        "Mål: asteroiden Psyche."
-      ],
-      "prio": 5
     }
   ]
 }
