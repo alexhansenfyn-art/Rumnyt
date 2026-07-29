@@ -1,7 +1,206 @@
 {
-  "opdateret": "2026-07-28T20:38:10.619895+00:00",
-  "antal": 89,
+  "opdateret": "2026-07-29T08:04:02.336520+00:00",
+  "antal": 94,
   "artikler": [
+    {
+      "titel": "Sizing Up the Sargassum Belt",
+      "link": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/",
+      "dato": "2026-07-29T04:00:00+00:00",
+      "kilde": "NASA",
+      "resume": "Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in June 2026, with the Caribbean Sea and Gulf of America both reaching all-time highs.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sizing-up-the-sargassum-belt/sargassum_pace_202606.jpg?w=1440&#038;h=1090&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "Map of the Atlantic Ocean showing Sargassum density from low (blue) to high (red) in June 2026, with the highest concentrations in the tropical Atlantic.",
+      "kategori": "Forskning",
+      "rubrik": "Rekordmængde af tang i Atlanten i 2026",
+      "resume_da": "Sargassum-tang i Atlanten nåede næsten rekordhøjde i juni 2026, med store mængder i Caribien og Den Mexicanske Golf.",
+      "sektioner": [
+        {
+          "overskrift": "Andenstørste år for tang",
+          "tekst": "I juni 2026 var mængden af Sargassum-tang i Atlanten den næsthøjeste nogensinde målt fra satellit, kun overgået af 2025. Caribien og Den Mexicanske Golf havde rekordstore mængder, med henholdsvis **3,6** og **9 millioner tons** i det vestlige og østlige Caribien, og **5 millioner tons** i Den Mexicanske Golf – næsten dobbelt så meget som den gamle rekord."
+        },
+        {
+          "overskrift": "Satellitovervågning er afgørende",
+          "tekst": "Forsker Brian Barnes fra University of South Florida forklarer, at satellitobservationer er den eneste metode, der dagligt kan fange både det store bælte og de lokale effekter. Dataene kommer især fra NASA's PACE-satellit, der måler tangens dækning af havoverfladen ved hjælp af infrarødt lys."
+        },
+        {
+          "overskrift": "Økologiske konsekvenser",
+          "tekst": "Sargassum giver levesteder og ilt på åbent hav, men i store mængder nær kysten kan det kvæle havliv og ødelægge koralrev. Når tangen rådner på strande, frigives hydrogensulfid, en ilde lugtende gas, der skader økosystemer og turisme."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "3,6 millioner tons",
+          "label": "Tang i vestlige Caribien"
+        },
+        {
+          "tal": "9 millioner tons",
+          "label": "Tang i østlige Caribien"
+        },
+        {
+          "tal": "5 millioner tons",
+          "label": "Tang i Den Mexicanske Golf"
+        }
+      ],
+      "detaljer": [
+        "Sargassum-tang er en brun flyde-alge, der har spredt sig i tropiske Atlanten siden 2011.",
+        "Det store bælte strækker sig næsten uafbrudt fra Vestafrika til Den Mexicanske Golf.",
+        "Satellitter bruger nær-infrarødt lys til at skelne tang fra vand.",
+        "Mængden af tang steg kraftigt i første halvdel af 2026, men faldt igen i juli."
+      ],
+      "betydning": "Store mængder tang påvirker turisme, fiskeri og kystmiljøer i Caribien og Den Mexicanske Golf, hvilket kan have økonomiske og økologiske konsekvenser for danskere, der rejser eller handler med regionen.",
+      "pointer": [
+        "Juni 2026 var n12ststørste tang-måned målt i Atlanten.",
+        "Caribien og Den Mexicanske Golf satte rekord i tangmængde.",
+        "Rådnende tang på strande skader turisme og livet i havet.",
+        "Satellitter fra NASA og NOAA overvåger tangen dagligt."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Boeing still working with NASA to schedule next Starliner flight",
+      "link": "https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/",
+      "dato": "2026-07-29T01:24:07+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Boeing is still working with NASA to determine when to fly its CST-100 Starliner commercial crew vehicle on a cargo mission to the International Space Station. The post Boeing still working with NASA to schedule next Starliner flight appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/NHQ202406030004large.jpg?fit=1024%2C705&amp;ssl=1",
+      "billede_alt": "Starliner CFT launch preps",
+      "kategori": "Missioner",
+      "rubrik": "Boeing og NASA planlægger næste Starliner-flyvning",
+      "resume_da": "Boeing arbejder stadig med NASA om at fastlægge en dato for den næste Starliner-mission, denne gang en fragtflyvning til ISS.",
+      "sektioner": [
+        {
+          "overskrift": "Fragtmission under overvejelse",
+          "tekst": "Boeing og NASA diskuterer en mulig fragtflyvning med CST-100 Starliner til Den Internationale Rumstation. Det er endnu ikke besluttet, hvornår missionen finder sted."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Boeing og NASA arbejder sammen om at planlægge den næste Starliner-flyvning.",
+        "Den næste mission bliver en fragtflyvning til ISS.",
+        "En præcis dato er endnu ikke fastlagt."
+      ],
+      "betydning": "Missionen er vigtig, fordi den viser Boeings vej mod at levere både fragt og astronauter til ISS, hvilket påvirker fremtidig rumtransport for NASA.",
+      "pointer": [
+        "Boeing og NASA planlægger Starliner-fragtmission.",
+        "Dato endnu ikke fastsat.",
+        "Missionen går til ISS.",
+        "Vigtigt skridt for Boeings rumfartøj."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush",
+      "link": "https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/",
+      "dato": "2026-07-29T01:18:28+00:00",
+      "kilde": "SpaceNews",
+      "resume": "SINGAPORE — A Beijing-based startup has secured around $14 million to build a satellite constellation for tracking orbital objects, adding to China’s growing SSA sector.&#160; Xingchen Daohe, also known as [&#8230;] The post Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/space-situational-awareness-ESA-scaled.jpg?fit=1024%2C533&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Kinesisk startup rejser penge til rumovervågning",
+      "resume_da": "Xingchen Daohe har skaffet ca. 14 mio. dollars til en satellitkonstellation, der skal spore objekter i kredsløb. Det er et tegn på vækst i Kinas kommercielle SSA-sektor.",
+      "sektioner": [
+        {
+          "overskrift": "Finansiering og formål",
+          "tekst": "Beijing-baserede Xingchen Daohe har rejst omkring **14 millioner dollars** til at bygge en satellitkonstellation. Konstellationen skal spore objekter i rummet som gamle satellitter og affald."
+        },
+        {
+          "overskrift": "Kinas kommercielle SSA",
+          "tekst": "Opstarten slutter sig til en voksende gruppe af kommercielle aktører i Kina, der arbejder med Space Situational Awareness (SSA). Sektoren oplever hurtig vækst."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "14 mio. dollars",
+          "label": "indsamlet finansiering"
+        }
+      ],
+      "detaljer": [
+        "Xingchen Daohe er en Beijing-baseret startup.",
+        "Målet er en satellitkonstellation til at spore orbitalobjekter.",
+        "SSA står for Space Situational Awareness.",
+        "Virksomheden slutter sig til en kommerciel SSA-rush i Kina."
+      ],
+      "betydning": "Mere overvågning af rumaffald er vigtigt for at undgå kollisioner, der kan skade satellitter, vi er afhængige af som GPS og internettet.",
+      "pointer": [
+        "Kinesisk startup rejser 14 mio. dollars.",
+        "Skal spore objekter i rummet.",
+        "Del af voksende kommerciel SSA-sektor i Kina."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Swift reboost mission encounters attitude control problems",
+      "link": "https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems/",
+      "dato": "2026-07-28T23:04:29+00:00",
+      "kilde": "SpaceNews",
+      "resume": "A spacecraft launched nearly a month ago in a high-risk bid to boost the orbit of a NASA astrophysics satellite is suffering attitude control problems that could jeopardize its mission. The post Swift reboost mission encounters attitude control problems appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/link-solarpanel.jpeg?fit=1024%2C670&amp;ssl=1",
+      "billede_alt": "Link solar panel",
+      "kategori": "Missioner",
+      "rubrik": "Attitudeproblemer rammer Swift-reboost mission",
+      "resume_da": "En satellit, der skulle løfte NASAs Swift-rumteleskop til en højere bane, har fået problemer med sin holdningskontrol. Det kan true missionen.",
+      "sektioner": [
+        {
+          "overskrift": "Problemer med styring",
+          "tekst": "Rumfartøjet, der blev opsendt for næsten en måned siden, har problemer med holdningskontrolsystemet. Det kan betyde, at det ikke kan udføre sin planlagte opgave med at hæve Swifts bane."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Missionen er højrisiko",
+        "Satellitten blev sendt op for at booste NASAs Swift-teleskop",
+        "Problemerne kan true missionens succes"
+      ],
+      "betydning": "Hvis Swift ikke får et baneløft, kan det forkorte teleskopets levetid. Det kan betyde færre observationer af gammaglimt og andre kosmiske fænomener.",
+      "pointer": [
+        "Problemer med holdningskontrol",
+        "Opsendt for næsten en måned siden",
+        "Højrisiko mission"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "ESA opens call to repurpose Gateway communications module",
+      "link": "https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/",
+      "dato": "2026-07-28T20:38:20+00:00",
+      "kilde": "SpaceNews",
+      "resume": "JOHANNESBURG — The European Space Agency is moving ahead with plans to examine the feasibility of repurposing Lunar Link, a communications system developed for NASA’s now-paused Gateway space station, as [&#8230;] The post ESA opens call to repurpose Gateway communications module appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/gateway-full-configuration-hero-image-121123-scaled.png?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "Illustration of the Lunar Gateway. Credit: NASA",
+      "kategori": "Politik & penge",
+      "rubrik": "ESA kan bruge Gateway-radioudstyr til egen månefart",
+      "resume_da": "ESA undersøger, om kommunikationssystemet Lunar Link, bygget til NASAs månerumstation Gateway, kan bruges til andre måneformål.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad handler det om?",
+          "tekst": "European Space Agency (ESA) har bedt virksomheder om at foreslå, hvordan man kan genbruge Lunar Link. Lunar Link er et kommunikationssystem, som ESA udviklede til NASAs månerumstation Gateway. Gateway er dog forsinket eller sat på pause."
+        },
+        {
+          "overskrift": "Hvorfor er det aktuelt?",
+          "tekst": "For at undgå at miste den tekniske viden og de investerede midler, vil ESA se, om systemet i stedet kan bruges til europæiske månefartøjer. Interesserede virksomheder har **30 dage** til at indsende forslag."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "30 dage",
+          "label": "frist for forslag"
+        }
+      ],
+      "detaljer": [
+        "Lunar Link blev udviklet til Gateway-kommunikation.",
+        "Gateway er NASAs månerumstation, der er sat på pause.",
+        "ESA vil undersøge genbrug for at bevare kompetencer."
+      ],
+      "betydning": "Historien viser, at europæisk rumfart tilpasser sig forsinkelser i internationale projekter og forsøger at bruge teknologi effektivt.",
+      "pointer": [
+        "ESA åbner forslag til genbrug af Lunar Link.",
+        "Systemet var oprindeligt til NASA's Gateway.",
+        "Fristen for forslag er 30 dage.",
+        "ESA vil undgå spild af teknologi og viden."
+      ],
+      "prio": 5
+    },
     {
       "titel": "The future of the UK's renowned Lovell radio telescope is in question after a funding cut",
       "link": "https://phys.org/news/2026-07-future-uk-renowned-lovell-radio.html",
