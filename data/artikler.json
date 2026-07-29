@@ -1,7 +1,319 @@
 {
-  "opdateret": "2026-07-29T16:01:55.697175+00:00",
+  "opdateret": "2026-07-29T20:17:05.988950+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Space Force awards All Points $250 million to expand satellite processing at Vandenberg",
+      "link": "https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/",
+      "dato": "2026-07-29T19:45:17+00:00",
+      "kilde": "SpaceNews",
+      "resume": "All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch vehicles The post Space Force awards All Points $250 million to expand satellite processing at Vandenberg appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/9778751-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Space Force bruger 250 mio. dollars på nye satellitfaciliteter",
+      "resume_da": "Space Force har givet All Points Logistics en kontrakt på 250 millioner dollars til at udvide satellitbehandling ved Vandenberg Space Force Base.",
+      "sektioner": [
+        {
+          "overskrift": "Tredje kontrakt af sin slags",
+          "tekst": "All Points Logistics er den tredje virksomhed, der får en kontrakt under et kommercielt program. Programmet skal opføre nye faciliteter, hvor satellitter kan inspiceres, testes, tankes og klargøres til opsendelse."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "250 millioner dollars",
+          "label": "kontraktens værdi"
+        }
+      ],
+      "detaljer": [
+        "All Points Logistics vandt kontrakten under et kommercielt åbningsprogram.",
+        "Faciliteterne skal bruges til satellitbehandling før opsendelse."
+      ],
+      "betydning": "Kontrakten viser, at Space Force satser på kommercielle partnere til at opgradere rumfartsinfrastruktur. Det kan gøre opsendelser hurtigere og billigere.",
+      "pointer": [
+        "Space Force investerer i satellitbehandlingskapacitet.",
+        "All Points Logistics får 250 mio. dollars til opgaven.",
+        "Faciliteterne skal stå ved Vandenberg-base i Californien."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Little red dots may mark temporary black hole phase",
+      "link": "https://phys.org/news/2026-07-red-dots-temporary-black-hole.html",
+      "dato": "2026-07-29T19:10:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Since their discovery by NASA's James Webb Space Telescope in 2022, little red dots (LRDs) have been the subject of great interest to astronomers. Understanding the nature of these extremely distant, compact red sources has been a puzzling scientific endeavor.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/webb-explores-family-t-1.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Små røde prikker kan være sorte huller",
+      "resume_da": "Siden 2022 har James Webb-teleskopet observeret mystiske små røde prikker i det fjerne univers. Ny forskning tyder på, at de kan være korte faser af sorte hullers aktivitet.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er de røde prikker?",
+          "tekst": "Siden **2022** har NASA's James Webb-rumteleskop fundet små, kompakte røde kilder langt væk. De kaldes little red dots (LRD'er). Astronomer har undret sig over, hvad de er."
+        },
+        {
+          "overskrift": "Ny forklaring",
+          "tekst": "Ny forskning tyder på, at LRD'er kan være sorte huller i en kort, aktiv fase. De er meget fjerne, så vi ser dem, som universet var for milliarder af år siden."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "James Webb-teleskopet opdagede de små røde prikker i 2022.",
+        "Prikkerne er ekstremt fjerne og kompakte.",
+        "Forskere kalder dem little red dots (LRD'er)."
+      ],
+      "betydning": "Forskningen kan hjælpe os med at forstå, hvordan sorte huller blev dannet og udviklede sig i det tidlige univers.",
+      "pointer": [
+        "Små røde prikker set af James Webb-teleskopet",
+        "Kan være sorte huller i en kort fase",
+        "Er meget fjerne og gamle",
+        "Hjælper med at forstå universets udvikling"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Curiosity Mars rover discovers field of honeycomb textures",
+      "link": "https://phys.org/news/2026-07-curiosity-mars-rover-field-honeycomb.html",
+      "dato": "2026-07-29T17:30:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "As NASA's Curiosity rover recently began climbing a Martian valley nicknamed \"Valle Grande,\" it sent back images that were a familiar sight to mission scientists: honeycomb-like textures called polygonal fractures, each about 1.5–3 inches (4–8 centimeters) across. The mission has spotted small patches of these geometric shapes several times before, but nothing at the scale discovered in Valle Gran",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/curiosity-mars-rover-d.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Curiosity finder honningkage-mønstre på Mars",
+      "resume_da": "NASAs rover Curiosity har opdaget et stort område med honningkagelignende revner i Mars-dalen Valle Grande. Mønstrene er velkendte, men aldrig set i denne størrelse.",
+      "sektioner": [
+        {
+          "overskrift": "Opdagelse i Valle Grande",
+          "tekst": "Roveren Curiosity er begyndt at køre op ad dalen Valle Grande på Mars. Her har den fotograferet et stort område med bikage-lignende mønstre, kaldet polygonale brud. Hvert mønster er omkring **1,5-3 tommer** (**4-8 centimeter**) bredt."
+        },
+        {
+          "overskrift": "Kendt fænomen",
+          "tekst": "Forskerne har set små områder med disse geometriske former før. Men aldrig i så stor skala som i Valle Grande. Mønstrene dannes, når Mars' overflade tørrer ud og revner."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1,5-3 tommer",
+          "label": "Bredde af hvert mønster"
+        }
+      ],
+      "detaljer": [
+        "Opdagelsen er gjort af Curiosity-roveren under dens opstigning i Valle Grande-dalen.",
+        "Polygonale brud er et tegn på, at overfladen har været våd og derefter tørret ud."
+      ],
+      "betydning": "Opdagelsen giver forskerne ny viden om, hvordan vand og klima har formet Mars' overflade gennem tiden.",
+      "pointer": [
+        "Stort område med bikagemønstre fundet.",
+        "Mønstre er 4-8 cm brede.",
+        "Aldrig set i denne mængde før.",
+        "Fortæller om Mars' tørre fortid."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA Sets Coverage for August Northern Hemisphere Total Solar Eclipse",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/",
+      "dato": "2026-07-29T16:49:37+00:00",
+      "kilde": "NASA",
+      "resume": "On Wednesday, Aug. 12, a total solar eclipse will be visible in parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. NASA will stream the eclipse live with views across the path and interviews with subject matter experts through a variety of platforms. Learn where to watch online: [&#8230;]",
+      "billede": "https://www.youtube.com/embed/29ixFQIGZaY",
+      "billede_alt": "A total solar eclipse is seen in Dallas, Texas on Monday, April 8, 2024. A total solar eclipse swept across a narrow portion of the North American continent from Mexico’s Pacific coast to the Atlantic",
+      "kategori": "Astronomi",
+      "rubrik": "Total solformørkelse 12. august synlig fra Nordeuropa",
+      "resume_da": "Den 12. august 2026 kan en total solformørkelse opleves fra bl.a. Grønland, Island og Spanien. NASA sender live og udfører eksperimenter.",
+      "sektioner": [
+        {
+          "overskrift": "Hvor og hvornår",
+          "tekst": "Onsdag **12. august** oplever Grønland, Island, Nordrusland, Atlanterhavet, Spanien og Portugal en total solformørkelse. Dele af USA, Canada, Europa og Nordvestafrika ser en delvis formørkelse. NASA starter live-transmissionen kl. **13:15** amerikansk østkysttid, og totaliteten begynder i Island kl. **13:45** og i Spanien kl. **14:28**."
+        },
+        {
+          "overskrift": "NASA's eksperimenter",
+          "tekst": "NASA sender et forskningsfly (WB-57) ind i Månens skygge for at studere Solens korona. Studerende fra flere amerikanske universiteter sender balloner op fra Island og Spanien for at måle, hvordan formørkelsen påvirker Jordens atmosfære."
+        },
+        {
+          "overskrift": "Sådan følger du med",
+          "tekst": "NASA streames live med ekspertinterviews på deres hjemmeside. Du kan stille spørgsmål på X, Facebook og Instagram ved at tagge NASA's konti. Billeder lægges på Flickr kort efter formørkelsen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. august 2026",
+          "label": "Dato for formørkelsen"
+        },
+        {
+          "tal": "13:15 ET",
+          "label": "Start af NASA's live"
+        }
+      ],
+      "detaljer": [
+        "Total solformørkelse synlig fra Grønland, Island, Nordrusland, Atlanterhavet, Spanien og Portugal.",
+        "Delvis formørkelse synlig i store dele af USA, Canada, Europa og Nordvestafrika.",
+        "NASA udfører eksperimenter med fly og balloner under formørkelsen.",
+        "Live-transmission starter kl. 13:15 ET den 12. august.",
+        "Spørgsmål kan sendes via sociale medier under broadcast."
+      ],
+      "betydning": "Selvom totaliteten i Danmark ikke er direkte synlig, kan danskere opleve en delvis formørkelse. NASA's forskning under formørkelsen giver ny viden om Solen og Jordens atmosfære, som kan påvirke vejr- og klimamodeller.",
+      "pointer": [
+        "Total solformørkelse 12. august 2026",
+        "Synlig i Grønland, Island og Spanien",
+        "NASA sender live og udfører eksperimenter",
+        "Delvis formørkelse i store dele af Nordhalvkuglen"
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Rare Total Solar Eclipse-Perseid Meteor Shower Double-Header August 12th",
+      "link": "https://skyandtelescope.org/astronomy-news/rare-total-solar-eclipse-perseid-meteor-shower-double-header-on-august-12th/",
+      "dato": "2026-07-29T16:40:28+00:00",
+      "kilde": "Sky & Telescope",
+      "resume": "The only total solar eclipse of the year coincides with the Perseid meteor shower. Here's what you need to know to watch the eclipse. The post Rare Total Solar Eclipse-Perseid Meteor Shower Double-Header August 12th appeared first on Sky &amp; Telescope .",
+      "billede": null,
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Total solformørkelse og Perseider på samme dag",
+      "resume_da": "Årets eneste totale solformørkelse falder sammen med Perseid-meteorsværmen den 12. august. Her er hvad du skal vide.",
+      "sektioner": [
+        {
+          "overskrift": "Sjældent astronomisk dobbeltfænomen",
+          "tekst": "Den 12. august finder årets eneste totale solformørkelse sted samtidig med Perseid-meteorsværmen. Det er et usædvanligt sammenfald, der giver en unik mulighed for at observere begge begivenheder."
+        },
+        {
+          "overskrift": "Hvor og hvornår",
+          "tekst": "Formørkelsen vil være synlig fra et smalt bælte over Nordamerika. Perseiderne er aktive i hele august, men topper omkring den 12. august."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. august",
+          "label": "Dato for begivenheden"
+        }
+      ],
+      "detaljer": [
+        "Årets eneste totale solformørkelse falder sammen med Perseid-meteorsværmen.",
+        "Formørkelsen er synlig fra Nordamerika.",
+        "Perseiderne topper omkring 12. august."
+      ],
+      "betydning": "For almindelige danskere er det en sjælden chance for at opleve to store astronomiske begivenheder på én gang, selvom formørkelsen bedst ses fra Nordamerika.",
+      "pointer": [
+        "Total solformørkelse den 12. august",
+        "Samtidig Perseid-meteorsværm",
+        "Kun synlig i Nordamerika",
+        "Sjældent sammenfald"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA’s Curiosity Views a Sand-Capped Butte",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/",
+      "dato": "2026-07-29T16:08:12+00:00",
+      "kilde": "NASA",
+      "resume": "Description NASA’s Curiosity Mars rover captured this sand-capped butte, nicknamed “Miraflores,” estimated to be about 20 feet (6 meters) tall, with its Mast Camera, or Mastcam, on June 11, 2026, the 4,923rd Martian day, or sol, of the mission. The butte was left behind as surrounding rock eroded away over time, deepening the broad valley […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26730/PIA26730.png?w=6162&#038;h=2576&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A layered, rocky mound topped with smooth sand sits amid a vast, rocky expanse on Mars, illustrating the complex geological history being studied by NASA",
+      "kategori": "Missioner",
+      "rubrik": "Mars-sandsten fanget af Curiosity",
+      "resume_da": "NASAs rover Curiosity har fotograferet en sandklippe på Mars kaldet 'Miraflores'. Klippen er omkring 6 meter høj og står tilbage efter erosion.",
+      "sektioner": [
+        {
+          "overskrift": "Billede af klippe",
+          "tekst": "Den sandkappede klippe 'Miraflores' blev fotograferet af Curiositys Mastcam den 11. juni 2026. Klippen er omkring **20 fod (6 meter)** høj."
+        },
+        {
+          "overskrift": "Dannelse og omgivelser",
+          "tekst": "Klippen blev efterladt, da omkringliggende sten eroderede væk og udvidede dalen, Curiosity kører igennem. Området har mange polygonformede overfladetræk."
+        },
+        {
+          "overskrift": "Billedets sammensætning",
+          "tekst": "Panoramaet består af **11 individuelle billeder** syet sammen. Farverne er justeret, så de matcher menneskelig syn på Jorden."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "6 meter",
+          "label": "Klippens højde"
+        },
+        {
+          "tal": "4.923",
+          "label": "Marsdage på missionen"
+        },
+        {
+          "tal": "11",
+          "label": "Antal billeder i panorama"
+        }
+      ],
+      "detaljer": [
+        "Billedet er taget den 11. juni 2026.",
+        "Klippen kaldes 'Miraflores'.",
+        "Curiosity blev bygget af NASA JPL.",
+        "Mastcam er bygget af Malin Space Science Systems."
+      ],
+      "betydning": "Billedet viser, hvordan Mars' landskab formes af erosion over tid, hvilket hjælper forskere med at forstå planetens geologiske historie.",
+      "pointer": [
+        "Curiosity fotograferede en sandklippe kaldet Miraflores.",
+        "Klippen er 6 meter høj.",
+        "Billedet er et panorama af 11 billeder.",
+        "Omgivelserne har polygon-mønstre."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "NASA’s Curiosity Discovers a Field of Martian Polygons",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/",
+      "dato": "2026-07-29T16:06:39+00:00",
+      "kilde": "NASA",
+      "resume": "Description NASA’s Curiosity Mars rover captured this 360-degree view of an expanse of terrain covered in surface features called polygons on June 19 and 20, 2026, the 4,930th and 4,931st Martian days, or sols, of the mission. The rover has found polygons several times in the past, but never so many in one place. Across […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26729/PIA26729.png?w=29240&#038;h=8040&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A panoramic view of a sweeping Martian plain covered in patterned fractures leading toward distant hills showcases the terrain explored by NASA",
+      "kategori": "Missioner",
+      "rubrik": "Curiosity finder felt af polygoner på Mars",
+      "resume_da": "NASA's rover Curiosity har opdaget et stort område fyldt med polygonformede mønstre på Mars. Det er første gang, der ses så mange på ét sted.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad blev fundet",
+          "tekst": "Curiosity fangede et 360-graders panorama af et terræn dækket af polygoner den **19.-20. juni 2026**. Polygonerne har en diameter på **2-4 tommer (5-10 cm)** og omgiver en sanddækket bakke kaldet 'Miraflores'."
+        },
+        {
+          "overskrift": "Hvordan polygoner opstår",
+          "tekst": "Polygonmønstre kan dannes på flere måder, fx når overfladen tørrer ud som muddersprækker, ved temperaturcyklusser, kompaktion under begravelse eller mineralændringer. Forskere måler polygonernes egenskaber for at finde den præcise dannelsesproces."
+        },
+        {
+          "overskrift": "Panoramaets detaljer",
+          "tekst": "Panoramaet består af **340 individuelle billeder** taget med Curiositys Mastcam. Farverne er justeret, så de svarer til menneskelig syn på Jorden. Rovers kører i dag på Mount Sharps højsletter, som den har besteget siden 2014."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2-4 tommer (5-10 cm)",
+          "label": "Diameter på polygoner"
+        },
+        {
+          "tal": "340",
+          "label": "Antal billeder i panorama"
+        },
+        {
+          "tal": "19.-20. juni 2026",
+          "label": "Dato for observation"
+        }
+      ],
+      "detaljer": [
+        "Curiosity har set polygoner før, men aldrig så mange på ét sted.",
+        "Bakken 'Miraflores' er dækket af sand og omgivet af polygoner.",
+        "Panoramaet er taget under rovers opstigning mod Mount Sharp.",
+        "Roveren blev bygget af NASAs Jet Propulsion Laboratory.",
+        "Mastcam er bygget og drives af Malin Space Science Systems."
+      ],
+      "betydning": "Fundet hjælper forskere med at forstå Mars' geologiske historie og klimaforhold, hvilket er vigtigt for fremtidig udforskning og eventuel beboelse.",
+      "pointer": [
+        "Stort polygonfelt opdaget på Mars",
+        "Diameter 5-10 cm",
+        "Forskere søger dannelsesproces",
+        "Panorama på 340 billeder"
+      ],
+      "prio": 6
+    },
     {
       "titel": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
       "link": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
@@ -53,6 +365,55 @@
         "Polygonerne er dannet af muddersprækker eller tryk.",
         "Mars havde engang søer og vandløb.",
         "Fundet bekræfter gamle livsbetingelser på Mars."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "APOD: 2026 July 29 – Psyche Receives Gravity Assist from Mars",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-29-psyche-receives-gravity-assist-from-mars/",
+      "dato": "2026-07-29T15:25:54+00:00",
+      "kilde": "NASA",
+      "resume": "A video of the Psyche spacecraft flying by Mars.",
+      "billede": null,
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Psyche fik fart fra Mars i maj 2026",
+      "resume_da": "Rumsonden Psyche brugte Mars' tyngdekraft til at øge farten og spare brændstof på vej mod asteroide Psyche.",
+      "sektioner": [
+        {
+          "overskrift": "Gravity assist fra Mars",
+          "tekst": "I maj 2026 fløj rumsonden Psyche forbi Mars og brugte planetens tyngdekraft til at øge sin fart og ændre kurs. Mars' banehastighed er omkring **87.000 km/t**, og dens tyngdekraft trak Psyche med sig. Metoden har været brugt siden **1959**."
+        },
+        {
+          "overskrift": "Første mission til metalasteroide",
+          "tekst": "Psyche er på vej mod asteroide Psyche, som menes hovedsageligt at bestå af metal. Det er første gang, en sonde besøger en sådan asteroide. Rumsonden testede instrumenter under forbiflyvningen og ankommer til asteroiden i **2029**."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "87.000 km/t",
+          "label": "Mars' banehastighed"
+        },
+        {
+          "tal": "1959",
+          "label": "Første gravity assist"
+        },
+        {
+          "tal": "2029",
+          "label": "Ankomst til asteroide"
+        }
+      ],
+      "detaljer": [
+        "Gravity assist sparer brændstof og gør dyb rumfart mulig.",
+        "Psyche er den første mission til en metalasteroide.",
+        "Mars' tyngdekraft øgede sondens hastighed."
+      ],
+      "betydning": "Missionen kan lære os, hvordan planeter dannes, og hvordan metalliske asteroider ser ud.",
+      "pointer": [
+        "Rumsonden Psyche brugte Mars til at få fart.",
+        "Metoden sparer brændstof.",
+        "Ankommer til asteroide Psyche i 2029.",
+        "Første mission til en metalasteroide."
       ],
       "prio": 6
     },
@@ -795,6 +1156,45 @@
         "Ny viden om Venus."
       ],
       "prio": 6
+    },
+    {
+      "titel": "APOD: 2026 July 28 – Barnards Loop over Twin Volcanoes",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-28-barnards-loop-over-twin-volcanoes/",
+      "dato": "2026-07-28T15:30:58+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 July 28 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Barnards Loop [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/LoopVolcanos_Laserna_5815.jpg?w=5815&#038;h=4976&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A pair of snow topped volcanoes are seen in the distance. A background starry sky is seen behind them, with a red filamentary nebula looping around that appears to connect the two tops of the volcanoe",
+      "kategori": "Astronomi",
+      "rubrik": "Barnards Loop forbinder tvillingevulkaner",
+      "resume_da": "Et nyt billede fanger Barnards Loop som en glødende bue mellem de to vulkaner Parinacota og Pomerape i Bolivia.",
+      "sektioner": [
+        {
+          "overskrift": "Billedets historie",
+          "tekst": "Billedet blev taget i Bolivia i midten af april 2026 med flere eksponeringer fra samme sted. Det viser Barnards Loop som forbinder de to vulkaner Parinacota og Pomerape."
+        },
+        {
+          "overskrift": "Hvad billedet viser",
+          "tekst": "Udover Barnards Loop ses Oriontågen i midten, stjernen Betelgeuse til højre og Rosettetågen øverst til højre. Vulkanerne er ikke forbundet under jorden og har ikke haft udbrud i **1000 år**."
+        },
+        {
+          "overskrift": "Myten bag vulkanerne",
+          "tekst": "Ifølge gammel mytologi repræsenterer Parinacota og Pomerape en prins og prinsesse i en forbudt romance. Billedet forbinder dem visuelt gennem rummet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Billedet er et sammensat foto taget samme dag og sted.",
+        "Barnards Loop er en stor glødende gasring i rummet.",
+        "Vulkanerne er ikke geologisk forbundet."
+      ],
+      "betydning": "Billedet viser, hvordan astrofotografering kan skabe smukke forbindelser mellem jordiske og himmelske fænomener.",
+      "pointer": [
+        "Barnards Loop forbinder visuelt to vulkaner i Bolivia.",
+        "Billedet inkluderer Oriontågen og Betelgeuse.",
+        "Vulkanerne har ikke haft udbrud i over 1000 år."
+      ],
+      "prio": 3
     },
     {
       "titel": "Tabby's star may be orbited by a planetary-mass companion",
@@ -3785,379 +4185,6 @@
         "Kommerciel rummedicin på vej"
       ],
       "prio": 5
-    },
-    {
-      "titel": "'Star Trek: Strange New Worlds'' season 4 opener is a pulpy sci-fi joy packed with dinosaurs, martians, and a 5th planet where the asteroid belt should be",
-      "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-4-opener-is-a-pulpy-sci-fi-joy-built-on-some-fun-scientific-what-ifs",
-      "dato": "2026-07-23T13:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "Dinosaurs, Martians, and the fate of the human race? This could be more than your standard day at the office for the Enterprise crew.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/6PzAee78EWCeeCtbZi7PZQ-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Star Trek-anmeldelse: Sæson 4 åbner med dinosaurer",
-      "resume_da": "Artiklen er en anmeldelse af Star Trek: Strange New Worlds sæson 4-premiere, skrevet af en sci-fi-journalist med baggrund i SFX.",
-      "sektioner": [
-        {
-          "overskrift": "Journalistens baggrund",
-          "tekst": "Artiklens forfatter har elsket sci-fi siden barndommen, hvor han så Star Wars som fireårig. Han har en universitetsgrad i fysik og har arbejdet som redaktør på SFX i **12 år**."
-        },
-        {
-          "overskrift": "Anmeldelsens indhold",
-          "tekst": "Premieren beskrives som en pulpy sci-fi-glæde med dinosaurer og marsboere. Historien foregår på en femte planet, hvor asteroidebæltet burde være."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Forfatteren så Star Wars som fireårig",
-        "Han har en fysikgrad fra universitetet",
-        "Han var redaktør på SFX i 12 år",
-        "Han har mødt fem Doctor Who'er, to Starfleet-kaptajner og en Luke Skywalker"
-      ],
-      "betydning": "For danske seere giver anmeldelsen et indblik i, hvad de kan forvente af den nye sæson af et populært sci-fi-show.",
-      "pointer": [
-        "Anmeldelse af Star Trek: Strange New Worlds sæson 4",
-        "Premieren indeholder dinosaurer og marsboere",
-        "Handlingen foregår på en mystisk femte planet",
-        "Forfatteren har lang erfaring med sci-fi"
-      ],
-      "prio": 3
-    },
-    {
-      "titel": "Airbus space business takes advantage of growing demand for satellite systems",
-      "link": "https://spacenews.com/airbus-space-business-takes-advantage-of-growing-demand-for-satellite-systems/",
-      "dato": "2026-07-23T11:55:22+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Airbus executives say the turnaround in the company’s space business came just in time to tap growing demand, particularly from Europe, for space capabilities as it pursues a joint venture. The post Airbus space business takes advantage of growing demand for satellite systems appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/aeolus2.jpeg?fit=1024%2C724&amp;ssl=1",
-      "billede_alt": "Aeolus-2",
-      "kategori": "Politik & penge",
-      "rubrik": "Airbus rumdivision høster fordele af stor efterspørgsel",
-      "resume_da": "Airbus' rumdivision oplever stor vækst drevet af Europas stigende behov for satellitsystemer.",
-      "sektioner": [
-        {
-          "overskrift": "Stigende efterspørgsel fra Europa",
-          "tekst": "Airbus' rumdivision har vendt udviklingen og oplever nu stor efterspørgsel, især fra Europa. Virksomheden arbejder på et joint venture for at udnytte væksten."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Airbus rumdivision er vendt til vækst",
-        "Efterspørgslen kommer især fra Europa",
-        "Airbus forfølger et joint venture"
-      ],
-      "betydning": "Historien viser, at Europas investeringer i rumfart betaler sig, hvilket kan føre til flere danske job og teknologisk udvikling.",
-      "pointer": [
-        "Airbus' rumdivision oplever vækst",
-        "Efterspørgslen kommer især fra Europa",
-        "Joint venture er på vej"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "JWST captures rare glimpse of early black hole growing inside network of young galaxies",
-      "link": "https://phys.org/news/2026-07-jwst-captures-rare-glimpse-early.html",
-      "dato": "2026-07-23T11:40:02+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Astronomers using the James Webb Space Telescope have captured one of the clearest views yet of how an early supermassive black hole may grow within a network of young galaxies. The compact active galaxy, seen just a billion years after the Big Bang, lies beside a 12,000-parsec-long filament containing multiple galaxies that are expected to merge within a few hundred million years.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/jwst-captures-a-rare-g.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "JWST ser tidligt sort hul vokse i galakse-netværk",
-      "resume_da": "James Webb-teleskopet har fanget et sjældent syn af et supermassivt sort hul, der vokser i et netværk af unge galakser kun én milliard år efter Big Bang.",
-      "sektioner": [
-        {
-          "overskrift": "Det sjældne syn",
-          "tekst": "Astronomer har brugt James Webb-rumteleskopet til at se et supermassivt sort hul i en tidlig fase af vækst. Det kompakte aktive sort hul blev set, som det så ud for omkring **12,8 milliarder år siden**."
-        },
-        {
-          "overskrift": "Galakse-netværket",
-          "tekst": "Det sorte hul ligger ved siden af en **12.000 parsec** lang filament eller tråd, som indeholder flere unge galakser. Disse galakser forventes at smelte sammen inden for et par hundrede millioner år."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "12.000 parsec",
-          "label": "længde af filament"
-        },
-        {
-          "tal": "én milliard år",
-          "label": "alder af universet dengang"
-        }
-      ],
-      "detaljer": [
-        "Observationen viser et kompakt, aktivt supermassivt sort hul.",
-        "Det sorte hul ses i et netværk af galakser, der forventes at smelte sammen.",
-        "Filamentet er 12.000 parsec langt (ca. 39.000 lysår)."
-      ],
-      "betydning": "Det giver ny viden om, hvordan de første supermassive sorte huller voksede sig store i det tidlige univers - en proces, der har betydning for forståelsen af galaksedannelse.",
-      "pointer": [
-        "JWST har set et tidligt sort hul i vækst.",
-        "Det ligger i et netværk af galakser.",
-        "Galakserne smelter sammen om få hundrede millioner år.",
-        "Synet er sjældent og klart."
-      ],
-      "prio": 8
-    },
-    {
-      "titel": "Starship Flight 13 achieves new firsts for SpaceX",
-      "link": "https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/",
-      "dato": "2026-07-23T05:01:59+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "On the third attempt of Starship Flight 13, Booster 20 and Ship 40 lifted off&#8230; The post Starship Flight 13 achieves new firsts for SpaceX appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/NSF-2026-07-25-02-56-35-223.jpg",
-      "billede_alt": "",
-      "kategori": "Opsendelser",
-      "rubrik": "SpaceX Starship flyvning 13 nåede nye milepæle",
-      "resume_da": "Starship Flight 13 opsendtes 24. juli efter to afbrydelser. Boosteren havarerede ved landing, men rumskibet gennemførte alle mål, herunder udsætning af 20 Starlink-satellitter.",
-      "sektioner": [
-        {
-          "overskrift": "Opsendelse og afbrydelser",
-          "tekst": "Første forsøg 16. juli blev afbrudt ved T-minus 0, fordi kun **29** af **33** motorer tændte. Årsagen var fugt i seks raptor-motorer, som gav lav iltturbopumpetryk. Alle seks blev skiftet. Andet forsøg 23 juli blev aflyst på grund af vejret. Tredje forsøg 24. juli lykkedes med alle **33** motorer tændte."
-        },
-        {
-          "overskrift": "Boosterens landing mislykkedes",
-          "tekst": "Booster 20 udførte boostback-forbrænding perfekt, men under landing tændte først **10** raptorer, så **8** og til sidst **5**. Den ramte vandet for hårdt og sprængtes. Dette var anden gang i træk, at en booster havarerede."
-        },
-        {
-          "overskrift": "Rumskibet fløj perfekt",
-          "tekst": "Ship 40 opnåede alle mål: det udsatte **20** Starlink-satellitter, genantændte en raptor-motor i rummet og splashdownede præcist. Efter landing flød det på vandet i stedet for at eksplodere, hvilket gav ekstra data om varmeskjoldet."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "33",
-          "label": "motorers antal på Booster 20"
-        },
-        {
-          "tal": "20",
-          "label": "Starlink-satellitter udsat"
-        },
-        {
-          "tal": "5:51 p.m. CDT",
-          "label": "opsendelsestid 24. juli"
-        }
-      ],
-      "detaljer": [
-        "Første gang en fuld Starship-stak foretog en tændingsabort ved T-0.",
-        "Efter aborten blev motor E4, E5, E6, E12 og E13 udskiftet.",
-        "Vejr var et stort problem for andet forsøg, som blev aflyst timer før.",
-        "Ship 40 gav udvidede billeder af varmeskjold, fordi det ikke eksploderede efter landing."
-      ],
-      "betydning": "Missionen viser, at Starship kan udsætte satellitter og genantænde motorer i rummet, hvilket er afgørende for fremtidige måne- og Mars-missioner. For almindelige danskere betyder det billigere og hyppigere internet via Starlink og lavere priser på rumfart.",
-      "pointer": [
-        "33 motorer tændte ved liftoff",
-        "20 Starlink-satellitter sat i kredsløb",
-        "Raptor genantændelse i rummet",
-        "Booster havarerede ved landing"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Soyuz MS-29 crew arrives at ISS, U.S. EVA completes Canadarm2 repairs",
-      "link": "https://www.nasaspaceflight.com/2026/07/iss-roundup-072226/",
-      "dato": "2026-07-22T22:59:06+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "The International Space Station’s (ISS) crew grew by three members with the arrival of the&#8230; The post Soyuz MS-29 crew arrives at ISS, U.S. EVA completes Canadarm2 repairs appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/IMG_5280.jpeg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Ny besætning ankommer til ISS efter Canadarm2-reparation",
-      "resume_da": "Soyuz MS-29 bragte tre astronauter til ISS den 14. juli, mens en rumvandring tidligere reparerede robotarmen Canadarm2.",
-      "sektioner": [
-        {
-          "overskrift": "Canadarm2 repareret",
-          "tekst": "Den 30. juni udførte NASA-astronauterne Jessica Meir og Chris Williams en **7 timer og 20 minutter** lang rumvandring. De udskiftede robotarmen Canadarm2's håndledsled, som havde fungeret fejlagtigt siden **27. maj**. Det var den **280. rumvandring** til støtte for ISS."
-        },
-        {
-          "overskrift": "Soyuz MS-29 ankommer",
-          "tekst": "Soyuz MS-29 blev sendt op den **14. juli** fra Bajkonur i Kasakhstan. Ombord var kosmonauterne Pyotr Dubrov og Anna Kikina samt NASA-astronaut Anil Menon. Efter en **3 timer og 5 minutter** lang rejse lagde de til ved stationen."
-        },
-        {
-          "overskrift": "Videnskab om bord",
-          "tekst": "Astronauter arbejder på flere eksperimenter, blandt andet om bakteriers resistens mod antibiotika i vægtløs tilstand. Den **25. juni** sekventerede Jack Hathaway mikrobiologisk DNA. Den **6. juli** behandlede Meir og Hathaway bruskceller i et laboratorium om bord."
-        },
-        {
-          "overskrift": "Fremtiden efter ISS",
-          "tekst": "NASA planlægger at udfase ISS omkring **2030** og er i gang med at finde kommercielle alternativer. Den **6. juli** offentliggjorde de et udkast til en anmodning om forslag. Virksomheder som Axiom Space, Starlab Space, Blue Origin og Vast er blandt kandidaterne."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "7 timer 20 min",
-          "label": "Varighed af rumvandring"
-        },
-        {
-          "tal": "3 timer 5 min",
-          "label": "Rejsetid for Soyuz MS-29"
-        },
-        {
-          "tal": "2030",
-          "label": "Forventet nedlukning af ISS"
-        }
-      ],
-      "detaljer": [
-        "Rumvandring U.S. EVA 95 fandt sted den 30. juni.",
-        "Soyuz MS-29 lagde til ved Prichal-modulet kl. 17:52 UTC.",
-        "Ekspedition 75 begynder i slutningen af juli.",
-        "Crew-13 forventes at lette i september 2026."
-      ],
-      "betydning": "ISS er et vigtigt laboratorium for forskning, der kan gavne både astronauter og patienter på Jorden. Samtidig viser overgangen til kommercielle stationer, at rumfart bliver mere tilgængeligt for private virksomheder.",
-      "pointer": [
-        "Canadarm2 er repareret efter en fejl i maj.",
-        "Tre nye astronauter er ankommet til ISS.",
-        "Forskning på ISS kan forbedre medicin på Jorden.",
-        "NASA arbejder på at erstatte ISS med kommercielle stationer."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "China’s Shijian-31 satellite is sweeping GEO using a unique orbit",
-      "link": "https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/",
-      "dato": "2026-07-22T21:13:08+00:00",
-      "kilde": "SpaceNews",
-      "resume": "HELSINKI — A classified satellite launched by China in June is operating in a creative orbit, giving it a unique vantage point over the geostationary belt. Shijian-31 launched on a [&#8230;] The post China’s Shijian-31 satellite is sweeping GEO using a unique orbit appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Shijian31-CZ3B-XSLC-16june2026-CASC.jpg?fit=1024%2C599&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Kinesisk satellit scanner GEO fra unik bane",
-      "resume_da": "En hemmelig kinesisk satellit, Shijian-31, bruger en kreativ bane til at overvåge geostationære satellitter.",
-      "sektioner": [
-        {
-          "overskrift": "Unik bane",
-          "tekst": "Shijian-31 blev sendt op i juni og bevæger sig i en bane, der giver den et særligt udsyn over geostationærbæltet. Banen gør det muligt for satellitten at scanne området på en ny måde."
-        },
-        {
-          "overskrift": "Klassificeret mission",
-          "tekst": "Satellitten er klassificeret, så detaljer om dens formål er hemmelige. Eksperter mener, den kan bruges til at inspicere andre satellitter eller overvåge aktiviteter i rummet."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Shijian-31 er en kinesisk satellit opsendt i juni.",
-        "Den bruger en kreativ bane til at overvåge geostationærbæltet."
-      ],
-      "betydning": "Kinas evne til at overvåge rummet kan påvirke international rumfart og sikkerhed.",
-      "pointer": [
-        "Hemmelig kinesisk satellit",
-        "Unik bane giver særligt udsyn",
-        "Opsendt i juni",
-        "Kan overvåge andre satellitter"
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "FCC approves sweeping space reforms while clearing more C-band for 5G",
-      "link": "https://spacenews.com/fcc-approves-sweeping-space-reforms-while-clearing-more-c-band-for-5g/",
-      "dato": "2026-07-22T18:31:36+00:00",
-      "kilde": "SpaceNews",
-      "resume": "The FCC voted July 22 to push satellite operators out of more C-band spectrum for a 5G auction next year, while approving a licensing overhaul aimed at accelerating the commercial space economy. The post FCC approves sweeping space reforms while clearing more C-band for 5G appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/01_astra_26_H.jpg?fit=1024%2C792&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "FCC rydder spektrum til 5G og lemper regler for rumfart",
-      "resume_da": "USA's telemyndighed har godkendt at frigøre mere C-bånd til 5G og samtidig reformeret licensregler for at fremme kommerciel rumfart.",
-      "sektioner": [
-        {
-          "overskrift": "Mere 5G-spektrum",
-          "tekst": "FCC vedtog den 22. juli at rydde yderligere dele af C-båndet, så satellitoperatører skal flytte sig for at give plads til en 5G-auktion næste år. Beslutningen følger tidligere spektrumfrigivelser og skal sikre hurtigere mobilnet."
-        },
-        {
-          "overskrift": "Licensreformer for kommerciel rumfart",
-          "tekst": "Samtidig godkendte FCC en omfattende reform af licenssystemet, der skal gøre det hurtigere og billigere at få tilladelser til satellitter og andre rumaktiviteter. Målet er at fremskynde væksten i den kommercielle rumøkonomi."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "FCC stemte for at rydde mere C-båndsspektrum til 5G-auktion i 2026",
-        "Licensreformerne skal accelerere kommerciel rumfart",
-        "Afgørelsen blev truffet 22. juli"
-      ],
-      "betydning": "Bedre 5G-dækning kan komme danskere til gode, og reformer kan bane vejen for nye rumtjenester som satellit-internet.",
-      "pointer": [
-        "5G-auktion næste år",
-        "Satellitoperatører mister spektrum",
-        "Nye licensregler for rumfart",
-        "FCC vil fremme kommerciel rumøkonomi"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Rescuing satellites is harder than it looks. A growing space junk problem will make doing so more important",
-      "link": "https://phys.org/news/2026-07-satellites-harder-space-junk-problem.html",
-      "dato": "2026-07-22T17:40:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "A commercial robotic spacecraft called LINK launched on an emergency mission to save NASA's Neil Gehrels Swift Observatory, which has been slowly falling toward Earth, on July 3, 2026. Over the coming weeks, LINK, built by Katalyst Space Technologies, will try to grasp the telescope, then spend months raising it to a safer orbit.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2025/space-junk-1.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Robot redder NASAs Swift-teleskop fra rumaffald",
-      "resume_da": "En kommerciel robot er sendt op for at redde NASAs Swift-teleskop, som er faldet mod Jorden. Missionen skal vise, om det er muligt at reparere og genplacere satellitter.",
-      "sektioner": [
-        {
-          "overskrift": "Akut redningsmission",
-          "tekst": "Robotten LINK blev sendt af sted **3. juli 2026** for at redde NASAs Neil Gehrels Swift Observatory. Teleskopet har langsomt mistet højde og er på vej ned mod Jorden. LINK skal forsøge at gribe fat i teleskopet og derefter bruge flere måneder på at hæve det til en sikrere bane."
-        },
-        {
-          "overskrift": "Tekniske udfordringer",
-          "tekst": "At redde satellitter er sværere, end det ser ud. Rumaffald gør opgaven mere kompliceret, fordi der er større risiko for kollisioner. Katalyst Space Technologies, der byggede LINK, står over for en af de mest komplekse rummissioner til dato."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Redningsmissionen startede 3. juli 2026",
-        "LINK er bygget af Katalyst Space Technologies",
-        "Swift-teleskopet har mistet højde og falder mod Jorden"
-      ],
-      "betydning": "Hvis missionen lykkes, kan det bane vejen for, at vi i fremtiden kan reparere og genbruge satellitter i stedet for at skyde nye op – det sparer penge og reducerer rumaffald.",
-      "pointer": [
-        "Robotten LINK skal redde Swift-teleskopet",
-        "Swift falder langsomt mod Jorden",
-        "Missionen viser, hvor svært det er at redde satellitter",
-        "Rumaffald gør problemet værre"
-      ],
-      "prio": 8
-    },
-    {
-      "titel": "Juno takes temperature of Jupiter's fiery moon Io",
-      "link": "https://phys.org/news/2026-07-juno-temperature-jupiter-fiery-moon.html",
-      "dato": "2026-07-22T17:07:19+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "NASA's Juno mission has provided the first measurements of the temperature below the surface of Jupiter's moon Io, revealing significant heating within the shallow subsurface of the most volcanically active world in the solar system. Collected during two close flybys, the data also show that most of Io's surface is remarkably smooth and composed of material with very low density.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/juno-takes-temperature.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Juno måler temperaturer under overfladen på Jupiters måne Io",
-      "resume_da": "NASA's Juno-rumsonde har for første gang målt temperaturen under overfladen på Io, den mest vulkansk aktive måne i solsystemet. Data viser stor varme i den lave undergrund.",
-      "sektioner": [
-        {
-          "overskrift": "Første temperaturmålinger",
-          "tekst": "Juno har under to tætte forbiflyvninger målt varmen under Ios overflade. Resultaterne afslører betydelig opvarmning i den lave undergrund."
-        },
-        {
-          "overskrift": "Overfladen er glat",
-          "tekst": "Målingerne viser, at det meste af Ios overflade er bemærkelsesværdigt glat og består af materiale med meget lav tæthed."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2",
-          "label": "antal forbiflyvninger"
-        }
-      ],
-      "detaljer": [
-        "Juno er en NASA-mission",
-        "Io er den mest vulkansk aktive måne i solsystemet",
-        "Data blev indsamlet under to tætte forbiflyvninger",
-        "Overfladen er overvejende glat og lavdensitetsmateriale"
-      ],
-      "betydning": "Målingerne hjælper forskere med at forstå, hvordan vulkanisme på Io fungerer, og kan give indsigt i planetdannelse og varmetransport.",
-      "pointer": [
-        "Første temperaturmålinger under Ios overflade",
-        "Betydelig varme i den lave undergrund",
-        "Overfladen er glat og har lav tæthed"
-      ],
-      "prio": 7
     }
   ]
 }
