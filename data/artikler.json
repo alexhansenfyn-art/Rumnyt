@@ -1,7 +1,340 @@
 {
-  "opdateret": "2026-07-30T13:18:39.361437+00:00",
+  "opdateret": "2026-07-30T19:00:28.734860+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "K2 Space raises $500 million for commercial, defense satellite expansion",
+      "link": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/",
+      "dato": "2026-07-30T18:42:21+00:00",
+      "kilde": "SpaceNews",
+      "resume": "The Series D more than doubles the satellite manufacturer’s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year The post K2 Space raises $500 million for commercial, defense satellite expansion appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/1784647241166.jpeg?fit=1024%2C683&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "K2 Space henter 500 mio. dollars til satellitproduktion",
+      "resume_da": "Satellitproducenten K2 Space har rejst 500 millioner dollars i serie D-finansiering, hvilket mere end fordobler virksomhedens værdiansættelse.",
+      "sektioner": [
+        {
+          "overskrift": "Stor finansieringsrunde",
+          "tekst": "K2 Space har rejst **500 millioner dollars** i en serie D-investering. Det mere end fordobler virksomhedens værdiansættelse på kun syv måneder."
+        },
+        {
+          "overskrift": "Planer for produktion",
+          "tekst": "Pengene skal bruges til at opskalere produktionen. Målet er at kunne fremstille op til **100 store rumfartøjer om året**."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "500 millioner dollars",
+          "label": "Investeringsbeløb"
+        },
+        {
+          "tal": "100 rumfartøjer om året",
+          "label": "Produktionsmål"
+        }
+      ],
+      "detaljer": [
+        "Serie D-runde på 500 millioner dollars",
+        "Værdiansættelse fordoblet på syv måneder",
+        "Midler til at øge produktionen af store satellitter"
+      ],
+      "betydning": "Investeringen viser, at private virksomheder satser massivt på satellitproduktion, hvilket kan føre til flere og billigere satellitbaserede tjenester.",
+      "pointer": [
+        "K2 Space får 500 mio. dollars i ny investering",
+        "Værdiansættelse mere end fordoblet",
+        "Skal producere op til 100 store satellitter om året",
+        "Penge fra serie D-runde"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Ancient stardust grains were seeds for the earliest solids in the solar system",
+      "link": "https://phys.org/news/2026-07-ancient-stardust-grains-seeds-earliest.html",
+      "dato": "2026-07-30T18:40:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "How did the first solids that made up planets, moons and asteroids form from the \"hot soup\" that characterized our solar system's earliest years? New research from Caltech analyzing pieces of a meteorite has found that, just as snowflakes crystallize around grains of dust, ancient stardust grains left over from long-gone suns may have been the seeds of our solar system's earliest solids.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-stardust-were.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Stjernestøv var frø til solsystemets første faste stoffer",
+      "resume_da": "Ny forskning viser, at ældgammelt stjernestøv fra døde stjerner fungerede som kerner, omkring hvilke de første faste stoffer i solsystemet dannede sig.",
+      "sektioner": [
+        {
+          "overskrift": "Meteorit afslører oprindelse",
+          "tekst": "Forskere fra Caltech har analyseret stykker af en meteorit. De fandt, at ældgammelt stjernestøv fra uddøde sole fungerede som kerner. Omkring disse kerner dannede de første faste stoffer i solsystemet sig."
+        },
+        {
+          "overskrift": "Analogien med snefnug",
+          "tekst": "Processen minder om, hvordan snefnug krystalliserer omkring støvkorn. Det ældgamle stjernestøv var altså frøene, der satte gang i dannelsen af planeter, måner og asteroider."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Forskningen er udført på Caltech.",
+        "Analysen blev gjort på stykker af en meteorit.",
+        "Stjernestøvet er tilbage fra tidligere sole, der længe er forsvundet."
+      ],
+      "betydning": "For en almindelig dansker viser forskningen, hvordan vores solsystem blev til – fra støv fra døde stjerner til de planeter, vi kender i dag.",
+      "pointer": [
+        "Ældgammelt stjernestøv var kernen i de første faste stoffer.",
+        "Analogi: som snefnug omkring støvkorn.",
+        "Fundet er baseret på meteoritanalyse fra Caltech."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Jim Bridenstine on his new role at Quantum Space",
+      "link": "https://spacenews.com/jim-bridenstine-on-his-new-role-at-quantum-space/",
+      "dato": "2026-07-30T17:47:51+00:00",
+      "kilde": "SpaceNews",
+      "resume": "In this episode, David Ariosto speaks with former NASA Administrator Jim Bridenstine, who is now the CEO of Quantum Space. Bridenstine talks about the strategic shift to proliferation in low [&#8230;] The post Jim Bridenstine on his new role at Quantum Space appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/space-minds-podcast-bridenstine-quantum-space-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Jim Bridenstine bliver CEO for Quantum Space",
+      "resume_da": "Den tidligere NASA-chef Jim Bridenstine er ny direktør for rumvirksomheden Quantum Space. Han taler om skiftet mod flere satellitter i lavt kredsløb.",
+      "sektioner": [
+        {
+          "overskrift": "Ny rolle for Bridenstine",
+          "tekst": "Jim Bridenstine, tidligere chef for NASA, er nu CEO for Quantum Space. Det er et privat rumfirma med fokus på nye teknologier."
+        },
+        {
+          "overskrift": "Strategisk skift i rummet",
+          "tekst": "Bridenstine fremhæver en strategisk ændring mod flere satellitter i lavt jordkredsløb. Det kan gøre rummet mere tilgængeligt og effektivt."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Jim Bridenstine var NASA-administrator fra 2018 til januar 2021.",
+        "Quantum Space er et privat rumfirma.",
+        "Bridenstine taler om proliferation, altså opsendelse af mange flere satellitter."
+      ],
+      "betydning": "Skiftet til flere satellitter i lavt kredsløb kan betyde bedre internet, overvågning og rumforskning til gavn for alle.",
+      "pointer": [
+        "Tidligere NASA-chef bliver direktør for Quantum Space.",
+        "Fokus på flere satellitter i lavt kredsløb.",
+        "Privat rumfirma får ny ledelse."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "NASA Assigns Astronaut Deniz Burnham to First Space Station Mission",
+      "link": "https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/",
+      "dato": "2026-07-30T16:11:41+00:00",
+      "kilde": "NASA",
+      "resume": "NASA astronaut Deniz Burnham will embark on her first mission to the International Space Station, serving as an Expedition 76 flight engineer. Burnham will launch aboard the Roscosmos Soyuz MS-30 spacecraft with cosmonauts Dmitri Petelin and Konstantin Borisov. Launch is targeted for March 2027, from the Baikonur Cosmodrome in Kazakhstan, and the trio will spend [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/burnham.jpg?w=1365",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "NASA-astronaut får plads på ISS-mission i 2027",
+      "resume_da": "Deniz Burnham skal til Den Internationale Rumstation som flyingeniør. Hun sendes afsted i marts 2027.",
+      "sektioner": [
+        {
+          "overskrift": "Missionens detaljer",
+          "tekst": "Astronaut Deniz Burnham flyver med russiske kosmonauter om bord på Soyuz MS-30. Opsendelsen sker fra Baikonur i Kasakhstan i marts **2027**. Holdet skal være på ISS i omkring **syv måneder**."
+        },
+        {
+          "overskrift": "Burnhams baggrund",
+          "tekst": "Burnham blev NASA-astronaut i **2021** og tog eksamen i **2024**. Hun har en bachelor i kemiteknik og en master i maskinteknik. Før NASA arbejdede hun i energibranchen og styrede boreoperationer fra olieplatforme i Nordamerika."
+        },
+        {
+          "overskrift": "Forskning på ISS",
+          "tekst": "På ISS skal Burnham lave videnskabelige forsøg og teknologitest. Målet er at forberede mennesker til missioner til Månen og Mars og samtidig gavne livet på Jorden."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2027",
+          "label": "Opsendelsesår"
+        },
+        {
+          "tal": "7 måneder",
+          "label": "Opholdets varighed"
+        },
+        {
+          "tal": "2021",
+          "label": "Udvalgt som astronaut"
+        }
+      ],
+      "detaljer": [
+        "Deniz Burnham er født på Incirlik Air Base i Tyrkiet.",
+        "Hun boede i Wasilla, Alaska, da hun blev udvalgt.",
+        "Hun har været praktikant hos NASA Ames Research Center.",
+        "Hun er uddannet kemiingeniør og maskiningeniør.",
+        "Hun har over ti års erfaring fra oliebranchen.",
+        "Hun tjente i U.S. Navy Reserves som ingeniørofficer."
+      ],
+      "betydning": "Missionen viser, at NASA fortsætter med at sende nye astronauter til ISS for at forberede fremtidige rejser til Månen og Mars.",
+      "pointer": [
+        "NASA-astronaut Deniz Burnham på første ISS-mission i 2027.",
+        "Hun rejser med russisk Soyuz-raket fra Kasakhstan.",
+        "Opholdet varer syv måneder.",
+        "Hun skal udføre forsøg for fremtidig rumfart."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Scientists advance space agriculture for future moon and Mars missions",
+      "link": "https://phys.org/news/2026-07-scientists-advance-space-agriculture-future.html",
+      "dato": "2026-07-30T16:00:05+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Space isn't known for rich soil or ideal agricultural conditions anywhere in the solar system. Yet amid extreme temperatures and vast distances, multidisciplinary teams at USF's Aerospace: Science, Technology, Research and Applications Center (ASTRA) are collaborating on sustainable space agriculture projects with potential applications back on Earth.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/usf-scientists-advance.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Forskere udvikler rum-landbrug til Månen og Mars",
+      "resume_da": "Forskere arbejder på bæredygtigt landbrug i rummet, som også kan bruges på Jorden.",
+      "sektioner": [
+        {
+          "overskrift": "Udfordringer i rummet",
+          "tekst": "Rummet har ikke rig jord eller ideelle forhold for landbrug. Men forskere ved USF's ASTRA-center samarbejder om bæredygtige projekter."
+        },
+        {
+          "overskrift": "Potentielle jordiske fordele",
+          "tekst": "Teknologierne kan måske også anvendes på Jorden, hvor landbrug står over for udfordringer som klimaforandringer."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Forskere ved ASTRA-centret arbejder på tværfaglige projekter for at dyrke planter i rummet under ekstreme forhold."
+      ],
+      "betydning": "For almindelige danskere er det relevant, fordi teknologier udviklet til rum-landbrug kan forbedre fødevareproduktionen på Jorden.",
+      "pointer": [
+        "Rum-landbrug er en udfordring på grund af manglende jord og ekstreme temperaturer.",
+        "Forskere samarbejder tværfagligt om at løse problemet.",
+        "Løsningerne kan også gavne landbrug på Jorden.",
+        "Målet er at gøre langvarige rummissioner mere selvforsynende."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Tracking satellites and space debris using radio antennae",
+      "link": "https://phys.org/news/2026-07-tracking-satellites-space-debris-radio.html",
+      "dato": "2026-07-30T15:20:04+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Every year, thousands of satellites are launched into orbit around our planet. The result is an increasingly congested \"space\" above Earth populated by equipment that provides services to the surface. At the same time, these satellites affect ground-based astronomy and create the potential for damage when they eventually fall through Earth's atmosphere to the surface. In addition, near-Earth space",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/tracking-satellites-an.jpg",
+      "billede_alt": "",
+      "kategori": "Satellitter",
+      "rubrik": "Radar sporer satellitter og rumaffald",
+      "resume_da": "Med tusindvis af nye satellitter om året bliver rummet over Jorden mere og mere overfyldt. Radioantenner bruges til at spore satellitter og rumaffald.",
+      "sektioner": [
+        {
+          "overskrift": "Overfyldt rum",
+          "tekst": "Hvert år sendes tusindvis af satellitter i kredsløb om Jorden. Det gør rummet mere og mere overfyldt."
+        },
+        {
+          "overskrift": "Problemer med affald",
+          "tekst": "Rumaffald omfatter gamle raketdele og efterladte genstande som kameraer og handsker. Affaldet kan skade aktive satellitter og true astronomi."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Satellitter påvirker astronomi på Jorden",
+        "Rumaffald vil til sidst falde ned gennem atmosfæren"
+      ],
+      "betydning": "Rumaffald kan true vigtige satellitter, vi er afhængige af til kommunikation, vejr og navigation.",
+      "pointer": [
+        "Tusindvis af nye satellitter hvert år",
+        "Rummet bliver overfyldt",
+        "Affald truer satellitter og astronomi",
+        "Radioantenner bruges til sporing"
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Starburst Galaxy Centaurus A",
+      "link": "https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/",
+      "dato": "2026-07-30T14:24:08+00:00",
+      "kilde": "NASA",
+      "resume": "In this July 6, 2026, image, NASA’s James Webb Space Telescope’s Mid-Infrared Instrument (MIRI) reveals the nearby galaxy Centaurus A, exposing the dusty structures and hidden activity that shape this unusual system. Centaurus A is 11 million light-years away from Earth, relatively close in cosmic terms. Yet, unlike most nearby galaxies, it is very active, [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/stsci-01kvt4gqmq5mxv6xdpfpzmxg65-30d932.png?w=2048",
+      "billede_alt": "The mid-infrared view of Centaurus A from NASA’s James Webb Space Telescope reveals dusty structures and hidden activity within the nearby, active galaxy.",
+      "kategori": "Astronomi",
+      "rubrik": "Webb afslører støv i Centaurus A",
+      "resume_da": "James Webb-rumteleskopet har taget et nyt billede af den aktive galakse Centaurus A, der viser detaljerede støvstrukturer og sort hul-aktivitet.",
+      "sektioner": [
+        {
+          "overskrift": "Nyt billede fra Webb",
+          "tekst": "Den 6. juli 2026 tog James Webb-rumteleskopets MIRI-instrument et billede af Centaurus A. Billedet afslører støv og skjult aktivitet i galaksen."
+        },
+        {
+          "overskrift": "Tæt og aktiv galakse",
+          "tekst": "Centaurus A er **11 millioner lysår** væk, hvilket er tæt på i kosmisk målestok. I modsætning til de fleste nærliggende galakser er den meget aktiv."
+        },
+        {
+          "overskrift": "Laboratorium for galakseudvikling",
+          "tekst": "Galaksen er et vigtigt laboratorium til at forstå, hvordan galakser og sorte huller vokser og udvikler sig sammen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "11 millioner lysår",
+          "label": "Afstand til Jorden"
+        }
+      ],
+      "detaljer": [
+        "Billedet er taget af James Webb-rumteleskopets MIRI-instrument.",
+        "Centaurus A er usædvanlig aktiv sammenlignet med andre nærliggende galakser.",
+        "Galaksen giver indsigt i samspillet mellem galakser og sorte huller."
+      ],
+      "betydning": "Billedet hjælper forskere med at forstå, hvordan aktive galakser og sorte huller udvikler sig, hvilket har betydning for vores viden om universets udvikling.",
+      "pointer": [
+        "Webb har fotograferet Centaurus A i infrarødt lys.",
+        "Galaksen er kun 11 millioner lysår væk.",
+        "Den er usædvanlig aktiv.",
+        "Studiet gavner forståelsen af galakseudvikling."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Neptune's inner moons may be shattered remains of ancient icy worlds",
+      "link": "https://phys.org/news/2026-07-neptune-moons-shattered-ancient-icy.html",
+      "dato": "2026-07-30T14:00:06+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "In 1989, the Voyager 2 mission discovered six new moons orbiting Neptune, including five tiny ones that orbit just outside the planet's main rings. Because of their small sizes and locations, these satellites have been difficult to study from Earth. Now, using NASA's James Webb Space Telescope (JWST), a team of Caltech researchers has observed Neptune's rings and three of those moons—Larissa, Gala",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/neptunes-inner-moons-m.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Neptuns indre måner: knuste rester af isverdener",
+      "resume_da": "JWST har set, at tre af Neptuns små måner består af is og organisk materiale, hvilket gør dem unikke i det ydre solsystem. Resultaterne peger på, at månerne måske er rester af kæmpekollisioner.",
+      "sektioner": [
+        {
+          "overskrift": "Opdagelse med JWST",
+          "tekst": "Forskere fra Caltech har brugt James Webb-rumteleskopet til at observere tre af Neptuns indre måner: Larissa, Galatea og Proteus. De fandt, at månerne har en unik sammensætning, der adskiller sig fra andre himmellegemer i det ydre solsystem."
+        },
+        {
+          "overskrift": "Unik sammensætning",
+          "tekst": "Månerne består af is og organisk materiale. Det tyder på, at de er rester af større isverdener, der blev knust i kollisioner. Tidligere troede man, at de var opsamlet fra ringene."
+        },
+        {
+          "overskrift": "Fem små måner",
+          "tekst": "Voyager **2** opdagede seks nye måner omkring Neptun i **1989**. Fem af dem er små og kredser lige uden for planetens hovedringe. På grund af deres størrelse og afstand har de været svære at studere fra Jorden."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1989",
+          "label": "Voyager 2 opdagede månerne"
+        },
+        {
+          "tal": "3",
+          "label": "måner observeret med JWST"
+        }
+      ],
+      "detaljer": [
+        "De tre observerede måner hedder Larissa, Galatea og Proteus.",
+        "Sammensætningen er unik blandt objekter i det ydre solsystem.",
+        "Månerne består af is og organisk materiale."
+      ],
+      "betydning": "Forskningen giver ny viden om, hvordan planetsystemer dannes og udvikler sig. Det kan hjælpe os med at forstå historien om vores eget solsystem.",
+      "pointer": [
+        "JWST afslører Neptuns måners iskolde oprindelse.",
+        "Månerne kan være rester efter gigantiske kollisioner.",
+        "Fundet ændrer vores billede af Neptuns månesystem."
+      ],
+      "prio": 6
+    },
     {
       "titel": "'Strange New Worlds'' latest episode is more 'Event Horizon' than classic Trek",
       "link": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-episode-is-more-event-horizon-than-classic-trek",
@@ -3890,324 +4223,6 @@
         "Viking-landingerne var i 1976",
         "50-året er i 2026",
         "Podcasten kan ses på TWiT-netværket"
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "New Jersey Meteorite Offers Early Solar System Clues",
-      "link": "https://skyandtelescope.org/astronomy-news/new-jersey-meteorite-offers-early-solar-system-clues/",
-      "dato": "2026-07-24T12:00:00+00:00",
-      "kilde": "Sky & Telescope",
-      "resume": "When a meteorite tore through a New Jersey home, the homeowner quickly preserved the fragments. Now, they're giving scientists a look at Earth's early history. The post New Jersey Meteorite Offers Early Solar System Clues appeared first on Sky &amp; Telescope .",
-      "billede": null,
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "New Jersey-meteorit giver indsigt i Solsystemets barndom",
-      "resume_da": "En meteorit, der styrtede gennem et hus i New Jersey, er blevet analyseret og giver forskere ny viden om Solsystemets tidlige historie.",
-      "sektioner": [
-        {
-          "overskrift": "Meteoritten og dens rejse",
-          "tekst": "Meteoritten faldt gennem taget på et hus i New Jersey og blev hurtigt samlet af husejeren. Den er en sjælden type, der stammer fra Solsystemets tidlige dage."
-        },
-        {
-          "overskrift": "Videnskabelig betydning",
-          "tekst": "Forskere har studeret meteoritten og fundet spor af mineraler, der kan fortælle om forholdene lige efter Solsystemets dannelse. Den giver et sjældent indblik i jordens og planeterne oprindelse."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Meteoritten styrtede gennem et hus i New Jersey.",
-        "Husejeren bevarede fragmenterne hurtigt.",
-        "Den giver ledetråde om Solsystemets tidlige historie."
-      ],
-      "betydning": "Den hjælper forskere med at forstå, hvordan Jorden og andre planeter blev dannet, hvilket kan kaste lys over livets oprindelse.",
-      "pointer": [
-        "Sjælden meteorit fundet i New Jersey",
-        "Giver ny viden om Solsystemets barndom",
-        "Hurtig indsamling sikrede analysemuligheder"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Should scientists have research 'reserves' on the moon?",
-      "link": "https://phys.org/news/2026-07-scientists-reserves-moon.html",
-      "dato": "2026-07-24T11:40:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "The worlds of the solar system are exciting and, so far, mostly pristine places for planetary scientists to study. As space missions continue to travel to Mars, Europa, asteroids and other worlds, questions arise about keeping them safe for continued exploration and observation.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/should-scientists-have.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Skal der være forskningsreserver på Månen?",
-      "resume_da": "Mens vi udforsker Månen og andre himmellegemer, opstår spørgsmålet om at beskytte dem mod menneskelig påvirkning. Nogle forskere foreslår at udlægge særlige 'reserve'-områder.",
-      "sektioner": [
-        {
-          "overskrift": "Beskyttelse af måneområder",
-          "tekst": "Månen er i dag mest uberørt, men fremtidige missioner kan ændre det. Forskere diskuterer derfor at oprette særlige beskyttede zoner på Månen. Disse zoner skal bevares som referenceområder."
-        },
-        {
-          "overskrift": "International enighed om regler",
-          "tekst": "Der findes allerede internationale aftaler om at beskytte rummet, fx Outer Space Treaty. Men nye regler kan være nødvendige for at sikre, at måne-reserverne respekteres."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Månen og andre himmellegemer er stort set uberørte og vigtige for forskning.",
-        "Der er bekymring for, at menneskelig aktivitet kan forurene eller ødelægge unikke områder.",
-        "En mulig løsning er at udpege særlige ‘forskningsreserver’ på Månen."
-      ],
-      "betydning": "For almindelige mennesker betyder det, at fremtidens rumrejser og minedrift på Månen kan blive reguleret, så vi bevarer uberørte områder til forskning og eftertiden.",
-      "pointer": [
-        "Månen er næsten uberørt",
-        "Forskere vil beskytte nogle områder",
-        "Regler kan komme fra internationale aftaler",
-        "Det kan påvirke fremtidig måneaktivitet"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Hubble Spies One-Sided Spiral",
-      "link": "https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/",
-      "dato": "2026-07-24T11:11:08+00:00",
-      "kilde": "NASA",
-      "resume": "This Hubble image features spiral galaxy NGC 4654, located 72 million light-years away in the constellation Virgo (the Maiden).",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC4654_potm2607a.jpg?w=3984&#038;h=3826&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A spiral galaxy. It has a prominent spiral arm on one side (lower left) and a wide, glowing core. Dark brown filaments of dust swirl through its disk, while blue clusters of stars are visible mostly g",
-      "kategori": "Astronomi",
-      "rubrik": "Hubble fanger asymmetrisk galakse",
-      "resume_da": "Hubble-teleskopet har fotograferet spiralgalaksen NGC 4654, som er asymmetrisk på grund af påvirkning fra andre galakser og intergalaktisk gas.",
-      "sektioner": [
-        {
-          "overskrift": "Asymmetrisk galakse",
-          "tekst": "NGC 4654 er en spiralgalakse **72 millioner lysår** væk. Den har en lang gashale på den ene side, mens den anden side er afrundet. Det skyldes, at galaksen bevæger sig så hurtigt gennem den varme gas mellem galakserne, at gassen trækkes ud og danner halen."
-        },
-        {
-          "overskrift": "Manglende stjerner på den ene side",
-          "tekst": "Galaksens stjerner er også ujævnt fordelt. Den ene spiralarm har mange stjerner og gas, mens den modsatte arm næsten ingen har. Astronomer mener, at et tidligere tæt møde med nabogalaksen NGC 4639 for omkring **500 millioner år siden** rev gas væk og stoppede stjernedannelsen på den side."
-        },
-        {
-          "overskrift": "Aktiv stjernedannelse",
-          "tekst": "På trods af de voldsomme kræfter danner NGC 4654 stadig næsten **to solmasser** stjerner om året. De lyserøde bobler på billedet er områder med nyfødte stjerner. Dataene bruges til at forstå, hvordan gas bevæger sig i galakser og danner stjerner."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "72 millioner lysår",
-          "label": "Afstand fra Jorden"
-        },
-        {
-          "tal": "500 millioner år",
-          "label": "Siden møde med nabogalakse"
-        },
-        {
-          "tal": "2 solmasser/år",
-          "label": "Stjernedannelseshastighed"
-        }
-      ],
-      "detaljer": [
-        "Galaksen er en 'intermediær' spiralgalakse med svag bjælkestruktur.",
-        "Gashalen skyldes 'ram pressure stripping'."
-      ],
-      "betydning": "Studiet af galakser som NGC 4654 hjælper forskere med at forstå, hvordan galakser udvikler sig og vekselvirker med hinanden, hvilket giver indsigt i universets opbygning.",
-      "pointer": [
-        "Hubble har fotograferet den asymmetriske spiralgalakse NGC 4654.",
-        "Galaksens form skyldes både hurtig bevægelse og et tidligere møde med en nabogalakse.",
-        "Den danner stadig aktivt stjerner, på trods af påvirkningerne.",
-        "Dataene bruges til at undersøge gasbevægelser og stjernedannelse i galakser."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites",
-      "link": "https://spacenews.com/lightning-strikes-long-march-3b-after-liftoff-kinetica-1-launches-5-satellites/",
-      "dato": "2026-07-24T10:32:53+00:00",
-      "kilde": "SpaceNews",
-      "resume": "HELSINKI — China conducted a pair of launches Thursday, including a Long March 3B rocket which delivered its payload to orbit despite a lightning strike. The Long March 3B rocket [&#8230;] The post Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Tianlian2-06-CZ3B-XSLC-23july2026-CASC.jpg?fit=1024%2C599&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Opsendelser",
-      "rubrik": "Lyn rammer kinesisk raket under opsendelse",
-      "resume_da": "En kinesisk Long March 3B-raket blev ramt af lynet kort efter liftoff, men satte alligevel sin nyttelast i kredsløb. Samme dag opsendte Kinetica-1 fem satellitter.",
-      "sektioner": [
-        {
-          "overskrift": "Lynnedslag under opsendelse",
-          "tekst": "En Long March 3B-raket blev ramt af lynet lige efter afgang torsdag. Trods lynnedslaget fortsatte raketten, og den satte sin nyttelast i kredsløb. Det er sjældent, at lyn rammer raketter under opsendelse."
-        },
-        {
-          "overskrift": "Anden opsendelse samme dag",
-          "tekst": "Samme dag sendte Kinetica-1-raketten fem satellitter i kredsløb. Opsendelsen fandt sted fra et andet sted i Kina. Det viser Kinas stigende opsendelsestakt."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Long March 3B leverede nyttelast til kredsløb på trods af lynnedslag",
-        "Kinetica-1 opsendte fem satellitter samme dag"
-      ],
-      "betydning": "Historien viser, at raketter kan modstå uventede hændelser som lyn, hvilket er vigtigt for fremtidens rumfart og sikkerhed.",
-      "pointer": [
-        "Kinesisk raket ramt af lyn",
-        "Nyttelast i kredsløb trods lynnedslag",
-        "To opsendelser på samme dag",
-        "Kinas rumprogram i fremgang"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "EU delays release of Copernicus imagery over Gulf of Oman",
-      "link": "https://spacenews.com/eu-delays-release-of-copernicus-imagery-over-gulf-of-oman/",
-      "dato": "2026-07-24T10:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "JOHANNESBURG — The European Union has ordered a 24-hour delay in the release of some Sentinel-1 and Sentinel-2 imagery following a request from the United States based on concerns that [&#8230;] The post EU delays release of Copernicus imagery over Gulf of Oman appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/The_Gulf-scaled.jpg?fit=1024%2C900&amp;ssl=1",
-      "billede_alt": "The Gulf of Oman, imaged in September 2018 by the Copernicus Sentinel-3A satellite. Credit: ESA; CC BY-SA 3.0 IGO",
-      "kategori": "Politik & penge",
-      "rubrik": "EU forsinker frigivelse af satellitbilleder",
-      "resume_da": "EU har på USAs anmodning udskudt frigivelsen af Sentinel-1 og Sentinel-2 billeder over Omanbugten med 24 timer.",
-      "sektioner": [
-        {
-          "overskrift": "Hvorfor forsinkelsen",
-          "tekst": "EU's Copernicus-program skulle have frigivet billeder fra Sentinel-1 og Sentinel-2 satellitterne over Omanbugten. Men USA bad om en **24-timers** forsinkelse. EU efterkom anmodningen."
-        },
-        {
-          "overskrift": "Ukendt årsag",
-          "tekst": "Det er uvist, hvorfor USA ønskede forsinkelsen. Men det kan skyldes militære eller sikkerhedsmæssige hensyn. Omanbugten er et strategisk vigtigt område."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "24 timer",
-          "label": "Forsinkelse af billeder"
-        }
-      ],
-      "detaljer": [
-        "EU's Copernicus-program forsinkede frigivelse af Sentinel-1 og Sentinel-2 billeder.",
-        "Forsinkelsen var på 24 timer.",
-        "Anmodningen kom fra USA.",
-        "Billederne dækker Omanbugten."
-      ],
-      "betydning": "Sagen viser, at adgang til satellitbilleder kan blive påvirket af politiske hensyn, hvilket kan få betydning for overvågning af miljø og sikkerhed.",
-      "pointer": [
-        "EU udsætter frigivelse af satellitbilleder.",
-        "USA bad om forsinkelsen.",
-        "Billeder over Omanbugten.",
-        "Forsinkelse på 24 timer."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Young rift flanks suggest Venus remains tectonically active",
-      "link": "https://phys.org/news/2026-07-young-rift-flanks-venus-tectonically.html",
-      "dato": "2026-07-24T09:00:05+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Venus is an inhospitable place, with temperatures soaring to several hundred degrees Celsius (hundreds of degrees Fahrenheit) and no oceans like those on Earth. Planetary scientists long believed Venus was geologically dormant. However, recent research indicates that Venus remains geologically \"alive\" and even hosts active volcanoes.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/venus-dead-far-from-it.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Venus er geologisk aktiv med unge sprækker",
-      "resume_da": "Ny forskning viser, at Venus' overflade har unge sprækker, hvilket tyder på, at planeten stadig er geologisk aktiv og kan have aktive vulkaner.",
-      "sektioner": [
-        {
-          "overskrift": "Venus geologiske aktivitet",
-          "tekst": "Planetforskere troede længe, at Venus var geologisk død. Men nye undersøgelser af unge sprækker på overfladen viser, at planeten stadig er geologisk aktiv. Det betyder, at Venus kan have aktive vulkaner."
-        },
-        {
-          "overskrift": "Ungt sprækkelandskab",
-          "tekst": "Sprækkerne på Venus er relativt unge og viser tegn på fortsat bevægelse i planetens indre. Dette indikerer, at Venus' skorpe stadig deformeres, hvilket overrasker forskerne."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Venus har temperaturer på flere hundrede grader Celsius",
-        "Planeten har ingen oceaner som Jorden",
-        "Forskere troede tidligere, at Venus var geologisk inaktiv",
-        "Unge sprækker på Venus' overflade tyder på aktiv geologi"
-      ],
-      "betydning": "For almindelige mennesker viser forskningen, at vores naboplanet ikke er en død verden, men stadig er dynamisk, hvilket kan hjælpe os med at forstå planeternes udvikling.",
-      "pointer": [
-        "Venus var tidligere anset for geologisk død",
-        "Unge sprækker indikerer aktivitet",
-        "Forskere ser nu tegn på aktive vulkaner"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Air Force takes over troubled military GPS receiver program",
-      "link": "https://spacenews.com/air-force-takes-over-troubled-military-gps-receiver-program/",
-      "dato": "2026-07-24T09:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "The Air Force Life Cycle Management Center will oversee development, integration and sustainment of equipment used to access the military’s encrypted GPS signal The post Air Force takes over troubled military GPS receiver program appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/09/050304-A-4920C-019.jpg?fit=1024%2C672&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Air Force overtager GPS-modtagerprogram",
-      "resume_da": "Det amerikanske luftvåbens center for livscyklusstyring overtager ansvaret for et problemfyldt program med militære GPS-modtagere.",
-      "sektioner": [
-        {
-          "overskrift": "Programmet skifter hænder",
-          "tekst": "Air Force Life Cycle Management Center overtager udvikling, integration og vedligeholdelse af udstyr til adgang til militærets krypterede GPS-signal. Programmet har tidligere haft problemer."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Programmet omfatter udstyr til den krypterede militære GPS-signal."
-      ],
-      "betydning": "Ændringen kan påvirke pålideligheden og sikkerheden af militær GPS-navigation, som også har civile anvendelser.",
-      "pointer": [
-        "Luftvåbnet tager over efter problemer.",
-        "Programmet dækker militære GPS-modtagere.",
-        "Nyt center skal stå for udvikling og vedligehold."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "A Million-Panel Project",
-      "link": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
-      "dato": "2026-07-24T04:01:00+00:00",
-      "kilde": "NASA",
-      "resume": "Utah’s new solar power and battery storage facility is among the largest in the region.",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-million-panel-project/solarutah_oli_20240616.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Nyt solcelleanlæg i Utah med én million paneler",
-      "resume_da": "Et kæmpe solcelle- og batterianlæg i Utah, Green River Energy Center, er åbnet med næsten én million paneler. Det kan levere strøm til over 100.000 hjem.",
-      "sektioner": [
-        {
-          "overskrift": "Anlæggets størrelse og kapacitet",
-          "tekst": "Green River Energy Center har næsten **én million** solpaneler og cirka **500** batterier. Det har en solkapacitet på **400 megawatt** og lige så meget batterilagerkapacitet."
-        },
-        {
-          "overskrift": "Energi døgnet rundt",
-          "tekst": "Med batterierne kan anlægget levere strøm også om natten eller når solen ikke skinner. Det er tilsluttet eksisterende elledninger, der tidligere blev brugt til kulkraftværker i området."
-        },
-        {
-          "overskrift": "Utahs skiftende energimiks",
-          "tekst": "Kul var i **2015** omkring **75 %** af Utahs elproduktion, men faldt til cirka **50 %** i **2025**. Samtidig steg solenergi fra næsten intet til omkring **14 %** i samme periode."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "400 MW",
-          "label": "Solcellekapacitet"
-        },
-        {
-          "tal": "400 MW",
-          "label": "Batterilagerkapacitet"
-        },
-        {
-          "tal": "100.000+ hjem",
-          "label": "Strøm til antal hjem"
-        }
-      ],
-      "detaljer": [
-        "Anlægget ligger ca. 210 km sydøst for Salt Lake City.",
-        "Satellitbilleder fra Landsat 8 viser anlægget før og efter byggeri.",
-        "Udbygningen af solenergi i Utah er del af en større amerikansk trend."
-      ],
-      "betydning": "Historien viser, hvordan satellitdata kan overvåge overgangen til vedvarende energi, hvilket er vigtigt for klimaindsatsen. Sol- og batterianlæg af denne størrelse bliver mere almindelige og påvirker elpriser og forsyningssikkerhed.",
-      "pointer": [
-        "Utah får et af USA's største solcelle- og batterianlæg.",
-        "Anlægget bruger gamle kulkraftværkers elledninger.",
-        "Kulandelen i Utahs elproduktion er faldet markant.",
-        "Satellitbilleder dokumenterer energiomstillingen."
       ],
       "prio": 4
     }
