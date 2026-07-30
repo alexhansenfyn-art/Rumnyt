@@ -1,7 +1,236 @@
 {
-  "opdateret": "2026-07-29T20:17:05.988950+00:00",
+  "opdateret": "2026-07-30T07:42:21.300262+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "APOD: July 30 – Red Sun trough Wildfire Smoke",
+      "link": "https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke/",
+      "dato": "2026-07-30T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: July 30 – Red Sun… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Red Sun [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/red_sun.jpg?w=3000&#038;h=2000&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A deep red sun shows several sunspots. Clouds and haze are visible.",
+      "kategori": "Rumvejr",
+      "rubrik": "Rød sol set gennem røg fra skovbrande",
+      "resume_da": "Billede fra Canada viser solen som rød skive på grund af røg fra skovbrande. Flere solpletter er synlige.",
+      "sektioner": [
+        {
+          "overskrift": "Solen set gennem røg",
+          "tekst": "Et foto taget den **22. juli 2026** i britiske Columbia, Canada, viser solen som rød på grund af røg fra skovbrande. Røgpartikler blokerer blåt lys og gør solen mere rød."
+        },
+        {
+          "overskrift": "Solpletter på billedet",
+          "tekst": "På billedet ses flere solpletter. Lige under midten til højre er **AR 4493**, en stor og hurtigt udviklende solpletgruppe."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "22. juli 2026",
+          "label": "dato for billedet"
+        },
+        {
+          "tal": "6 milliarder år",
+          "label": "indtil solen bliver rød kæmpe"
+        }
+      ],
+      "detaljer": [
+        "Billedet er taget i Okanagan-regionen i British Columbia, Canada.",
+        "Røgen fungerer som et solfilter, så man kan fotografere solen direkte.",
+        "Solnedgange og solopgange bliver mere farverige på grund af røgen.",
+        "Om 6 milliarder år vil solen begynde at blive rød som en rød kæmpe."
+      ],
+      "betydning": "Billedet viser, hvordan luftforurening fra skovbrande kan påvirke vores syn af himlen og solen. Det minder os om, at selv små partikler i atmosfæren kan ændre farverne, vi ser.",
+      "pointer": [
+        "Billede taget 22. juli 2026 i Canada.",
+        "Skovbrandsrøg gør solen rød.",
+        "Stor solpletgruppe synlig.",
+        "Solen bliver rød om milliarder af år."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "New Zealand’s Southern Wilderness",
+      "link": "https://science.nasa.gov/earth/earth-observatory/new-zealands-southern-wilderness/",
+      "dato": "2026-07-30T04:01:00+00:00",
+      "kilde": "NASA",
+      "resume": "Stewart Island/Rakiura, New Zealand’s third-largest island, is known for its vibrant birdlife, unique forests, wilderness beaches, and views of the night sky.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-zealand",
+      "billede_alt": "A roughly triangular island is almost entirely covered in green vegetation and has a large inlet on its eastern side.",
+      "kategori": "Forskning",
+      "rubrik": "New Zealands sydlige vildmark fotograferet fra rummet",
+      "resume_da": "Et sjældent skyfrit billede fra Landsat 9 viser Stewart Island/Rakiura, New Zealands tredjestørste ø, fyldt med unik natur og mørk himmel.",
+      "sektioner": [
+        {
+          "overskrift": "Øens unikke natur",
+          "tekst": "Stewart Island/Rakiura er New Zealands tredjestørste og sydligste beboede ø. **85 procent** af øen er dækket af Rakiura National Park med skove, vådområder og klitter."
+        },
+        {
+          "overskrift": "Kiwiens paradis",
+          "tekst": "Øen er hjemsted for den store Stewart Island tokoeka-kiwi, en underart af den sydlige brun kiwi. Bestanden tæller tusindvis, mens menneskebefolkningen kun er omkring **500**."
+        },
+        {
+          "overskrift": "Mørk himmel og astronomi",
+          "tekst": "I 2019 blev Stewart Island/Rakiura udnævnt til International Dark Sky Sanctuary. Herfra kan man se stjerner, auroraer og dværggalakser på den sydlige himmel."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "500",
+          "label": "Øens befolkning"
+        },
+        {
+          "tal": "85%",
+          "label": "Nationalparkdækning"
+        }
+      ],
+      "detaljer": [
+        "Billedet er taget med OLI på Landsat 9 den 14. maj 2026.",
+        "Māori-navnet Rakiura betyder 'glødende himle'.",
+        "Ulva Island er blevet rottfri siden 1997.",
+        "På øen findes også den sjældne kākāpō-papegøje."
+      ],
+      "betydning": "Billedet viser en af verdens bedste destinationer for stjernekiggeri og et eksempel på vellykket naturbevaring.",
+      "pointer": [
+        "Sjældent skyfrit satellitbillede af Stewart Island.",
+        "Øen er et fristed for truede fugle som kiwi og kākāpō.",
+        "Udnævnt til Dark Sky Sanctuary i 2019.",
+        "Bruges til at observere sydhimlens astronomiske objekter."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Sophia Space and Caltech claim patent for space data centers",
+      "link": "https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/",
+      "dato": "2026-07-30T04:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "SAN FRANCISCO – Sophia Space announced the award July 30 of a patent, shared with the California Institute of Technology, covering large, modular space-based data centers. The patent, issued July [&#8230;] The post Sophia Space and Caltech claim patent for space data centers appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_1tile.jpg?fit=879%2C494&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Patent givet til rumdatacentre fra Sophia Space og Caltech",
+      "resume_da": "Sophia Space og California Institute of Technology har fået patent på store, modulære datacentre i rummet.",
+      "sektioner": [
+        {
+          "overskrift": "Patentet er tildelt",
+          "tekst": "Sophia Space annoncerede den 30. juli, at de sammen med California Institute of Technology har fået et patent. Patentet dækker store, modulære datacentre i rummet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Patentet blev tildelt 30. juli.",
+        "Sophia Space og Caltech deler patentet.",
+        "Det dækker store, modulære datacentre placeret i rummet."
+      ],
+      "betydning": "Rumbaserede datacentre kan potentielt reducere jordens energiforbrug og give mere sikker databehandling.",
+      "pointer": [
+        "Sophia Space og Caltech har fået patent på rumdatacentre.",
+        "Patentet blev tildelt 30. juli.",
+        "Datacentrene er store og modulære.",
+        "Teknologien kan ændre fremtidens databehandling."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Proposed rule would exempt commercial launch licensing from environmental regulations",
+      "link": "https://spacenews.com/proposed-rule-would-exempt-commercial-launch-licensing-from-environmental-regulations/",
+      "dato": "2026-07-29T23:12:56+00:00",
+      "kilde": "SpaceNews",
+      "resume": "The Department of Transportation is proposing to exempt commercial space launch licensing from many environmental regulations, a move praised by industry but criticized by environmental groups. The post Proposed rule would exempt commercial launch licensing from environmental regulations appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starship-flt13-sunset.jpeg?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "Starship sunset",
+      "kategori": "Politik & penge",
+      "rubrik": "Forslag: Kommercielle rumopsendelser fri for miljøregler",
+      "resume_da": "Transportministeriet foreslår at fritage kommercielle rumopsendelser fra mange miljøregler, hvilket glæder industrien, men bekymrer miljøgrupper.",
+      "sektioner": [
+        {
+          "overskrift": "Forslagets indhold",
+          "tekst": "Transportministeriet foreslår at undtage kommercielle rumopsendelser fra mange miljøreguleringer. Det betyder, at SpaceX og andre firmaer ikke skal gennemgå miljøvurderinger, før de får licens til opsendelser."
+        },
+        {
+          "overskrift": "Industriens reaktion",
+          "tekst": "Rumindustrien roser forslaget og siger, det vil fremskynde opsendelser og reducere bureaukrati. De mener, at nuværende regler er for langsomme og dyre."
+        },
+        {
+          "overskrift": "Miljøgruppers kritik",
+          "tekst": "Miljøorganisationer kritiserer forslaget skarpt. De advarer om, at det kan føre til forurening og skade på naturen uden tilstrækkeligt tilsyn."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Forslaget kommer fra det amerikanske transportministerium.",
+        "Det vil fritage kommercielle rumopsendelser fra mange miljøreguleringer.",
+        "Industrien støtter forslaget.",
+        "Miljøgrupper er imod forslaget."
+      ],
+      "betydning": "Forslaget kan påvirke, hvordan rumindustrien opererer i USA, og kan sætte en præcedens for andre lande. For almindelige danskere betyder det, at miljøhensyn måske nedprioriteres til fordel for hurtigere rumopsendelser.",
+      "pointer": [
+        "Forslag om at fritage kommercielle rumopsendelser fra miljøregler.",
+        "Industrien ser det som en lettelse.",
+        "Miljøgrupper bekymrer sig om konsekvenserne.",
+        "Kan påvirke fremtidig rumfartspolitik."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "NASA Awards 2026 Innovative Technology Concepts",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-2026-innovative-technology-concepts/",
+      "dato": "2026-07-29T21:04:20+00:00",
+      "kilde": "NASA",
+      "resume": "The NASA Innovative Advanced Concepts (NIAC) program has created 18 new awards to support visionary ideas to improve aerospace technologies in areas ranging from the exploration of the solar system to understanding the universe. The 18 NIAC Phase I awards total $3.2 million. Each award provides up to $175,000 for a nine-month initial investigation. The [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/niac.png?w=2048",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "NASA støtter 18 vilde rumidéer med 25 mio. kr.",
+      "resume_da": "NASA’s NIAC-program har tildelt 3,2 millioner dollars til 18 tidlige koncepter, der spænder fra måneudforskning til interstellar rejse.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er NIAC?",
+          "tekst": "NIAC står for NASA Innovative Advanced Concepts. Programmet støtter tidlige, visionære idéer, der kan revolutionere rumteknologi. Hvert projekt får op til **175.000 dollars** til en **9-måneders** indledende undersøgelse."
+        },
+        {
+          "overskrift": "Måne- og planetidéer",
+          "tekst": "Flere projekter fokuserer på Månen, fx varmestyring til små robotter og radioisotopvarmere til rumdragter. Andre ser på Venus, Saturns ringe (med en sværm af **10.000** små satellitter) og prøvetagning fra Uranus’ og Neptuns ringe."
+        },
+        {
+          "overskrift": "Interstellare og astronomiske koncepter",
+          "tekst": "Nogle idéer rækker ud over solsystemet, fx sejl til interstellar rejse, kortlægning af eksoplaneters kontinenter og observation af sorte hullers fotonringe. Andre kan måle gravitationsbølger for at forstå galaksedannelse."
+        },
+        {
+          "overskrift": "Jordrelaterede projekter",
+          "tekst": "Et projekt undersøger, om rumstøv kan reducere solindstråling på Jorden. Et andet handler om at fjerne rumaffald. Ingen af projekterne er officielle NASA-missioner, men de kan bane vejen for fremtidige teknologier."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "3,2 mio. dollars",
+          "label": "samlet bevilling"
+        },
+        {
+          "tal": "18",
+          "label": "antal projekter"
+        },
+        {
+          "tal": "175.000 dollars",
+          "label": "max beløb per projekt"
+        }
+      ],
+      "detaljer": [
+        "18 NIAC Phase I-projekter er udvalgt.",
+        "Hvert projekt varer 9 måneder.",
+        "Projekterne er tidlige koncepter, ikke officielle missioner.",
+        "Idéerne omfatter måneinfrastruktur, planetudforskning og interstellar rejse.",
+        "Et projekt vil bruge 10.000 små satellitter til at udforske Saturns ringe.",
+        "Radioisotopvarmere kan holde astronauter varme under månenætter."
+      ],
+      "betydning": "Selvom projekterne er i en tidlig fase, kan de føre til teknologier, der gør rumfart billigere, mere effektiv og åbner nye muligheder for udforskning – til gavn for både videnskab og samfund.",
+      "pointer": [
+        "NASA investerer i vilde, banebrydende idéer.",
+        "Projekter spænder fra Månen til sorte huller.",
+        "Nogle koncepter kan påvirke livet på Jorden.",
+        "Ingen af idéerne er sikre – de er stadig på tegnebrættet."
+      ],
+      "prio": 5
+    },
     {
       "titel": "Space Force awards All Points $250 million to expand satellite processing at Vandenberg",
       "link": "https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/",
@@ -3997,192 +4226,6 @@
         "Gratis og uden reklamer.",
         "Artemis-missioner og månebase.",
         "Start ved at spørge Alexa+."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Hawai'i serves as model for Western researchers studying the moon's volcanic history",
-      "link": "https://phys.org/news/2026-07-hawaii-western-moon-volcanic-history.html",
-      "dato": "2026-07-23T18:00:06+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "The moon is 384,000 kilometers (239,000 miles) away from Earth, but one of the best places to study its surface is much closer to home. Western planetary scientist Catherine Neish and PhD candidate Sashank Vanga traveled to Hawai'i Volcanoes National Park in June to investigate lava flows that could reveal new clues about the moon's volcanic past.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/hawaii-serves-as-model.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Hawai'i hjælper forskere med at forstå Månens vulkanhistorie",
-      "resume_da": "Forskere studerer lavafloder i Hawai'i for at lære mere om Månens vulkanske fortid.",
-      "sektioner": [
-        {
-          "overskrift": "Forskere rejser til Hawai'i",
-          "tekst": "Planetforsker Catherine Neish og ph.d.-studerende Sashank Vanga besøgte Hawai'i Volcanoes National Park i juni. De undersøgte lavafloder, der kan give ny viden om Månens vulkanske historie."
-        },
-        {
-          "overskrift": "Månen og Hawai'i som model",
-          "tekst": "Månen er **384.000 kilometer** væk, men Hawai'i er et af de bedste steder at studere dens overflade. Lavafloderne på Hawai'i minder om dem på Månen."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "384.000 km",
-          "label": "Afstand fra Jorden til Månen"
-        }
-      ],
-      "detaljer": [
-        "Forskere fra Western University studerer lavafloder i Hawai'i for at forstå Månens vulkanhistorie.",
-        "Catherine Neish og Sashank Vanga rejste til Hawai'i i juni."
-      ],
-      "betydning": "Forskningen kan hjælpe os med at forstå, hvordan Månen blev til, og hvilke processer der formede dens overflade.",
-      "pointer": [
-        "Hawai'i bruges som model for Månens vulkanisme.",
-        "Forskere studerer lavafloder for at lære om Månens fortid.",
-        "Månen er 384.000 km væk, men studeres tættere på Jorden."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "How much better is the Canon EOS R6 III than previous models for astrophotography?",
-      "link": "https://www.space.com/stargazing/astrophotography/how-much-better-is-the-canon-eos-r6-iii-than-previous-models-for-astrophotography",
-      "dato": "2026-07-23T18:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "The latest edition of the Canon EOS R6 III adds 8 MP in resolution compared to the EOS R6 II, a CFexpress card slot and improved low-light autofocusing capability but do these upgrades actually benefit the astrophotographer?",
-      "billede": "https://cdn.mos.cms.futurecdn.net/7NmjGn4wiWvy6tVsLQ7Toh-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Canon EOS R6 III: bedre til astrofotografi?",
-      "resume_da": "Canon EOS R6 III er blevet forbedret til astrofotografi, men præcise detaljer mangler i kilden.",
-      "sektioner": [
-        {
-          "overskrift": "Forfatterens baggrund",
-          "tekst": "Harry, en e-commerce skribent hos Space.com, har stor erfaring med astrofotografi og har fanget himmellegemer med mange kameraer. Han har set Perseid-meteorregn hver sommer siden barndommen."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Artiklen nævner ikke specifikke forbedringer for Canon EOS R6 III."
-      ],
-      "betydning": "Artiklen er relevant for danskere, der overvejer at opgradere kamera til astrofotografi, men kilden giver ingen konkrete data.",
-      "pointer": [
-        "Forfatteren er erfaren astrofotograf.",
-        "Kilden mangler tekniske detaljer.",
-        "Artiklen fokuserer på forfatterens baggrund."
-      ],
-      "prio": 2
-    },
-    {
-      "titel": "Most powerful Northern Lights in a generation expose weaknesses in UK infrastructure",
-      "link": "https://phys.org/news/2026-07-powerful-northern-generation-expose-weaknesses.html",
-      "dato": "2026-07-23T15:40:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Millions of people across the UK marveled at the spectacular northern lights that lit up the night sky in May 2024. But while the display captivated skywatchers, the geomagnetic storm behind it also served as the biggest test in a generation of the UK's preparedness for severe space weather. So did it pass?",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/most-powerful-northern-1.jpg",
-      "billede_alt": "",
-      "kategori": "Rumvejr",
-      "rubrik": "Nordlys i maj udstiller sårbarheder i britisk infrastruktur",
-      "resume_da": "Det kraftige nordlys i maj 2024, skabt af en geomagnetisk storm, afslørede svagheder i Storbritanniens beredskab mod rumvejr.",
-      "sektioner": [
-        {
-          "overskrift": "Spektakulært nordlys",
-          "tekst": "I maj 2024 så millioner af mennesker i Storbritannien et pragtfuldt nordlys. Det var en af de mest intense nordlys-oplevelser i en menneskealder."
-        },
-        {
-          "overskrift": "Storm som test",
-          "tekst": "Den geomagnetiske storm, der skabte nordlyset, var den største test i årtier af landets beredskab mod kraftigt rumvejr. Myndighederne måtte vurdere, om infrastrukturen kunne klare sig."
-        },
-        {
-          "overskrift": "Resultat og konsekvenser",
-          "tekst": "Stormen viste, at der er sårbarheder i den britiske infrastruktur. Eksperter undersøger nu, hvordan man bedre kan beskytte sig mod fremtidige hændelser."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Millioner af mennesker i Storbritannien så nordlyset i maj 2024.",
-        "Den geomagnetiske storm var den største test i en generation.",
-        "Stormen afslørede svagheder i landets beredskab mod rumvejr."
-      ],
-      "betydning": "Rumvejr som geomagnetiske storme kan påvirke strømforsyning, kommunikation og satellitter, hvilket er relevant for alle, der er afhængige af teknologi.",
-      "pointer": [
-        "Kraftigt nordlys over Storbritannien",
-        "Største test af beredskab i årtier",
-        "Infrastruktur-sårbarheder opdaget",
-        "Behov for bedre beskyttelse"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Crews Move Artemis IV Liquid Hydrogen Tank",
-      "link": "https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/",
-      "dato": "2026-07-23T15:20:19+00:00",
-      "kilde": "NASA",
-      "resume": "Crews at NASA’s Michoud Assembly Facility in New Orleans transport the 130-foot-tall Artemis IV liquid hydrogen tank out of a production cell inside the main factory building into a detached test building on a separate portion of the 829-acre site on May 15, 2026. The liquid hydrogen tank will form part of the core stage for [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/maf-20260515-cs4-lh2to451-08orig.jpg?w=2048",
-      "billede_alt": "In the foreground, a few pink flowers on a grassy field lean to the right. Behind them is a long, silver cylinder being moved by crews in bright green safety shirts and vests. The massive object is th",
-      "kategori": "Missioner",
-      "rubrik": "Artemis IV brinttank flyttet til test",
-      "resume_da": "NASA har flyttet en 130 fod høj brinttank til test. Den skal bruges til Artemis IV-missionen.",
-      "sektioner": [
-        {
-          "overskrift": "Tanken flyttes",
-          "tekst": "Den **130 fod** høje tank blev transporteret fra produktionshallen til en testbygning den **15. maj 2026**. Testbygningen ligger på samme område på Michoud-fabrikken i New Orleans."
-        },
-        {
-          "overskrift": "Brint til raketmotorer",
-          "tekst": "Brinttanken er en del af SLS-raketten. Den indeholder tusindvis af liter superkoldt brændstof til en af raketmotorerne. Artemis IV-missionen skal bringe astronauter til månen."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "130 fod",
-          "label": "tankens højde"
-        },
-        {
-          "tal": "829 acres",
-          "label": "fabrikkens areal"
-        }
-      ],
-      "detaljer": [
-        "Tanken er lavet til Artemis IV-missionen.",
-        "Den blev flyttet den 15. maj 2026.",
-        "Flytningen foregik på NASA's Michoud-fabrik."
-      ],
-      "betydning": "Artemis-programmet skal sende mennesker til Månen igen, og denne tank er en vigtig del af raketten.",
-      "pointer": [
-        "Brinttank flyttet til test i New Orleans",
-        "Artemis IV-raket får superkoldt brændstof",
-        "NASA forbereder næste måneopsendelse"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Will Bruey on rethinking the role of pharmaceuticals in low Earth orbit",
-      "link": "https://spacenews.com/will-bruey-on-rethinking-the-role-of-pharmaceuticals-in-low-earth-orbit/",
-      "dato": "2026-07-23T15:13:33+00:00",
-      "kilde": "SpaceNews",
-      "resume": "In this episode, David Ariosto speaks with Varda CEO Will Bruey at the Ascend conference. They discuss how Varda hopes to play a role bridging medicine and low Earth orbit [&#8230;] The post Will Bruey on rethinking the role of pharmaceuticals in low Earth orbit appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/space-minds-podcast-varda-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Lægemidler i rummet: Varda vil revolutionere produktion",
-      "resume_da": "Varda Space Industries CEO Will Bruey taler om, hvordan rummet kan bruges til at fremstille bedre lægemidler.",
-      "sektioner": [
-        {
-          "overskrift": "Rummet som medicinlab",
-          "tekst": "Varda Space Industries vil bruge mikrotyngdekraft i lavt jordkredsløb til at fremstille lægemidler. I rummet kan molekyler danne mere rene krystaller, hvilket kan føre til mere effektive medikamenter."
-        },
-        {
-          "overskrift": "Første missioner på vej",
-          "tekst": "Virksomheden planlægger at sende sin første produktionskapsel til Den Internationale Rumstation. Målet er at teste teknologi og vise, at medicin kan produceres kommercielt i rummet."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Varda CEO talte på Ascend-konferencen.",
-        "Virksomheden fokuserer på at bygge bro mellem medicin og lavt jordkredsløb."
-      ],
-      "betydning": "Hvis Varda lykkes, kan det føre til billigere og bedre medicin til gavn for patienter på Jorden.",
-      "pointer": [
-        "Rummet kan forbedre medicinproduktion",
-        "Varda tester teknologi på ISS",
-        "Kommerciel rummedicin på vej"
       ],
       "prio": 5
     }
