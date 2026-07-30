@@ -1,7 +1,89 @@
 {
-  "opdateret": "2026-07-30T19:00:28.734860+00:00",
+  "opdateret": "2026-07-30T23:37:41.802550+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "A thermal camera trick could let LIGO see twice as far",
+      "link": "https://phys.org/news/2026-07-thermal-camera-ligo.html",
+      "dato": "2026-07-30T23:20:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "There's a nice kind of irony buried in this story: One of the most sensitive instruments ever built, capable of measuring distortions smaller than the width of a proton, has been quietly held back by something as mundane as heat. And the fix, it turns out, is not some exotic new sensor but a thermal camera you could genuinely buy off the shelf.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-thermal-camera-trick.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Termisk kamera kan fordoble LIGOs rækkevidde",
+      "resume_da": "Et almindeligt termisk kamera kan hjælpe gravitationsbølgeobservatoriet LIGO med at se dobbelt så langt ud i universet.",
+      "sektioner": [
+        {
+          "overskrift": "Varme begrænser LIGO",
+          "tekst": "LIGO er et af verdens mest følsomme instrumenter og kan måle forstyrrelser mindre end en protons bredde. Men det har været begrænset af varme, som skaber støj i målingerne."
+        },
+        {
+          "overskrift": "Løsningen: termisk kamera",
+          "tekst": "Forskere har opdaget, at et almindeligt termisk kamera kan købes i butikken og bruges til at reducere varmestøjen. Det kan fordoble LIGOs rækkevidde."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "LIGO kan måle forstyrrelser mindre end en protons bredde.",
+        "Varme har begrænset LIGOs følsomhed.",
+        "Et almindeligt termisk kamera kan løse problemet."
+      ],
+      "betydning": "Bedre LIGO-data kan føre til flere opdagelser af gravitationsbølger, hvilket giver ny viden om sorte huller og universets historie.",
+      "pointer": [
+        "LIGO måler gravitationsbølger meget præcist.",
+        "Varmestøj har været en begrænsning.",
+        "Et termisk kamera kan fordoble rækkevidden.",
+        "Løsningen er enkel og billig."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Students Take on Airborne Field Research with NASA",
+      "link": "https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/",
+      "dato": "2026-07-30T20:36:56+00:00",
+      "kilde": "NASA",
+      "resume": "The gusty wind didn’t make it easy to hold tight to a balloon so large. The balloon, a scientific instrument called an ozonesonde, was about to be released into the atmosphere above the Texas Gulf Coast by students from NASA’s SARP (Student Airborne Research Program), which concluded its summer session July 27. The balloon’s job […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/balloon%20inflating%206.jpeg?w=3024&#038;h=4032&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "The center of the image shows a large white balloon. Beneath the balloon are five people in a circle, gently holding at the bottom of the balloon to keep it upright. In the background of the image, ot",
+      "kategori": "Forskning",
+      "rubrik": "Studerende sender vejrballoner op med NASA",
+      "resume_da": "NASA's sommerprogram SARP gav studerende mulighed for at sende ozonsonder op i atmosfæren og måle ozonkoncentrationer. Programmet sluttede 27. juli.",
+      "sektioner": [
+        {
+          "overskrift": "Ballonopsendelse og målinger",
+          "tekst": "Studerende fra NASA's SARP-program sendte en ozonsonde op med en heliumfyldt vejrballon ved Texas Gulf Coast. Ballonen målte ozonkoncentrationer undervejs. De overvågede dataene i realtid."
+        },
+        {
+          "overskrift": "Fem fly støttede programmet",
+          "tekst": "Fem forskningsfly, herunder NASA's Gulfstream G-III, GV og C-20A, støttede programmet. Studerende arbejdede med instrumenter som en laser til måling af partikler i atmosfæren."
+        },
+        {
+          "overskrift": "Karriereforløb og erfaring",
+          "tekst": "Programmet gav **48** bachelorstuderende praktisk erfaring inden for jordsystemvidenskab. De arbejdede i fire discipliner: atmosfære, oceaner, økologi og hydrologi. Mange oplevede feltarbejde for første gang."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "48",
+          "label": "antal studerende"
+        }
+      ],
+      "detaljer": [
+        "Programmet varede otte uger.",
+        "Studerende krydstjekkede målinger med NASA-satellitter.",
+        "To grupper fortsatte i Californien og Virginia efter to uger.",
+        "Programmet er designet som et springbræt til STEM-karrierer."
+      ],
+      "betydning": "Programmet viser, hvordan unge forskere får mulighed for at arbejde med avanceret måleudstyr og bidrage til klimaforskning, hvilket kan inspirere danske studerende og forskere.",
+      "pointer": [
+        "Studerende sendte ozonsonder op med vejrballoner.",
+        "Ozonmålinger fra balloner og fly",
+        "Fem fly støttede programmet",
+        "Årligt program med praktisk forskning"
+      ],
+      "prio": 4
+    },
     {
       "titel": "K2 Space raises $500 million for commercial, defense satellite expansion",
       "link": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/",
@@ -483,6 +565,57 @@
         "NASA praktik giver unik hands-on erfaring."
       ],
       "prio": 3
+    },
+    {
+      "titel": "APOD: 2026 July 30 – Red Sun trough Wildfire Smoke",
+      "link": "https://science.nasa.gov/image-article/apod/apod-july-30-red-sun-trough-wildfire-smoke/",
+      "dato": "2026-07-30T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 July 30 – Red Sun… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Red [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/red_sun.jpg?w=3000&#038;h=2000&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A deep red sun shows several sunspots. Clouds and haze are visible.",
+      "kategori": "Rumvejr",
+      "rubrik": "Rød sol over Canada på grund af skovbrandsrøg",
+      "resume_da": "Et billede fra 22. juli 2026 viser en rød sol over British Columbia, forårsaget af skovbrandsrøg fra Stillehavsområdet.",
+      "sektioner": [
+        {
+          "overskrift": "Billede af rød sol",
+          "tekst": "Astronomy Picture of the Day viser et billede taget den **22. juli 2026** i Okanagan-regionen i British Columbia, Canada. Røg fra skovbrande fungerede som et solfilter og gjorde solen rød."
+        },
+        {
+          "overskrift": "Synlige solpletter",
+          "tekst": "Flere solpletter er synlige på billedet, herunder **AR 4493**, en hurtigt udviklende, kæmpe aktiv solregion. Røgpartikler spreder blåt lys, så solen ser dæmpet og rød ud."
+        },
+        {
+          "overskrift": "Fremtidig rød sol",
+          "tekst": "Om cirka **6 milliarder år** vil solen naturligt blive rød, når den går ind i sin røde kæmpe-fase. Solnedgange og solopgange kan også blive mere farverige på grund af røg."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "22. juli 2026",
+          "label": "Dato for billedet"
+        },
+        {
+          "tal": "6 milliarder år",
+          "label": "Tid til rød kæmpe-fase"
+        }
+      ],
+      "detaljer": [
+        "Billedet er taget i Okanagan-regionen, British Columbia, Canada.",
+        "Skovbrandsrøg fra Pacific Northwest fungerede som solfilter.",
+        "Solen ser rød og dæmpet ud på grund af partiklernes spredning af blåt lys.",
+        "Solplet AR 4493 er en stor, aktiv solregion, der udvikler sig hurtigt.",
+        "Det er aldrig sikkert at stirre direkte på solen."
+      ],
+      "betydning": "Billedet viser, hvordan naturfænomener som skovbrande kan påvirke vores udsyn til solen, og minder om solens langsigtede udvikling.",
+      "pointer": [
+        "Røg gør solen rød og dæmpet",
+        "Synlige solpletter på billedet",
+        "Solen bliver naturligt rød om 6 milliarder år",
+        "Taget i Canada under skovbrandssæson"
+      ],
+      "prio": 5
     },
     {
       "titel": "APOD: July 30 – Red Sun trough Wildfire Smoke",
@@ -4115,116 +4248,6 @@
         "Aftenhimlen byder på flot syn."
       ],
       "prio": 3
-    },
-    {
-      "titel": "Astronomers catch massive galaxy assembling piece by piece 1.2 billion years after Big Bang",
-      "link": "https://phys.org/news/2026-07-astronomers-massive-galaxy-piece-billion.html",
-      "dato": "2026-07-24T12:40:02+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Astronomers have discovered a remarkably tiny group of six young galaxies just 1.2 billion years after the Big Bang. This may be a rare glimpse of how some of the universe's largest galaxies formed. The paper outlining the findings was submitted to the arXiv preprint server on July 13.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-catch-a-ma.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Sjældent syn: Galakse samles af 6 unge galakser",
-      "resume_da": "Astronomer har opdaget en gruppe af seks unge galakser, der samles til en stor galakse kun 1,2 milliarder år efter Big Bang.",
-      "sektioner": [
-        {
-          "overskrift": "Opdagelse af galaksegruppe",
-          "tekst": "Astronomer har opdaget en usædvanlig lille gruppe af seks unge galakser. De befinder sig kun **1,2 milliarder år** efter Big Bang. Dette giver et sjældent indblik i, hvordan nogle af universets største galakser blev dannet."
-        },
-        {
-          "overskrift": "Forskningens betydning",
-          "tekst": "Fundet blev beskrevet i et videnskabeligt papir, der blev sendt til arXiv den **13. juli**. Det kan hjælpe forskere med at forstå, hvordan massive galakser voksede sig store i det tidlige univers."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1,2 milliarder år",
-          "label": "efter Big Bang"
-        },
-        {
-          "tal": "6",
-          "label": "ung galakser"
-        }
-      ],
-      "detaljer": [
-        "Gruppen består af seks unge galakser.",
-        "Opdagelsen kan vise, hvordan store galakser opstår."
-      ],
-      "betydning": "Opdagelsen giver en sjælden mulighed for at forstå, hvordan universets største galakser blev dannet – noget der kan udvide vores viden om kosmos' udvikling.",
-      "pointer": [
-        "Seks unge galakser samlet.",
-        "Kun 1,2 milliarder år efter Big Bang.",
-        "Kan forklare dannelse af store galakser.",
-        "Papir udgivet 13. juli."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Office of Space Commerce to move ahead on mission authorization",
-      "link": "https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization/",
-      "dato": "2026-07-24T12:04:34+00:00",
-      "kilde": "SpaceNews",
-      "resume": "The Commerce Department is moving ahead with plans to implement a voluntary mission authorization system for novel space activities that are not regulated by other agencies. The post Office of Space Commerce to move ahead on mission authorization appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/jordan-housesci260715.jpeg?fit=1024%2C683&amp;ssl=1",
-      "billede_alt": "Jordan",
-      "kategori": "Politik & penge",
-      "rubrik": "USA rykker på godkendelse af nye rummissioner",
-      "resume_da": "Det amerikanske handelsministerium går videre med planer om et frivilligt system til godkendelse af nye rumaktiviteter, der ikke reguleres af andre myndigheder.",
-      "sektioner": [
-        {
-          "overskrift": "Nyt godkendelsessystem",
-          "tekst": "Handelsministeriet vil indføre et frivilligt system til autorisation af nye rumaktiviteter. Systemet gælder for missioner, der ikke dækkes af andre myndigheder."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Systemet er frivilligt for nye rumaktiviteter.",
-        "Det omfatter missioner, der ikke reguleres af andre agenturer."
-      ],
-      "betydning": "Systemet kan gøre det lettere for private virksomheder at få grønt lys til innovative rummissioner, hvilket kan fremskynde udviklingen af ny rumteknologi.",
-      "pointer": [
-        "Handelsministeriet tager næste skridt mod autorisation af rummissioner.",
-        "Systemet er målrettet nye aktiviteter uden eksisterende regulering.",
-        "Ordningen er frivillig."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "This Week In Space LIVE: The Viking Mars landings 50 years later",
-      "link": "https://www.space.com/astronomy/mars/this-week-in-space-live-the-viking-mars-landings-50-years-later",
-      "dato": "2026-07-24T12:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "Tune in today, July 24, at 1:30 p.m. ET for a LIVE This Week In Space taping to mark the 50th anniversary of the Viking landings on Mars.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/R6N8LpbqFTf394f8g3PALH-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Viking-landingerne fylder 50 år",
-      "resume_da": "Space.com-redaktør Tariq Malik markerede 50-året for Viking-missionen med et live-afsnit af podcasten This Week In Space.",
-      "sektioner": [
-        {
-          "overskrift": "Podcasten This Week In Space",
-          "tekst": "Tariq Malik og rumhistorikeren Rod Pyle optog et live-afsnit af podcasten 'This Week In Space' i anledning af Viking-landingernes 50-års jubilæum. Jubilæet faldt i juni 2025."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "50 år",
-          "label": "Jubilæum for Viking-landing"
-        }
-      ],
-      "detaljer": [
-        "Tariq Malik er redaktør på Space.com",
-        "Han har været med Space.com siden 2001",
-        "Han modtog Harry Kolcum Award for fremragende rumrapportering i 2022"
-      ],
-      "betydning": "Viking-missionerne var de første vellykkede landing på Mars og lagde grunden til al senere marsforskning.",
-      "pointer": [
-        "Viking-landingerne var i 1976",
-        "50-året er i 2026",
-        "Podcasten kan ses på TWiT-netværket"
-      ],
-      "prio": 4
     }
   ]
 }
