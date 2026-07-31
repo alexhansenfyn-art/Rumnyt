@@ -1,7 +1,259 @@
 {
-  "opdateret": "2026-07-30T23:37:41.802550+00:00",
+  "opdateret": "2026-07-31T10:06:18.470834+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "This Week's Sky at a Glance, July 31 – August 9",
+      "link": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-july-31-august-9/",
+      "dato": "2026-07-31T08:49:00+00:00",
+      "kilde": "Sky & Telescope",
+      "resume": "Once the bright Moon is out of the evening sky by Monday or so, use Altair high in the southeast to find little Delphinus and Sagitta roughly a fist at arm's length from it. The post This Week&#039;s Sky at a Glance, July 31 – August 9 appeared first on Sky &amp; Telescope .",
+      "billede": null,
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Ugens himmel: Fra 31. juli til 9. august",
+      "resume_da": "Se efter stjernebillederne Delphinus og Sagitta nær Altair, når Månen er væk fra aftenhimlen.",
+      "sektioner": [
+        {
+          "overskrift": "Find stjernebillederne",
+          "tekst": "Når Månen er ude af aftenhimlen, kan du bruge den lyse stjerne Altair i sydøst som udgangspunkt. Cirka en knytnæve fra Altair finder du de små stjernebilleder Delphinus og Sagitta."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Brug Altair som referencepunkt.",
+        "Delphinus og Sagitta er små stjernebilleder.",
+        "De er cirka en knytnæve fra Altair."
+      ],
+      "betydning": "For en almindelig dansker er det en mulighed for at opleve nattehimlen og lære nogle stjernebilleder at kende uden brug af udstyr.",
+      "pointer": [
+        "Månen er væk fra aftenhimlen.",
+        "Altair er en god guide.",
+        "Find Delphinus og Sagitta."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "APOD: 2026 July 31 – NGC 4372 and the Dark Doodad",
+      "link": "https://science.nasa.gov/image-article/apod-2026-july-31-ngc-4372-and-the-dark-doodad/",
+      "dato": "2026-07-31T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 July 31 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4372 [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/DARK-DOODAD_2048.jpg?w=2048&#038;h=1307&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A telescopic image of a dark nebula.",
+      "kategori": "Astronomi",
+      "rubrik": "Mørk tåge og stjernehob imponerer på nyt billede",
+      "resume_da": "NASAs daglige rumfoto viser den mørke Dark Doodad-tåge og stjernehoben NGC 4372 på den sydlige himmel. Tågen ligger omkring 700 lysår væk.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad billedet viser",
+          "tekst": "Billedet viser den mørke tåge Dark Doodad mod en baggrund af mange stjerner. Den strækker sig over omkring **3 grader** på himlen. Tågen er en såkaldt interstellar støvsky."
+        },
+        {
+          "overskrift": "Stjernehoben NGC 4372",
+          "tekst": "Ved tågens sydlige ende ses den gule stjernehob NGC 4372. Hoben ligger omkring **20.000 lysår** fra Jorden i Mælkevejens udkant. Den er kun på linje med tågen set fra Jorden."
+        },
+        {
+          "overskrift": "Tågens karakteristika",
+          "tekst": "Dark Doodad er cirka **700 lysår** væk og over **30 lysår** lang. Den er en del af en større sky, hvor der kan dannes nye stjerner. Navnet blev opfundet af astro-fotografen Dennis di Cicco i 1986."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "700 lysår",
+          "label": "Afstand til tågen"
+        },
+        {
+          "tal": "20.000 lysår",
+          "label": "Afstand til stjernehoben"
+        },
+        {
+          "tal": "3 grader",
+          "label": "Tågens udstrækning på himlen"
+        }
+      ],
+      "detaljer": [
+        "Dark Doodad-tågen ligger i stjernebilledet Fluen på den sydlige himmel.",
+        "Tågen er en del af den stjernedannende Musca-molekylære sky.",
+        "Billedet er udgivet som Astronomy Picture of the Day den 31. juli 2026.",
+        "Fotografen er Alessandro Cipolat Bares."
+      ],
+      "betydning": "Det er fascinerende at se, hvordan en mørk støvsky kan tegne silhuetter mod et stjernefelt. Det minder os om, at universet er fuld af skjulte strukturer, og at der hele tiden sker noget i rummet, som vi kan opdage.",
+      "pointer": [
+        "Dark Doodad er en mørk støvsky i sydhimlen.",
+        "Den ses sammen med stjernehoben NGC 4372.",
+        "Tågen er omkring 700 lysår fra Jorden.",
+        "Navnet blev opfundet i 1986 under Halleys komet."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Destructive Fires Char Western Europe",
+      "link": "https://science.nasa.gov/earth/earth-observatory/destructive-fires-char-western-europe/",
+      "dato": "2026-07-31T04:01:00+00:00",
+      "kilde": "NASA",
+      "resume": "Raging wildfires disrupted summer in Spain and France amid sweltering heat waves and prolonged drought.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/destructive-fires-char-western-europe/spainfires_oli2_20260729.jpg?w=1440&#038;h=960&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A brown patch of burned vegetation is visible on the landscape surrounding two reservoirs in a hilly region west of Madrid.",
+      "kategori": "Forskning",
+      "rubrik": "Rekordstore skovbrande hærger Spanien og Frankrig",
+      "resume_da": "I juli 2026 har massive skovbrande i Spanien og Frankrig tvunget hundredtusinder til at evakuere. NASA-satellitter overvåger ødelæggelserne.",
+      "sektioner": [
+        {
+          "overskrift": "Brandene i Spanien",
+          "tekst": "I Spanien er en brand i Ávila den største nogensinde registreret. Den har brændt omkring **50.000 hektar** og voksede til **77.000 hektar**. Flammerne har ødelagt hjem, restauranter og campingpladser."
+        },
+        {
+          "overskrift": "Krise i Frankrig",
+          "tekst": "I Frankrig har en brand i Gironde-området brændt **42.000 hektar** og ødelagt landsbyen Le Porge. I hele Frankrig er der brændt **90.000 hektar**, det værste i årtier. En 'pyrocumulonimbus' blev dannet, det første nogensinde i Frankrig."
+        },
+        {
+          "overskrift": "Hvorfor brandene opstod",
+          "tekst": "Vådt vintervejr fik planter til at vokse ekstra meget. Så kom hedebølger og tørke, der gjorde alt tørt. Stærke vinde på op til **65 km/t** fik flammerne til at sprede sig hurtigt."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "77.000 hektar",
+          "label": "Areal brændt i Spanien"
+        },
+        {
+          "tal": "90.000 hektar",
+          "label": "Areal brændt i Frankrig"
+        },
+        {
+          "tal": "65 km/t",
+          "label": "Vindhastighed"
+        }
+      ],
+      "detaljer": [
+        "Satellitter fra NASA observerede brandene og ødelæggelserne.",
+        "Tusindvis af brandmænd og soldater bekæmpede brandene.",
+        "Evakueringsordrer blev begyndt at blive ophævet i slutningen af juli."
+      ],
+      "betydning": "Brandene viser, hvordan klimaforandringer og ekstremt vejr påvirker Europa. Det er relevant, fordi det kan have konsekvenser for luftkvalitet og klima for os alle.",
+      "pointer": [
+        "Store brande i Spanien og Frankrig i juli 2026.",
+        "Rekordstor brand i Ávila, Spanien.",
+        "Første pyrocumulonimbus i Frankrig.",
+        "Vådt vejr, hedebølger og tørke skyld i brandene."
+      ],
+      "prio": 8
+    },
+    {
+      "titel": "Probing binary stars in the Small Magellanic Cloud with the JWST",
+      "link": "https://phys.org/news/2026-07-probing-binary-stars-small-magellanic.html",
+      "dato": "2026-07-31T01:40:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "The formation and evolution of individual stars in a galaxy shape the evolution of the galaxy itself. Stars and stellar remnants make up the vast majority of a galaxy's mass, so it's not surprising that the stellar population affects the evolution of galaxies. In the Milky Way's disk and bulge, stars and dead stars make up about 85% of the baryonic mass.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/probing-binary-stars-i.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "JWST kigger på dobbeltstjerner i nabo-galakse",
+      "resume_da": "Astronomer har brugt James Webb-teleskopet til at studere dobbeltstjerner i Den Lille Magellanske Sky, en nabo-galakse til Mælkevejen.",
+      "sektioner": [
+        {
+          "overskrift": "Hvorfor studere stjerner?",
+          "tekst": "Stjerner og deres udvikling påvirker hele galaksen. De udgør størstedelen af galaksens masse. I Mælkevejens skive og bule er stjerner og døde stjerner omkring **85%** af den baryoniske masse."
+        },
+        {
+          "overskrift": "Hvad undersøger forskerne?",
+          "tekst": "Med James Webb-teleskopet (JWST) vil forskerne undersøge dobbeltstjerner i Den Lille Magellanske Sky. Det er en lille nabo-galakse til vores Mælkevej."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "85%",
+          "label": "andel af baryonisk masse i Mælkevejen"
+        }
+      ],
+      "detaljer": [
+        "Forskerne bruger JWST til at studere dobbeltstjerner.",
+        "Dobbeltstjerner findes i Den Lille Magellanske Sky.",
+        "Stjerners udvikling er vigtig for galaksers udvikling."
+      ],
+      "betydning": "Det er vigtigt at forstå, hvordan stjerner udvikler sig, fordi de påvirker hele galaksen. Denne forskning kan hjælpe os med at forstå vores egen galakse bedre.",
+      "pointer": [
+        "JWST studerer dobbeltstjerner i en nabo-galakse.",
+        "Stjerner udgør meget af galaksens masse.",
+        "Det hjælper os at forstå galakseudvikling."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "Rules of the road needed for orbital data center constellations",
+      "link": "https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations/",
+      "dato": "2026-07-31T00:00:37+00:00",
+      "kilde": "SpaceNews",
+      "resume": "As companies develop large constellations of orbital data center satellites, experts say now is the time to start thinking about some critical space safety topics and rules of the road. The post Rules of the road needed for orbital data center constellations appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/starcloud.jpeg?fit=1024%2C566&amp;ssl=1",
+      "billede_alt": "Starcloud",
+      "kategori": "Politik & penge",
+      "rubrik": "Forskere: Vi skal have trafikregler for datacentre i rummet",
+      "resume_da": "Flere virksomheder planlægger store satellitkonstellationer som datacentre i kredsløb. Nu opfordrer eksperter til, at vi får lavet regler for sikkerhed i rummet, før det går galt.",
+      "sektioner": [
+        {
+          "overskrift": "Datacentre i kredsløb",
+          "tekst": "Flere virksomheder arbejder på at sende store netværk af datacentre op i rummet. De skal ligge i kredsløb om Jorden og behandle data. Det kan give hurtigere internet og mere regnekraft."
+        },
+        {
+          "overskrift": "Behov for regler",
+          "tekst": "Eksperter siger, at vi nu skal tænke over, hvordan vi undgår sammenstød og andet bøvl i rummet. De vil have fælles regler og bedre styr på trafikken, før de nye satellitter sendes op. Ellers kan der ske uheld."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Virksomheder udvikler store konstellationer af datacenter-satellitter.",
+        "Eksperter efterlyser regler for sikkerhed i rummet nu.",
+        "Artiklen kommer fra SpaceNews."
+      ],
+      "betydning": "Hvis vi får datacentre i rummet, påvirker det os alle – både i form af hurtigere internet, men også risiko for rumaffald og sammenstød. Derfor er det vigtigt, at vi får lavet klare regler i tide.",
+      "pointer": [
+        "Planer om datacentre i rummet",
+        "Eksperter advarer om sikkerhed",
+        "Regler skal på plads tidligt"
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Risks of debris between the Earth and the moon for future exploration",
+      "link": "https://phys.org/news/2026-07-debris-earth-moon-future-exploration.html",
+      "dato": "2026-07-31T00:00:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Cislunar space has become the focal point of considerable interest and strategic planning because of the many proposed missions to send crews to the moon in the next decade. These include NASA's Artemis program, China and Russia's International Lunar Research Station (ILRS), the European Space Agency's Argonaut program and others. The long-term goals of these programs include creating infrastructu",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-risks-of-debris-be.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Rumaffald i cislunar rum truer fremtidige månemissioner",
+      "resume_da": "Ny forskning peger på stigende risiko fra rumaffald mellem Jorden og Månen, hvilket kan påvirke kommende missioner som Artemis.",
+      "sektioner": [
+        {
+          "overskrift": "Voksende interesse og planer",
+          "tekst": "Flere månemissioner er planlagt i det kommende årti, herunder NASAs Artemis-program, Kina og Ruslands internationale måneforskningsstation og ESA's Argonaut-program. Langsigtede mål inkluderer infrastruktur mellem Jorden og Månen for fortsat udforskning."
+        },
+        {
+          "overskrift": "Risici fra rumaffald",
+          "tekst": "Cislunar rum – området mellem Jorden og Månen – er blevet et fokusområde for strategisk planlægning. Affald i dette område udgør en risiko for fremtidige missioner og infrastruktur."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Cislunar rum er blevet et centralt punkt for interesse og strategisk planlægning",
+        "Mange missioner er foreslået for at sende besætninger til Månen i det næste årti",
+        "NASA's Artemis-program er et af de nævnte initiativer",
+        "Kina og Rusland samarbejder om International Lunar Research Station (ILRS)",
+        "European Space Agency har Argonaut-programmet",
+        "Langsigtede mål inkluderer infrastruktur mellem Jorden og Månen"
+      ],
+      "betydning": "For almindelige mennesker er det relevant, fordi rumaffald kan påvirke sikkerheden og omkostningerne ved fremtidige månemissioner, som kan have betydning for teknologisk udvikling og internationalt samarbejde.",
+      "pointer": [
+        "Flere lande planlægger månebaser",
+        "Cislunar rum bliver mere travlt",
+        "Affald udgør en risiko",
+        "Infrastruktur er et langsigtet mål"
+      ],
+      "prio": 5
+    },
     {
       "titel": "A thermal camera trick could let LIGO see twice as far",
       "link": "https://phys.org/news/2026-07-thermal-camera-ligo.html",
@@ -4009,245 +4261,6 @@
       "prio": 7,
       "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/capstone2.jpg?w=2048",
       "billede_alt": "Artist rendition of two Capstone 2 in space above the Moon."
-    },
-    {
-      "titel": "Why Europa's hidden ocean may be more difficult to reach than scientists thought",
-      "link": "https://phys.org/news/2026-07-europa-hidden-ocean-difficult-scientists.html",
-      "dato": "2026-07-24T16:00:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Europa, one of Jupiter's icy moons, has long fascinated scientists because of what may lie beneath its frozen shell: a global ocean of liquid water. That hidden ocean has made Europa one of the most compelling places in the solar system to study the conditions that might support life. But new research led by Rutgers scientist Lujendra Ojha suggests one of the most promising shortcuts to Europa's o",
-      "kategori": "Forskning",
-      "rubrik": "Europas skjulte ocean sværere at nå",
-      "resume_da": "Nye forskning viser, at adgangen til Europas underjordiske ocean kan være langt mere kompliceret end hidtil antaget.",
-      "sektioner": [
-        {
-          "overskrift": "Oceanet under isen",
-          "tekst": "Europa, en af Jupiters ismåner, menes at have et globalt flydende hav under sin iskolde overflade. Dette skjulte hav gør Europa til et af de mest interessante steder i solsystemet for at studere mulige betingelser for liv."
-        },
-        {
-          "overskrift": "Ny forskningsresultater",
-          "tekst": "En ny undersøgelse ledet af forskeren Lujendra Ojha fra Rutgers viser, at en af de mest lovende genveje til Europas hav måske er langt mere kompliceret end tidligere antaget. Resultaterne har betydning for fremtidige missioner til månen."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [],
-      "betydning": "Forskningen understreger, at det kan være sværere end forventet at udforske Europas hav, hvilket påvirker planerne om at søge efter liv i vores solsystem.",
-      "pointer": [
-        "Europa har et globalt hav under isen",
-        "Ny forskning peger på adgangsproblemer",
-        "Forskning ledet af Lujendra Ojha"
-      ],
-      "prio": 7,
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-europas-hidden-oce-2.jpg",
-      "billede_alt": ""
-    },
-    {
-      "titel": "Io's volcanic output offers a 40‑day forecast of plasma density in Jupiter's magnetosphere",
-      "link": "https://phys.org/news/2026-07-io-volcanic-output-40day-plasma.html",
-      "dato": "2026-07-24T15:40:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "A careful statistical comparison of observations recorded by NASA's Juno mission and the Planetary Science Institute's Io Input Output observatory (IoIO) shows that IoIO observations reliably predict the density of Jupiter's plasma disk, an important part of Jupiter's magnetosphere, according to a new Geophysical Research Letters paper co-authored by Planetary Science Institute Senior Scientist Je",
-      "kategori": "Forskning",
-      "rubrik": "Ios vulkaner forudsiger plasma omkring Jupiter",
-      "resume_da": "Forskere har opdaget, at observationer af Ios vulkanudbrud kan forudsige plasmatætheden i Jupiters magnetosfære 40 dage i forvejen.",
-      "sektioner": [
-        {
-          "overskrift": "Sammenhæng mellem Io og Jupiter",
-          "tekst": "Ved at sammenligne data fra NASAs Juno-mission og observatoriet IoIO fandt forskerne en klar sammenhæng. Observationer af Ios vulkanudbrud kan forudsige plasmatætheden i Jupiters magnetosfære med **40** dages varsel."
-        },
-        {
-          "overskrift": "Metode og resultater",
-          "tekst": "Forskerne brugte statistik til at sammenligne observationer fra Juno og IoIO. Resultatet viser, at IoIOs observationer er en pålidelig indikator for tætheden af Jupiters plasma-disk."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "40 dage",
-          "label": "Forudsigelsestid"
-        }
-      ],
-      "detaljer": [
-        "Studiet er publiceret i Geophysical Research Letters",
-        "Jeff Morgenthaler fra Planetary Science Institute er medforfatter",
-        "Jian-Zhao Wang fra University of Colorado Boulder er hovedforfatter"
-      ],
-      "betydning": "Forståelse af Jupiters magnetosfære kan hjælpe os med at beskytte rumfartøjer mod skadelig stråling og give indsigt i planeternes dynamik.",
-      "pointer": [
-        "Ios vulkanudbrud påvirker Jupiters magnetosfære",
-        "40 dages forudsigelse af plasmatæthed er mulig",
-        "Data fra Juno og IoIO blev sammenlignet",
-        "Studiet forbedrer forståelsen af Jupiters rummiljø"
-      ],
-      "prio": 5,
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/telescope-reliably-pre.jpg",
-      "billede_alt": ""
-    },
-    {
-      "titel": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis",
-      "link": "https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/",
-      "dato": "2026-07-24T15:30:21+00:00",
-      "kilde": "NASA",
-      "resume": "NASA and Blue Origin announced Friday they recently agreed to conduct second stage hot fire testing for the company’s New Glenn rocket on the B-2 test stand at the agency’s Stennis Space Center near Bay St. Louis, Mississippi. The annex to a reimbursable Space Act Agreement signed earlier this month highlights NASA’s commitment to working [&#8230;]",
-      "kategori": "Missioner",
-      "rubrik": "Blue Origin tester på NASA's historiske Saturn V-stand",
-      "resume_da": "NASA og Blue Origin indgår aftale om at teste New Glenn-raket på B-2 teststand, som tidligere blev brugt til Saturn V. Testene starter i efteråret 2026 og støtter Artemis-missioner mod Månen.",
-      "sektioner": [
-        {
-          "overskrift": "Historisk teststand genbruges",
-          "tekst": "B-2 teststanden blev oprindeligt bygget i 1960'erne til at teste Saturn V-raketter til Apollo-programmet. Nu skal den bruges til andettrins test af Blue Origins New Glenn-raket. NASA står for ingeniørarbejde og udstyr til at klargøre standen."
-        },
-        {
-          "overskrift": "Artemis-missioner får ny raket",
-          "tekst": "New Glenn skal bruges til at sende månelandingsmissioner under Artemis-programmet. Artemis III vil teste sammenkobling af Orion med kommercielle månelandere i lavt jordkredsløb. Testene på Stennis forventes at begynde i efteråret 2026."
-        },
-        {
-          "overskrift": "Månebase på vej",
-          "tekst": "I maj annoncerede NASA de første tre månebasemissioner. Blue Origin skal sende en robotmission til Sydpolen med sin Blue Moon Mark 1-lander. Det skal bane vejen for astronautlandinger i **2028** under Artemis IV og V."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "200.000 pund",
-          "label": "Trykkraft pr. BE-3 motor i vakuum"
-        },
-        {
-          "tal": "2026",
-          "label": "Teststart for New Glenn andet trin"
-        },
-        {
-          "tal": "2028",
-          "label": "Artemis IV og V landinger"
-        }
-      ],
-      "detaljer": [
-        "Aftalen er en tilføjelse til en eksisterende Space Act-aftale.",
-        "B-2 teststanden har tidligere testet Saturn V og SLS-kernetrin.",
-        "New Glenns andet trin bruger to BE-3-motorer med flydende ilt og brint.",
-        "Senatorer og kongresmedlemmer roser aftalen for at skabe arbejdspladser.",
-        "NASA-administrator Jared Isaacman siger partnerskaber styrker industriens base."
-      ],
-      "betydning": "Aftalen viser, hvordan kommercielle firmaer som Blue Origin hjælper NASA med at nå Månen. Det betyder flere måne-missioner og danske virksomheder kan få del i opgaver gennem europæiske partnerskaber.",
-      "pointer": [
-        "NASA og Blue Origin tester New Glenn på historisk stand.",
-        "Testene starter i efteråret 2026.",
-        "Støtter Artemis-missioner mod Månen og Mars.",
-        "Første månebasemissioner allerede planlagt."
-      ],
-      "prio": 6,
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/bo.jpg?w=2048",
-      "billede_alt": ""
-    },
-    {
-      "titel": "UK in pole position to lead key instrument in NASA's hunt for Earth-like worlds",
-      "link": "https://phys.org/news/2026-07-uk-pole-position-key-instrument.html",
-      "dato": "2026-07-24T15:00:09+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "UK astronomers are a step closer to playing a leading role in NASA's search for alien life in the coming decades as they continue developing one of the core instruments of the Habitable Worlds Observatory (HWO). The exciting mission—the U.S. space agency's next flagship space telescope after the Nancy Grace Roman Space Telescope—is expected to launch in the 2040s.",
-      "kategori": "Forskning",
-      "rubrik": "Storbritannien på vej til at lede NASA-instrument",
-      "resume_da": "Britiske astronomer udvikler et nøgleinstrument til NASAs næste store rumteleskop, Habitable Worlds Observatory, der skal søge efter beboelige exoplaneter.",
-      "sektioner": [
-        {
-          "overskrift": "Missionens formål",
-          "tekst": "Habitable Worlds Observatory (HWO) bliver NASAs næste flagskibsteleskop efter Nancy Grace Roman-teleskopet. Det skal lede efter jordlignende planeter og tegn på liv i universet."
-        },
-        {
-          "overskrift": "Britisk rolle",
-          "tekst": "UK astronomer er tæt på at få en ledende rolle i at udvikle et af teleskopets kerneinstrumenter. De er allerede i gang med at udvikle teknologien."
-        },
-        {
-          "overskrift": "Tidsplan",
-          "tekst": "Rumteleskopet forventes at blive opsendt i **2040'erne**. Det bliver et af de mest ambitiøse projekter inden for jagten på fremmed liv."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Storbritannien står til at lede udviklingen af et nøgleinstrument.",
-        "HWO bliver NASAs næste flagskibsteleskop efter Roman-teleskopet.",
-        "Opsendelse forventes i 2040'erne.",
-        "Missionen skal søge efter jordlignende verdener."
-      ],
-      "betydning": "Missionen kan afgøre, om der findes liv på andre planeter, og Storbritanniens rolle viser, at europæisk forskning fortsat er central i rumforskningen.",
-      "pointer": [
-        "Briterne er tæt på at lede et NASA-projekt.",
-        "Teleskopet skal finde jordlignende planeter.",
-        "Opsendelse om 20-30 år."
-      ],
-      "prio": 7,
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/uk-in-pole-position-to.jpg",
-      "billede_alt": ""
-    },
-    {
-      "titel": "LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT",
-      "link": "https://spacenews.com/latconnect-60-unveils-proprietary-ai-capabilities-following-growing-indo-pacific-defence-interest-in-swirsat/",
-      "dato": "2026-07-24T14:59:27+00:00",
-      "kilde": "SpaceNews",
-      "resume": "PERTH, Australia &#8211; 24 July 2026 &#8211; LatConnect 60 (&#8220;LC60&#8221;), an Australian satellite Earth observation and AI company, today unveiled a proprietary intelligence-fusion capability that leverages the latest advancements in [&#8230;] The post LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/latconnect-60.png?fit=277%2C277&amp;ssl=1",
-      "billede_alt": "latconnect 60 logo",
-      "kategori": "Satellitter",
-      "rubrik": "Australsk firma lancerer ny AI til satellitdata",
-      "resume_da": "LatConnect 60 har udviklet en proprietær AI-kapacitet, der kan smelte data sammen fra flere kilder. Det sker efter stigende forsvarsinteresse i regionen.",
-      "sektioner": [
-        {
-          "overskrift": "Ny AI-kapacitet",
-          "tekst": "LatConnect 60 fra Australien har afsløret en ny AI-datasmeltningsteknologi. Den kombinerer data fra forskellige kilder for at skabe mere avanceret overvågning."
-        },
-        {
-          "overskrift": "Forsvarsinteresse i SWIRSAT",
-          "tekst": "Interessen fra forsvarssektoren i Indo-Pacific-regionen for satellitten SWIRSAT er stigende. Det har fået firmaet til at fremvise sine nye AI-evner."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Firmaet er australsk og arbejder med jordobservation og AI.",
-        "AI-kapaciteten er proprietær og fokuserer på intelligensfusion.",
-        "Interessen kommer fra forsvarsområdet i Indo-Pacific-regionen.",
-        "SWIRSAT er en satellit, der vækker stigende opmærksomhed."
-      ],
-      "betydning": "Teknologien kan forbedre overvågning og sikkerhed, hvilket har betydning for global stabilitet og danske interesser i rumfart.",
-      "pointer": [
-        "Australien udvikler avanceret AI til satellitdata.",
-        "Forsvarsinteresse driver innovationen.",
-        "Teknologien fusionerer data fra flere kilder.",
-        "SWIRSAT-satellitten er i fokus."
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "This Week's Sky at a Glance, July 24 – August 2",
-      "link": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-july-24-august-2/",
-      "dato": "2026-07-24T14:14:00+00:00",
-      "kilde": "Sky & Telescope",
-      "resume": "The waxing gibbous Moon passes Antares. Turn the Summer Triangle into the Summer Diamond. And as you snuggle into bed, would Vega land on your roof if it dropped out of the sky? The post This Week&#039;s Sky at a Glance, July 24 – August 2 appeared first on Sky &amp; Telescope .",
-      "billede": null,
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Himlen i denne uge: 24. juli – 2. august",
-      "resume_da": "Månen passerer Antares, og Sommertrekanten bliver til Sommertrekan. Få tips til at observere stjerner og planeter.",
-      "sektioner": [
-        {
-          "overskrift": "Månen møder Antares",
-          "tekst": "Den tiltagende måne passerer den lysende stjerne Antares i stjernebilledet Skorpionen. Det er et flot syn på aftenhimlen."
-        },
-        {
-          "overskrift": "Sommertrekanten",
-          "tekst": "Sommertrekanten, dannet af stjernerne Vega, Deneb og Altair, kan nu forvandles til en 'Sommertrekan' med lidt fantasi. Vega er den klareste af de tre."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Månen er i tiltagende fase og passerer Antares.",
-        "Sommertrekanten er synlig på aftenhimlen."
-      ],
-      "betydning": "For almindelige danskere giver artiklen enkle tips til at nyde nattehimlen og spotte kendte stjerner og planeter uden brug af teleskop.",
-      "pointer": [
-        "Månen nærmer sig Antares.",
-        "Sommertrekanten kan ses.",
-        "Let observation for alle.",
-        "Aftenhimlen byder på flot syn."
-      ],
-      "prio": 3
     }
   ]
 }
