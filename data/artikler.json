@@ -1,7 +1,511 @@
 {
-  "opdateret": "2026-07-31T10:06:18.470834+00:00",
+  "opdateret": "2026-07-31T17:13:59.377659+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Curiosity Blog, Sols 4961-4967: Approaching a break in the rock record?",
+      "link": "https://phys.org/news/2026-07-curiosity-blog-sols-approaching.html",
+      "dato": "2026-07-31T16:20:05+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Curiosity spent the week continuing to climb her way through the layers of Mount Sharp, exploring the sedimentary rock strip chart of Martian history. The rover has reached a layer where the science team had spotted a possible \"erosional supersurface\" by analyzing orbital data alongside images of the layers in the buttes above us.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/curiosity-blog-sols-49-2.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Curiosity nærmer sig pote i Mars' klippehistorie",
+      "resume_da": "Curiosity-roveren klatrer gennem lag på Mars og nærmer sig en mulig 'erosionsflade', der kan afsløre hul i klipperegistret.",
+      "sektioner": [
+        {
+          "overskrift": "Rejsen op ad Mount Sharp",
+          "tekst": "Curiosity har i denne uge fortsat sin klatretur gennem lagene på Mount Sharp. Roveren undersøger Mars' geologiske historie lag for lag. Forskerne håber at finde spor af fortidens miljø."
+        },
+        {
+          "overskrift": "Fund af erosionsflade",
+          "tekst": "Forskerne har opdaget en mulig 'erosional supersurface' i data fra kredsløb. Det er et område, hvor der kan mangle en del af klipperegistret. Det kan give et indblik i Mars' geologiske fortid."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Roveren har set den mulige erosionsflade ved at analysere billeder af lagene i buttes over roveren.",
+        "Opdagelsen blev gjort ved at kombinere data fra kredsløb og billeder fra overfladen.",
+        "Det er en del af udforskningen af Mount Sharp's sedimentære lag."
+      ],
+      "betydning": "Ny viden om Mars' geologi kan hjælpe os med at forstå planetens historie og mulighed for liv. Det giver et indblik i, hvordan Mars er blevet til det golde landskab i dag.",
+      "pointer": [
+        "Curiosity klatrer op ad Mount Sharp.",
+        "Forskerholdet spottede en mulig erosionsflade.",
+        "Den kan markere et hul i klipperegistret.",
+        "Det giver ny indsigt i Mars' fortid."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Spain commits up to $2.3 billion for national military communications for IRIS²",
+      "link": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/",
+      "dato": "2026-07-31T15:57:52+00:00",
+      "kilde": "SpaceNews",
+      "resume": "WARSAW, Poland — The Spanish government announced it will allocate between 1.6 billion and 2 billion euros ($1.8 to $2.3 billion) to develop a national military satellite communications constellation that [&#8230;] The post Spain commits up to $2.3 billion for national military communications for IRIS² appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/IRIS2-image.jpg?fit=1024%2C819&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Spanien bruger milliarder på militær satkom",
+      "resume_da": "Spanien vil bruge op til 2,3 milliarder dollars på et nationalt militært satellitkommunikationssystem, som skal støtte IRIS²-programmet.",
+      "sektioner": [
+        {
+          "overskrift": "Store investeringer",
+          "tekst": "Spanien har meddelt, at de vil afsætte mellem **1,6 milliarder** og **2 milliarder euro** til udvikling af et nationalt militært satellitkommunikationssystem. Det svarer til mellem **1,8 milliarder** og **2,3 milliarder dollars**."
+        },
+        {
+          "overskrift": "Støtte til IRIS²",
+          "tekst": "Pengene skal bruges til at bygge en konstellation af militære kommunikationssatellitter. Systemet skal støtte IRIS²-programmet, som er et EU-initiativ for sikker satellitkommunikation."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2,3 milliarder dollars",
+          "label": "Maksimalt investeret beløb"
+        },
+        {
+          "tal": "1,6 milliarder euro",
+          "label": "Mindste investering"
+        }
+      ],
+      "detaljer": [
+        "Meddelelsen blev givet på et arrangement i Polen.",
+        "IRIS² er et europæisk program."
+      ],
+      "betydning": "Det viser, at Europa satser på uafhængige satellitkommunikationssystemer for militæret, hvilket kan øge sikkerheden og mindske afhængigheden af andre lande.",
+      "pointer": [
+        "Spanien investerer op til 2,3 mia. dollars.",
+        "Pengene går til militære satellitter.",
+        "Styrker IRIS²-programmet."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/",
+      "dato": "2026-07-31T14:41:02+00:00",
+      "kilde": "NASA",
+      "resume": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, July 24, 2026 Curiosity spent the week continuing to climb her way up through the layers of Mount Sharp, exploring the sedimentary rock strip chart of Martian history. The rover has reached a layer where the science […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/july/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04963_opgs_edr_ncam_NLB_838089704EDR_F1232544NCAM00266M_.jpg?w=1024&#038;h=1024&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A black and white image taken from the deck of the Curiosity rover on Mars, looking out over a desolate, rocky landscape. In the foreground, parts of the rover",
+      "kategori": "Missioner",
+      "rubrik": "Curiosity når historisk klippehul på Mars",
+      "resume_da": "Curiosity har fundet et muligt hul i Mars' stenlag, hvor lag er eroderet væk. Det kan afsløre nyt om planetens fortid.",
+      "sektioner": [
+        {
+          "overskrift": "Et hul i historien",
+          "tekst": "NASA's rover Curiosity er ved at undersøge en såkaldt 'erosional supersurface' på Mount Sharp. Det er et sted, hvor ældre lag blev fjernet af vind eller vand, før nye lag blev lagt ovenpå. Det markerer en pause i den geologiske historie."
+        },
+        {
+          "overskrift": "Tæt på målet",
+          "tekst": "Forskerne har ventet i flere måneder på at komme tæt på. Nu har roveren taget billeder og målt klippernes sammensætning med sine instrumenter. Næste skridt er at køre hen over overfladen for at undersøge den nærmere."
+        },
+        {
+          "overskrift": "Store billeder og målinger",
+          "tekst": "Teamet bag roveren har taget store panoramabilleder med Mastcam og brugt ChemCam til at måle kemien på afstand. De har også undersøgt sten ved bunden af overfladen med andre instrumenter. Kørslen er planlagt til at undgå sand og stejle skråninger."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "4963",
+          "label": "Mars-dag for billedet"
+        },
+        {
+          "tal": "2026",
+          "label": "År for opdagelsen"
+        }
+      ],
+      "detaljer": [
+        "Billedet blev taget med Left Navigation Camera.",
+        "Målinger blev gjort med MAHLI, APXS og ChemCam.",
+        "Der er sand og stejle skråninger i området."
+      ],
+      "betydning": "For almindelige danskere er det en påmindelse om, at Mars har en kompleks geologisk historie, som kan hjælpe os med at forstå planetens klima og muligheden for liv. Forskningen kan også inspirere til nye generationer af udforskere.",
+      "pointer": [
+        "Curiosity undersøger et hul i Mars' stenlag.",
+        "Hullet kan skyldes erodering fra vind eller vand.",
+        "Holdet har taget billeder og målt klipperne.",
+        "Næste skridt er at køre hen over overfladen."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "First AI-driven telescope goes stargazing",
+      "link": "https://phys.org/news/2026-07-ai-driven-telescope-stargazing.html",
+      "dato": "2026-07-31T14:40:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Every night, astronomers must carefully assess changing weather, the intensity of moonlight and shifting atmospheric conditions before deciding where to point a telescope. It's a constant balancing act designed to squeeze as much science as possible from every precious hour beneath dark skies. Now, Northwestern University, University of Chicago and Fermilab scientists have developed a new artifici",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-ai-driven-telesc.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "AI-styret teleskop vælger selv observationsmål",
+      "resume_da": "Forskere har udviklet et AI-værktøj, der automatisk beslutter, hvor et teleskop skal pege hen, så astronomer kan udnytte mørke timer bedst muligt.",
+      "sektioner": [
+        {
+          "overskrift": "Nyt AI-værktøj",
+          "tekst": "Tre forskningsinstitutioner har sammen udviklet et AI-program, der selv vurderer vejr, måneskin og atmosfæriske forhold. Programmet kan dermed træffe beslutningen om, hvor teleskopet skal rettes, uden menneskelig indblanding."
+        },
+        {
+          "overskrift": "Bedre udnyttelse af tiden",
+          "tekst": "Tidligere skulle astronomer manuelt overveje mange faktorer for at vælge observationsmål. Med AI bliver processen automatisk og hurtigere, hvilket kan øge mængden af brugbar data fra hver klar nat."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "3",
+          "label": "Antal institutioner bag"
+        }
+      ],
+      "detaljer": [
+        "AI-værktøjet er udviklet af forskere fra Northwestern University, University of Chicago og Fermilab.",
+        "Systemet analyserer vejr, måneskin og atmosfæriske forhold.",
+        "Formålet er at optimere brugen af observationstid."
+      ],
+      "betydning": "For almindelige mennesker betyder det, at rumforskning kan blive mere effektiv og dermed levere flere opdagelser om universet.",
+      "pointer": [
+        "AI vælger selv observationsmål.",
+        "Baseret på vejr og lysforhold.",
+        "Skal øge mængden af data."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Surprising boiling behavior in liquids could advance future space missions",
+      "link": "https://phys.org/news/2026-07-behavior-liquids-advance-future-space.html",
+      "dato": "2026-07-31T14:40:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "When astronauts travel deeper into space, every drop of fuel becomes critical, and keeping those fuels stable for months or even years is one of the biggest engineering challenges facing future missions. Now, University of Florida researchers have uncovered a surprising behavior in boiling liquids that could help solve that challenge.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/spacecraft.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Overraskende kogeadfærd kan hjælpe fremtidens rummissioner",
+      "resume_da": "Forskere fra University of Florida har opdaget en uventet opførsel i kogende væsker, som kan være nøglen til at stabilisere brændstof i lange rumrejser.",
+      "sektioner": [
+        {
+          "overskrift": "Brændstof er afgørende",
+          "tekst": "Når astronauter rejser længere ud i rummet, er hver dråbe brændstof kritisk. At holde brændstoffet stabilt i måneder eller år er en stor udfordring."
+        },
+        {
+          "overskrift": "Ny opdagelse",
+          "tekst": "Forskere fra University of Florida har fundet en overraskende adfærd i kogende væsker. Denne opdagelse kan hjælpe med at løse udfordringen med brændstofstabilitet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Forskere fra University of Florida står bag opdagelsen.",
+        "Opdagelsen handler om kogende væskers opførsel.",
+        "Den kan hjælpe med at stabilisere brændstof til fremtidige rummissioner."
+      ],
+      "betydning": "For almindelige mennesker betyder det, at fremtidens rumrejser kan blive mere pålidelige og effektive, hvilket kan bane vejen for længere missioner og ny viden om rummet.",
+      "pointer": [
+        "Opdagelse om kogende væsker.",
+        "Kan stabilisere brændstof i rummet.",
+        "Vigtig for fremtidige rummissioner."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space",
+      "link": "https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/",
+      "dato": "2026-07-31T14:11:34+00:00",
+      "kilde": "NASA",
+      "resume": "On July 27, technicians at NASA’s Kennedy Space Center in Florida installed a memory card containing 1,350,144 names as part of a commemorative plaque on the Nancy Grace Roman Space Telescope. The names were submitted by people globally, including astronauts from Artemis II and Artemis III. The memory card will travel with the Roman observatory [&#8230;]",
+      "billede": "https://images-assets.nasa.gov/image/KSC-20260727-PH-JMT01_0001/KSC-20260727-PH-JMT01_0001~large.jpg?w=1438&amp;h=1920&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+      "billede_alt": "People in blue protective suits and a red cherry picker work in an industrial high bay.",
+      "kategori": "Missioner",
+      "rubrik": "1,35 mio. navne skal med på NASA's nye rumteleskop",
+      "resume_da": "NASA har installeret et mindeplade med 1,35 millioner navne på Nancy Grace Roman-rumteleskopet. Teleskopet opsendes i august og skal observere universet fra et punkt en million miles fra Jorden.",
+      "sektioner": [
+        {
+          "overskrift": "Navne på vej til rummet",
+          "tekst": "Den 27. juli installerede teknikere et hukommelseskort med **1.350.144** navne på rumteleskopet. Navnene kommer fra mennesker over hele verden, inklusive astronauter fra Artemis II og III."
+        },
+        {
+          "overskrift": "Rejsen til L2",
+          "tekst": "Hukommelseskortet skal med teleskopet til punktet L2, omkring **1,6 millioner kilometer** fra Jorden. Her balancerer Solens og Jordens tyngdekraft, så teleskopet kan observere universet uforstyrret."
+        },
+        {
+          "overskrift": "Om teleskopet",
+          "tekst": "Teleskopet er opkaldt efter Dr. Nancy Grace Roman, NASA's første chef-astronom. Hun kæmpede for rumobservatorier, der kunne studere universet over Jordens slørende atmosfære og dele data bredt."
+        },
+        {
+          "overskrift": "Opsendelse i august",
+          "tekst": "NASA og SpaceX planlægger at sende teleskopet op tidligst den **30. august** med en Falcon Heavy-raket fra Kennedy Space Center i Florida. Det bliver en stor begivenhed for rumforskningen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1.350.144",
+          "label": "Navne på hukommelseskortet"
+        },
+        {
+          "tal": "1,6 mio. km",
+          "label": "Afstand til L2-punktet"
+        },
+        {
+          "tal": "30. aug.",
+          "label": "Planlagt opsendelsesdato"
+        }
+      ],
+      "detaljer": [
+        "Installationen fandt sted 27. juli 2025 ved Kennedy Space Center.",
+        "Mindesmærket er en plade med hukommelseskort.",
+        "Navnene blev indsendt af mennesker globalt.",
+        "Artemis II og III astronauter har også bidraget med navne.",
+        "L2 er et tyngdepunkt, hvor Solens og Jordens kræfter balancerer.",
+        "Roman er opkaldt efter Nancy Grace Roman, NASA's første chef-astronom."
+      ],
+      "betydning": "Teleskopet skal undersøge fjerne galakser og exoplaneter, hvilket kan øge vores forståelse af universet. Det er relevant, fordi det kan give ny viden om vores plads i kosmos – og måske inspirere nye generationer til at interessere sig for rumfart.",
+      "pointer": [
+        "Teleskopet medbringer 1,35 mio. navne fra jordens borgere.",
+        "Det skal til L2-punktet, 1,6 mio. km væk.",
+        "Opsendelse er planlagt til 30. august 2025.",
+        "Teleskopet er opkaldt efter en kvindelig astronom."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "How to safely watch a solar eclipse",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse",
+      "dato": "2026-07-31T14:00:00+00:00",
+      "kilde": "ESA",
+      "resume": "Video: 00:01:34 [English]: A solar eclipse is an unforgettable sight, but only if you watch it safely! ESA reserve astronaut Sara García Alonso shows you how to enjoy this incredible cosmic event using certified eclipse glasses and explains why ordinary sunglasses are not enough. Learn what happens during the different stages of an eclipse, when it is safe to look up, and how to experience one of ",
+      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/07/how_to_safely_watch_a_solar_eclipse/27395405-1-eng-GB/How_to_safely_watch_a_solar_eclipse_card_full.png",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Sådan ser du solformørkelse sikkert",
+      "resume_da": "ESA's reserveastronaut Sara García Alonso viser, hvordan man sikkert kan se en solformørkelse med certificerede formørkelsesbriller og hvorfor almindelige solbriller ikke er nok.",
+      "sektioner": [
+        {
+          "overskrift": "Hvorfor almindelige solbriller ikke er nok",
+          "tekst": "Almindelige solbriller beskytter ikke øjnene mod solens skadelige stråler under en formørkelse. Der skal specielle, certificerede formørkelsesbriller til."
+        },
+        {
+          "overskrift": "Sådan observerer du sikkert",
+          "tekst": "Brug kun briller med certificeret sikkerhedsstandard. Sara García Alonso viser i videoen, hvornår det er sikkert at kigge op, og hvordan du undgår at skade øjnene."
+        },
+        {
+          "overskrift": "Oplevelsen af formørkelsen",
+          "tekst": "En solformørkelse er en uforglemmelig begivenhed. Med de rigtige briller kan du trygt nyde et af de største shows i vores solsystem."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Videoen er på engelsk og spansk.",
+        "Sara García Alonso er reserveastronaut hos ESA.",
+        "Formørkelsesbriller skal være certificerede."
+      ],
+      "betydning": "Solformørkelser er fascinerende, men kan være farlige for øjnene. Denne guide hjælper almindelige mennesker med at opleve begivenheden sikkert uden at tage chancer med synet.",
+      "pointer": [
+        "Brug certificerede briller.",
+        "Almindelige solbriller er ikke nok.",
+        "Vær opmærksom på sikkerhed.",
+        "Få en uforglemmelig oplevelse sikkert."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Inside the effort to show Congress what war in space looks like",
+      "link": "https://spacenews.com/inside-the-effort-to-show-congress-what-war-in-space-looks-like/",
+      "dato": "2026-07-31T13:30:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "The Space Force Association’s National Spacepower Center is building an unclassified environment for demonstrating threats to satellites and their consequences on Earth The post Inside the effort to show Congress what war in space looks like appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/National-Spacepower-Center-Pilot-Demo-July-21-2026-46-1-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Ny mission: vise kongresfolk krig i rummet",
+      "resume_da": "Et nyt center vil vise politikere, hvordan trusler mod satellitter rammer Jorden. Målet er at få støtte til forsvaret af rummet.",
+      "sektioner": [
+        {
+          "overskrift": "Center til kampdemonstration",
+          "tekst": "Space Force Association bygger et center, der kan vise trusler mod satellitter og deres konsekvenser på Jorden. Det er hemmeligt, så alle kan se det."
+        },
+        {
+          "overskrift": "Politikere skal forstå",
+          "tekst": "Centret skal hjælpe kongresmedlemmer med at forstå, hvordan rumkrig påvirker hverdagen. Det kan få betydning for bevillinger."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Centret hedder National Spacepower Center.",
+        "Det er bygget af Space Force Association.",
+        "Det er et åbent miljø for demonstrationer."
+      ],
+      "betydning": "For almindelige danskere er det vigtigt, fordi rummet bliver mere strategisk. Hvis satellitter trues, kan det ramme kommunikation og GPS.",
+      "pointer": [
+        "Center skal vise trusler mod satellitter.",
+        "Målet er at uddanne politikere.",
+        "Kan påvirke forsvarsbudgetter.",
+        "Rummet bliver vigtigere for hverdagen."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Astronomers finally measure the full size of the largest known galaxy",
+      "link": "https://phys.org/news/2026-07-astronomers-full-size-largest-galaxy.html",
+      "dato": "2026-07-31T12:40:07+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Researchers have obtained the deepest images ever taken of IC 1101, allowing them to identify the galaxy's outer edge for the first time. The observations confirm it as the largest known galaxy, spanning roughly 520 kiloparsecs, or about 1.7 million light-years, and containing an estimated 3.4 trillion solar masses in stars. The paper was posted to the arXiv preprint server on July 16.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-finally-me.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Astronomer måler kæmpegalaksens fulde størrelse",
+      "resume_da": "Forskere har for første gang målt den fulde størrelse af IC 1101, den størst kendte galakse. Den strækker sig omkring 1,7 millioner lysår og indeholder 3,4 billioner solmasser i stjerner.",
+      "sektioner": [
+        {
+          "overskrift": "De dybeste billeder nogensinde",
+          "tekst": "Forskere har taget de dybeste billeder nogensinde af galaksen IC 1101. Det gjorde det muligt at se dens ydre kant for første gang. Observationerne bekræfter, at det er den størst kendte galakse."
+        },
+        {
+          "overskrift": "Enorme dimensioner",
+          "tekst": "Galaksen strækker sig over omkring **1,7 millioner lysår** i diameter. Den indeholder anslået **3,4 billioner** solmasser i form af stjerner. Det gør den til en af de mest massive galakser, vi kender."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1,7 mio. lysår",
+          "label": "Galaksens diameter"
+        },
+        {
+          "tal": "3,4 billioner solmasser",
+          "label": "Masse i stjerner"
+        }
+      ],
+      "detaljer": [
+        "IC 1101 er den størst kendte galakse.",
+        "Målingerne er baseret på de dybeste observationer nogensinde.",
+        "Resultaterne blev lagt på arXiv den 16. juli."
+      ],
+      "betydning": "Det giver os ny viden om universets største strukturer. Det hjælper os med at forstå, hvordan galakser vokser og udvikler sig.",
+      "pointer": [
+        "Største galakse målt fuldt ud.",
+        "Diameter på 1,7 mio. lysår.",
+        "3,4 billioner solmasser i stjerner.",
+        "Dybeste billeder nogensinde."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "Blue Origin continues rebuilding LC-36, prepares testing alternatives for New Glenn second stage",
+      "link": "https://www.nasaspaceflight.com/2026/07/blue-origin-update-july26/",
+      "dato": "2026-07-31T12:14:27+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "Two months after losing a New Glenn rocket to a pad explosion during a static&#8230; The post Blue Origin continues rebuilding LC-36, prepares testing alternatives for New Glenn second stage appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/MG_7150-scaled.jpg",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Blue Origin bygger om efter raketeksplosion",
+      "resume_da": "Blue Origin genopbygger sin raketrampe i Florida efter en eksplosion i maj. Planen er at vende tilbage til flyvning inden udgangen af 2026.",
+      "sektioner": [
+        {
+          "overskrift": "Opbygning efter eksplosion",
+          "tekst": "To måneder efter at en New Glenn-raket eksploderede på rampen under en test, arbejder Blue Origin på at gøre rampen klar igen. Virksomheden har fjernet de øverste dele af tårnet for at installere nye systemer. De har også installeret store døre på integrationsbygningen."
+        },
+        {
+          "overskrift": "Ny opsendelsesmetode",
+          "tekst": "I stedet for at bygge den ødelagte transporter op, vil Blue Origin bruge en ny metode. Raketten samles vandret i bygningen, flyttes til rampen, og løftes derefter op med en kran. Det sparer tid, siger direktøren."
+        },
+        {
+          "overskrift": "Test hos NASA",
+          "tekst": "Mens rampen er under genopbygning, skal New Glenns anden trin testes på NASAs Stennis Space Center. Det skal ske på samme teststand, som engang testede Saturn V-raketter til Månen. Testen forventes at starte til efteråret."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "27 m",
+          "label": "højde på dørpaneler"
+        },
+        {
+          "tal": "18.143 kg",
+          "label": "vægt per dørpanel"
+        },
+        {
+          "tal": "60 m",
+          "label": "bredde på døråbning"
+        }
+      ],
+      "detaljer": [
+        "Eksplosionen skete den 28. maj under en test. ",
+        "Raketten og rampen blev kraftigt beskadiget.",
+        "Tankfarmen og integrationsbygningen overlevede.",
+        "Blue Origin har selv sat mål om at flyve igen inden udgangen af 2026.",
+        "Årsagen til eksplosionen er endnu ikke fastlagt."
+      ],
+      "betydning": "Det er vigtigt, fordi Blue Origin er en af de store spillere inden for rumfart. Deres genopbygning og test viser, hvordan private virksomheder arbejder sammen med NASA. Det kan betyde flere opsendelser i fremtiden.",
+      "pointer": [
+        "Rampen genopbygges med ny teknologi.",
+        "NASA hjælper med test af andet trin.",
+        "Målet er at flyve igen i 2026.",
+        "Årsag til eksplosion er stadig ukendt."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "NASA still assessing Starliner-1 flight opportunities",
+      "link": "https://spacenews.com/nasa-still-assessing-starliner-1-flight-opportunities/",
+      "dato": "2026-07-31T12:13:25+00:00",
+      "kilde": "SpaceNews",
+      "resume": "A NASA official says that work with Boeing on the company’s CST-100 Starliner vehicle is making “good progress” but declined to offer a date when the spacecraft could fly again. The post NASA still assessing Starliner-1 flight opportunities appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/53988402529_bec93e5a26_k.jpg?fit=1024%2C683&amp;ssl=1",
+      "billede_alt": "Starliner undocking",
+      "kategori": "Missioner",
+      "rubrik": "NASA venter på ny Starliner-dato",
+      "resume_da": "NASA siger, at arbejdet med Boeings Starliner går godt, men vil ikke give en ny dato for næste flyvning.",
+      "sektioner": [
+        {
+          "overskrift": "God fremgang, ingen dato",
+          "tekst": "En NASA-chef siger, at arbejdet med Boeings Starliner gør 'gode fremskridt'. Men han vil ikke sige, hvornår rumskibet kan flyve igen. Det er endnu uklart, hvornår Starliner-1 missionen kan finde sted."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "NASA vurderer stadig mulighederne for Starliner-1-flyvningen.",
+        "Boeing er involveret i arbejdet med CST-100 Starliner."
+      ],
+      "betydning": "For almindelige danskere betyder det, at usikkerheden om Starliners fremtid fortsætter, hvilket kan påvirke NASA's planer om at sende astronauter til rummet.",
+      "pointer": [
+        "Ingen ny dato for Starliner-flyvning.",
+        "NASA siger, arbejdet skrider godt frem.",
+        "Starliner-1 er stadig under vurdering."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "The new space wars: lessons from Ukraine and the Middle East",
+      "link": "https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east/",
+      "dato": "2026-07-31T12:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "In March 2021, while serving as a senior fellow at the Brookings Institution, I hosted a discussion with General Chance Saltzman, now Chief of Space Operations for the United States [&#8230;] The post The new space wars: lessons from Ukraine and the Middle East appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/Belaya-Air-Base-Strike_Irkutsk-Oblast-Russia_20250604_014408_ssc4_geo_rgb_detail_50cm_4826px.jpg?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Nye rumkrige: Lær fra Ukraine og Mellemøsten",
+      "resume_da": "En artikel om, hvordan krigen i Ukraine og konflikter i Mellemøsten viser, at rummet bliver et nyt slagmark for stormagterne.",
+      "sektioner": [
+        {
+          "overskrift": "Rummets nye rolle i krig",
+          "tekst": "Rummet er ikke længere kun et sted for fredelig udforskning. Det er blevet et vigtigt område i moderne krigsførelse. Erfaringer fra Ukraine og Mellemøsten viser, at satellitter bruges til både spionage og kommunikation."
+        },
+        {
+          "overskrift": "USA's syn på rummet",
+          "tekst": "General Chance Saltzman, der er chef for USA's rumoperationer, har holdt møder om disse emner. Artiklen bygger på en diskussion fra 2021. Det viser, at USA tager trusler fra rummet alvorligt."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Artiklen er fra SpaceNews.",
+        "General Chance Saltzman er nævnt som leder af USA's rumoperationer."
+      ],
+      "betydning": "Det er vigtigt for os almindelige danskere at forstå, at rummet bliver en del af internationale konflikter. Det kan påvirke sikkerheden og teknologien, vi bruger i hverdagen.",
+      "pointer": [
+        "Rummet er nyt slagmark for stormagterne.",
+        "Erfaringer fra Ukraine og Mellemøsten er centrale.",
+        "USA's rumchef er involveret i diskussionen.",
+        "Rummet får større betydning i krig"
+      ],
+      "prio": 6
+    },
     {
       "titel": "This Week's Sky at a Glance, July 31 – August 9",
       "link": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-july-31-august-9/",
@@ -3750,517 +4254,6 @@
         "Fermi-teleskopets data analyseret"
       ],
       "prio": 4
-    },
-    {
-      "titel": "What happened to space horror movies?",
-      "link": "https://www.space.com/entertainment/space-movies-shows/what-happened-to-space-horror-movies",
-      "dato": "2026-07-26T13:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "They mostly don't come out anymore... mostly.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/FsjqinAPigRWm6qGyr2uNM-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Hvor blev rum-gyserfilm af?",
-      "resume_da": "En film- og spilskribent reflekterer over, hvorfor rum-gyserfilm er blevet sjældnere.",
-      "sektioner": [
-        {
-          "overskrift": "Rum-gysers tilbagegang",
-          "tekst": "Artiklen undrer sig over, hvorfor der ikke længere laves mange gyserfilm i rummet. Forfatteren har over **30 års** erfaring med at skrive om film og spil."
-        },
-        {
-          "overskrift": "Skribentens baggrund",
-          "tekst": "Matthew har en filmuddannelse fra Vassar College og har skrevet for medier som MTV og Washington Post. Han elsker sci-fi som Marvel, Star Wars og Doctor Who."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "30 år",
-          "label": "erfaring med film"
-        }
-      ],
-      "detaljer": [
-        "Forfatteren har skrevet om film i 20 betalte år.",
-        "Han har en grad i film fra Vassar College.",
-        "Han har skrevet for The Escapist, MTV, Flixist, Destructoid, Variety og Washington Post."
-      ],
-      "betydning": "Artiklen sætter fokus på en ændring i populærkulturen, som kan afspejle vores skiftende syn på rummet.",
-      "pointer": [
-        "Rum-gyserfilm er blevet mere sjældne.",
-        "Forfatteren er en erfaren filmanmelder.",
-        "Han elsker klassisk sci-fi.",
-        "Kultur kan påvirke vores opfattelse af rummet."
-      ],
-      "prio": 3
-    },
-    {
-      "titel": "NASA Astronaut Chris Williams, Crewmates Return from Space Station",
-      "link": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/",
-      "dato": "2026-07-26T10:59:44+00:00",
-      "kilde": "NASA",
-      "resume": "Concluding an eight-month science mission aboard the International Space Station, NASA astronaut Chris Williams returned to Earth on Sunday alongside Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev. The crew made its safe, parachute-assisted landing at 5:27 a.m. CDT (3:27 p.m., Kazakhstan time), southeast of Dzhezkazgan, after departing the space station at 2:03 a.m., aboard the [&#823",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/ms28soyuzjuly26.jpg?w=2048",
-      "billede_alt": "The Soyuz MS-28 spacecraft is seen as it lands in a remote area near the town of Zhezkazgan, Kazakhstan ",
-      "kategori": "Missioner",
-      "rubrik": "NASA-astronaut hjem efter 241 dage i rummet",
-      "resume_da": "NASA-astronaut Chris Williams og to russiske kosmonauter landede sikkert i Kasakhstan efter 241 dages mission ombord på Den Internationale Rumstation.",
-      "sektioner": [
-        {
-          "overskrift": "Sikker landing i Kasakhstan",
-          "tekst": "Soyuz MS-28 landede med faldskærm kl. 5:27 CDT (3:27 lokal tid) sydøst for Dzhezkazgan. Besætningen forlod rumstationen kl. 2:03 CDT samme dag."
-        },
-        {
-          "overskrift": "Videnskabelige fremskridt",
-          "tekst": "Williams støttede forskning i nye kræftbehandlinger og forbedret fremstilling af materialer til supercomputere og elektronik i rummet. Han udførte også to rumvandringer for at opgradere strømsystemet og reparere en arm på Canadarm2."
-        },
-        {
-          "overskrift": "Missionens omfang",
-          "tekst": "Besætningen rejste over **102 millioner miles** og kredsede om Jorden **3.856 gange** på **241 dage**. Det var den første rummission for Williams og Mikaev, og den anden for Kud-Sverchkov."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "241 dage",
-          "label": "Missionens varighed"
-        },
-        {
-          "tal": "3.856",
-          "label": "Antal jordomkredsninger"
-        },
-        {
-          "tal": "102 millioner miles",
-          "label": "Samlet rejst distance"
-        }
-      ],
-      "detaljer": [
-        "Opsendelse fandt sted 27. november 2025.",
-        "Williams er NASA-astronaut, de to andre er fra Roscosmos.",
-        "Efter landing flyver besætningen med helikopter til Karaganda i Kasakhstan.",
-        "Williams fortsætter til Johnson Space Center i Houston."
-      ],
-      "betydning": "Forskningen om bord hjælper med at forbedre livet på Jorden og forbereder fremtidige missioner til Månen og Mars.",
-      "pointer": [
-        "Astronaut hjem efter 241 dage i rummet",
-        "Forskning i kræftbehandling og materialer",
-        "To rumvandringer for reparationer",
-        "Del af forberedelser til Månen og Mars"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "An off-the-shelf camera could help us find more black holes smashing together",
-      "link": "https://www.space.com/astronomy/black-holes/an-off-the-shelf-camera-could-help-us-find-more-black-holes-smashing-together",
-      "dato": "2026-07-25T13:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "\"It doesn't require any new technology development, which is almost unheard of for solving a LIGO instrumentation problem.\"",
-      "billede": "https://cdn.mos.cms.futurecdn.net/Vxgwe7isFvnmp7Aru2GT6L-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Billigt kamera kan finde flere sorte huller",
-      "resume_da": "Et almindeligt kommercielt kamera kan opdage gravitationsbølger fra sorte huller, viser ny forskning.",
-      "sektioner": [
-        {
-          "overskrift": "Kamera opdager gravitationsbølger",
-          "tekst": "Forskere har vist, at et off-the-shelf kamera kan bruges til at opdage gravitationsbølger fra sorte huller, der smelter sammen. Kameraet er billigt og kan let installeres på eksisterende teleskoper."
-        },
-        {
-          "overskrift": "Flere opdagelser mulige",
-          "tekst": "Med denne teknik kan man opdage mange flere sorte hul-sammenstød end med nuværende metoder. Det kan give ny viden om universets udvikling."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Sharmila Kuthunur er en uafhængig rumjournalist baseret i Bengaluru, Indien.",
-        "Hun har en mastergrad i journalistik fra Northeastern University i Boston."
-      ],
-      "betydning": "For almindelige mennesker betyder det, at vi kan lære mere om sorte huller med billigere og mere tilgængeligt udstyr.",
-      "pointer": [
-        "Billigt kamera kan finde sorte huller.",
-        "Ny metode giver flere opdagelser.",
-        "Vigtigt for forskningen i universet."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Rare blue optical transient points to possible new class of cosmic explosion",
-      "link": "https://phys.org/news/2026-07-rare-blue-optical-transient-class.html",
-      "dato": "2026-07-25T12:40:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Chinese astronomers report the detection of a peculiar optical transient event that occurred in the center of a dwarf galaxy. The newly discovered event, designated AT2019ijn, is a fast-rising, slow-decaying blue optical transient with exceptionally bright radio emission. The finding was detailed in a paper published July 6 in The Astrophysical Journal Letters.",
-      "kategori": "Astronomi",
-      "rubrik": "Blåt lysglimt kan være ny type kosmisk eksplosion",
-      "resume_da": "Kinesiske astronomer har opdaget et sjældent blåt lysglimt i midten af en dværggalakse. Begivenheden, AT2019ijn, har usædvanlig kraftig radioudsendelse og kan repræsentere en helt ny type eksplosion.",
-      "sektioner": [
-        {
-          "overskrift": "Opdagelse af AT2019ijn",
-          "tekst": "Astronomer har opdaget et usædvanligt optisk lysglimt i centrum af en dværggalakse. Begivenheden fik navnet AT2019ijn og er hurtigt stigende, men aftager langsomt."
-        },
-        {
-          "overskrift": "Særlige kendetegn",
-          "tekst": "AT2019ijn er en blå optisk transient med en exceptionelt lysstærk radioudsendelse. Den hurtige stigning og langsomme aftagen adskiller den fra kendte eksplosionstyper."
-        },
-        {
-          "overskrift": "Mulig ny klasse",
-          "tekst": "Forskerne mener, at AT2019ijn kan være en ny type kosmisk eksplosion. Resultaterne blev offentliggjort den **6. juli** i The Astrophysical Journal Letters."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "6. juli",
-          "label": "Offentliggørelsesdato"
-        }
-      ],
-      "detaljer": [
-        "AT2019ijn er en blå optisk transient",
-        "AT2019ijn har lysstærk radioudsendelse",
-        "Den stiger hurtigt og aftager langsomt",
-        "Fundet i centrum af en dværggalakse"
-      ],
-      "betydning": "Opdagelsen udfordrer vores forståelse af, hvilke typer eksplosioner der findes i universet. Det kan føre til ny viden om stjerners død og dannelsen af tunge grundstoffer.",
-      "pointer": [
-        "Sjældent blåt lysglimt i dværggalakse",
-        "Kraftig radioudsendelse er usædvanlig",
-        "Kan være ny type kosmisk eksplosion",
-        "Fundet af kinesiske astronomer"
-      ],
-      "prio": 6,
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/chinese-astronomers-di-2.jpg",
-      "billede_alt": ""
-    },
-    {
-      "titel": "SpaceX's Starship megarocket makes the 'softest splashdown' ever after launching next-gen Starlink satellites in Flight 13 test (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-makes-the-softest-splashdown-ever-after-launching-next-gen-starlink-satellites-in-flight-13-test-video",
-      "dato": "2026-07-25T01:40:17+00:00",
-      "kilde": "Space.com",
-      "resume": "SpaceX launched Starship, the world's most powerful rocket, on a critical 13th test flight on July 24, a stunning test flight that notched big success and ended with a huge surprise.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/EBaFFerS5NjWzK94MM58t6-1280-80.png",
-      "billede_alt": "",
-      "kategori": "Opsendelser",
-      "rubrik": "SpaceX Starship når næsten perfekt landing",
-      "resume_da": "SpaceX's Starship gennemførte næsten perfekt blødsprøjt i havet efter 13. testflyvning med nye Starlink-satellitter.",
-      "sektioner": [
-        {
-          "overskrift": "Missionens mål",
-          "tekst": "Flight 13 testede forbedringer til Starship og sendte næste generation af Starlink-satellitter i kredsløb. Det var den mest succesfulde landing hidtil."
-        },
-        {
-          "overskrift": "Landingens præstation",
-          "tekst": "Super Heavy-boosteren udførte en kontrolleret landing i havet med minimal skade. Elon Musk kaldte det 'den blødeste vandsprøjtning nogensinde'."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Opsendelsen fandt sted fra Boca Chica, Texas.",
-        "Flyvningen er del af udviklingen mod genanvendelighed."
-      ],
-      "betydning": "Succesfulde test bringer Starship tættere på genanvendelige rumfartøjer, der kan sænke omkostningerne til rumrejser og satellitopsendelser.",
-      "pointer": [
-        "Test afsluttet uden sprængning.",
-        "Starlink-satellitter udsendt.",
-        "Næste store test: orbital landing."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "SpaceX conducts 13th Starship test flight",
-      "link": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
-      "dato": "2026-07-25T00:29:32+00:00",
-      "kilde": "SpaceNews",
-      "resume": "SpaceX launched Starship on its 13th suborbital test flight July 24, correcting some of the issues seen on the previous flight while deploying functioning satellites for the first time. The post SpaceX conducts 13th Starship test flight appeared first on SpaceNews .",
-      "kategori": "Opsendelser",
-      "rubrik": "SpaceX gennemfører 13. Starship-testflyvning",
-      "resume_da": "Starship fløj for 13. gang. Den løste nogle problemer fra sidste flyvning og sendte fungerende satellitter i rummet for første gang.",
-      "sektioner": [
-        {
-          "overskrift": "Testflyvningens formål",
-          "tekst": "SpaceX gjennemførte den 13. suborbitale testflyvning af Starship den 24. juli. Flyvningen rettede op på nogle af problemerne fra den foregående flyvning."
-        },
-        {
-          "overskrift": "Første satellitudsætning",
-          "tekst": "For første gang udsatte Starship fungerende satellitter under en testflyvning. Det viser fremskridt mod rakettenes egentlige formål."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "13. testflyvning af Starship",
-        "Fandt sted 24. juli",
-        "Suborbital flyvning"
-      ],
-      "betydning": "Starship er en af de mest kraftfulde raketter nogensinde. Testene viser, at den nærmer sig at kunne bruges til kommercielle og videnskabelige missioner.",
-      "pointer": [
-        "Starship fløj for 13. gang",
-        "Løste tidligere problemer",
-        "Udsendte fungerende satellitter",
-        "Vigtigt skridt mod fuld drift"
-      ],
-      "prio": 4,
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starship-flt13-liftoff.jpeg?fit=1024%2C569&amp;ssl=1",
-      "billede_alt": "Starship Flight 13 liftoff"
-    },
-    {
-      "titel": "ULA deals with financial challenges caused by Vulcan grounding",
-      "link": "https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/",
-      "dato": "2026-07-24T20:18:19+00:00",
-      "kilde": "SpaceNews",
-      "resume": "United Launch Alliance’s corporate parents have guaranteed a loan to the company as it addresses “financial challenges” caused by the grounding of its Vulcan Centaur rocket. The post ULA deals with financial challenges caused by Vulcan grounding appeared first on SpaceNews .",
-      "kategori": "Politik & penge",
-      "rubrik": "ULA får lån efter Vulcan-rakets problemer",
-      "resume_da": "United Launch Alliance's ejere har garanteret et lån til at håndtere økonomiske udfordringer som følge af, at Vulcan Centaur-raketten er sat på jorden.",
-      "sektioner": [
-        {
-          "overskrift": "Økonomiske udfordringer",
-          "tekst": "ULA's ejere har stillet garanti for et lån til virksomheden. Det skal dække de økonomiske problemer, der er opstået, fordi Vulcan Centaur-raketten er sat på jorden. Lånet viser, at ULA's moderselskaber bakker op om virksomheden."
-        },
-        {
-          "overskrift": "Vulcan-raketten på jorden",
-          "tekst": "Vulcan Centaur-raketten er i øjeblikket sat på jorden. Det betyder, at ULA ikke kan sende satellitter op med den raket. Det har skabt økonomiske vanskeligheder for virksomheden."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "ULA's ejere har garanteret et lån til virksomheden",
-        "Lånet skal tackle økonomiske problemer fra Vulcan Centaur-raketten, der er sat på jorden"
-      ],
-      "betydning": "Historien viser, at selv store rumfartsvirksomheder kan få økonomiske problemer, når deres raketter har tekniske problemer. Det kan forsinke opsendelser af satellitter, som vi alle bruger til fx vejr og kommunikation.",
-      "pointer": [
-        "ULA's ejere stiller garanti for lån",
-        "Vulcan Centaur-raket er sat på jorden",
-        "Økonomiske udfordringer for ULA"
-      ],
-      "prio": 5,
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55090240803_a555b0ee7e_k.jpg?fit=1024%2C683&amp;ssl=1",
-      "billede_alt": ""
-    },
-    {
-      "titel": "Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand",
-      "link": "https://www.nasaspaceflight.com/2026/07/blue-ng-gs2-hot-fires-stennis-b-2/",
-      "dato": "2026-07-24T18:01:12+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "NASA and Blue Origin have finalized plans to hot-fire test the second stage of the&#8230; The post Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand appeared first on NASASpaceFlight.com .",
-      "kategori": "Missioner",
-      "rubrik": "Blue Origin tester New Glenns andet trin på NASA-anlæg",
-      "resume_da": "Blue Origin og NASA har aftalt at teste rakettrinnet på Stennis Space Center, efter at affyringsrampen i Florida blev ødelagt i en eksplosion.",
-      "sektioner": [
-        {
-          "overskrift": "Test på Stennis-anlæg",
-          "tekst": "NASA og Blue Origin har indgået en aftale om at bruge B-2-standen på Stennis Space Center til test af andet trin på New Glenn-raketten. Testene forventes at begynde i efteråret **2026**."
-        },
-        {
-          "overskrift": "Eksplosion forsinkede planer",
-          "tekst": "Den 28. maj **2026** skete en voldsom eksplosion under en test på affyringsrampe 36 i Florida. Lynafledertårne væltede, transportøren blev ødelagt, og store dele af rampen blev beskadiget. Det tvinger Blue Origin til at finde alternative testmuligheder."
-        },
-        {
-          "overskrift": "Pegasus-pram transporterer trin",
-          "tekst": "NASA's pram Pegasus, der tidligere har transporteret rumfærge-tanke og SLS-kernetrin, vil fragte det andet trin fra Kennedy Space Center til Stennis. Prammen ankommer til Florida omkring 10.-12. august **2026**."
-        },
-        {
-          "overskrift": "B-2-standens historie",
-          "tekst": "B-2-standen blev bygget i **1960'erne** til Apollo-programmet og har testet Saturn V-trin, rumfærgekomponenter og SLS-kernetrin. Den skal nu modificeres til New Glenns andet trin, der bruger brint og ilt."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "400.000 pund",
-          "label": "thrust i vakuum"
-        },
-        {
-          "tal": "310 fod",
-          "label": "længde på Pegasus-pram"
-        },
-        {
-          "tal": "28. maj 2026",
-          "label": "dato for eksplosion"
-        }
-      ],
-      "detaljer": [
-        "Andet trin hedder GS2 og har to BE-3U-motorer.",
-        "Blue Origin vil bruge testene til at kvalificere trinnet.",
-        "NASA leverer ingeniører, udstyr og ændringer af standen.",
-        "Målet er at sende New Glenn i luften igen inden udgangen af 2026."
-      ],
-      "betydning": "Historien viser, hvordan kommercielle rumfartsselskaber som Blue Origin samarbejder med NASA for at komme videre efter uheld. Det er relevant, fordi månelandinger og fremtidige missioner til Månen er afhængige af, at raketter som New Glenn bliver testet og klar til opsendelse.",
-      "pointer": [
-        "New Glenns andet trin testes på NASA-anlæg efter rampeeksplosion.",
-        "Testene starter i efteråret 2026.",
-        "Pegasus-pram transporterer trinnet fra Florida til Mississippi.",
-        "B-2-standen har tidligere testet Saturn V og SLS."
-      ],
-      "prio": 5,
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/NSF-2026-07-24-17-51-12-365.jpg",
-      "billede_alt": ""
-    },
-    {
-      "titel": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
-      "link": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
-      "dato": "2026-07-24T17:47:06+00:00",
-      "kilde": "NASA",
-      "resume": "On July 3, one of NASA’s two Mars-destined ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft captured photos of Earth and the Moon in visible and thermal infrared light. At the time, the spacecraft was 363,250 miles (584,600 kilometers) from Earth and 115,600 miles (186,100 kilometers) from the Moon, making the Moon appear relatively […]",
-      "kategori": "Missioner",
-      "rubrik": "ESCAPADE-satellit fotograferer Jorden og Månen",
-      "resume_da": "En af NASA's to ESCAPADE-satellitter har taget billeder af Jorden og Månen i både synligt og termisk infrarødt lys.",
-      "sektioner": [
-        {
-          "overskrift": "Billederne viser kontrast",
-          "tekst": "Det synlige billede viser Jorden og Månen som halvmåner, kun **8%** belyst af Solen. I det termiske infrarøde billede ses Jorden oplyst af sin egen varme, mens Månen er langt koldere."
-        },
-        {
-          "overskrift": "Afstand og formål",
-          "tekst": "Satellitten var **584.600 km** fra Jorden og **186.100 km** fra Månen, da billederne blev taget. Billederne bruges til at kalibrere kameraerne, inden de skal studere Mars."
-        },
-        {
-          "overskrift": "Rejseplan for ESCAPADE",
-          "tekst": "Satellitterne befinder sig ved Lagrange-punkt 2. I november 2026 flyver de forbi Jorden for at få fart mod Mars, hvor de ankommer i september 2027."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "584.600 km",
-          "label": "Afstand fra Jorden"
-        },
-        {
-          "tal": "186.100 km",
-          "label": "Afstand fra Månen"
-        },
-        {
-          "tal": "8%",
-          "label": "Belyst overflade"
-        }
-      ],
-      "detaljer": [
-        "Billederne er taget 3. juli 2026",
-        "Kameraerne er bygget af Northern Arizona University",
-        "Månen er koldere pga. manglende atmosfære",
-        "Satellitterne er bygget af Rocket Lab"
-      ],
-      "betydning": "Billederne viser, hvordan rumteknologi kan bruges til at studere både Jorden og andre planeter, og de er et skridt på vejen til at forstå Mars' atmosfære.",
-      "pointer": [
-        "ESCAPADE-satellit fotograferer Jorden og Månen",
-        "Synligt og termisk infrarødt lys viser forskelle",
-        "Billederne kalibrerer kameraer til Mars-mission",
-        "Ankomst til Mars i 2027"
-      ],
-      "prio": 5,
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE%20Photo%20of%20Earth_Moon%201.png",
-      "billede_alt": ""
-    },
-    {
-      "titel": "Rocks from unexplored far side of the moon help rewrite lunar history",
-      "link": "https://phys.org/news/2026-07-unexplored-side-moon-rewrite-lunar.html",
-      "dato": "2026-07-24T17:20:04+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Ancient samples from the moon's far side are helping scientists uncover how asteroid impacts shaped the early solar system. The findings challenge decades of thinking about when those impacts occurred and offer new insights into the conditions that influenced Earth's evolution.",
-      "kategori": "Forskning",
-      "rubrik": "Månebjergarter fra nærmest ukendt side",
-      "resume_da": "Nye prøver fra Månens bagside ændrer vores forståelse af, hvornår og hvordan asteroider påvirkede det tidlige solsystem.",
-      "sektioner": [
-        {
-          "overskrift": "Prøver fra bagsiden",
-          "tekst": "Forskere har analyseret gamle bjergarter fra Månens bagside. Resultaterne udfordrer årtiers teorier om, hvornår store asteroidenedslag fandt sted i solsystemets barndom."
-        },
-        {
-          "overskrift": "Nyt perspektiv på nedslag",
-          "tekst": "Prøverne giver indsigt i de forhold, der påvirkede Jordens udvikling. De ændrer vores billede af, hvordan asteroider formede de tidlige planeter."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [],
-      "betydning": "Ny viden om Månens historie hjælper os med at forstå Jordens egen fortid og de kræfter, der formede vores planet.",
-      "pointer": [
-        "Prøver fra Månens bagside er sjældne og værdifulde.",
-        "Resultaterne udfordrer ældre teorier om nedslag.",
-        "Ny viden kaster lys over Jordens udvikling."
-      ],
-      "prio": 7,
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/rocks-from-unexplored.jpg",
-      "billede_alt": ""
-    },
-    {
-      "titel": "New Crew Members Welcomed to International Space Station",
-      "link": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/",
-      "dato": "2026-07-24T16:43:02+00:00",
-      "kilde": "NASA",
-      "resume": "From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a July 18, 2026, photo while holding a cake celebrating their recent arrival aboard the International Space Station. The trio arrived at the space station on July 14, 2026, after launching from the Baikonur Cosmodrome [&#8230;]",
-      "kategori": "Missioner",
-      "rubrik": "Tre nye astronauter ankommer til ISS",
-      "resume_da": "Den 14. juli 2026 ankom tre nye besætningsmedlemmer til Den Internationale Rumstation. De skal opholde sig der i otte en halv måned.",
-      "sektioner": [
-        {
-          "overskrift": "Velkomst på rumstationen",
-          "tekst": "Den 18. juli 2026 poserede de tre nye astronauter med en kage for at fejre deres ankomst. De ankom til ISS den 14. juli efter at være blevet sendt op fra Baikonur-kosmodromen i Kasakhstan samme dag."
-        },
-        {
-          "overskrift": "Missionens længde og formål",
-          "tekst": "De tre er i anden uge af deres planlagte **8,5 måneder** lange mission. De bruger deres nye færdigheder til at udføre rumforskning og vænner sig samtidig til at bo og arbejde i rummet."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "8,5 måneder",
-          "label": "Missionens varighed"
-        }
-      ],
-      "detaljer": [
-        "Ankom til ISS den 14. juli 2026",
-        "Opsendt fra Baikonur-kosmodromen i Kasakhstan",
-        "Besætningen består af Anna Kikina, Pyotr Dubrov (Roscosmos) og Anil Menon (NASA)"
-      ],
-      "betydning": "Missionen viser det fortsatte internationale samarbejde om rumforskning. Forskning på ISS bidrager til ny viden, som kan gavne livet på Jorden.",
-      "pointer": [
-        "Tre astronauter ankom til ISS i juli 2026",
-        "De skal være der i 8,5 måneder",
-        "De udfører forskning og vænner sig til rummet"
-      ],
-      "prio": 3,
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/iss074e0814792orig.jpg?w=2048",
-      "billede_alt": "From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a portrait while holding a cake celebrating their recent arrival aboard the Interna"
-    },
-    {
-      "titel": "NASA Announces New Spacecraft Technology Demonstration Mission at Moon",
-      "link": "https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/",
-      "dato": "2026-07-24T16:35:46+00:00",
-      "kilde": "NASA",
-      "resume": "NASA is working with industry to advance the next phase of cislunar infrastructure for the agency’s Artemis program and Moon Base, including orbital assets and demonstrations. Under a contract awarded to Advanced Space, the agency’s CAPSTONE 02 mission will demonstrate rendezvous and proximity operations, autonomous navigation, and cislunar communication capabilities while continuing to characteri",
-      "kategori": "Missioner",
-      "rubrik": "Ny NASA-mission skal teste måne-navigation",
-      "resume_da": "NASA har annonceret CAPSTONE 02-missionen, der i 2027 sender to små rumfartøjer til Månen for at teste navigation, møde- og kommunikationsteknologi til brug for Artemis-programmet.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad går missionen ud på",
-          "tekst": "CAPSTONE 02 sender to identiske rumfartøjer på **400 kg** hver i kredsløb om Månen. De skal demonstrere avanceret relativ navigation og evnen til at mødes og arbejde sammen i Månens gravitationsfelt."
-        },
-        {
-          "overskrift": "Teknologien der testes",
-          "tekst": "Missionen tester tre NASA-udviklede navigationssoftwarepakker og et kamera fra Lawrence Livermore National Laboratory. Systemerne skal gøre navigation mere automatisk og mindske afhængigheden af jordbaseret sporing."
-        },
-        {
-          "overskrift": "Hvorfor er det vigtigt",
-          "tekst": "Teknikkerne skal bruges, når NASA-astronauter skal dokke med månelandere i kredsløb om Månen – en kritisk del af Artemis-missionerne. Da forholdene ikke kan genskabes på Jorden, må de testes i rummet."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2027",
-          "label": "Planlagt opsendelsesår"
-        },
-        {
-          "tal": "400 kg",
-          "label": "Vægt af hvert rumfartøj"
-        }
-      ],
-      "detaljer": [
-        "Rumfartøjerne leveres af Terran Orbital Systems",
-        "Missionen er en opfølgning på den oprindelige CAPSTONE-mission",
-        "CAPSTONE 02 er finansieret af NASA's Human Spaceflight Mission Directorate"
-      ],
-      "betydning": "Missionen baner vejen for sikker transport af astronauter til og fra Månens overflade, hvilket er afgørende for fremtidig månebase og dybere rumrejser.",
-      "pointer": [
-        "To små rumfartøjer testes i Månekredsløb",
-        "Fokus på automatisk møde- og navigationsteknologi",
-        "Støtter op om NASA's Artemis-program",
-        "Opsendelse planlagt til 2027"
-      ],
-      "prio": 7,
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/capstone2.jpg?w=2048",
-      "billede_alt": "Artist rendition of two Capstone 2 in space above the Moon."
     }
   ]
 }
