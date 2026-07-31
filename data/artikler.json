@@ -1,7 +1,442 @@
 {
-  "opdateret": "2026-07-31T17:13:59.377659+00:00",
+  "opdateret": "2026-07-31T21:48:11.521155+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Laying odds on the potential for Martian water near future landing zones",
+      "link": "https://phys.org/news/2026-07-laying-odds-potential-martian-future.html",
+      "dato": "2026-07-31T21:20:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "We know Mars has water ice in its polar regions, but astronauts (and their solar-powered equipment!) would much rather experience life closer to Mars' equator. As NASA looks toward landing humans on the red planet, the Planetary Science Institute (PSI) is mapping where water should and shouldn't be found and using statistics to quantify its certainty. Two new papers, led by PSI's Hanna Sizemore an",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2022/mars.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Nye kort viser vandis på Mars",
+      "resume_da": "Forskere har lavet kort over vandis under Mars' overflade. De bruger statistik til at vurdere, hvor sikre de er på, at isen findes.",
+      "sektioner": [
+        {
+          "overskrift": "Kortlægning af vandis",
+          "tekst": "Vi ved, at Mars har vandis ved polerne. Men fremtidige astronauter vil helst bo nær ækvator. Nu har forskere fra Planetary Science Institute (PSI) lavet kort over vandis under overfladen."
+        },
+        {
+          "overskrift": "Usikkerhed i kortene",
+          "tekst": "Forskerne bruger statistik til at vise, hvor sikre de er på, at isen findes. To nye artikler beskriver kortene og hvilke missioner og værktøjer, der kan gøre dem mere præcise."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Kortene er globale kort over underjordisk vandis.",
+        "Forskerne bag er Hanna Sizemore og Samuel Courville fra PSI."
+      ],
+      "betydning": "For at kunne sende mennesker til Mars er det vigtigt at vide, hvor der er vand. Det kan gøre missioner mere sikre og give mulighed for at bruge vandet.",
+      "pointer": [
+        "Nye kort viser vandis på Mars.",
+        "Forskerne bruger statistik.",
+        "Mål: at finde vand nær ækvator.",
+        "Flere missioner kan forbedre kortene."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Starbase Pad 1 Retrofits Progress as Block 3 Flights Start",
+      "link": "https://www.nasaspaceflight.com/2026/07/pad-1-retrofits-block-3-flights/",
+      "dato": "2026-07-31T21:14:22+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "While SpaceX has now flown two flights out of the newly designed Pad 2, crews&#8230; The post Starbase Pad 1 Retrofits Progress as Block 3 Flights Start appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/DSC01537-wmarked-scaled.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "SpaceX opgraderer Starship-rampe i Texas",
+      "resume_da": "SpaceX er i fuld gang med at opgradere Pad 1 ved Starbase i Texas, så den matcher den nyere Pad 2. Flamgraven er gravet, og man er begyndt at bygge selve affyringsrampen. Også tankfarmen udvides med ekstra nitrogenlagre.",
+      "sektioner": [
+        {
+          "overskrift": "Flamgrav og fundament",
+          "tekst": "Arbejdet med flamgraven skrider frem. Det meste af jorden er gravet væk, og beton er støbt på dele af bunden. Næste skridt er at støbe vægge og installere store stålsektioner, som løftes på plads med en kæmpe kran."
+        },
+        {
+          "overskrift": "Affyringsbordet tager form",
+          "tekst": "Affyringsbordet er forsinket, fordi hjørnerne først lige er ankommet. Når de er på plads, kan bordet forventes færdigt om fem til seks måneder. Servicebunkeren er allerede løftet på plads og bliver nu udstyret med alt det tekniske udstyr."
+        },
+        {
+          "overskrift": "Tårn og tanke",
+          "tekst": "Det gamle brændstofkobling er fjernet fra tårnet, og nye dele er under forberedelse. To nye kvælstoftanke er blevet tilføjet til tankfarmen, og der er plads til flere. Dette øger kapaciteten til flydende ilt og methan."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "13.740 tons",
+          "label": "LOX-lagerkapacitet"
+        },
+        {
+          "tal": "6.136 tons",
+          "label": "LN2-lagerkapacitet"
+        },
+        {
+          "tal": "3.268 tons",
+          "label": "LCH4-lagerkapacitet"
+        }
+      ],
+      "detaljer": [
+        "Flamgraven forventes at få præfabrikerede vægge, som svejses på plads.",
+        "Affyringsbordet skal understøtte Starship-raketten under opsendelse.",
+        "Servicebunkeren indeholder elektriske, hydrauliske og kryogene systemer.",
+        "Tankfarmen udvides for at understøtte flere opsendelser af Block 3.",
+        "Gigabay-bygningen er næsten færdig i stål, og taget mangler."
+      ],
+      "betydning": "Opgraderingen af Pad 1 er vigtig, fordi den giver SpaceX mulighed for at øge antallet af Starship-opsendelser. Det kan føre til billigere og hyppigere rummissioner, hvilket måske senere kan gøre rumrejser mere tilgængelige for almindelige mennesker.",
+      "pointer": [
+        "Pad 1 opgraderes til ny standard.",
+        "Flamgrav og affyringsbord er i gang.",
+        "Tankfarmen får mere kapacitet.",
+        "Gigabay-bygningen skrider frem."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA to Host Florida Event Celebrating American Air, Space Leadership",
+      "link": "https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/",
+      "dato": "2026-07-31T21:08:10+00:00",
+      "kilde": "NASA",
+      "resume": "NASA will hold a news conference at 2:30 p.m. EDT, Friday, Aug. 14, live from the agency’s Kennedy Space Center in Florida, and media and digital creators are invited to attend in person. The announcement, held in the XLV Hangar at the Shuttle Landing Facility, will preview a new event at NASA Kennedy later this [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/1america250.jpg?w=2048",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "NASA inviterer til pressekonference om jubilæumsfejring",
+      "resume_da": "NASA holder pressekonference den 14. august for at fortælle om et nyt arrangement i anledning af USA's 250-års jubilæum. Det skal fejre lederskab inden for luft- og rumfart.",
+      "sektioner": [
+        {
+          "overskrift": "Pressekonference om jubilæum",
+          "tekst": "NASA afholder en pressekonference fredag den 14. august klokken 20:30 dansk tid fra Kennedy Space Center i Florida. Her vil de præsentere et nyt arrangement senere på året, som fejrer USA's 250-års jubilæum."
+        },
+        {
+          "overskrift": "Deltagere og formål",
+          "tekst": "NASA's administrator Jared Isaacman, andre NASA-ledere og medlemmer af Kongressen deltager. Arrangementet skal samle offentligheden, industri-ledere og kommende opdagere for at fejre lederskab inden for luftfart og rumfart."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "250 år",
+          "label": "USA's jubilæum"
+        },
+        {
+          "tal": "14. august",
+          "label": "Dato for pressekonference"
+        }
+      ],
+      "detaljer": [
+        "Pressekonferencen finder sted i XLV Hangar ved Shuttle Landing Facility.",
+        "Medier og digitale skabere kan deltage fysisk.",
+        "Tilmelding skal ske senest 6. august klokken 12.00 (amerikansk tid).",
+        "Konferencen streames live på NASA's hjemmeside."
+      ],
+      "betydning": "For almindelige danskere viser det, hvordan USA markerer sit jubilæum og understreger rumfartens fortsatte betydning. Det kan inspirere til interesse for rumfart og teknologi.",
+      "pointer": [
+        "Pressekonference den 14. august.",
+        "Fejring af USA's 250-års jubilæum.",
+        "Nyt arrangement senere på året.",
+        "Offentligheden kan følge med online."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
+      "link": "https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/",
+      "dato": "2026-07-31T20:53:43+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Converting an engineering model of a Mars rover into an actual lunar rover could cost NASA more than $1 billion, an estimate strongly rejected by the agency’s administrator. The post Sending repurposed Mars rover to the moon could cost more than $1 billion appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/optimism.jpeg?fit=1024%2C716&amp;ssl=1",
+      "billede_alt": "OPTIMISM",
+      "kategori": "Missioner",
+      "rubrik": "Mars-rover til Månen kan koste over 1 mia. dollar",
+      "resume_da": "En ombygget Mars-rover til Månen kan koste NASA over 1 mia. dollar, men NASA-chefen afviser estimatet.",
+      "sektioner": [
+        {
+          "overskrift": "Omkostningsoverslag",
+          "tekst": "Ifølge en vurdering kan det koste over **1 mia. dollar** at ombygge en ingeniørmodel af en Mars-rover til en måne-rover. NASA's administrator afviser dog dette tal."
+        },
+        {
+          "overskrift": "NASA's reaktion",
+          "tekst": "NASA's leder mener, at omkostningerne er overdrevne. Han ser en fordel i at genbruge eksisterende udstyr til månen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1 mia. dollar",
+          "label": "Anslået pris for ombygning"
+        }
+      ],
+      "detaljer": [
+        "En ingeniørmodel af Mars-roveren kan ombygges til en måne-rover.",
+        "NASA's administrator afviser det høje prisestimat."
+      ],
+      "betydning": "Det er relevant, fordi det viser, hvordan NASA's budget og beslutninger påvirker fremtidige rummissioner, og om man kan spare penge ved at genbruge udstyr.",
+      "pointer": [
+        "Ombygning koster måske over 1 mia. dollar.",
+        "NASA-chefen er uenig i prisen.",
+        "Genbrug af teknologi er et tema."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "NASA’s Newest Wind Tunnel Opens at NASA Langley",
+      "link": "https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/",
+      "dato": "2026-07-31T20:19:37+00:00",
+      "kilde": "NASA",
+      "resume": "On Friday, July 31, 2026, NASA leadership and Virginia government officials opened NASA&#8217;s first major new wind tunnel in more than 40 years, the Flight Dynamics Research Facility at NASA’s Langley Research Center in Hampton, Virginia. The state-of-the-art facility will support research and technology development that will advance the agency’s aeronautics, exploration, and science goals, [&#8",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/55433508350-2d4abff2f1-o.jpg?w=2048",
+      "billede_alt": "A group of people in suits stand in front of a massive square building that has two big square openings in it that go all the way through. The people all hold big pairs of scissors, as they wait to cu",
+      "kategori": "Forskning",
+      "rubrik": "NASA åbner ny vindtunnel efter 40 år",
+      "resume_da": "NASA har åbnet sin første store vindtunnel i over 40 år. Den skal støtte forskning og udvikling, bl.a. til månebasen.",
+      "sektioner": [
+        {
+          "overskrift": "Ny vindtunnel åbnet",
+          "tekst": "Den 31. juli 2026 åbnede NASA officielt sin nye vindtunnel, Flight Dynamics Research Facility, i Hampton, Virginia. Det er NASAs første store vindtunnel i mere end 40 år. Ledere fra NASA og Virginia deltog i åbningen."
+        },
+        {
+          "overskrift": "Formål med tunnelen",
+          "tekst": "Vindtunnelen skal støtte forskning og udvikling inden for luftfart og rumfart. Den skal blandt andet hjælpe med at etablere en fast tilstedeværelse på Månen og udvikle en månebase. Det er en del af Artemis-programmet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "> 40 år",
+          "label": "Siden sidste store vindtunnel"
+        }
+      ],
+      "detaljer": [
+        "Vindtunnelen blev åbnet 31. juli 2026.",
+        "Den er placeret på NASAs Langley Research Center i Hampton, Virginia.",
+        "Åbningen inkluderede en båndklipning med NASA-ledere og lokale politikere.",
+        "Den skal støtte forskning til både luftfart og rumfart."
+      ],
+      "betydning": "For almindelige danskere er det relevant, fordi ny forskning kan føre til mere effektiv flyvning og fremtidig rumrejser, som kan have afledte effekter på teknologier vi bruger i hverdagen.",
+      "pointer": [
+        "NASA åbnede ny vindtunnel i juli 2026.",
+        "Det er den første store vindtunnel i over 40 år.",
+        "Den skal støtte Artemis-programmet og månebase.",
+        "Beliggende i Virginia, USA."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "ELT's spectrograph could 'sniff out' biosignatures on other worlds",
+      "link": "https://phys.org/news/2026-07-elt-spectrograph-biosignatures-worlds.html",
+      "dato": "2026-07-31T20:00:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Before any major telescope commissioning, there are dozens of papers that attempt to define what we can expect from it. We're starting to see some come through for the Extremely Large Telescope (ELT), which hopefully will get a more imaginative name when the 39 m (128-foot) behemoth is officially commissioned in Chile in the 2030s.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-elts-spectrograph.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "ELT kan finde liv på andre planeter",
+      "resume_da": "Forskere regner med, at kæmpeteleskopet ELT kan opdage livstegn (biosignaturer) på fjerne planeter, når det står klar i 2030'erne.",
+      "sektioner": [
+        {
+          "overskrift": "Kæmpeteleskopet ELT",
+          "tekst": "ELT står for Extremely Large Telescope. Det får et spejl på **39 meter** i diameter. Teleskopet bygges i Chile og forventes at være i brug i **2030'erne**. Forskere arbejder allerede på at forudsige, hvad teleskopet kan vise."
+        },
+        {
+          "overskrift": "Spektrograf skal finde liv",
+          "tekst": "ELT skal have et instrument kaldet ANDES. Det er en spektrograf, der kan analysere lys fra fjerne planeter. På den måde kan forskerne se, om der er livstegn i atmosfæren. Livstegn kaldes også biosignaturer."
+        },
+        {
+          "overskrift": "Nye studier",
+          "tekst": "Der er allerede kommet flere forskningsartikler om, hvad ELT kan. Forskere undersøger, hvor godt teleskopet kan finde tegn på liv. De tester også, hvordan man bedst bruger instrumentet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "39 m",
+          "label": "Spejlets diameter"
+        },
+        {
+          "tal": "2030'erne",
+          "label": "Forventet start"
+        }
+      ],
+      "detaljer": [
+        "ELT får et spejl på 39 meter i diameter.",
+        "Teleskopet bliver bygget i Chile.",
+        "ANDES er en spektrograf på ELT.",
+        "Spektrografen kan finde biosignaturer.",
+        "Forskere har lavet flere forudsigelser."
+      ],
+      "betydning": "For almindelige danskere er det spændende, fordi det kan betyde, at vi endelig finder ud af, om der er liv uden for Jorden. Det er et af de største spørgsmål i videnskaben.",
+      "pointer": [
+        "ELT bliver kæmpestort.",
+        "Det kan finde livstegn.",
+        "Klart i 2030'erne.",
+        "Forskere er forventningsfulde."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+      "dato": "2026-07-31T19:05:25+00:00",
+      "kilde": "NASA",
+      "resume": "Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions. Testing demonstrated that a webbing composed of 60% Kevlar®/40% polybenzimidazole (PBI) from Sturges Manufacturing Company, Inc., specifically the natural version, passed flammability testing",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2015/04/prepost-flammability-test-photo-of-natural-webbing.png",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "NASA tester brandsikre bånd til Månen og Mars",
+      "resume_da": "NASA har testet kommercielle bånd, der kan modstå iltrige miljøer på fremtidige måne- og marsmissioner. Et bånd bestående af 60% Kevlar og 40% PBI bestod testen.",
+      "sektioner": [
+        {
+          "overskrift": "Baggrund for testen",
+          "tekst": "Fremtidige missioner til Månen og Mars vil bruge et iltrigt miljø for at reducere tiden før rumvandringer. Dette øger brandfaren, så der er behov for brandsikre materialer."
+        },
+        {
+          "overskrift": "Testresultater for båndet",
+          "tekst": "Et bånd af 60% Kevlar og 40% PBI fra Sturges Manufacturing bestod NASA's flammetest ved **37% ilt** og **8,2 psia**. Det naturlige, guldfarvede bånd klarede testen, mens det sorte bånd kun klarede **35% ilt**."
+        },
+        {
+          "overskrift": "Brug og begrænsninger",
+          "tekst": "De testede bånd bruges i eksempelvis håndtag og opbevaringsnet. Testene er dog kun på selve båndet, ikke på det færdige produkt, så yderligere test er nødvendige."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "37% ilt",
+          "label": "Maks. iltkoncentration for naturligt bånd"
+        },
+        {
+          "tal": "8,2 psia",
+          "label": "Tryk under testen"
+        },
+        {
+          "tal": "35% ilt",
+          "label": "Maks. iltkoncentration for sort bånd"
+        }
+      ],
+      "detaljer": [
+        "Testen blev udført ved NASA's White Sands Test Facility.",
+        "Testen fulgte NASA-STD-6001B Test 1.",
+        "Båndet fås i bredder fra ¼ til 8 tommer.",
+        "Slid og ælde blev ikke vurderet i testen."
+      ],
+      "betydning": "De nye brandsikre bånd kan gøre fremtidige rummissioner sikrere og er et skridt mod at gøre rejser til Månen og Mars mere pålidelige.",
+      "pointer": [
+        "Brandsikre materialer er nødvendige i iltrige rummiljøer.",
+        "Kevlar/PBI-båndet klarede NASA's test.",
+        "Kun naturlige, ikke sorte, bånd bestod alle krav.",
+        "Yderligere test er nødvendige før brug."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket",
+      "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
+      "dato": "2026-07-31T18:39:47+00:00",
+      "kilde": "NASA",
+      "resume": "NASA and its industry partners are preparing for next year’s Artemis III demonstration mission by completing new wind tunnel tests on SpaceX’s Super Heavy Version 3 rocket booster. The tests, conducted at NASA’s Ames Research Center in California’s Silicon Valley, focused on better understanding the extreme aerodynamic forces the rocket can experience during re-entry. The [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/acd25-0156-012.jpg?w=1536",
+      "billede_alt": "Engineers at NASA Ames conduct transonic and supersonic wind testing on a 1.2% scale model of the Super Heavy Version 3 rocket that will launch the Starship human landing system.",
+      "kategori": "Missioner",
+      "rubrik": "Nye vindtunneltests til SpaceX' Starship-raket",
+      "resume_da": "NASA og SpaceX har testet en model af den nye Super Heavy-raket i vindtunneller for at forstå de kræfter, raketten udsættes for under genindtræden i atmosfæren. Det skal forberede den kommende Artemis III-mission til Månen.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad testene handler om",
+          "tekst": "NASA og SpaceX har afsluttet nye vindtunneltests på en **1,2%**-skalamodel af Super Heavy Version 3-raketten. Testene blev lavet i NASAs vindtunneller ved Ames Research Center i Californien. Formålet var at måle de aerodynamiske kræfter, som raketten vil opleve, når den kommer tilbage gennem atmosfæren."
+        },
+        {
+          "overskrift": "Hvorfor det er vigtigt",
+          "tekst": "Super Heavy er den store førstetrin-raket, der skal sende Starship-månemodulet afsted. Version 3 har mange ændringer, blandt andet nye motorer og kun tre finner i stedet for fire. Derfor vil ingeniørerne vide, hvordan raketten reagerer på lufttryk og vibrationer under genindtræden."
+        },
+        {
+          "overskrift": "Hvad NASA bidrager med",
+          "tekst": "NASA bidrager med ekspertise fra tidligere test af rumfærgen og SLS-raketten. Manish Mehta fra NASA siger, at erfaringerne fra Artemis II hjalp dem med at sætte testene op. Testene foregik i både en transonisk og en supersonisk vindtunnel."
+        },
+        {
+          "overskrift": "Næste skridt",
+          "tekst": "Dataene fra testene skal hjælpe med at forudsige, hvordan raketten opfører sig i luften, så flyvesoftwaren kan styre den korrekt. Det er et led i forberedelserne til Artemis III, som efter planen skal sende astronauter til Månen i **2027**, og en senere månelanding i **2028**."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1,2%",
+          "label": "Størrelse af skalamodel"
+        },
+        {
+          "tal": "Mach 0,2-1,4",
+          "label": "Hastighed i transonisk tunnel"
+        },
+        {
+          "tal": "Mach 1,55-2,5",
+          "label": "Hastighed i supersonisk tunnel"
+        }
+      ],
+      "detaljer": [
+        "Version 3 af Super Heavy har nye Raptor 3-motorer.",
+        "Raketten har kun tre finner, som er 50% større end før.",
+        "Der er ingen motorsektionskørtel, individuelle motorhylstre eller stort base-varmeskjold.",
+        "Den integrerede varme scene erstatter den tidligere engangs-interstage.",
+        "Testene blev udført i slutningen af 2025."
+      ],
+      "betydning": "Artemis-missionerne skal bringe mennesker tilbage til Månen og bane vejen for en fremtidig rejse til Mars. For almindelige danskere er det et skridt mod mere rumforskning og ny teknologi, som også kan få betydning på Jorden.",
+      "pointer": [
+        "Testene skal forstå kræfter under genindtræden.",
+        "Foregik på en 1,2% skalamodel.",
+        "Version 3 har nye motorer og færre finner.",
+        "Data hjælper med at styre raketten under flyvning."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "NASA Opens New Flight Dynamics Research Facility in Virginia",
+      "link": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
+      "dato": "2026-07-31T17:11:14+00:00",
+      "kilde": "NASA",
+      "resume": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generations of aircraft, rockets, and space exploration vehicles. Located at NASA&#8217;s Langley Research Center in Hampton, Virginia, the Flight Dynamics Research Facility will support advances [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyjuly31.jpg?w=1920",
+      "billede_alt": "Image of NASA Langley&#039;s Flight Dynamics Research Facility",
+      "kategori": "Forskning",
+      "rubrik": "NASA indvier ny vindtunnel til fly- og rumfartstest",
+      "resume_da": "NASA har åbnet sin første store vindtunnel i over 40 år. Den skal teste fremtidens fly, raketter og rumfartøjer.",
+      "sektioner": [
+        {
+          "overskrift": "Ny vindtunnel åbnet",
+          "tekst": "NASA har indviet en ny vindtunnel kaldet Flight Dynamics Research Facility ved Langley Research Center i Virginia. Det er NASAs første store vindtunnel i mere end 40 år. Anlægget skal teste sikkerheden og ydeevnen for fremtidige fly, raketter og rumfartøjer."
+        },
+        {
+          "overskrift": "Testmuligheder og teknologi",
+          "tekst": "Vindtunnelen kan teste modeller af fly og rumkapsler i frit fald eller monteret. Den har et testkammer på **20 fod** i diameter og kan blæse med op til **117 miles i timen**, hvilket er dobbelt så hurtigt som de gamle anlæg. Den bruger fire motorer på hver **750 hestekræfter** med ventilatorblade i kulfiber."
+        },
+        {
+          "overskrift": "Betydning for rumfart",
+          "tekst": "Faciliteten skal støtte udviklingen af droner, kommercielle fly og X-fly. Den skal også hjælpe med at teste landingssystemer til Månemissioner under Artemis-programmet. Forskere kan bruge den til at designe fly til Mars og andre steder med atmosfære."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "117 mph",
+          "label": "Maksimal vindhastighed"
+        },
+        {
+          "tal": "20 fod",
+          "label": "Diameter på testkammer"
+        },
+        {
+          "tal": "750 hk",
+          "label": "Motoreffekt per motor"
+        }
+      ],
+      "detaljer": [
+        "Vindtunnelen er 25.000 kvadratfod stor.",
+        "Den erstatter to ældre vindtunneler fra NASA Langley.",
+        "Bygningen er energieffektiv og reducerer vedligeholdsomkostninger.",
+        "Testkammeret er større end de gamle, hvilket giver bedre data."
+      ],
+      "betydning": "For almindelige danskere betyder det, at fremtidens flyrejser kan blive sikrere og mere effektive, og at rumfartøjer kan blive bedre testet, før de sendes afsted.",
+      "pointer": [
+        "NASA's første store vindtunnel i 40 år.",
+        "Skal teste fly, raketter og rumfartøjer.",
+        "Hurtigere og større end tidligere tunneler.",
+        "Støtter Artemis-missioner og fremtidig rumfart."
+      ],
+      "prio": 5
+    },
     {
       "titel": "Curiosity Blog, Sols 4961-4967: Approaching a break in the rock record?",
       "link": "https://phys.org/news/2026-07-curiosity-blog-sols-approaching.html",
@@ -534,6 +969,60 @@
         "Månen er væk fra aftenhimlen.",
         "Altair er en god guide.",
         "Find Delphinus og Sagitta."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "APOD: 2026 July 31 – NGC 4372 and the Dark Doodad",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-31-ngc-4372-and-the-dark-doodad/",
+      "dato": "2026-07-31T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APODScienceAPODAPOD: 2026 July 31 – NGC…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4372 and the Dark Doodad Explanation: The Dark Doodad Nebula drifts through ",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/DARK-DOODAD_2048.jpg?w=2048&#038;h=1307&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A telescopic image of a dark nebula.",
+      "kategori": "Astronomi",
+      "rubrik": "Mørk tåge og kuglehob på årets billede",
+      "resume_da": "NASAs billede viser Dark Doodad-tågen og kuglehoben NGC 4372. Tågen er 700 lysår væk, og hoben er 20.000 lysår væk.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad billedet viser",
+          "tekst": "Billedet viser Dark Doodad-tågen mod sydhimlen. Den ligger i stjernebilledet Musca. Tågen er en mørk støvsky mod rige stjerneområder."
+        },
+        {
+          "overskrift": "NGC 4372",
+          "tekst": "Ved tågens sydlige ende ligger den gule kuglehob NGC 4372. Hoben er omkring **20.000 lysår** væk. Den er i baggrunden og har ingen forbindelse med tågen."
+        },
+        {
+          "overskrift": "Dark Doodad tågen",
+          "tekst": "Tågen er omkring **700 lysår** væk og over **30 lysår** lang. Den er en del af en molekylesky, hvor der kan dannes nye stjerner. Navnet kommer fra en fotograf i 1986."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "700 lysår",
+          "label": "Afstand til tågen"
+        },
+        {
+          "tal": "30 lysår",
+          "label": "Tågens længde"
+        },
+        {
+          "tal": "20.000 lysår",
+          "label": "Afstand til hoben"
+        }
+      ],
+      "detaljer": [
+        "Billedet er dagens astronomiske billede fra NASA.",
+        "Tågen strekker sig over 3 grader på himlen.",
+        "Navnet 'Dark Doodad' blev opfundet i 1986.",
+        "Hoben NGC 4372 ligger i Mælkevejens halo."
+      ],
+      "betydning": "Billedet viser smukke kosmiske objekter, som man kan se med kikkert. Det minder os om, at universet er stort og fuld af fantastiske ting.",
+      "pointer": [
+        "Mørk tåge midt i stjerner",
+        "Kuglehob i baggrunden",
+        "Tågen kan danne stjerner",
+        "Navn fra 1986"
       ],
       "prio": 3
     },
@@ -3860,400 +4349,6 @@
         "Studiet giver indsigt i Mælkevejens fortid."
       ],
       "prio": 6
-    },
-    {
-      "titel": "Orbes unveils Exo-ORB and agreement with Symphony Space",
-      "link": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/",
-      "dato": "2026-07-27T13:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "SAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station. Exo-ORB, which is [&#8230;] The post Orbes unveils Exo-ORB and agreement with Symphony Space appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_orbes_symphony.png?fit=879%2C493&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Orbes vil sende Exo-ORB-satellit til rumstation",
-      "resume_da": "Orbes har indgået aftale om at sende satellitten Exo-ORB til at fotografere Symfoni Space's ubemandede rumstation.",
-      "sektioner": [
-        {
-          "overskrift": "Aftale med Symfoni Space",
-          "tekst": "Orbes, en startup fra Sydcalifornien, annoncerede den 27. juli en aftale om at sende Exo-ORB-satellitten til Symfoni Space's ubemandede rumstation. Satellitten skal indsamle billeder af stationen."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Orbes er en startup fra Sydcalifornien.",
-        "Exo-ORB er en fritflyvende satellit.",
-        "Symfoni Space's rumstation er ubemandet.",
-        "Målet er at indsamle billeder af rumstationen."
-      ],
-      "betydning": "Det viser, at private virksomheder samarbejder om at dokumentere og markedsføre rumstationer.",
-      "pointer": [
-        "Orbes laver en billedmission.",
-        "Exo-ORB er en lille satellit.",
-        "Den skal fotografere en station.",
-        "Samarbejde mellem to startups."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Could we send a spacecraft to a black hole?",
-      "link": "https://phys.org/news/2026-07-spacecraft-black-hole.html",
-      "dato": "2026-07-27T12:20:04+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Black holes represent some of the most extreme environments in the universe. They are the sources of the strongest gravitational fields, allowing us to test Einstein's theory of general relativity to an extent impossible with small objects. But we are also reaching the limit of what we can learn about one remotely. So, various authors have put forward ideas for how we might eventually send a probe",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-we-send-a-spacec.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Kan vi sende en sonde til et sort hul?",
-      "resume_da": "Forskere har idéer til at sende en lille sonde til et sort hul. En ny undersøgelse ser på, hvad der kræves for at nå et nærliggende sort hul.",
-      "sektioner": [
-        {
-          "overskrift": "Sorte huller som test",
-          "tekst": "Sorte huller har de stærkeste tyngdefelter i universet. De er ideelle til at teste Einsteins generelle relativitetsteori. Men vi når grænsen for, hvad vi kan lære på afstand."
-        },
-        {
-          "overskrift": "Forslag om sonde",
-          "tekst": "Flere forskere har foreslået at sende en sonde direkte til et sort hul. Cosimo Bambi fra Fudan University i Shanghai er en af dem. Han har udgivet en artikel om, hvad der skal til for at sende en sonde på et gram til et nærliggende sort hul."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1 gram",
-          "label": "Sondens vægt"
-        }
-      ],
-      "detaljer": [
-        "Sorte huller har de stærkeste tyngdefelter i universet.",
-        "De kan teste Einsteins generelle relativitetsteori.",
-        "Forskere har idéer til at sende en sonde til et sort hul.",
-        "Cosimo Bambi foreslår en grams-stor sonde til et nærliggende sort hul."
-      ],
-      "betydning": "Hvis det lykkes, kan det give helt ny viden om sorte huller og naturlovene. Det kan også inspirere til fremtidige rummissioner.",
-      "pointer": [
-        "Sorte huller er ekstreme og kan teste relativitetsteori.",
-        "Forskere vil sende en sonde tæt på.",
-        "Bambi har en plan for en lille sonde.",
-        "Projektet er stadig på tegnebrættet."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Are we missing alien lighthouses?",
-      "link": "https://phys.org/news/2026-07-alien-lighthouses.html",
-      "dato": "2026-07-27T12:00:10+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Searching for extraterrestrial intelligence has so far primarily meant focusing on one particular type of signal—and that signal has normally been based on our own current cutting-edge technology. But what if that's the wrong way to look for signs of alien intelligence? What if a resource-conscious civilization decided it was too complicated to send femtosecond lasers in high-energy bursts across ",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/are-we-missing-alien-l.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Mangler vi aliens' fyrtårne i rummet?",
-      "resume_da": "Ny forskning foreslår, at vi måske leder efter aliens på den forkerte måde. I stedet for korte lysglimt bør vi lede efter langvarige pulserende signaler.",
-      "sektioner": [
-        {
-          "overskrift": "Nyt syn på signaleftersøgning",
-          "tekst": "Indtil nu har søgningen efter rumvæsener mest fokuseret på korte, kraftige lasersignaler. Men en ny undersøgelse foreslår, at en ressourcebevidst civilisation måske vælger at sende langvarige pulserende signaler i stedet."
-        },
-        {
-          "overskrift": "Langvarige beacon-signaler",
-          "tekst": "Forskerne Dániel Apai, Chia-Lung Lin og Kevin Wagner argumenterer for, at vi bør lede efter 'interstellare beacons', der pulserer over længere tid. De har lagt deres idé som et fortryk på arXiv."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Traditionel søgning fokuserer på femtosekund-lasere med højenergibursts.",
-        "Ny metode foreslår langvarige pulserende signaler.",
-        "Forskerne bag er Dániel Apai, Chia-Lung Lin og Kevin Wagner.",
-        "Artiklen er tilgængelig som preprint på arXiv."
-      ],
-      "betydning": "For almindelige danskere betyder det, at vores jagt på udenjordisk liv måske udvides og bliver mere nuanceret, hvilket kan bringe os tættere på et svar på det store spørgsmål: Er vi alene?",
-      "pointer": [
-        "Vi leder måske efter de forkerte signaler.",
-        "Aliens kan sende langsomme, pulserende signaler.",
-        "Forskningen er publiceret som preprint.",
-        "Kan ændre fremtidig eftersøgning efter rumvæsener."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "SpaceNews Welcomes Max Aliprandi as Business Development Associate",
-      "link": "https://spacenews.com/spacenews-welcomes-max-aliprandi-as-business-development-associate/",
-      "dato": "2026-07-27T12:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "SpaceNews today announced that Max Aliprandi has joined the company as Business Development Associate, strengthening the company&#8217;s sales, business development and product teams as SpaceNews continues to expand its audience, [&#8230;] The post SpaceNews Welcomes Max Aliprandi as Business Development Associate appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SN-logo-square.jpg?fit=900%2C900&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "SpaceNews ansætter ny forretningsudvikler",
-      "resume_da": "SpaceNews har ansat Max Aliprandi som Business Development Associate for at styrke salg og udvikling.",
-      "sektioner": [
-        {
-          "overskrift": "Ny medarbejder",
-          "tekst": "Max Aliprandi er startet som Business Development Associate hos SpaceNews. Han skal styrke virksomhedens salg, forretningsudvikling og produktteams."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Max Aliprandi er ansat som Business Development Associate",
-        "SpaceNews udvider sit publikum og sine teams"
-      ],
-      "betydning": "Nyheden er mest relevant for medie- og rumfartsbranchen, da den signalerer vækst i SpaceNews.",
-      "pointer": [
-        "SpaceNews har ansat Max Aliprandi",
-        "Han skal arbejde med salg og udvikling",
-        "Virksomheden udvider sit publikum"
-      ],
-      "prio": 1
-    },
-    {
-      "titel": "Private companies could ruin the night sky for the entire world, and international law can't stop them",
-      "link": "https://www.space.com/space-exploration/satellites/private-companies-could-ruin-the-night-sky-for-the-entire-world-and-international-law-cant-stop-them",
-      "dato": "2026-07-27T12:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "The U.S. Federal Communications Commission (FCC) can single-handedly approve space projects that will change the night sky around the world. The international community can do very little against it.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/oHxeWK77Qj6SD8CaHK8yhA-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Private firmaer kan ødelægge nattehimlen",
-      "resume_da": "International lov kan ikke stoppe private firmaer fra at forstyrre nattehimlen med satellitter og rumreklamer.",
-      "sektioner": [
-        {
-          "overskrift": "Problemet med private rumaktiviteter",
-          "tekst": "Private firmaer planlægger tusindvis af satellitter og endda rumreklamer. Det kan gøre nattehimlen meget lysere og forstyrre astronomiske observationer. International lov har ingen regler, der kan forhindre det."
-        },
-        {
-          "overskrift": "Manglende regulering",
-          "tekst": "Der findes ingen internationale love, der specifikt beskytter nattehimlen mod lysforurening fra rummet. FN's regler om rummet er forældede og fokuserer ikke på dette problem. Eksperter advarer om, at det kan være for sent at handle, når skaden først er sket."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Private firmaer som SpaceX og Amazon sender tusindvis af satellitter op.",
-        "Reklamer i rummet kunne være synlige med det blotte øje.",
-        "Astronomer frygter, at forskning bliver umulig på grund af lysforurening."
-      ],
-      "betydning": "Hvis nattehimlen bliver ødelagt, mister vi adgangen til et af de få uberørte naturområder, der er synlige for alle mennesker.",
-      "pointer": [
-        "Private firmaer planlægger masseopsendelser af satellitter.",
-        "Reklamer i rummet kan gøre nattehimlen endnu lysere.",
-        "International lov har ingen regler mod rum-forurening.",
-        "Astronomi og stjernekiggeri kan blive umuligt."
-      ],
-      "prio": 8
-    },
-    {
-      "titel": "Amazon files application for direct-to-device satellite constellation",
-      "link": "https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/",
-      "dato": "2026-07-27T11:59:34+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Amazon has filed plans with the Federal Communications Commission for a constellation of more than 5,100 satellites that would provide direct-to-device (D2D) services using Globalstar spectrum. The post Amazon files application for direct-to-device satellite constellation appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Amazon-Leo-D2D-scaled.jpeg?fit=1024%2C576&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Satellitter",
-      "rubrik": "Amazon ansøger om 5.100 D2D-satellitter",
-      "resume_da": "Amazon har ansøgt FCC om at opsende over 5.100 satellitter til direkte kommunikation med enheder ved hjælp af Globalstars spektrum.",
-      "sektioner": [
-        {
-          "overskrift": "Ansøgning og omfang",
-          "tekst": "Amazon har indgivet en ansøgning til den amerikanske telemyndighed FCC for en konstellation af over **5.100** satellitter. Formålet er at tilbyde direkte-til-enhed (D2D) tjenester."
-        },
-        {
-          "overskrift": "Spektrumspartnerskab med Globalstar",
-          "tekst": "Tjenesterne vil bruge spektrum fra Globalstar. Amazons plan bygger på en eksisterende aftale med satellitoperatøren."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "over 5.100",
-          "label": "Antal satellitter"
-        }
-      ],
-      "detaljer": [
-        "Amazon har ansøgt FCC om tilladelse til en satellitkonstellation.",
-        "Konstellationen skal levere direkte-til-enhed (D2D) tjenester.",
-        "Tjenesterne benytter Globalstars spektrum.",
-        "Ansøgningen blev offentliggjort af SpaceNews."
-      ],
-      "betydning": "Hvis projektet realiseres, kan det give bredbåndsdækning til mobiltelefoner direkte fra rummet, hvilket kan forbedre forbindelsen i områder uden mobilmaster.",
-      "pointer": [
-        "Amazon søger om 5.100+ D2D-satellitter.",
-        "Bruger Globalstars spektrum.",
-        "Kan give direkte mobildækning fra rummet."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Are aliens harvesting the spin of stars?",
-      "link": "https://phys.org/news/2026-07-aliens-harvesting-stars.html",
-      "dato": "2026-07-27T11:40:05+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "One of the challenges of searching for technosignatures (i.e., signs that intelligent life somewhere in the universe has created technology) is understanding what to look for. Technology is a very broad area, and different types would show up as different features. One of the most commonly cited is a Dyson sphere, which attempts to encapsulate a star and capture its outgoing light to produce energ",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/are-aliens-harvesting.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Ledte aliens efter stjerners spin?",
-      "resume_da": "En tyrkisk gymnasieelev foreslår i et nyt videnskabeligt papir, at vi måske har ledt efter Dyson-sfærer på forkert måde – aliens kunne høste energi fra stjernernes rotation i stedet for lys.",
-      "sektioner": [
-        {
-          "overskrift": "Dyson-sfærer i nyt lys",
-          "tekst": "Dyson-sfærer er teoretiske konstruktioner, der omslutter en stjerne for at opsamle dens lysenergi. Hidtil har astronomer ledt efter overskudsvarme i det infrarøde spektrum, men uden held."
-        },
-        {
-          "overskrift": "Ny idé: rotationsenergi",
-          "tekst": "Sahin Torlakcik peger på, at en avanceret civilisation i stedet kunne høste energi fra en stjernes spin. Det ville kræve en markant opbremsning af stjernens rotation, hvilket kunne måles."
-        },
-        {
-          "overskrift": "Metode til at teste teorien",
-          "tekst": "Forskeren foreslår at lede efter stjerner, der roterer langsommere end forventet. Hvis en stjerne pludselig mister rotationsenergi, kan det være tegn på udenjordisk teknologi."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "0",
-          "label": "fundne Dyson-sfærer hidtil"
-        }
-      ],
-      "detaljer": [
-        "Papiret er på arXiv som preprint.",
-        "Forfatteren er tyrkisk high school-student.",
-        "Teknologi er bredt felt – derfor svært at vide, hvad man skal lede efter."
-      ],
-      "betydning": "For almindelige danskere viser det, at søgningen efter fremmed liv er i konstant udvikling og kræver kreativ tænkning. Selom du ikke er forsker, kan du være med til at forme de spørgsmål, vi stiller om universet.",
-      "pointer": [
-        "Ny teori om alternative Dyson-sfærer.",
-        "Fokuserer på spin-energi i stedet for lys.",
-        "Stjerner med unormal opbremsning kan være spor.",
-        "Studie er endnu ikke fagfællebedømt."
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart",
-      "link": "https://spacenews.com/ai-in-orbit-is-a-double-edged-sword-heres-how-to-keep-it-from-cutting-space-cooperation-apart/",
-      "dato": "2026-07-27T10:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "When we talk about stopping an arms race in space, people usually say that we need treaties that every state must follow or agreements that states can choose to follow. [&#8230;] The post AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/161021-D-ZZ999-998-e1771452020431.jpg?fit=1024%2C550&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "AI i rummet: et tveægget sværd for samarbejde",
-      "resume_da": "Kunstig intelligens i rummet kan både fremme og true samarbejde. Eksperter siger, at vi har brug for nye regler for at undgå en rustningskapløb i rummet.",
-      "sektioner": [
-        {
-          "overskrift": "Truslen fra AI i rummet",
-          "tekst": "AI i rummet kan gøre satellitter smartere, men også gøre dem til våben. Når AI styrer satellitter, kan det føre til misforståelser og konflikter. Der er en risiko for, at AI bliver brugt til angreb i rummet."
-        },
-        {
-          "overskrift": "Løsninger findes i regler",
-          "tekst": "For at undgå en rustningskapløb i rummet foreslår eksperter nye internationale regler. De siger, at vi har brug for både bindende traktater og frivillige aftaler. Reglerne skal sikre, at AI bruges ansvarligt i rummet."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "AI i rummet er et tveægget sværd for internationalt samarbejde.",
-        "Traditionelt tales der om traktater eller frivillige aftaler for at stoppe rustningskapløb i rummet.",
-        "AI kan både forbedre og true samarbejdet i rummet."
-      ],
-      "betydning": "AI i rummet påvirker os alle, fordi det kan føre til konflikter, der påvirker jordens sikkerhed og satellitbaserede tjenester som GPS og kommunikation.",
-      "pointer": [
-        "AI i rummet kan misforstås og eskalere konflikter.",
-        "Nye regler er nødvendige for at undgå rustningskapløb.",
-        "Både bindende og frivillige aftaler er i spil."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Juno reveals surprising subsurface tempertures at Io, remarkably smooth surface",
-      "link": "https://www.nasaspaceflight.com/2026/07/juno-io-subsurface-temps/",
-      "dato": "2026-07-26T23:21:55+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "Following two flybys of Jupiter&#8217;s innermost Galilean moon Io, teams using data from NASA&#8217;s Juno&#8230; The post Juno reveals surprising subsurface tempertures at Io, remarkably smooth surface appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/io-juno-oct-2023-e1785107357626.png",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Juno måler varme under Ios overflade",
-      "resume_da": "Juno-sonden har for første gang målt temperaturer under overfladen på Jupiter-månen Io og fundet en overraskende glat overflade.",
-      "sektioner": [
-        {
-          "overskrift": "Underjordisk varme målt",
-          "tekst": "Juno brugte sit mikrostrålingsinstrument (MWR) til at måle varme fra få centimeter til flere meters dybde under Ios overflade. Temperaturen steg med over **40 grader Fahrenheit** blot nogle få fod nede, hvilket er langt mere end solvarme alene kan forklare."
-        },
-        {
-          "overskrift": "To teorier om varmen",
-          "tekst": "Forskerne har to mulige forklaringer: Enten har Io en ledende skorpe, der leder varme op fra indre, eller også varmer afkølende lava under jorden overfladen op. Den målte varmestrøm er næsten **30 gange** større end Jordens gennemsnit."
-        },
-        {
-          "overskrift": "Overfladen er meget glat",
-          "tekst": "MWR-data viste også, at Ios overflade er bemærkelsesværdigt glat – som de store sletter i Nordamerika – og består af lavdensitetsmateriale som pimpsten eller vulkansk aske. De glatte områder strækker sig over **100 km** eller mere."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "40 grader F",
-          "label": "temperaturstigning få fod nede"
-        },
-        {
-          "tal": "30 gange",
-          "label": "Jordens gennemsnitlige varmestrøm"
-        }
-      ],
-      "detaljer": [
-        "Målingerne blev gjort under to forbiflyvninger: 30. dec. 2023 og 3. feb. 2024.",
-        "Juno kom inden for ca. 1.500 km af Ios overflade.",
-        "Io er det mest vulkansk aktive himmellegeme i solsystemet.",
-        "Juno har været ved Jupiter siden 2016 og gennemførte sit 85. kredsløb 5. juli 2026."
-      ],
-      "betydning": "Forståelse af Ios varme kan hjælpe forskere med at studere Jordens vulkaner og tidevandsopvarmning, som også driver underjordiske oceaner på andre måner som Europa.",
-      "pointer": [
-        "Første måling af underjordisk varme på Io",
-        "Temperatur stiger stejlt lige under overfladen",
-        "Overfladen er overraskende glat og porøs",
-        "Metoden kan bruges til at studere vulkaner på Jorden"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Gamma-ray pulsations reveal extreme 3.2-millisecond pulsar 3,900 light-years away",
-      "link": "https://phys.org/news/2026-07-gamma-ray-pulsations-reveal-extreme.html",
-      "dato": "2026-07-26T18:00:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "By analyzing the data from NASA's Fermi gamma-ray space telescope, Chinese astronomers have investigated a recently identified millisecond pulsar known as PSR J0435+3233. As a result, they found that the pulsar exhibits gamma-ray pulsations. The discovery was detailed in a paper published July 17 on the pre-print server arXiv.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/gamma-ray-pulsations-d.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Millisekund-pulsar fundet 3.900 lysår væk",
-      "resume_da": "Kinesiske astronomer har opdaget, at pulsaren PSR J0435+3233 udsender gammastrålepulseringer. Den er 3.900 lysår væk og roterer på kun 3,2 millisekunder.",
-      "sektioner": [
-        {
-          "overskrift": "Nye data fra Fermi-teleskop",
-          "tekst": "Forskere fra Kina brugte data fra NASAs Fermi-gammastråleteleskop til at analysere pulsaren PSR J0435+3233. De fandt, at den udsender regelmæssige gammastrålepulser."
-        },
-        {
-          "overskrift": "Ekstremt hurtig rotation",
-          "tekst": "Pulsaren roterer en gang hver **3,2 millisekunder**. Det svarer til over 18.000 omdrejninger i minuttet. Den befinder sig **3.900 lysår** fra Jorden."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "3,2 millisekunder",
-          "label": "Rotationstid"
-        },
-        {
-          "tal": "3.900 lysår",
-          "label": "Afstand til Jorden"
-        }
-      ],
-      "detaljer": [
-        "Opdagelsen blev offentliggjort 17. juli på arXiv",
-        "Data fra Fermi-gammastråleteleskopet blev brugt",
-        "Pulsaren kaldes PSR J0435+3233"
-      ],
-      "betydning": "Opdagelsen hjælper forskere med at forstå ekstreme himmellegemer og deres stråling. Det kan også give indsigt i universets fysik.",
-      "pointer": [
-        "Pulsar roterer på 3,2 millisekunder",
-        "Afstand: 3.900 lysår",
-        "Gammastrålepulseringer opdaget",
-        "Fermi-teleskopets data analyseret"
-      ],
-      "prio": 4
     }
   ]
 }
