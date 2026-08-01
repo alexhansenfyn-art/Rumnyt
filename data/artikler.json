@@ -1,7 +1,90 @@
 {
-  "opdateret": "2026-08-01T11:49:15.067288+00:00",
+  "opdateret": "2026-08-01T15:43:07.235102+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat",
+      "link": "https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/",
+      "dato": "2026-08-01T13:38:42+00:00",
+      "kilde": "SpaceNews",
+      "resume": "HELSINKI — China sent a new pair of secretive satellites into a programmatically new orbit Wednesday, while also upgrading its on-orbit communications relay capabilities. A Long March 6A rocket lifted [&#8230;] The post China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/TJS27A-B_CZ6A_TSLC-30july2026-OS.jpg?fit=1024%2C679&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Opsendelser",
+      "rubrik": "Kina sender nye hemmelige satellitter i kredsløb",
+      "resume_da": "Kina har sendt et par nye hemmelige satellitter i en ny type bane og opgraderet sit kommunikationsrelæ-system i rummet.",
+      "sektioner": [
+        {
+          "overskrift": "Ny opsendelse",
+          "tekst": "En Long March 6A-raket blev sendt op onsdag. Den medbragte et par hemmelige satellitter kaldet TJS-27. De er i en ny slags bane, som ikke er set før."
+        },
+        {
+          "overskrift": "Nyt relæsatellitsystem",
+          "tekst": "Samtidig har Kina sendt en ny generation af Tianlian-relæsatellitter i kredsløb. De skal forbedre kommunikationen mellem jorden og rumfartøjer. Det er en vigtig opgradering af Kinas rumkapacitet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "Long March 6A",
+          "label": "Rakettype brugt til opsendelsen"
+        }
+      ],
+      "detaljer": [
+        "De nye satellitter er hemmelige.",
+        "Opsendelsen skete onsdag.",
+        "De er i en programmatisk ny bane.",
+        "Tianlian er et relæsatellitsystem."
+      ],
+      "betydning": "Kinas rumaktiviteter kan have konsekvenser for den globale rumfartsbalance og teknologiske udvikling.",
+      "pointer": [
+        "Kina har sendt hemmelige satellitter op.",
+        "En ny rakettype blev brugt.",
+        "Kommunikationssystemet er opgraderet.",
+        "Det viser Kinas rumambitioner."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "'Flight of the Navigator' at 40: the Disney space movie that messed with time dilation long before 'Interstellar'",
+      "link": "https://www.space.com/entertainment/space-movies-shows/flight-of-the-navigator-at-40-the-disney-space-movie-that-messed-with-time-dilation-long-before-interstellar",
+      "dato": "2026-08-01T12:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "40 years later, 'Flight of the Navigator' remains an ambitious cult classic that refuses to speak down to its target audience.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/JKHSi2hhQ4G4EXB9FAG48-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "40 år med 'Flight of the Navigator'",
+      "resume_da": "Disney-filmen 'Flight of the Navigator' fylder 40 år. Den legede med tidsforvrængning længe før 'Interstellar'.",
+      "sektioner": [
+        {
+          "overskrift": "Før sin tid",
+          "tekst": "Filmen handlede om en dreng, der blev sendt ud i rummet og vendte tilbage til en fremtid, hvor han ikke var blevet ældre. Dette koncept med tidsforvrængning er blevet brugt i mange andre film, men 'Flight of the Navigator' gjorde det allerede for 40 år siden."
+        },
+        {
+          "overskrift": "Kultstatus i dag",
+          "tekst": "Selvom filmen ikke var et kæmpehit dengang, har den opnået kultstatus. Den huskes for sin unikke blanding af familiefilm og science fiction, og den har inspireret mange filmskabere."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "40 år",
+          "label": "Filmens alder i 2026"
+        }
+      ],
+      "detaljer": [
+        "Filmen 'Flight of the Navigator' blev udgivet af Disney.",
+        "Den omhandler tid og rum på en måde, der var usædvanlig for tiden.",
+        "Historien er om en dreng, der oplever tidsforvrængning."
+      ],
+      "betydning": "Filmen er et eksempel på, hvordan science fiction kan udforske komplekse videnskabelige begreber på en forståelig måde. Det kan vække interesse for rumfart og fysik hos almindelige mennesker.",
+      "pointer": [
+        "Filmen fylder 40 år.",
+        "Tidsforvrængning var tidligt tema.",
+        "Den har opnået kultstatus.",
+        "Inspirerede andre film."
+      ],
+      "prio": 5
+    },
     {
       "titel": "Solar wind stirs Mars' upper atmosphere, boosting ion loss to space",
       "link": "https://phys.org/news/2026-07-solar-mars-upper-atmosphere-boosting.html",
@@ -4252,97 +4335,6 @@
         "Studiet hjælper med at forstå solens indflydelse på Jorden"
       ],
       "prio": 4
-    },
-    {
-      "titel": "NASA Astronaut Chris Williams Returns to Earth",
-      "link": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/",
-      "dato": "2026-07-27T16:48:46+00:00",
-      "kilde": "NASA",
-      "resume": "NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in Kazakhstan. This was Williams&#8217; first mission. Williams spent eight months aboard the International Space Station, where he supported a wide range of&#160;scientific investigations&#160;and technology demonstr",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/55419246867-809993deb3-o.jpg?w=2048",
-      "billede_alt": "NASA astronaut Chris Williams grins at the camera while holding a walkie-talkie up to his ear. He&#039;s wearing a blue and white spacesuit that has various patches on the chest and left arm. His helm",
-      "kategori": "Missioner",
-      "rubrik": "NASA-astronaut Chris Williams tilbage på Jorden",
-      "resume_da": "Chris Williams landede i Kasakhstan efter otte måneder på ISS. Det var hans første rummission.",
-      "sektioner": [
-        {
-          "overskrift": "Landing i Kasakhstan",
-          "tekst": "NASA-astronaut Chris Williams landede den **26. juli 2026** i Kasakhstan sammen med kosmonauterne Sergey Kud-Sverchkov og Sergei Mikaev. De var en del af Ekspedition **74**."
-        },
-        {
-          "overskrift": "Otte måneder på ISS",
-          "tekst": "Williams tilbragte **otte måneder** om bord på Den Internationale Rumstation. Han udførte forskellige videnskabelige undersøgelser og testede ny teknologi."
-        },
-        {
-          "overskrift": "To rumvandringer",
-          "tekst": "Under missionen gennemførte han **to rumvandringer**. Den ene var for at forberede opgraderinger af rumstationens strømsystem, den anden for at udskifte en defekt samling på robotarmen Canadarm2."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "8 måneder",
-          "label": "Tid på ISS"
-        },
-        {
-          "tal": "2",
-          "label": "Antal rumvandringer"
-        }
-      ],
-      "detaljer": [
-        "Første mission for Chris Williams.",
-        "Landede den 26. juli 2026 i Kasakhstan.",
-        "Han fløj med kosmonauterne Sergey Kud-Sverchkov og Sergei Mikaev.",
-        "Arbejdede på strømsystemopgraderinger og Canadarm2-reparation."
-      ],
-      "betydning": "Missioner som denne holder ISS i drift og fremmer forskning, der kan gavne alle på Jorden.",
-      "pointer": [
-        "Williams vendte tilbage efter otte måneder.",
-        "Han udførte to rumvandringer.",
-        "Missionen inkluderede videnskab og teknologitest.",
-        "Det var hans første rumrejse."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Extragalactic positron-annihilation hotspots might mean Milky Way produces far more positrons than thought",
-      "link": "https://phys.org/news/2026-07-extragalactic-positron-annihilation-hotspots-milky.html",
-      "dato": "2026-07-27T16:30:02+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Positrons—the antimatter counterpart of electrons—are created in high-energy cosmic processes. When normal matter meets its antimatter counterpart, they annihilate, or vanish, and produce a distinctive 511 keV gamma-ray signal. Scientists use this signal to detect where these annihilations occur.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/potential-extragalacti.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Mælkevejen skaber måske langt flere positroner end troet",
-      "resume_da": "Nye hotspots uden for Mælkevejen, hvor positroner udslettes, tyder på, at vores galakse producerer mange flere positroner end tidligere antaget.",
-      "sektioner": [
-        {
-          "overskrift": "Positroner og deres signal",
-          "tekst": "Positroner er elektroners antistof. Når de møder almindeligt stof, udsletter de hinanden og sender et karakteristisk gamma-strålesignal med energien **511 keV**. Forskere bruger dette signal til at finde, hvor udslettelser sker."
-        },
-        {
-          "overskrift": "Nye hotspots opdaget",
-          "tekst": "Astronomer har fundet hotspots uden for Mælkevejen, hvor positroner udslettes. Det kan betyde, at vores galakse producerer langt flere positroner end hidtil antaget. Opdagelsen ændrer vores forståelse af kosmiske processer."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "511 keV",
-          "label": "Gamma-stråleenergi ved udslettelse"
-        }
-      ],
-      "detaljer": [
-        "Positroner skabes i højenergiske kosmiske processer.",
-        "Udslettelse sker, når stof møder antistof.",
-        "Der er opdaget positron-udslettelses-hotspots uden for Mælkevejen."
-      ],
-      "betydning": "Opdagelsen udfordrer vores viden om stof og antistof i universet og kan føre til ny indsigt i kosmiske stråler og gammastråling.",
-      "pointer": [
-        "Positroner er antistof til elektroner.",
-        "Udslettelse sender 511 keV gamma-stråling.",
-        "Hotspots uden for Mælkevejen fundet.",
-        "Mælkevejen producerer måske flere positroner."
-      ],
-      "prio": 6
     }
   ]
 }
