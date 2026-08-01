@@ -1,7 +1,148 @@
 {
-  "opdateret": "2026-07-31T21:48:11.521155+00:00",
+  "opdateret": "2026-08-01T07:36:01.111101+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "August Podcast: Three Big Events!",
+      "link": "https://skyandtelescope.org/stargazing-and-observing/astronomy-podcasts/sky-tour-podcast-august-2026/",
+      "dato": "2026-08-01T06:00:00+00:00",
+      "kilde": "Sky & Telescope",
+      "resume": "This month we’ve got three big celestial events to cover: eclipses of the Sun and Moon, and especially good prospects for the Perseid meteor shower. Plus we’ll track down a few planets, and gaze at the center of our galaxy. So load up on the bug juice, and come along on this month’s Sky Tour. The post August Podcast: Three Big Events! appeared first on Sky &amp; Telescope .",
+      "billede": null,
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "August byder på sol- og måneformørkelse og Perseider",
+      "resume_da": "August har tre store himmelbegivenheder: sol- og måneformørkelse samt et godt Perseid-meteorregn. Der er også planeter og Mælkevejens centrum at se.",
+      "sektioner": [
+        {
+          "overskrift": "Månedens tre begivenheder",
+          "tekst": "I august er der både sol- og måneformørkelse. Der er også ekstra gode chancer for at se Perseidernes meteorregn. Det skriver Sky & Telescope."
+        },
+        {
+          "overskrift": "Andre himmelseværdigheder",
+          "tekst": "Ud over formørkelser og meteorer kan man også se et par planeter. Samtidig kan man kigge mod centrum af vores galakse, Mælkevejen."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Podcasten 'Sky Tour' gennemgår månedens begivenheder.",
+        "Sollys og måneformørkelse nævnes som særlige begivenheder.",
+        "Perseiderne forventes at være ekstra gode i august.",
+        "Planeter og Mælkevejens centrum er også på programmet."
+      ],
+      "betydning": "For almindelige danskere er det en guide til at opleve spændende astronomiske begivenheder med det blotte øje eller en kikkert.",
+      "pointer": [
+        "Tre store himmelbegivenheder i august.",
+        "Formørkelser og meteorregn.",
+        "Planeter og Mælkevejen.",
+        "Lyt til podcasten for detaljer."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/",
+      "dato": "2026-08-01T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Buck Moon [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FullMoon28-7-2026BrankoNadj.jpg?w=3150&#038;h=2096&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Buck Moon og Belt of Venus over Kroatien",
+      "resume_da": "Et smukt billede fra Kroatien viser fuldmånen (Buck Moon) stige op sammen med Jordens skygge og det lyserøde bælte kaldet Belt of Venus. Billedet blev taget den 28. juli, og optakten til en total solformørkelse den 12. august.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er Buck Moon?",
+          "tekst": "Buck Moon er et traditionelt navn for fuldmånen i juli. Billedet viser den stige op over bjergene fra øen Krk i Kroatien. Fuldmånen står op, når solen går ned."
+        },
+        {
+          "overskrift": "Jordens skygge og Belt of Venus",
+          "tekst": "På billedet kan man også se Jordens skygge som et gråt bælte over horisonten. Ovenover er der et lyserødt bælte kaldet Belt of Venus. Det opstår, når sollys spredes i atmosfæren."
+        },
+        {
+          "overskrift": "Optakt til solformørkelse",
+          "tekst": "Den 12. august vil en ny måne kaste sin skygge på Jorden i en total solformørkelse. Billedet viser fuldmånen, der står over for den kommende nymåne."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "28. juli",
+          "label": "Dato for billedet"
+        },
+        {
+          "tal": "12. august",
+          "label": "Dato for solformørkelsen"
+        }
+      ],
+      "detaljer": [
+        "Billedet er taget fra Krk Island i Kroatien.",
+        "Det viser Buck Moon over Adriaterhavet.",
+        "Belt of Venus er et lyserødt bælte over Jordens skygge.",
+        "Den kommende solformørkelse er total."
+      ],
+      "betydning": "Det minder os om, at himlen byder på smukke naturfænomener, som vi kan opleve og se frem til – som den kommende solformørkelse.",
+      "pointer": [
+        "Buck Moon er fuldmånen i juli.",
+        "Belt of Venus er et lyserødt bælte.",
+        "Billedet er fra Kroatien.",
+        "Der kommer en solformørkelse i august."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "What’s Up: August 2026 Skywatching Tips from NASA",
+      "link": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/",
+      "dato": "2026-07-31T22:35:36+00:00",
+      "kilde": "NASA",
+      "resume": "A solar eclipse, the Perseids, bright Venus after sunset, and a deep partial lunar eclipse highlight August’s skywatching. Skywatching Highlights Transcript A solar eclipse, one of the year’s best meteor showers, Venus at its brightest in the evening sky, and a lunar eclipse to close out the month. That’s “What’s Up” for August. On Aug. […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/august/20260717%20Whats%20Up%20August%202026%20WHATSUp_2.jpg?w=1920&#038;h=1080&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A stylized flat map of the Earth indicating the viewing areas for a solar eclipse, with text on the left reading ",
+      "kategori": "Astronomi",
+      "rubrik": "August byder på solformørkelse og Perseider",
+      "resume_da": "I august kan du opleve en total solformørkelse, Perseidernes meteorsværm, den klare planet Venus og en delvis måneformørkelse. Se her, hvornår og hvordan du ser dem.",
+      "sektioner": [
+        {
+          "overskrift": "Total solformørkelse",
+          "tekst": "Den 12. august vil en total solformørkelse kunne ses i det nordlige Rusland, Grønland, Island og det nordlige Spanien. I USA vil den kun være delvis. Det er vigtigt at bruge godkendte formørkelsesbriller for at se sikkert på solen."
+        },
+        {
+          "overskrift": "Perseidernes meteorsværm",
+          "tekst": "Natten efter formørkelsen, den 12.-13. august, topper meteorsværmen Perseiderne. Da der er nymåne, bliver himlen ekstra mørk, hvilket giver perfekte forhold. Kig mod nordøst, og giv øjnene 30 minutter til at vænne sig til mørket."
+        },
+        {
+          "overskrift": "Venus og måneformørkelsen",
+          "tekst": "Fra 14. til 16. august står Venus i østlig elongation og er klart synlig lavt i vest efter solnedgang, hvor den skinner klarere end alle stjerner. Den 27.-28. august kan en delvis måneformørkelse ses fra store dele af Amerika, Europa og Afrika. Månen bliver delvist dækket af Jordens skygge, hvilket er sikkert at se med det blotte øje."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. august",
+          "label": "dato for solformørkelse"
+        },
+        {
+          "tal": "12.-13. august",
+          "label": "top for meteorsværmen"
+        },
+        {
+          "tal": "14.-16. august",
+          "label": "Venus klarest synlig"
+        }
+      ],
+      "detaljer": [
+        "Den totale solformørkelse kan ses i Rusland, Grønland, Island, Spanien og en lille del af Portugal.",
+        "Meteorsværmen Perseiderne stammer fra kometen Swift-Tuttle.",
+        "Venus står i østlig elongation og viser sig halvt oplyst gennem teleskop.",
+        "Ved maksimum af måneformørkelsen er ca. 93% af månens diameter i jordens skygge."
+      ],
+      "betydning": "For almindelige danskere er det en god anledning til at komme ud og kigge på nattehimlen, særligt fordi der er flere spektakulære begivenheder i samme måned. Du kan let følge med uden særligt udstyr for meteorsværmen og måneformørkelsen.",
+      "pointer": [
+        "Total solformørkelse den 12. august",
+        "Perseiderne topper 12.-13. august",
+        "Venus kan ses efter solnedgang midt på måneden",
+        "Delvis måneformørkelse den 27.-28. august"
+      ],
+      "prio": 8
+    },
     {
       "titel": "Laying odds on the potential for Martian water near future landing zones",
       "link": "https://phys.org/news/2026-07-laying-odds-potential-martian-future.html",
@@ -4220,135 +4361,6 @@
         "Metoden kan finde flere vandrende sorte huller"
       ],
       "prio": 7
-    },
-    {
-      "titel": "NASA to Cover Three US Spacewalks, Host Preview News Conference",
-      "link": "https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
-      "dato": "2026-07-27T14:35:11+00:00",
-      "kilde": "NASA",
-      "resume": "NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar arrays, replace a communications antenna, and connect power and data cables in support of space station operations. Experts will preview the upcoming spacewalks during a news conference at 2 p.m. EDT, Thursday, July 30, [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/meir.jpg?w=2048",
-      "billede_alt": "006B6348.NEF",
-      "kategori": "Missioner",
-      "rubrik": "Tre rumvandringer i august på ISS",
-      "resume_da": "NASA sender astronauter ud på tre rumvandringer i august for at opgradere solpaneler, udskifte antenne og forberede stationens fremtid.",
-      "sektioner": [
-        {
-          "overskrift": "Første rumvandring: 6. august",
-          "tekst": "Jessica Meir og Anil Menon går ud for at installere hardware til en ny solpanel. Det syvende IROSA-panel skal levere mere strøm og hjælpe med kontrolleret deorbit. Rumvandringen varer ca. **6,5** timer."
-        },
-        {
-          "overskrift": "Anden rumvandring: 13. august",
-          "tekst": "To astronauter udskifter en jord-til-rum-antenne, der bruges til højhastighedskommunikation mellem Houston og ISS."
-        },
-        {
-          "overskrift": "Tredje rumvandring: 25. august",
-          "tekst": "Astronauterne tilslutter kabler og data relæ-systemer til vedligeholdelse og forberedelse af deorbit. De udskifter også en navigationshjælp til dokning på Harmony-modulet."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "3",
-          "label": "antal rumvandringer i august"
-        },
-        {
-          "tal": "6,5 timer",
-          "label": "varighed af første rumvandring"
-        }
-      ],
-      "detaljer": [
-        "Rumvandring 96 er den sjette for Meir og første for Menon.",
-        "Antennen er en kritisk del af NASAs kommunikationssystem.",
-        "Det er den 281., 282. og 283. rumvandring i ISS' historie."
-      ],
-      "betydning": "Rumvandringerne sikrer, at ISS fortsat kan fungere og modtage nye solpaneler, hvilket er afgørende for stationens levetid og fremtidige deorbit.",
-      "pointer": [
-        "Tre rumvandringer i august.",
-        "Opgradering af solpaneler og antenne.",
-        "Forberedelse til stationens deorbit.",
-        "Første rumvandring for astronaut Menon."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "We've found huge discounts on a range of ZWO astronomy cameras, including three we love",
-      "link": "https://www.space.com/stargazing/skywatching-kit/bh-photo-and-video-has-discounted-a-range-of-zwo-astronomy-cameras-including-three-we-loved",
-      "dato": "2026-07-27T14:25:40+00:00",
-      "kilde": "Space.com",
-      "resume": "Save on ZWO astrophotography gear at B&amp;H Photo Video. Shop discounts on astrocams, telescopes and mounts to upgrade your stargazing setup with top deals today.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/NzfmttTKCSM4zLKaRPnEyZ-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Store rabatter på ZWO astrokameraer",
-      "resume_da": "Tre populære ZWO-kameraer til astrofotografering er på tilbud. Find gode besparelser på modeller, der er elsket af både nybegyndere og erfarne.",
-      "sektioner": [
-        {
-          "overskrift": "Rabatter på kameraer",
-          "tekst": "ZWO har sat priserne ned på flere af deres populære astrokameraer. Tre af vores favoritmodeller er blandt dem, der er på tilbud. Det er en god mulighed for at spare penge på udstyr til astrofotografering."
-        },
-        {
-          "overskrift": "Hvem er Harry?",
-          "tekst": "Harry er skribent hos Space.com og har dækket kameraer og astronomi siden december 2024. Han har en bachelor i amerikansk litteratur og har stor erfaring med astrofotografering. Han elsker at fange nattehimlens vidundere."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [],
-      "betydning": "For almindelige danskere, der er interesserede i astrofotografering, kan rabatterne gøre det billigere at komme i gang eller opgradere udstyr.",
-      "pointer": [],
-      "prio": 3
-    },
-    {
-      "titel": "NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/",
-      "dato": "2026-07-27T14:00:14+00:00",
-      "kilde": "NASA",
-      "resume": "NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline.",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/07/STScI-01KXZZ6H029XBJTKYKRPARFJE9.jpg?w=8502&#038;h=4935&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "The left half of the disk of the Andromeda galaxy, with a jagged outer edge at the top and bottom on a black background. At right, the galaxy’s center is a horizontal yellow oval extending across abou",
-      "kategori": "Astronomi",
-      "rubrik": "Hubble afslører: Andromeda-galaksen danner færre stjerner",
-      "resume_da": "Stjernedannelsen i Andromeda-galaksen er faldet kraftigt de seneste 500 millioner år, viser nye Hubble-data. Udviklingen skyldes formentlig et tidligere sammenstød med en anden galakse.",
-      "sektioner": [
-        {
-          "overskrift": "500 millioner års nedgang",
-          "tekst": "Forskere har brugt Hubble-teleskopet til at kortlægge **200 millioner** stjerner i Andromeda-galaksen. De fandt, at stjernedannelsen er faldet støt i de sidste **500 millioner år**, med et endnu større dyk de seneste **40 millioner år**."
-        },
-        {
-          "overskrift": "Dannelsesraten i dag",
-          "tekst": "For **500 millioner år siden** dannede Andromeda omkring én solmasse om året. For **40 millioner år siden** var raten halveret. I dag er den nede på en **femtedel** af en solmasse om året."
-        },
-        {
-          "overskrift": "Mulig forklaring",
-          "tekst": "Nedgangen skyldes sandsynligvis en naturlig afmatning efter et sammenstød med en anden galakse for omkring **2 milliarder år siden**. Forskere undersøger også, om nabogalaksen M32 har spillet en rolle."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2,5 millioner lysår",
-          "label": "Afstand til Andromeda"
-        },
-        {
-          "tal": "200 millioner",
-          "label": "Kortlagte stjerner"
-        },
-        {
-          "tal": "500 millioner år",
-          "label": "Nedgangens varighed"
-        }
-      ],
-      "detaljer": [
-        "Undersøgelsen er baseret på data fra to Hubble-undersøgelser: PHAT og PHAST.",
-        "Forskerne målte stjernedannelse i tusindvis af 300 lysår brede områder.",
-        "Resultaterne er offentliggjort i The Astrophysical Journal."
-      ],
-      "betydning": "Andromeda ligner vores Mælkevej, så studiet hjælper os med at forstå, hvordan galakser som vores udvikler sig over tid.",
-      "pointer": [
-        "Stjernedannelse i Andromeda falder drastisk.",
-        "Hubble kortlagde 200 millioner stjerner.",
-        "Nedgangen skyldes sandsynligvis en gammel kollision.",
-        "Studiet giver indsigt i Mælkevejens fortid."
-      ],
-      "prio": 6
     }
   ]
 }
