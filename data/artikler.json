@@ -1,7 +1,43 @@
 {
-  "opdateret": "2026-08-01T07:36:01.111101+00:00",
+  "opdateret": "2026-08-01T11:49:15.067288+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Solar wind stirs Mars' upper atmosphere, boosting ion loss to space",
+      "link": "https://phys.org/news/2026-07-solar-mars-upper-atmosphere-boosting.html",
+      "dato": "2026-08-01T10:20:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Our sun constantly releases a stream of high-speed charged particles, known as the solar wind. Unlike Earth, Mars does not have a strong global magnetic field to shield its atmosphere from this flow. As a result, the solar wind can interact directly with Mars' upper atmosphere and gradually strip atmospheric particles into space.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-sun-is-strippi.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Solvind øger tab af ioner fra Mars' atmosfære",
+      "resume_da": "Forskning viser, at solvinden pisker den øverste del af Mars' atmosfære op og dermed øger tabet af ioner til rummet. Uden beskyttende magnetfelt mister Mars langsomt sin atmosfære.",
+      "sektioner": [
+        {
+          "overskrift": "Solvindens påvirkning",
+          "tekst": "Solen udsender konstant strømme af højhastighedspartikler kaldet solvind. Jorden er beskyttet af et stærkt magnetfelt, men Mars har ingen sådan skjold."
+        },
+        {
+          "overskrift": "Tabet af ioner",
+          "tekst": "Derfor rammer solvinden direkte Mars' øvre atmosfære. Den kan gradvist rive partikler løs og sende dem ud i rummet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Solvinden består af ladede partikler med høj hastighed.",
+        "Mars mangler et globalt magnetfelt.",
+        "Solvinden interagerer direkte med atmosfæren.",
+        "Tab af atmosfæriske partikler sker løbende."
+      ],
+      "betydning": "Det hjælper os med at forstå, hvordan Mars mister sin atmosfære, hvilket er vigtigt for fremtidige missioner og søgen efter liv.",
+      "pointer": [
+        "Mars mister atmosfære til rummet.",
+        "Årsagen er manglende magnetfelt.",
+        "Solvinden øger tabet."
+      ],
+      "prio": 6
+    },
     {
       "titel": "August Podcast: Three Big Events!",
       "link": "https://skyandtelescope.org/stargazing-and-observing/astronomy-podcasts/sky-tour-podcast-august-2026/",
@@ -4307,60 +4343,6 @@
         "Mælkevejen producerer måske flere positroner."
       ],
       "prio": 6
-    },
-    {
-      "titel": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
-      "link": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/",
-      "dato": "2026-07-27T16:06:37+00:00",
-      "kilde": "NASA",
-      "resume": "NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena are rare to begin with, and none had ever before been seen so far outside of a galaxy’s core. “We were looking for these star-shredding events as a way […]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia22/pia22355/PIA22355.jpg?w=3816&#038;h=2160&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "An artist",
-      "kategori": "Astronomi",
-      "rubrik": "Vildt sort hul set flå stjerne i stykker",
-      "resume_da": "NASA's Swift-observatorium har fanget et supermassivt sort hul, der river en stjerne i stykker langt ude i en galakses udkant – noget aldrig set før.",
-      "sektioner": [
-        {
-          "overskrift": "En sjælden begivenhed",
-          "tekst": "En stjerne kom for tæt på et sort hul med en masse på omkring **1 million** sole og blev flået i stykker. Hændelsen skete i en galakse **750 millioner** lysår væk og blev første gang set i november 2025 af Zwicky Transient Facility."
-        },
-        {
-          "overskrift": "Optisk og UV målinger",
-          "tekst": "Swift-målinger viste en temperatur på omkring **54.000** grader Fahrenheit (ca. **30.000** grader Celsius). I ultraviolet lys lyste hændelsen klarere end hele sin værtsgalakse og udstrålede lyset fra **10 milliarder** sole."
-        },
-        {
-          "overskrift": "Hvorfor skete det her?",
-          "tekst": "Forskere mener, at det sorte hul stammer fra en mindre galakse, der er blevet opslugt af en større. Gravitationskræfterne fra sammenstødet kan have slynget det sorte hul ud i galaksens udkant – over **30.000** lysår fra centrum."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1 million solmasser",
-          "label": "Sort huls masse"
-        },
-        {
-          "tal": "750 millioner lysår",
-          "label": "Afstand til Jorden"
-        },
-        {
-          "tal": "30.000 grader Celsius",
-          "label": "Temperatur af blitzen"
-        }
-      ],
-      "detaljer": [
-        "Før 2024 var stjerne-flåning kun set i galaksekerner.",
-        "Kun omkring 30 sådanne hændelser findes årligt på himlen.",
-        "Det sorte hul er en af kun få bekræftede 'vandrende' supermassive sorte huller.",
-        "Opdagelsen kan hjælpe med at finde flere skjulte sorte huller."
-      ],
-      "betydning": "Opdagelsen viser, at sorte huller kan vandre langt fra deres fødested, hvilket ændrer vores forståelse af galaksesammenstød og universets udvikling.",
-      "pointer": [
-        "Sjælden observation af stjernerivning uden for galaksekernen",
-        "Sort hul vejer en million gange Solen",
-        "Flået stjerne lyste som 10 milliarder sole",
-        "Metoden kan finde flere vandrende sorte huller"
-      ],
-      "prio": 7
     }
   ]
 }
