@@ -1,7 +1,187 @@
 {
-  "opdateret": "2026-08-02T11:45:36.797541+00:00",
+  "opdateret": "2026-08-02T15:47:37.538356+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "DESI side project reveals the spectra of disintegrated exoplanets",
+      "link": "https://phys.org/news/2026-07-desi-side-reveals-spectra-disintegrated.html",
+      "dato": "2026-08-02T12:20:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Using spectral data from the Dark Energy Spectroscopic Instrument (DESI), astronomers have gained some of the clearest evidence yet that white dwarf stars are accreting debris from disintegrating exoplanets. Captured while DESI was unable to study its primary targets: distant galaxies, the results provide unprecedented insights into the chemical makeup of rocky exoplanets, revealing compositions r",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/desi-side-project-reve.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Døde stjerner afslører planeternes indre",
+      "resume_da": "Astronomer har nu fået klare beviser på, at hvide dværge æder rester af ødelagte planeter. Det giver ny viden om, hvad klippeplaneter er lavet af.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er opdagelsen?",
+          "tekst": "Forskere har brugt data fra DESI-teleskopet til at se, at hvide dværge – døde stjerner – opsluger materiale fra ødelagte exoplaneter. Det er noget af det klareste bevis endnu på, at sådan noget sker."
+        },
+        {
+          "overskrift": "Hvorfor er det vigtigt?",
+          "tekst": "Ved at studere dette materiale kan forskerne se, hvad klippeplaneter uden for vores solsystem er lavet af. Og det viser sig, at deres sammensætning ligner vores egne planeter og asteroider i det indre solsystem meget."
+        },
+        {
+          "overskrift": "Hvordan blev det opdaget?",
+          "tekst": "Dataene blev samlet, mens DESI ikke kunne kigge på sine hovedmål: fjerne galakser. Forskerne brugte denne ekstra tid til at observere de hvide dværge. Det gav dem et uventet og detaljeret indblik i planeternes kemi."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "8",
+          "label": "Antal hvide dværge observeret"
+        }
+      ],
+      "detaljer": [
+        "Resultaterne er blandt de klareste beviser for, at hvide dværge æder planetrester.",
+        "Man fandt grundstoffer, der ligner dem i Jordens indre solsystem.",
+        "Observationerne blev lavet som et sideprojekt under DESI-målingerne."
+      ],
+      "betydning": "Det hjælper os med at forstå, hvordan planeter dannes og udvikler sig, også i andre solsystemer. Og det minder os om, at vores eget solsystem ikke er unikt i sin sammensætning.",
+      "pointer": [
+        "Hvide dværge æder planetrester.",
+        "Ny viden om exoplaneters kemi.",
+        "Ligner vores solsystem.",
+        "DESI-data brugt kreativt."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "From Hardspace to Clearspace: How space salvage games compare to real debris removal",
+      "link": "https://www.space.com/entertainment/space-games/from-hardspace-to-clearspace-how-space-salvage-games-compare-to-real-debris-removal",
+      "dato": "2026-08-02T12:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "Clean up on spacelane five.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/SuATW7kXHCcHnh7W3hznuc-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Spil vs. virkelighed: Rumsjov og ægte skrald",
+      "resume_da": "En sammenligning af spil som Hardspace: Shipbreaker og den virkelige opgave med at fjerne rumaffald.",
+      "sektioner": [
+        {
+          "overskrift": "Spil og virkelighed",
+          "tekst": "Spil lader os øve os i at håndtere rumskrot på en sjov måde. I virkeligheden er det en alvorlig udfordring for rumfart. Artiklen sammenligner de to verdener."
+        },
+        {
+          "overskrift": "Fjernelse af rumaffald",
+          "tekst": "Rigtig oprydning kræver avanceret teknologi og planlægning. Det er ikke så enkelt som i spillene, hvor man kan skære og brænde frit. Virkelighedens metoder er under udvikling."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Artiklen er skrevet af Alan Bradley, en erfaren tech- og kulturjournalist.",
+        "Sammenligner spillet Hardspace: Shipbreaker med ægte affaldsfjernelse i rummet.",
+        "Rigtig oprydning er kompleks og anderledes end i spil."
+      ],
+      "betydning": "Forståelse af forskellen mellem underholdning og virkelighed kan øge opmærksomheden på rumaffaldsproblemet.",
+      "pointer": [
+        "Spil er sjove, virkelighed er alvorlig.",
+        "Rumaffald er et voksende problem.",
+        "Teknologi til oprydning er under udvikling.",
+        "Artiklen giver perspektiv på begge verdener."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Plan for Next Year's Total Solar Eclipse: August 2, 2027",
+      "link": "https://skyandtelescope.org/astronomy-news/plan-for-the-2027-eclipse-of-the-century-one-year-from-now/",
+      "dato": "2026-08-02T12:00:00+00:00",
+      "kilde": "Sky & Telescope",
+      "resume": "The longest total solar eclipse visible from land until 2114 will sweep across Spain and North Africa on August 2, 2027. Here’s how to choose where to watch it. The post Plan for Next Year&#039;s Total Solar Eclipse: August 2, 2027 appeared first on Sky &amp; Telescope .",
+      "billede": null,
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Total solformørkelse i 2027: Sådan ser du den",
+      "resume_da": "Den længste totale solformørkelse fra land indtil 2114 rammer Spanien og Nordafrika den 2. august 2027. Her er, hvordan du vælger observationssted.",
+      "sektioner": [
+        {
+          "overskrift": "En historisk begivenhed",
+          "tekst": "Den 2. august 2027 vil en total solformørkelse være synlig fra land i Spanien og Nordafrika. Det er den længste totale formørkelse, der kan ses fra land, indtil år 2114. Mange vil rejse til området for at opleve den."
+        },
+        {
+          "overskrift": "Vælg det rigtige sted",
+          "tekst": "For at få den bedste oplevelse skal du vælge et sted med klart vejr og lang varighed af totalitet. Eksperter anbefaler at undersøge vejrstatistikker. Kystområder kan have skyet vejr, mens højland og ørkener ofte er mere klare."
+        },
+        {
+          "overskrift": "Planlæg i god tid",
+          "tekst": "Populariteten betyder, at overnatning og transport hurtigt bliver booket. Det er klogt at bestille tidligt. Husk også at skaffe godkendte solbriller til at se formørkelsen sikkert."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2. august 2027",
+          "label": "Dato for formørkelsen"
+        },
+        {
+          "tal": "2114",
+          "label": "Næste længere fra land"
+        }
+      ],
+      "detaljer": [
+        "Findes i artiklen: Den totale fase varer op til 6 minutter og 23 sekunder.",
+        "Steder med længst totalitet er i Egypten og Libyen.",
+        "Spanien oplever totalitet om eftermiddagen, men med kortere varighed."
+      ],
+      "betydning": "For en almindelig dansker er dette en sjælden chance for at se en spektakulær naturbegivenhed, som ikke gentages fra land i mange generationer. Det kan være en god anledning til at planlægge en rejse eller følge begivenheden online.",
+      "pointer": [
+        "Længste totale solformørkelse fra land siden 1991 og indtil 2114.",
+        "Synlig fra Spanien og Nordafrika den 2. august 2027.",
+        "Vælg sted med klart vejr for bedst udsigt.",
+        "Book rejse og bolig tidligt."
+      ],
+      "prio": 8
+    },
+    {
+      "titel": "APOD: 2026 August 2 – A Fire Rainbow over West Virginia",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-2-a-fire-rainbow-over-west-virginia/",
+      "dato": "2026-08-02T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 2 – A Fire… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FireRainbow_Harbig_4000.jpg?w=4000&#038;h=3000&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Ildregnbue fotograferet i West Virginia",
+      "resume_da": "NASAs daglige rumfotos viser en sjælden ildregnbue nær North Fork Mountain i West Virginia, skabt af iskrystaller i cirrusskyer.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er en ildregnbue?",
+          "tekst": "En ildregnbue er et sjældent fænomen, hvor iskrystaller i cirrusskyer fungerer som prismer. De bryder sollyset, så det ligner flammer. Det kaldes også en cirkumhorisontal bue."
+        },
+        {
+          "overskrift": "Betingelser for fænomenet",
+          "tekst": "Solen skal stå mindst **58 grader** over horisonten. Skyerne skal være cirrusskyer, og iskrystallerne skal være flade og sekskantede. Derudover skal de ligge vandret for at bryde lyset ensartet."
+        },
+        {
+          "overskrift": "Fotoets oprindelse",
+          "tekst": "Billedet blev taget i **2021** nær North Fork Mountain i West Virginia, USA. Fotografen er Christa Harbig. Det blev bragt på NASAs Astronomy Picture of the Day den **2. august 2026**."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "58 grader",
+          "label": "Solens minimumshøjde"
+        },
+        {
+          "tal": "2021",
+          "label": "År fotografiet blev taget"
+        }
+      ],
+      "detaljer": [
+        "Fænomenet kaldes også circumhorizon arc.",
+        "Skytypen er cirrus fibratus.",
+        "Iskrystallerne er flade og sekskantede.",
+        "De skal være vandret justeret for at danne buen."
+      ],
+      "betydning": "Det er sjældent at se en ildregnbue. Artiklen hjælper almindelige mennesker med at forstå og genkende et smukt naturfænomen på himlen.",
+      "pointer": [
+        "Sjældent vejrfænomen.",
+        "Kræver sol i høj position.",
+        "Fotograferet i USA i 2021.",
+        "Udvalgt af NASA som dagens billede."
+      ],
+      "prio": 5
+    },
     {
       "titel": "Boeing’s Starliner set for potential 2026 cargo run to ISS",
       "link": "https://www.nasaspaceflight.com/2026/08/boeing-starliner-2026-iss/",
@@ -4162,182 +4342,6 @@
         "Forskning offentliggjort i videnskabeligt tidsskrift"
       ],
       "prio": 6
-    },
-    {
-      "titel": "'Dead stars' may have surprisingly healthy appetites",
-      "link": "https://phys.org/news/2026-07-dead-stars-healthy-appetites.html",
-      "dato": "2026-07-27T19:40:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "\"Dead stars\" known as white dwarfs have already shown the potential to help us better understand how planetary systems, including our own solar system, take shape and evolve. Now, research from the University of Michigan and the University of Colorado Boulder suggests that potential could be even greater than anticipated.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/dead-stars-may-have-su.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Døde stjerner kan æde planeter og måner",
-      "resume_da": "Hvide dværge, døde stjerner, kan fortælle os mere om planetsystemers udvikling end hidtil antaget, viser ny forskning.",
-      "sektioner": [
-        {
-          "overskrift": "Hvide dværges appetit",
-          "tekst": "Forskere fra University of Michigan og University of Colorado Boulder har opdaget, at hvide dværge kan opsluge materiale fra planeter og måner. Det betyder, at de kan give os spor om, hvordan planetsystemer dannes og ændrer sig."
-        },
-        {
-          "overskrift": "Større potentiale end ventet",
-          "tekst": "Allerede tidligere vidste man, at hvide dværge kan hjælpe os med at forstå vores eget solsystems udvikling. Den nye forskning viser, at deres potentiale er endnu større."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Hvide dværge er døde stjerner.",
-        "Forskningen kommer fra University of Michigan og University of Colorado Boulder.",
-        "Hvide dværge kan opsluge planeter og måner."
-      ],
-      "betydning": "Forskningen kan give os bedre indsigt i, hvordan vores eget solsystem og andre planetsystemer har udviklet sig over tid.",
-      "pointer": [
-        "Hvide dværge kan spise planeter og måner.",
-        "De kan afsløre planetsystemers historie.",
-        "Potentialet er større end tidligere antaget.",
-        "Forskningsresultaterne er fra to amerikanske universiteter."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Seven possible quasar lenses emerge from AI scan of 800,000 DESI objects",
-      "link": "https://phys.org/news/2026-07-quasar-lenses-emerge-ai-scan.html",
-      "dato": "2026-07-27T19:20:07+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Quasars, distant cores of galaxies powered by supermassive black holes, are among the most luminous objects in the universe. While not uncommon, their brightness can make it difficult to accurately measure the galaxies they reside in. This means scientists must use gravitational lensing to assist in analyzing these bright objects, a method that relies on studying how an object's strong gravity ben",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-discover-s-3.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "AI finder syv mulige kvazarlinser",
-      "resume_da": "Kunstig intelligens har gennemsøgt 800.000 objekter og fundet syv sjældne kvazarlinser, der kan hjælpe astronomer med at studere sorte huller og galakser.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er kvazarlinser?",
-          "tekst": "Kvasarer er klare kerner i galakser, drevet af supermassive sorte huller. Deres lys kan gøre det svært at måle værtsgalaksen. Derfor bruger astronomer gravitationel linseeffekt, hvor tyngdekraften bøjer lyset, til at analysere dem."
-        },
-        {
-          "overskrift": "AI-scanningsmetode",
-          "tekst": "Forskere brugte kunstig intelligens til at gennemsøge **800.000** objekter fra DESI-undersøgelsen. AI'en fandt frem til syv mulige nye kvazarlinser, hvilket er sjældent, fordi sådanne linser er vanskelige at opdage."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "800.000",
-          "label": "gennemsøgte objekter"
-        },
-        {
-          "tal": "7",
-          "label": "fundne mulige linser"
-        }
-      ],
-      "detaljer": [
-        "Kvasarer er blandt de mest lysstærke objekter i universet.",
-        "Gravitationel linsning udnytter galaksers tyngdekraft til at bøje lys.",
-        "Kvazarlinser er sjældne på trods af kvasarers kraftfulde tyngdekraft."
-      ],
-      "betydning": "Opdagelsen kan forbedre vores forståelse af sorte huller og galaksers udvikling, hvilket giver ny indsigt i universets opbygning.",
-      "pointer": [
-        "Kvasarer er meget lyse galaksekerner.",
-        "Gravitationelle linser hjælper med at måle galakser.",
-        "AI gennemsøgte 800.000 objekter.",
-        "Syv nye linser er nu fundet."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
-      "link": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
-      "dato": "2026-07-27T18:49:20+00:00",
-      "kilde": "NASA",
-      "resume": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live United States-based media interested [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/chris-williams-post-mission-conference-july-27.jpg?w=2048",
-      "billede_alt": "NASA astronaut Chris Williams shows off the Destiny laboratory module’s Microgravity Science Glovebox aboard the International Space Station. WIlliams was supporting semiconductor crystal research to ",
-      "kategori": "Missioner",
-      "rubrik": "NASA-astronauten Chris Williams gennemgår sin ISS-mission",
-      "resume_da": "NASA-astronauten Chris Williams deler erfaringer fra sin 8-måneders mission på Den Internationale Rumstation den 4. august.",
-      "sektioner": [
-        {
-          "overskrift": "Om pressemødet",
-          "tekst": "NASA-astronauten Chris Williams taler om sin mission den 4. august. Pressemødet sendes live fra Johnson Space Center i Houston."
-        },
-        {
-          "overskrift": "Missionens resultater",
-          "tekst": "Williams brugte **241 dage** i rummet og rejste over **102 millioner miles**. Han støttede forskning i nye kræftbehandlinger og forbedret produktion af materialer til supercomputere."
-        },
-        {
-          "overskrift": "Rumvandringer",
-          "tekst": "Under missionen udførte Williams to rumvandringer. En af dem skulle forberede opgraderinger af rumstationens strømsystem."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "241 dage",
-          "label": "Missionens varighed"
-        },
-        {
-          "tal": "102 millioner miles",
-          "label": "Rejst distance"
-        },
-        {
-          "tal": "2",
-          "label": "Rumvandringer"
-        }
-      ],
-      "detaljer": [
-        "Vendte tilbage til Jorden den 26. juli.",
-        "Williams var flight engineer på Expedition 73/74.",
-        "Han gennemførte 3.856 kredsløb om Jorden.",
-        "Seks besøgende rumfartøjer ankom, otte forlod stationen.",
-        "Forskning i nye kræftbehandlinger og materialer til high-performance computere."
-      ],
-      "betydning": "Missionen viser, hvordan rumforskning kan forbedre livet på Jorden, især inden for kræftbehandling og elektronikproduktion.",
-      "pointer": [
-        "Pressemøde 4. august kl. 20:45 dansk tid.",
-        "Williams tilbragte 241 dage i rummet.",
-        "To rumvandringer for at opgradere stationen.",
-        "Forskning i kræftbehandling og materialer."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Astronomers identify one of the universe's rarest black hole events",
-      "link": "https://phys.org/news/2026-07-astronomers-universe-rarest-black-hole.html",
-      "dato": "2026-07-27T18:20:04+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "A team of astronomers at the University of North Carolina at Chapel Hill has observed an extremely rare \"wandering\" black hole located tens of thousands of light-years from the center of its galaxy. This finding could reshape scientists' understanding of how massive black holes move through the universe after galaxies collide. The findings are published in The Astrophysical Journal Letters.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/unc-chapel-hill-astron.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Sjældent vandrende sort hul opdaget",
-      "resume_da": "Astronomer har observeret et vandrende sort hul langt fra sin galakses centrum. Opdagelsen kan ændre forståelsen af sorte hullers bevægelser efter galaksekollisioner.",
-      "sektioner": [
-        {
-          "overskrift": "Sjældent vandrende sort hul",
-          "tekst": "Et hold astronomer fra University of North Carolina har set et ekstremt sjældent 'vandrende' sort hul. Det befinder sig titusindvis af lysår fra centrum af sin galakse."
-        },
-        {
-          "overskrift": "Fundet offentliggjort",
-          "tekst": "Resultaterne er publiceret i tidsskriftet The Astrophysical Journal Letters. Opdagelsen kan ændre forskernes forståelse af, hvordan massive sorte huller bevæger sig gennem universet."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "titusindvis af lysår",
-          "label": "Afstand fra galaksecentrum"
-        }
-      ],
-      "detaljer": [
-        "Opdagelsen blev gjort af et hold ved University of North Carolina at Chapel Hill",
-        "Det er et af de sjældneste sorte hul-fænomener",
-        "Fundet er publiceret i The Astrophysical Journal Letters"
-      ],
-      "betydning": "Opdagelsen kan give ny viden om, hvordan sorte huller bevæger sig efter galaksekollisioner, hvilket er vigtigt for at forstå galaksers udvikling.",
-      "pointer": [
-        "Sjældent vandrende sort hul fundet",
-        "Ligger langt fra galaksecentrum",
-        "Kan ændre teorier om sorte huller"
-      ],
-      "prio": 5
     }
   ]
 }
