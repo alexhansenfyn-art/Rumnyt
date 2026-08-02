@@ -1,7 +1,47 @@
 {
-  "opdateret": "2026-08-02T15:47:37.538356+00:00",
+  "opdateret": "2026-08-02T20:15:41.467172+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Webb reveals warped structure in nearby TW Hydrae's protoplanetary disk",
+      "link": "https://phys.org/news/2026-07-webb-reveals-warped-nearby-tw.html",
+      "dato": "2026-08-02T17:20:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Using the James Webb Space Telescope (JWST), astronomers obtained high-contrast coronagraphic images of the protoplanetary disk around the young, nearby star TW Hydrae. Results of the observational campaign, published July 27 on the preprint server arXiv, shed more light on the nature of this disk.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/observations-inspect-p.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Webb ser skæv struktur i støvskive om ung stjerne",
+      "resume_da": "James Webb-teleskopet har taget skarpe billeder af støvskiven omkring stjernen TW Hydrae. Billederne viser en uventet skæv struktur i skiven.",
+      "sektioner": [
+        {
+          "overskrift": "Nye billeder",
+          "tekst": "Forskere brugte James Webb-teleskopet til at fotografere støvskiven omkring den unge stjerne TW Hydrae. De brugte en teknik, der blokerer stjernens lys for at se skiven tydeligt. Resultaterne blev offentliggjort den 27. juli på arXiv."
+        },
+        {
+          "overskrift": "Skæv struktur",
+          "tekst": "Billederne afslørede, at skiven ikke er helt symmetrisk. Den har en skæv struktur, som overraskede forskerne. Det kan give ny viden om, hvordan planeter dannes."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "27. juli",
+          "label": "Offentliggørelsesdato"
+        }
+      ],
+      "detaljer": [
+        "TW Hydrae er en ung stjerne tæt på Jorden.",
+        "Teleskopet brugte en koronagraf til at blokere stjernelyset.",
+        "Skiven kaldes en protoplanetarisk skive."
+      ],
+      "betydning": "Det hjælper os med at forstå, hvordan vores eget solsystem kan være opstået, og hvordan planeter dannes andre steder.",
+      "pointer": [
+        "Webb tog skarpe billeder af støvskive.",
+        "Skiven er skæv og ikke symmetrisk.",
+        "Offentliggjort 27. juli på arXiv."
+      ],
+      "prio": 7
+    },
     {
       "titel": "DESI side project reveals the spectra of disintegrated exoplanets",
       "link": "https://phys.org/news/2026-07-desi-side-reveals-spectra-disintegrated.html",
@@ -392,6 +432,55 @@
         "Lyt til podcasten for detaljer."
       ],
       "prio": 7
+    },
+    {
+      "titel": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-1-buck-moon-and-belt-of-venus/",
+      "dato": "2026-08-01T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Buck Moon [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FullMoon28-7-2026BrankoNadj.jpg?w=3150&#038;h=2096&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Buck Moon og Bæltet af Venus over Kroatien",
+      "resume_da": "APOD viser et smukt billede af fuldmånen i juli, kaldet Buck Moon, der stiger op over Kroatien sammen med Jordens skygge og det lyserøde Bæltet af Venus. Billedet blev taget den 28. juli fra Krk Island.",
+      "sektioner": [
+        {
+          "overskrift": "Buck Moon og Bæltet af Venus",
+          "tekst": "Buck Moon er et traditionelt navn for fuldmånen i juli. Billedet er taget den 28. juli fra Krk Island ved Adriaterhavet i Kroatien. Månen stiger op over fjerne bjerge ved solnedgang."
+        },
+        {
+          "overskrift": "Jordens skygge og atmosfæriske fænomener",
+          "tekst": "Ved måneopgang stiger Jordens skygge også op i tusmørket som et diffust gråt bånd over horisonten. Over skyggen er det lyserøde Bæltet af Venus, som er sollys spredt tilbage i atmosfæren."
+        },
+        {
+          "overskrift": "Kommende solformørkelse",
+          "tekst": "Den nye måne den 12. august vil kaste sin egen skygge på Jorden under en total solformørkelse. Billedet sætter scenen for denne begivenhed."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "28. juli",
+          "label": "Dato billedet blev taget"
+        },
+        {
+          "tal": "12. august",
+          "label": "Dato for total solformørkelse"
+        }
+      ],
+      "detaljer": [
+        "Billedet er fra NASAs Astronomy Picture of the Day (APOD) den 1. august 2026.",
+        "Fotografen er Branko Nadj.",
+        "Bæltet af Venus er en lyserød bue over Jordens skygge."
+      ],
+      "betydning": "For almindelige danskere er billedet en smuk påmindelse om de naturlige fænomener på himlen, og det kan vække interesse for astronomi og kommende begivenheder som solformørkelsen.",
+      "pointer": [
+        "Fuldmånen i juli kaldes Buck Moon.",
+        "Bæltet af Venus er et atmosfærisk fænomen.",
+        "Jordens skygge er synlig ved måneopgang.",
+        "Der er en total solformørkelse den 12. august."
+      ],
+      "prio": 5
     },
     {
       "titel": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
@@ -4262,86 +4351,6 @@
         "Hemmelig NRO-mission torsdag."
       ],
       "prio": 5
-    },
-    {
-      "titel": "Upper C-band auction offers another lift for GEO industry",
-      "link": "https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/",
-      "dato": "2026-07-27T20:11:07+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostationary spacecraft and other transition costs. The post Upper C-band auction offers another lift for GEO industry appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SES-Press-Release_SES-Completes-Acquisition-of-Intelsat_image-scaled-1.jpg?fit=1024%2C576&amp;ssl=1",
-      "billede_alt": "SES’s Betzdorf headquarters in Luxembourg, shown here with its satellite antenna field, anchors the company’s global operations following its Intelsat acquisition.",
-      "kategori": "Politik & penge",
-      "rubrik": "Milliarder på spil i FCC's C-bånd-auktion",
-      "resume_da": "Satellitoperatører ser frem til over 6 milliarder dollars for at rydde C-båndsspektrum til FCC's auktion i 2024.",
-      "sektioner": [
-        {
-          "overskrift": "Stort beløb til rydning",
-          "tekst": "Satellitoperatører kan få mere end **6 milliarder dollars** for hurtigt at rydde det øvre C-båndsspektrum. FCC planlægger at auktionere spektret næste år."
-        },
-        {
-          "overskrift": "Milliarder til nye satellitter",
-          "tekst": "Der er også milliarder af dollars øremærket til nye geostationære rumfartøjer. Pengene skal dække omstillingsomkostningerne."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "over 6 milliarder dollars",
-          "label": "rydning af C-bånd"
-        }
-      ],
-      "detaljer": [
-        "FCC ønsker at auktionere det øvre C-bånd i 2024.",
-        "Satellitoperatører modtager betaling for at frigøre spektret."
-      ],
-      "betydning": "Auktionen kan frigøre mere spektrum til 5G og mobilt bredbånd, hvilket kan forbedre dækningen og hastigheden i Danmark.",
-      "pointer": [
-        "Satellitfirmaer tjener kassen på spektrumrydning.",
-        "Ny geostationære satellitter skal bygges.",
-        "Spektret kan bruges til bedre mobilnet."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "What Australian lakes showed us about Martian hydrology",
-      "link": "https://phys.org/news/2026-07-australian-lakes-martian-hydrology.html",
-      "dato": "2026-07-27T19:40:06+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "The expansive red bluffs of Western Australia's Yilgarn Craton give the landscape a Martian appearance. It turns out the resemblance is more than superficial: The Yilgarn Craton also shares geological characteristics with lakes in Mars' Terra Sirenum region. T. A. Plattner and colleagues recently characterized those shared features to shed light on the region's aqueous history and its potential to",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-australian-lakes.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Australske søer afslører Mars' vandhistorie",
-      "resume_da": "Forskere har fundet ligheder mellem søer i Australien og Mars, hvilket kan fortælle om vandets rolle på Mars.",
-      "sektioner": [
-        {
-          "overskrift": "Mars-lignende landskab i Australien",
-          "tekst": "De røde klipper i det vestlige Australiens Yilgarn Craton ligner Mars' overflade. Forskere har opdaget, at området også deler geologiske træk med søer i Mars' Terra Sirenum-region."
-        },
-        {
-          "overskrift": "Fælles træk undersøgt",
-          "tekst": "T. A. Plattner og kolleger analyserede disse fælles træk for at forstå områdets vandhistorie. Resultaterne er offentliggjort i tidsskriftet *Earth and Space Science*."
-        },
-        {
-          "overskrift": "Muligt liv på Mars",
-          "tekst": "Studiet kan også kaste lys over, om Terra Sirenum engang har kunnet understøtte liv. Lighederne med australske søer giver vigtige ledetråde."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Yilgarn Craton i Australien har et Mars-lignende udseende.",
-        "Området deler geologiske træk med Mars' Terra Sirenum-søer.",
-        "Forskningen er udført af T. A. Plattner og offentliggjort i *Earth and Space Science*.",
-        "Formålet er at forstå vandets historie og potentialet for liv på Mars."
-      ],
-      "betydning": "For almindelige danskere viser studiet, hvordan jordiske landskaber kan hjælpe os med at forstå Mars' fortid – og dermed chancen for, at der har eksisteret liv på den røde planet.",
-      "pointer": [
-        "Australske søer minder om Mars-søer",
-        "Hjælper med at forstå Mars' vandhistorie",
-        "Kan indikere tidligere betingelser for liv",
-        "Forskning offentliggjort i videnskabeligt tidsskrift"
-      ],
-      "prio": 6
     }
   ]
 }
