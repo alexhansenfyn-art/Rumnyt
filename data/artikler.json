@@ -1,7 +1,62 @@
 {
-  "opdateret": "2026-08-01T20:13:23.695112+00:00",
+  "opdateret": "2026-08-02T07:40:28.621578+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Boeing’s Starliner set for potential 2026 cargo run to ISS",
+      "link": "https://www.nasaspaceflight.com/2026/08/boeing-starliner-2026-iss/",
+      "dato": "2026-08-01T22:26:30+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "Boeing CEO Kelly Ortberg has noted redesign work on the company’s CST-100 Starliner spacecraft is&#8230; The post Boeing&#8217;s Starliner set for potential 2026 cargo run to ISS appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-01-22-12-28-760.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Starliner kan flyve last til rumstationen i 2026",
+      "resume_da": "Boeings Starliner er under ombygning efter problemer, og et ubemandet lastflyvning til ISS kan ske i 2026, hvis NASA og mange andre forhold går op.",
+      "sektioner": [
+        {
+          "overskrift": "Store problemer bag dem",
+          "tekst": "Starliner har haft mange tekniske problemer. I 2019 nåede den ikke rumstationen, og i 2024 måtte astronauter vende hjem med SpaceX i stedet. NASA har kaldt hændelsen for en alvorlig ulykke."
+        },
+        {
+          "overskrift": "Ny plan på vej",
+          "tekst": "Boeings direktør siger, at ombygningen går godt. Næste flyvning bliver ubemandet og skal bringe last til ISS. Men først skal NASA godkende alt, og der er ikke mange ledige pladser ved stationen."
+        },
+        {
+          "overskrift": "Kampen mod tiden",
+          "tekst": "Rumstationen lukker i 2030, og der er kun to dockingspladser til Starliner. De er ofte optaget af andre rumfartøjer. Det kan blive svært at finde et ledigt vindue til 2026."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2014",
+          "label": "År kontrakten blev givet"
+        },
+        {
+          "tal": "2019",
+          "label": "Første testflyvning uden besætning"
+        },
+        {
+          "tal": "2026",
+          "label": "Tidligst muligt for lastflyvning"
+        }
+      ],
+      "detaljer": [
+        "Starliner er udviklet til at bringe astronauter til ISS.",
+        "Crew Flight Test i 2024 førte til, at astronauter vendte hjem med SpaceX.",
+        "NASA betragter problemerne som en alvorlig hændelse.",
+        "Boeing arbejder på at rette op på thruster- og heliumproblemer.",
+        "Rumstationen skal operere frem til 2030."
+      ],
+      "betydning": "For almindelige mennesker betyder det, at NASA kan få en ekstra mulighed for at sende last og i fremtiden måske folk til rummet. Det er vigtigt for fortsat forskning og samarbejde i rummet.",
+      "pointer": [
+        "Starliner har haft tekniske problemer i flere år.",
+        "Næste flyvning bliver uden besætning, kun med last.",
+        "Målet er en mission i 2026, men det kræver NASA's godkendelse.",
+        "Der er travlt med pladser ved rumstationen."
+      ],
+      "prio": 6
+    },
     {
       "titel": "China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat",
       "link": "https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/",
@@ -4283,58 +4338,6 @@
         "Kan ændre teorier om sorte huller"
       ],
       "prio": 5
-    },
-    {
-      "titel": "NASA Science Soars During August Total Solar Eclipse",
-      "link": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/",
-      "dato": "2026-07-27T18:01:14+00:00",
-      "kilde": "NASA",
-      "resume": "Each time the Moon covers the Sun during a total solar eclipse — darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona — it presents new opportunities to better understand our star and its influence on Earth. On Wednesday, Aug. 12, as the next total solar eclipse sweeps over Greenland, Iceland, […]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse-2024/Eclipse_SwRI_mosaic_processed.jpg?w=8960&#038;h=5040&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "NASA-fly og balloner jagter solformørkelse",
-      "resume_da": "Den 12. august 2026 skygger Månen Solen over Grønland, Island og Spanien. NASA sender et højtflyvende jetfly og videnskabelige balloner op for at studere solens yderste atmosfære og jordens atmosfære.",
-      "sektioner": [
-        {
-          "overskrift": "Jetfly følger månens skygge",
-          "tekst": "NASA's WB-57-fly flyver i **50.000 fods** højde for at observere solkoronaen i næsten **3 minutter**, længere end de **2 minutter og 18 sekunder** på jorden. Flyet har fire kameraer, der tager **20 billeder i sekundet** for at studere koronaens struktur og varme."
-        },
-        {
-          "overskrift": "Balloner overvåger atmosfæren",
-          "tekst": "Studerende fra amerikanske universiteter sender **80 balloner** op fra Island for at måle, hvordan formørkelsen påvirker jordens grænselag. Målet er at se, om grænselaget kollapser under formørkelsen, ligesom det skete ved tidligere formørkelser."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "50.000 fod",
-          "label": "Flyets flyvehøjde"
-        },
-        {
-          "tal": "20 billeder/sek",
-          "label": "Kameraets hastighed"
-        },
-        {
-          "tal": "80 balloner",
-          "label": "Antal balloner fra Island"
-        }
-      ],
-      "detaljer": [
-        "Formørkelsen finder sted 12. august 2026.",
-        "NASA's WB-57-jetfly bærer instrumentet SCIFLI Multispectral Airborne Imager (SAMI).",
-        "Flyet kan observere infrarøde bølgelængder, der normalt absorberes af atmosfæren.",
-        "Ballonprojektet ledes af Montana State University og University of Idaho.",
-        "Ballonerne opsendes 18 timer før til 8 timer efter formørkelsen.",
-        "Tidligere ballonflyvninger viste grænselagskollaps ved klart vejr, men ikke ved skyet."
-      ],
-      "betydning": "Solformørkelser giver forskere en unik mulighed for at studere solens korona og dens påvirkning af jordens atmosfære, hvilket forbedrer vores forståelse af rumvejr og dets effekt på satellitter og teknologi.",
-      "pointer": [
-        "NASA jager solformørkelse med jetfly og balloner",
-        "Flyet ser koronaen i 3 minutter i 50.000 fods højde",
-        "80 balloner måler atmosfæriske forandringer over Island",
-        "Studiet hjælper med at forstå solens indflydelse på Jorden"
-      ],
-      "prio": 4
     }
   ]
 }
