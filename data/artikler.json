@@ -1,7 +1,491 @@
 {
-  "opdateret": "2026-08-03T10:56:49.805189+00:00",
+  "opdateret": "2026-08-03T18:28:12.321860+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Jupiter's moon Europa may have signs of life in its buried ocean — but can we get to them?",
+      "link": "https://www.space.com/space-exploration/search-for-life/jupiters-moon-europa-may-have-signs-of-life-in-its-buried-ocean-but-can-we-get-to-them",
+      "dato": "2026-08-03T18:12:21+00:00",
+      "kilde": "Space.com",
+      "resume": "\"This helps future missions interpret what they find and better understand where to look for signs of habitability.\"",
+      "billede": "https://cdn.mos.cms.futurecdn.net/mMKyq5QhRCoRDN5mMA7aUM-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Jupiters måne Europa kan skjule liv i sit ocean",
+      "resume_da": "Forskere mener, at Jupiters måne Europa har et underjordisk ocean, der kan rumme liv. Men spørgsmålet er, om vi nogensinde kan nå det.",
+      "sektioner": [
+        {
+          "overskrift": "Potentiale for liv",
+          "tekst": "Europa har et ocean under sin iskappe, som kan indeholde de rette betingelser for liv. Forskere er spændte på, hvad der gemmer sig der."
+        },
+        {
+          "overskrift": "Udfordringer med adgang",
+          "tekst": "At bore gennem isen og udforske oceanet er en teknologisk udfordring. Vi har endnu ikke udstyret til at gøre det sikkert."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Europa er en af Jupiters måner.",
+        "Oceanet ligger under isen.",
+        "Forskere undersøger muligheden for liv."
+      ],
+      "betydning": "Hvis der findes liv på Europa, vil det ændre vores forståelse af, hvor liv kan opstå i universet. Det kan også påvirke, hvordan vi leder efter liv andre steder.",
+      "pointer": [
+        "Europa har et underjordisk ocean",
+        "Oceanet kan rumme liv",
+        "Teknologien er endnu ikke klar",
+        "Missioner er under planlægning"
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Guinea-Bissau Tidal Waters",
+      "link": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/",
+      "dato": "2026-08-03T17:15:39+00:00",
+      "kilde": "NASA",
+      "resume": "Twice each day, tides ebb and flow through a maze of sandy channels, mudflats, and mangrove forests that flank the 88 islands and islets of Guinea-Bissau&#8217;s&#160;Bijagós Archipelago&#160;(Arquipélago dos Bijagós in Portuguese). Seen from above in this image from Nov. 28, 2025, the process leads to stark changes to the landscape: around low tide,&#160;intertidal&#160;mudflats and sandflats [&#",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/bijagosarchipelago-oli-20251128-lrg.jpg?w=2048",
+      "billede_alt": "A satellite image shows a cluster of green islands surrounded by beige sand flats and networks of channels full of dark blue water.",
+      "kategori": "Forskning",
+      "rubrik": "Guinea-Bissaus tidevand skaber foranderlige øer",
+      "resume_da": "Nye NASA-billeder viser, hvordan tidevandet dramatisk ændrer øerne i Bijagós-arkipelaget i Guinea-Bissau, hvor mudderflader kommer frem ved lavvande.",
+      "sektioner": [
+        {
+          "overskrift": "Tidevandets dans",
+          "tekst": "To gange dagligt skifter tidevandet i et område med sandkanaler, mudderflader og mangroveskove omkring de 88 øer i Bijagós-arkipelaget. Billedet fra 28. november 2025 viser de store forandringer, der sker ved lavvande, hvor store mudder- og sandflader kommer frem."
+        },
+        {
+          "overskrift": "Øer vokser og skrumper",
+          "tekst": "Ved lavvande vokser øerne markant, fordi de ellers oversvømmede flader bliver synlige. Timer senere forsvinder de igen, når tidevandet stiger. Dette fænomen er med til at forme landskabet og livet i området."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "88",
+          "label": "Antal øer i arkipelaget"
+        },
+        {
+          "tal": "28. november 2025",
+          "label": "Dato for billedet"
+        }
+      ],
+      "detaljer": [
+        "Billedet er taget af NASA og USGS.",
+        "Området har både sandkanaler, mudderflader og mangroveskove.",
+        "Ved lavvande bliver øerne større.",
+        "Tidevandet skifter to gange dagligt."
+      ],
+      "betydning": "Billederne hjælper forskere med at forstå, hvordan tidevand påvirker kystområder og økosystemer, hvilket er vigtigt for at forudsige ændringer i andre lignende områder.",
+      "pointer": [
+        "Tidevand ændrer øernes udseende dramatisk.",
+        "Mudderflader kommer frem ved lavvande.",
+        "Området har 88 øer og islets.",
+        "NASA overvåger ændringerne fra rummet."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
+      "link": "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/",
+      "dato": "2026-08-03T16:06:47+00:00",
+      "kilde": "SpaceNews",
+      "resume": "EchoStar’s Hughes geostationary satellite broadband business has filed for bankruptcy in the United States after years of mounting competition from SpaceX’s Starlink constellation. The post Hughes files for bankruptcy after GEO business loses ground to Starlink appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/01/J-3-satellite--scaled.jpg?fit=1024%2C763&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Hughes konkurs efter Starlink-konkurrence",
+      "resume_da": "EchoStars satellitbredbåndsfirma Hughes er gået konkurs i USA efter pres fra SpaceX' Starlink.",
+      "sektioner": [
+        {
+          "overskrift": "Konkurs efter konkurrence",
+          "tekst": "Hughes, der ejes af EchoStar, har indgivet konkursbegæring i USA. Firmaet har tabt terræn til SpaceX' Starlink gennem flere år. Starlink har tilbudt hurtigere og mere pålideligt internet."
+        },
+        {
+          "overskrift": "Starlink vinder frem",
+          "tekst": "Starlink har tiltrukket mange kunder, der før brugte Hughes. Hughes' geostationære satellitter har høj latency og lavere hastighed. Det har gjort produktet mindre attraktivt."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Hughes er en del af EchoStar.",
+        "Firmaet har filial i USA.",
+        "Konkurrencen fra Starlink er årsagen."
+      ],
+      "betydning": "For almindelige danskere betyder det, at markedet for satellitinternet ændrer sig – Starlink vinder frem, og ældre udbydere som Hughes får sværere ved at klare sig.",
+      "pointer": [
+        "Hughes konkurs.",
+        "Starlink pres.",
+        "Ændret marked."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Study lays groundwork for classifying lunar soil",
+      "link": "https://phys.org/news/2026-08-lays-groundwork-lunar-soil.html",
+      "dato": "2026-08-03T14:40:06+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "As we move closer to supporting a sustainable human presence on the moon, researchers are investigating how its soils can provide valuable resources and even grow food. An article in the Soil Science Society of America Journal proposes a classification framework to help scientists better understand lunar soils. This emerging science of \"planetary pedology,\" the study and classification of soils be",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-lays-groundwork.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Ny metode til at klassificere månejord",
+      "resume_da": "Forskere foreslår et klassifikationssystem for månejord for at hjælpe fremtidige missioner med at finde de bedste steder til byggeri, udvinding og dyrkning.",
+      "sektioner": [
+        {
+          "overskrift": "Månejord som ressource",
+          "tekst": "Forskere arbejder på at forstå månejordens egenskaber, så den kan bruges til at støtte en fast tilstedeværelse på månen. Jord fra månen kan give værdifulde materialer og måske endda bruges til at dyrke planter."
+        },
+        {
+          "overskrift": "Nyt klassifikationssystem",
+          "tekst": "Artiklen foreslår en ramme til at klassificere månejord. Det kaldes 'planetarisk pedologi' – studiet af jord uden for Jorden. Systemet kan hjælpe missioner med at vælge de bedste steder til byggeri og udvinding."
+        },
+        {
+          "overskrift": "Støtte til månebase",
+          "tekst": "En bedre forståelse af månejord kan gøre det lettere at etablere en permanent base på månen. Det kan også hjælpe med at sikre, at ressourcerne bruges optimalt."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Artiklen er publiceret i Soil Science Society of America Journal.",
+        "Månejord kan måske bruges til at dyrke mad.",
+        "Forskere kalder feltet for 'planetarisk pedologi'."
+      ],
+      "betydning": "For almindelige danskere kan dette betyde, at fremtidige rummissioner bliver mere bæredygtige, hvilket kan føre til ny viden og teknologi, der også kan komme os til gode på Jorden.",
+      "pointer": [
+        "Ny metode til at klassificere månejord.",
+        "Månejord kan blive en ressource for fremtidige månebaser.",
+        "Forskere vil finde de bedste steder til byggeri og landbrug på månen.",
+        "Understøtter langsigtet beboelse af månen."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Pluto's hazy atmosphere may be collapsing as it moves farther from the sun",
+      "link": "https://phys.org/news/2026-08-pluto-hazy-atmosphere-collapsing-sun.html",
+      "dato": "2026-08-03T14:40:04+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Pluto is on an icy march away from the sun. In 2114, it will turn back, but until then, its elliptical orbit will carry it to colder and darker parts of the outer solar system. This is Pluto's first time entering the outer solar system since its 1930 discovery, and along this journey, its atmosphere could slowly freeze out.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/plutos-atmosphere-hazy.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Plutos disede atmosfære kan kollapse",
+      "resume_da": "Pluto bevæger sig længere væk fra Solen, og dens atmosfære kan fryse fast. Det sker, når dværgplaneten når de yderste egne af solsystemet.",
+      "sektioner": [
+        {
+          "overskrift": "Plutos lange rejse",
+          "tekst": "Pluto er på vej væk fra Solen på sin elliptiske bane. I år 2114 vender den tilbage, men indtil da bliver det koldere og mørkere. Det er første gang siden opdagelsen i 1930, at Pluto er så langt ude."
+        },
+        {
+          "overskrift": "Atmosfæren kan fryse",
+          "tekst": "På rejsen ud i solsystemet kan Plutos atmosfære langsomt fryse til. Det sker, fordi den får mindre sollys og varme."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2114",
+          "label": "År, hvor Pluto vender tilbage"
+        },
+        {
+          "tal": "1930",
+          "label": "År, hvor Pluto blev opdaget"
+        }
+      ],
+      "detaljer": [
+        "Pluto er på vej væk fra Solen.",
+        "I 2114 vender den tilbage mod Solen.",
+        "Plutos bane er elliptisk.",
+        "Det er første gang, Pluto er i de ydre egne siden 1930.",
+        "Atmosfæren kan fryse ud."
+      ],
+      "betydning": "Det viser, at selv fjerne himmellegemer ændrer sig over tid, og at rumforskning kan fortælle os om solsystemets udvikling.",
+      "pointer": [
+        "Pluto bevæger sig længere væk fra Solen.",
+        "I 2114 vender den tilbage.",
+        "Atmosfæren kan fryse fast.",
+        "Siden 1930 har den ikke været så langt ude."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "NASA Delivers Navigation System for Commercial Lunar Relay",
+      "link": "https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/",
+      "dato": "2026-08-03T14:20:26+00:00",
+      "kilde": "NASA",
+      "resume": "NASA delivered the NavCube3-mini payload&#160;on&#160;July 13&#160;to Intuitive Machines for integration into&#160;Altus-1,&#160;the company’s&#160;first&#160;lunar relay&#160;satellite, marking an important milestone in the development of future&#160;lunar&#160;communications and navigation services.&#160;The lunar relays are designed to enable communications&#160;and navigation&#160;for astronau",
+      "billede": "https://www.youtube.com/embed/uqK395zx0H8",
+      "billede_alt": "The Moon&#039;s rugged surface is on display in this image. Most of the Moon is visible, with the bottom of the sphere disappearing into the darkness. This line between light and dark is called the te",
+      "kategori": "Missioner",
+      "rubrik": "NASA leverer navigationsudstyr til månerelæ",
+      "resume_da": "NASA har leveret et kompakt navigationssystem til Intuitive Machines' første månerelæsatellit. Systemet skal teste GPS-navigation på Månen.",
+      "sektioner": [
+        {
+          "overskrift": "Lille enhed, stor betydning",
+          "tekst": "NavCube3-mini er på størrelse med en skotøjsæske og vejer kun **3,5 pund**. Den bruger under **20 watt**, som en laptop, og kan bestemme rumfartøjers præcise position langt fra Jorden."
+        },
+        {
+          "overskrift": "Testet til rummet",
+          "tekst": "Enheden blev testet grundigt hos NASA, inklusive vibrationstest, vakuumtest og elektromagnetisk kompatibilitetstest. Den skal nu integreres i Altus-1, den første i et netværk af månerelæsatellitter."
+        },
+        {
+          "overskrift": "Fremtidens månekommunikation",
+          "tekst": "Relæsatellitterne skal sikre kommunikation og navigation for fremtidige missioner, især ved Månens sydpol, hvor astronauter skal lande i 2028. Målet er at støtte en varig menneskelig tilstedeværelse på Månen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "3,5 pund",
+          "label": "Vægt af NavCube3-mini"
+        },
+        {
+          "tal": "20 watt",
+          "label": "Strømforbrug"
+        },
+        {
+          "tal": "2028",
+          "label": "År for månelanding"
+        }
+      ],
+      "detaljer": [
+        "NavCube3-mini er en navigationsmodtager, der bruger GPS- og Galileo-signaler fra Jorden.",
+        "Altus-1 er Intuitive Machines' første månerelæsatellit.",
+        "Relæsatellitter skal forbedre kommunikation og navigation for astronauter og robotter på Månen.",
+        "Systemet er et teknologidemonstrationsprojekt for fremtidig månenavigation."
+      ],
+      "betydning": "For almindelige danskere betyder denne teknologi, at fremtidige månefarter kan blive sikrere og mere effektive. Det baner vejen for mere rumforskning og kommercielle aktiviteter i rummet.",
+      "pointer": [
+        "NASA leverer kompakt navigationsenhed til månemission.",
+        "Enheden er på størrelse med en skotøjsæske og vejer 3,5 pund.",
+        "Den skal testes på Altus-1, en månerelæsatellit.",
+        "Målet er at støtte astronauter ved Månens sydpol i 2028."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Ike Theriot Helps Prepare Astronauts to Work on the Moon",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/ike-theriot-helps-prepare-astronauts-to-work-on-the-moon/",
+      "dato": "2026-08-03T14:00:00+00:00",
+      "kilde": "NASA",
+      "resume": "From serving in the U.S. Army to helping prepare astronauts to explore the lunar surface, Ike Theriot built a path to NASA&#160;through discipline and determination.&#160; Theriot serves as the&#160;Flight Operations Surface Testing&#160;lead in the&#160;Exploration Extravehicular Activity&#160;Operations Branch within the EVA, Robotics, and Crew Operations Division at NASA’s Johnson Space Center ",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/dsc-4954-copy.jpg?w=1536",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Han gør klar til månevandring",
+      "resume_da": "Mød Ike Theriot, som øver månevandringer i pools og kraterlandskaber, så astronauterne er klar til at gå på Månen.",
+      "sektioner": [
+        {
+          "overskrift": "Træning i pool og krater",
+          "tekst": "Ike Theriot laver test og øvelser, der minder om Månen. Han bruger en kæmpe pool til at simulere vægtløshed og et krater i Canada, der ligner Månens overflade. Han træner også med astronauter fra Artemis II-missionen."
+        },
+        {
+          "overskrift": "Fra soldat til NASA",
+          "tekst": "Theriot startede i hæren og blev interesseret i rumfart, da han arbejdede med satellitter i Irak. Han tog ingeniøruddannelse og kom til NASA i 2016 som praktikant. I 2019 fik han fast job, lige da NASA genoptog planerne om at sende folk til Månen."
+        },
+        {
+          "overskrift": "Rumdragter og lys",
+          "tekst": "Han har testet rumdragter og lysforhold, der skal bruges på Månen. Testene hjælper med at lave procedurer, så astronauterne kan arbejde sikkert. Han er også med til at træne fremtidens eksperter i overfladeoperationer."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "40-fod dyb pool",
+          "label": "Poolens dybde til træning"
+        },
+        {
+          "tal": "36 millioner år",
+          "label": "Kraterets alder"
+        }
+      ],
+      "detaljer": [
+        "Theriot er leder for overfladetest i NASAs afdeling for EVA, robotter og besætningsoperationer.",
+        "Han har udviklet Lunar Grid Reference System til navigation på Månen.",
+        "Han er certificeret flyveleder og blev for nylig udvalgt som capcom (stemmen mellem kontrolcenter og astronauter).",
+        "Han trænede med Artemis II-besætningen ved Kamestastin-krateret i Canada."
+      ],
+      "betydning": "Historien viser, hvordan NASA forbereder astronauter til at bo og arbejde på Månen, hvilket er vigtigt for fremtidige månefærd og dansk interesse i rumfart.",
+      "pointer": [
+        "Theriot øver månevandringer i pool og i kraterlandskab.",
+        "Han kom til NASA efter en karriere i hæren.",
+        "Han tester rumdragter og udstyr til Månen.",
+        "Han er med til at træne astronauter og missionseksperter."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA Brings Space Exploration to the FIFA World Cup",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-brings-space-exploration-to-the-fifa-world-cup/",
+      "dato": "2026-08-03T13:55:32+00:00",
+      "kilde": "NASA",
+      "resume": "From June 11 through July 19,&#160;NASA’s&#160;free interactive exhibit at FIFA Fan Festival™ brought space exploration to soccer fans in East Downtown Houston.&#160;&#160; More than 500,000 visitors explored&#160;the&#160;exhibit during the tournament, learning how the agency’s missions, research, and technology benefit life on Earth.&#160;&#160; The exhibit introduced a global audience to the&#1",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/jsc2026e401979.jpg?w=1536",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "NASA inviterede VM-fans til rumfartsudstilling",
+      "resume_da": "NASA havde en interaktiv udstilling ved FIFA Fan Festival i Houston i juni og juli 2026. Over 500.000 besøgende fik indblik i rumfart og mødte astronauter.",
+      "sektioner": [
+        {
+          "overskrift": "Udstillingen trak mange besøgende",
+          "tekst": "Fra 11. juni til 19. juli 2026 viste NASA en gratis udstilling ved FIFA Fan Festival i Houston. Mere end **500.000** besøgende oplevede udstillingen, som handlede om, hvordan NASA's missioner og forskning gavner livet på Jorden."
+        },
+        {
+          "overskrift": "Astronauter som æresgæster",
+          "tekst": "Den 20. juni 2026 deltog Artemis II-kommandør Reid Wiseman og pilot Victor Glover i VM-aktiviteter som stadionkaptajner forud for kampen mellem Holland og Sverige. De fik stående ovationer fra over **67.000** fans på NRG Stadium."
+        },
+        {
+          "overskrift": "Rumfart og fodbold forbindes",
+          "tekst": "NASA lavede en undervisningsvideo sammen med Adidas om, hvordan fysik i rummet og på banen hænger sammen. Ekspedition 74 sendte hilsner fra rumstationen, og ESA-astronauten Sophie Adenot optog en særlig rækkeøvelse i rummet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "500.000+",
+          "label": "Besøgende på udstillingen"
+        },
+        {
+          "tal": "67.000",
+          "label": "Fans ved kampen med astronauter"
+        },
+        {
+          "tal": "40 dage",
+          "label": "Varighed af festivalen"
+        }
+      ],
+      "detaljer": [
+        "Udstillingen omfattede en Orion-rumfartøjsmodel, en model af Den Internationale Rumstation og en måne-rover-simulator.",
+        "Besøgende kunne se NASA's astronautdragter og astromaterialer samt billeder fra Hubble-teleskopet.",
+        "Der var også en udstilling om, hvordan astronauter kan bo og arbejde på Månen under fremtidige Artemis-missioner.",
+        "Fans kunne prøve at køre en simuleret måne-rover på en virtuel måneoverflade."
+      ],
+      "betydning": "Udstillingen viste almindelige mennesker, hvordan rumforskning kan inspirere og have betydning for hverdagen. Den knyttede forbindelse mellem sport og videnskab på en måde, der kan øge interessen for rumfart.",
+      "pointer": [
+        "NASA udstilling ved VM i fodbold i Houston",
+        "Mere end 500.000 besøgende",
+        "Artemis-astronauter deltog og fik stående ovationer",
+        "Samarbejde med Adidas om undervisningsvideo"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Airbus and Thales win order for SpainSat replacement",
+      "link": "https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/",
+      "dato": "2026-08-03T12:15:34+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Airbus Defence and Space and Thales Alenia Space will build a replacement military communications satellite for Spain as they, along with Leonardo, continue efforts on a space joint venture. The post Airbus and Thales win order for SpainSat replacement appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/spainsat-ng3.jpeg?fit=1024%2C745&amp;ssl=1",
+      "billede_alt": "SpainSat NG 3",
+      "kategori": "Politik & penge",
+      "rubrik": "Airbus og Thales skal bygge ny spansk militærsatellit",
+      "resume_da": "Airbus og Thales Alenia Space vinder ordre på en ny spansk militærkommunikationssatellit, der skal erstatte SpainSat. Det er et led i deres planer om et rumfarts-fællesskab med Leonardo.",
+      "sektioner": [
+        {
+          "overskrift": "Ny satellit til Spanien",
+          "tekst": "Airbus Defence and Space og Thales Alenia Space skal bygge en ny militær kommunikationssatellit for Spanien. Den nye satellit skal erstatte den eksisterende SpainSat. Ordren kommer samtidig med, at de to selskaber sammen med Leonardo arbejder på et fælles rumfartssamarbejde."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1",
+          "label": "ny satellit"
+        }
+      ],
+      "detaljer": [
+        "Airbus og Thales vinder ordre på SpainSat-erstatning",
+        "Ordren er til en militær kommunikationssatellit",
+        "Samarbejde med Leonardo om rumfart"
+      ],
+      "betydning": "For en almindelig dansker viser det, at Europa satser på militær rumteknologi, hvilket kan have betydning for sikkerhed og forsvar i hele EU, herunder Danmark.",
+      "pointer": [
+        "Airbus og Thales bygger ny spansk militærsatellit",
+        "Satellitten skal erstatte SpainSat",
+        "De arbejder også på fælles satsning med Leonardo"
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "A 21-hour dip could help explain Tabby's star's decade-long dimming mystery",
+      "link": "https://phys.org/news/2026-07-hour-dip-tabby-star-decade.html",
+      "dato": "2026-08-03T12:00:05+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Since 2016, an ordinary-looking F-type star called KIC 8462852, nicknamed Tabby's star, has behaved anything but ordinarily. In a new study published in the Monthly Notices of the Royal Astronomical Society on July 6, researchers revisited this star to find out what is really causing its irregular dimming.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-companion-may-e-2.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Nyt spor i mysteriet om Tabby's stjernes mærkelige dæmpning",
+      "resume_da": "Forskere har fundet en 21-timers dæmpning i Tabby's stjerne, hvilket kan hjælpe med at forklare dens mystiske lysvariationer over ti år. Studien offentliggjort 6. juli giver nye ledetråde.",
+      "sektioner": [
+        {
+          "overskrift": "Et nyt spor",
+          "tekst": "Siden 2016 har stjernen KIC 8462852, også kaldet Tabby's stjerne, opført sig mærkeligt med uregelmæssige dæmpninger. I en ny undersøgelse har forskerne genbesøgt stjernen og fundet en specifik dæmpning, der varer **21 timer**. Det kan være med til at forklare de længerevarende ændringer i lyset."
+        },
+        {
+          "overskrift": "Hvad sker der?",
+          "tekst": "Tidligere forklaringer har blandt andet været kometstøv eller endda en fremmed megastruktur. Den nye opdagelse giver vigtige data om, hvordan stjernens lys varierer over tid. Forskerne har præsenteret resultaterne i tidsskriftet Monthly Notices of the Royal Astronomical Society."
+        },
+        {
+          "overskrift": "Uregelmæssig dæmpning",
+          "tekst": "Den nye undersøgelse fokuserer på den korte dæmpning, der kan give fingerpeg om, hvad der forårsager de længerevarende fald i lysstyrke. Selvom der stadig er mange ubesvarede spørgsmål, bidrager studiet med nye observationer, der kan hjælpe med at afdække stjernens hemmeligheder."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "21 timer",
+          "label": "varighed af den nye dæmpning"
+        },
+        {
+          "tal": "2016",
+          "label": "år, hvor stjernen begyndte at opføre sig mærkeligt"
+        }
+      ],
+      "detaljer": [
+        "Stjernen hedder KIC 8462852",
+        "Den er en F-type stjerne",
+        "Dæmpningen blev præsenteret i Monthly Notices of the Royal Astronomical Society",
+        "Studiet blev offentliggjort 6. juli"
+      ],
+      "betydning": "Mange danskere har hørt om Tabby's stjerne, og mysteriet har været med til at vække interesse for astronomi. Ny viden om stjernens adfærd kan give os en bedre forståelse af stjerner og universet, og måske inspirere til flere opdagelser.",
+      "pointer": [
+        "Tabby's stjerne har dæmpet uregelmæssigt i årevis",
+        "Ny forskning peger på en 21-timers hændelse",
+        "Resultaterne er offentliggjort i et anerkendt tidsskrift",
+        "Mysteriet er ikke fuldt opklaret"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "What happens to a moon when its planet is stolen?",
+      "link": "https://phys.org/news/2026-08-moon-planet-stolen.html",
+      "dato": "2026-08-03T12:00:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "We have known for a while that the Milky Way is full of homeless worlds. Rogue planets, free-floating planets—call them what you like—but they are planets formed in orderly systems around ordinary stars and then thrown out, either by a gravitational shove from a sibling planet or by a star that strayed too close. What has been much less clear is what happens to any moons they were carrying at the ",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-happens-to-a-moon-3.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Måner overlever planetens udsættelse",
+      "resume_da": "Nye forskere har undersøgt, hvad der sker med måner, når deres planet smides ud af stjernesystemet. Resultatet: De fleste måner overlever.",
+      "sektioner": [
+        {
+          "overskrift": "Hjemløse planeter",
+          "tekst": "Mælkevejen er fuld af 'hjemløse' planeter. De er dannet i systemer omkring stjerner, men er blevet slynget ud. Det sker ved gravitationel påvirkning fra søsterplaneter eller forbipasserende stjerner."
+        },
+        {
+          "overskrift": "Månernes skæbne",
+          "tekst": "Man har troet, at udsættelsen er så voldelig, at månerne ville gå tabt. Men nye undersøgelser viser, at de fleste måner faktisk overlever. Det er overraskende."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Rogue planets er planeter, der er slynget ud af deres oprindelige system.",
+        "Udsættelsen sker ved gravitationel påvirkning fra søsterplaneter eller nærgående stjerner.",
+        "Måner følger normalt med planeten."
+      ],
+      "betydning": "Det er vigtigt at forstå, hvordan planeter og måner dannes og udvikler sig i galaksen. Det kan også have betydning for, hvor mange måner der findes uden for solsystemet.",
+      "pointer": [
+        "Mælkevejen er fuld af hjemløse planeter.",
+        "Udsættelse er voldelig.",
+        "Måner overlever ofte.",
+        "Det er overraskende."
+      ],
+      "prio": 6
+    },
     {
       "titel": "AI is ready to run spacecraft. Is the space industry ready for it? (op-ed)",
       "link": "https://www.space.com/space-exploration/satellites/ai-is-ready-to-run-spacecraft-is-the-space-industry-ready-for-it",
@@ -41,6 +525,50 @@
         "AI kan revolutionere rumfart"
       ],
       "prio": 5
+    },
+    {
+      "titel": "APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/",
+      "dato": "2026-08-03T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APODScienceAPODAPOD: 2026 August 3 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Vaporizing Meteor Photobombs the Lacerta Nebula Explanation: What’s happening to th",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/MeteorGecko_Burnett_4944.jpg?w=4944&#038;h=3284&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A dark starfield has a faint red nebula near  the center. A bright streak crosses the image  horizontally from the lower left, filled with faint evaporating wisps in many colors.  Please see the expla",
+      "kategori": "Astronomi",
+      "rubrik": "Meteor fotobomber Lacerta-tågen",
+      "resume_da": "En lys meteor blev fanget på billede foran Lacerta-tågen. Meteoren fordamper og efterlader spor, der afslører dens sammensætning.",
+      "sektioner": [
+        {
+          "overskrift": "Billedet og meteoren",
+          "tekst": "Et langtidseksponeret billede viser en lys meteor, der kortvarigt optrådte foran Lacerta-tågen. Tågen ses svagt rødligt i midten. Meteoren kom sandsynligvis fra en lille sten."
+        },
+        {
+          "overskrift": "Hvordan meteoren lyser",
+          "tekst": "Meteoren lyser, fordi den varmer og exciterer luften i Jordens atmosfære. Den fordamper selv og efterlader gas og støv, hvis farver afslører dens sammensætning."
+        },
+        {
+          "overskrift": "Meteorsværme og Perseiderne",
+          "tekst": "I øjeblikket er der tre meteorsværme i gang, men de er svære at se på grund af en lys måne. Perseiderne vil være mest aktive om cirka ti dage, når månen er svagere."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "10 dage",
+          "label": "Tid til Perseidernes top"
+        }
+      ],
+      "detaljer": [
+        "Billedet er taget fra Death Valley Observatories i Nevada, USA.",
+        "Perseidernes top falder sammen med en ny måne og en total solformørkelse fra nogle steder."
+      ],
+      "betydning": "Det viser, hvordan amatører kan fange smukke rumfænomener, og at der er gode chancer for at se meteorer snart.",
+      "pointer": [
+        "Meteor fotobomber tågen.",
+        "Meteoren fordamper.",
+        "Perseiderne topper snart.",
+        "Månen generer lige nu."
+      ],
+      "prio": 4
     },
     {
       "titel": "APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula",
@@ -3814,530 +4342,6 @@
         "Staten har reduceret støtten."
       ],
       "prio": 6
-    },
-    {
-      "titel": "Ship 40’s flawless flight promotes next mission catch potential",
-      "link": "https://www.nasaspaceflight.com/2026/07/ship-40-catch-potential/",
-      "dato": "2026-07-28T17:33:20+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "SpaceX’s Starship Flight 13 demonstrated that the Ship can complete its mission and return intact,&#8230; The post Ship 40&#8217;s flawless flight promotes next mission catch potential appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/NSF-2026-07-28-17-55-41-344.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Starship Flight 13: Ship succes, booster smadret",
-      "resume_da": "SpaceX's Ship 40 fløj fejlfrit, overlevede landing i havet og flød intakt. Booster 20 styrtede ned under landing.",
-      "sektioner": [
-        {
-          "overskrift": "Ship 40's perfekte flyvning",
-          "tekst": "Ship 40 fløj fejlfrit fra start til slut. Den udsatte **20** Starlink V3-satellitter og gennemførte genindtræden og landing uden problemer. Skibet flød intakt i Det Indiske Ocean efter landing."
-        },
-        {
-          "overskrift": "Booster 20's mislykkede landing",
-          "tekst": "Booster 20 forsøgte landing, men kun **10** af **13** center-motorer tændte. Boosteren ramte vandet med høj fart og eksploderede. Det var kun boosterens anden flyvning, så SpaceX vil lære af fejlen."
-        },
-        {
-          "overskrift": "FAA kræver ikke undersøgelse",
-          "tekst": "På trods af landingens fiasko kræver den amerikanske luftfartsmyndighed FAA ikke en officiel undersøgelse af Flight 13. Det skyldes formentlig, at der ikke var nogen risiko for offentligheden."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "33",
-          "label": "motorer på Super Heavy"
-        },
-        {
-          "tal": "10 af 13",
-          "label": "motorer tændte ved landing"
-        },
-        {
-          "tal": "20",
-          "label": "Starlink-satellitter udsat"
-        }
-      ],
-      "detaljer": [
-        "Første forsøg blev afbrudt pga. fire motorer, der ikke startede.",
-        "Andet forsøg blev aflyst pga. skyer, der blokerede observation af varmeskjold.",
-        "Tredje forsøg lykkedes den 24. juli med kun seks minutters forsinkelse.",
-        "Ship 40 flød intakt i havet og giver mulighed for at indsamle data om varmeskjoldet."
-      ],
-      "betydning": "Missionen viser, at Starship-shipet snart kan gøres genanvendeligt. Det bringer SpaceX tættere på målet om at sende store nyttelaster og mennesker til Månen og Mars.",
-      "pointer": [
-        "Ship 40 fløj perfekt og flød intakt.",
-        "Booster 20 styrtede ned i havet.",
-        "FAA kræver ikke undersøgelse.",
-        "Næste flyvning kan forsøge at fange boosteren."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Evidence of giant rings in Venus's atmosphere uncovered in archived observations",
-      "link": "https://phys.org/news/2026-07-evidence-giant-venus-atmosphere-uncovered.html",
-      "dato": "2026-07-28T15:40:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "In 2010, scientists waiting to use the William Herschel Telescope in the Canary Islands captured a brief 36 minutes of images of Venus. They were waiting for the sun to set so they could look at distant stars and dust disks around young stars. Consequently, little attention was paid to the data, which was filed away in the archives.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-ev.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Kæmperinge opdaget i Venus' atmosfære",
-      "resume_da": "Forskere har genfundet gamle data fra 2010, der viser gigantiske ringe i Venus' atmosfære.",
-      "sektioner": [
-        {
-          "overskrift": "Gamle data genopdaget",
-          "tekst": "I 2010 optog forskere **36 minutter** af billeder af Venus med William Herschel-teleskopet. Dataene blev gemt væk og først nu genfundet og analyseret."
-        },
-        {
-          "overskrift": "Kæmperinge i atmosfæren",
-          "tekst": "Analysen afslørede store ringstrukturer i Venus' atmosfære. Ringerne strækker sig over store afstande og er tidligere ukendte."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "36 minutter",
-          "label": "observationstid"
-        }
-      ],
-      "detaljer": [
-        "Observationer fra 2010 med William Herschel-teleskopet.",
-        "Data var arkiveret, indtil de nu blev genanalyseret.",
-        "Ringe i Venus' atmosfære er en ny opdagelse."
-      ],
-      "betydning": "Opdagelsen ændrer vores forståelse af Venus' atmosfære og kan hjælpe med at forstå vejrfænomener på andre planeter.",
-      "pointer": [
-        "Data fra 2010 gemt væk i arkiver.",
-        "Kun 36 minutters observation.",
-        "Store ringe i atmosfæren.",
-        "Ny viden om Venus."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "APOD: 2026 July 28 – Barnards Loop over Twin Volcanoes",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-28-barnards-loop-over-twin-volcanoes/",
-      "dato": "2026-07-28T15:30:58+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 July 28 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Barnards Loop [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/LoopVolcanos_Laserna_5815.jpg?w=5815&#038;h=4976&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A pair of snow topped volcanoes are seen in the distance. A background starry sky is seen behind them, with a red filamentary nebula looping around that appears to connect the two tops of the volcanoe",
-      "kategori": "Astronomi",
-      "rubrik": "Barnards Loop forbinder tvillingevulkaner",
-      "resume_da": "Et nyt billede fanger Barnards Loop som en glødende bue mellem de to vulkaner Parinacota og Pomerape i Bolivia.",
-      "sektioner": [
-        {
-          "overskrift": "Billedets historie",
-          "tekst": "Billedet blev taget i Bolivia i midten af april 2026 med flere eksponeringer fra samme sted. Det viser Barnards Loop som forbinder de to vulkaner Parinacota og Pomerape."
-        },
-        {
-          "overskrift": "Hvad billedet viser",
-          "tekst": "Udover Barnards Loop ses Oriontågen i midten, stjernen Betelgeuse til højre og Rosettetågen øverst til højre. Vulkanerne er ikke forbundet under jorden og har ikke haft udbrud i **1000 år**."
-        },
-        {
-          "overskrift": "Myten bag vulkanerne",
-          "tekst": "Ifølge gammel mytologi repræsenterer Parinacota og Pomerape en prins og prinsesse i en forbudt romance. Billedet forbinder dem visuelt gennem rummet."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Billedet er et sammensat foto taget samme dag og sted.",
-        "Barnards Loop er en stor glødende gasring i rummet.",
-        "Vulkanerne er ikke geologisk forbundet."
-      ],
-      "betydning": "Billedet viser, hvordan astrofotografering kan skabe smukke forbindelser mellem jordiske og himmelske fænomener.",
-      "pointer": [
-        "Barnards Loop forbinder visuelt to vulkaner i Bolivia.",
-        "Billedet inkluderer Oriontågen og Betelgeuse.",
-        "Vulkanerne har ikke haft udbrud i over 1000 år."
-      ],
-      "prio": 3
-    },
-    {
-      "titel": "Tabby's star may be orbited by a planetary-mass companion",
-      "link": "https://phys.org/news/2026-07-tabby-star-orbited-planetary-mass.html",
-      "dato": "2026-07-28T14:00:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "By analyzing data from NASA's Transiting Exoplanet Survey Satellite (TESS) and conducting new radial velocity measurements, U.K. and French astronomers have found evidence that the mysterious Tabby's star may be orbited by an object about nine times more massive than Jupiter. The new findings are published on the preprint server arXiv.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/tabbys-star-may-be-orb-1.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Tabby's star har muligvis en planet på størrelse med 9 Jupiter",
-      "resume_da": "Astronomer har fundet tegn på, at den mystiske Tabby's star har en følgesvend, der er ni gange så massiv som Jupiter.",
-      "sektioner": [
-        {
-          "overskrift": "Nye målinger",
-          "tekst": "Forskere fra Storbritannien og Frankrig har analyseret data fra NASAs TESS-rumteleskop og foretaget nye radialhastighedsmålinger. De fandt beviser for, at Tabby's star har en følgesvend."
-        },
-        {
-          "overskrift": "Massiv planet",
-          "tekst": "Objektet, der kredser om stjernen, er omkring **ni gange mere massivt** end Jupiter. Det tyder på, at det kan være en planet eller en brun dværg."
-        },
-        {
-          "overskrift": "Tabby's star",
-          "tekst": "Tabby's star er kendt for sine mystiske lysstyrkesvingninger, som tidligere har fået astronomer til at spekulere i om en såkaldt Dyson-sfære kunne være årsagen. De nye resultater giver en mere naturlig forklaring."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "9 gange Jupiter",
-          "label": "Masse af objektet"
-        }
-      ],
-      "detaljer": [
-        "Data fra TESS og nye radialhastighedsmålinger er anvendt.",
-        "Fundet er offentliggjort på preprint-serveren arXiv."
-      ],
-      "betydning": "Opdagelsen giver en mulig forklaring på Tabby's stars mystiske lysændringer og viser, hvordan TESS kan finde skjulte planeter omkring mærkelige stjerner.",
-      "pointer": [
-        "Tabby's star har en massiv følgesvend.",
-        "Objektet er 9 gange tungere end Jupiter.",
-        "Data fra TESS var afgørende."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Martian space suits will need to be 40% lighter",
-      "link": "https://phys.org/news/2026-07-martian-space-lighter.html",
-      "dato": "2026-07-28T13:40:05+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Long before a human ever sets foot on the Red Planet, we already know how harsh the environment is. Once a human finally does, the only things protecting them from that environment will be the infrastructure we've built there and the spacesuit that keeps them in a protective bubble. Unfortunately, modern spacesuits aren't built with Martian gravity, which is three-eighths of Earth's, in mind. To p",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/martian-space-suits-wi.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Mars-rumdragter skal være 40% lettere",
-      "resume_da": "Nye NASA-undersøgelser viser, at moderne rumdragter er for tunge til Mars' lave tyngdekraft. De skal reduceres med 40% for at være brugbare.",
-      "sektioner": [
-        {
-          "overskrift": "Tyngdekraftens udfordring",
-          "tekst": "Mars' tyngdekraft er kun **3/8** af Jordens. Det betyder, at en dragt, der vejer **100 kg** på Jorden, kun vejer **37,5 kg** på Mars. Men selv det er for tungt til effektiv bevægelse."
-        },
-        {
-          "overskrift": "Nye krav til design",
-          "tekst": "NASA og industriens ingeniører præsenterede på den 55. internationale konference om miljøsystemer (ICES) en analyse, der viser, at fremtidige Mars-dragter skal veje maksimalt **60 kg** på Jorden – en reduktion på **40%** i forhold til nuværende dragter."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "40%",
-          "label": "vægtreduktion nødvendig"
-        },
-        {
-          "tal": "3/8",
-          "label": "Mars' tyngdekraft ift. Jorden"
-        }
-      ],
-      "detaljer": [
-        "Nuværende generation af rumdragter er designet til Jordens tyngdekraft.",
-        "Mars' tyngdekraft er kun 3/8 af Jordens.",
-        "En dragt på 100 kg på Jorden vejer 37,5 kg på Mars.",
-        "NASA-industri-team præsenterede på ICES 2025.",
-        "Kravet om 40% vægtreduktion gælder for Mars-dragter."
-      ],
-      "betydning": "For almindelige danskere viser dette, at rumfart kræver avancerede materialer og design – en udfordring, der kan føre til teknologiske gennembrud med jordiske anvendelser.",
-      "pointer": [
-        "Nuværende rumdragter for tunge til Mars",
-        "40% vægtreduktion påkrævet",
-        "Mars' tyngdekraft er 3/8 af Jordens",
-        "Fremtidens Mars-dragter skal veje under 60 kg på Jorden"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Chicxulub's lingering dust may have turned falling debris into a global firestorm",
-      "link": "https://phys.org/news/2026-07-chicxulub-lingering-falling-debris-global.html",
-      "dato": "2026-07-28T13:00:04+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Sixty-six million years ago, the six-mile-wide (10-kilometer-wide) Chicxulub asteroid crash-landed in Mexico's Yucatán Peninsula and changed life on Earth forever. The reign of the dinosaurs ended, and only creatures that could shelter in burrows or shallow waters survived into the age of mammals that followed.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2023/asteroid-dinosaurs.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Chicxulub-støv gjorde nedfald til global brandstorm",
-      "resume_da": "Nyt studie viser, at støv fra asteroide-nedslaget for 66 mio. år siden fik nedfaldende materiale til at antænde og skabe en global ildstorm.",
-      "sektioner": [
-        {
-          "overskrift": "Nedslagets globale konsekvenser",
-          "tekst": "For **66 millioner** år siden ramte en **10 km** bred asteroide Jorden ved Chicxulub. Nedslaget udryddede dinosaurerne og ændrede livet for altid. Kun dyr, der kunne gemme sig i huler eller lavt vand, overlevede."
-        },
-        {
-          "overskrift": "Støvets rolle i brandstormen",
-          "tekst": "Forskere mener, at støv fra nedslaget fik nedfaldende rumrester til at antænde. Dette skabte en global ildstorm, der forstærkede masseudryddelsen. Støvet blokerede også sollyset i lang tid."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "66 millioner år",
-          "label": "Siden nedslaget"
-        },
-        {
-          "tal": "10 km",
-          "label": "Asteroidens bredde"
-        }
-      ],
-      "detaljer": [
-        "Nedslaget skete på Yucatán-halvøen i Mexico.",
-        "Kun dyr i huler eller lavt vand overlevede.",
-        "Støvet førte til en global ildstorm."
-      ],
-      "betydning": "Historien forklarer, hvordan et enkelt nedslag kan ændre Jordens klima og livsbetingelser dramatisk – vigtigt for at forstå masseudryddelser.",
-      "pointer": [
-        "Asteroide på 10 km ramte Jorden",
-        "Udryddede dinosaurerne",
-        "Støv udløste global brandstorm",
-        "Kun huler og lavt vand reddede liv"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "JWST could spot volcanic 'exo-Ios' around super-Jupiters",
-      "link": "https://phys.org/news/2026-07-jwst-volcanic-exo-ios-super.html",
-      "dato": "2026-07-28T12:20:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Jupiter's moon Io is the most volcanically active planetary body in the solar system, boasting hundreds of active volcanoes that spew molten lava into space. This activity results from a process called tidal heating, in which Jupiter's massive gravity constantly stretches and compresses the much smaller moon during its noncircular orbit.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/jwst-could-spot-volcan.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "JWST kan finde vulkanske exomåner som Jupiters Io",
-      "resume_da": "Jupiters måne Io er det mest vulkansk aktive sted i solsystemet. Nu viser ny forskning, at James Webb-teleskopet kan opdage lignende vulkanmåner omkring fjerne super-Jupitere.",
-      "sektioner": [
-        {
-          "overskrift": "Ios vulkanske aktivitet",
-          "tekst": "Jupiters måne Io har hundredvis af aktive vulkaner, som spyr smeltet lava ud i rummet. Den voldsomme vulkanisme skyldes tidevandsopvarmning, fordi Jupiters tyngdekraft strækker og presser månen i dens elliptiske bane."
-        },
-        {
-          "overskrift": "JWST's rolle",
-          "tekst": "Ifølge ny forskning kan James Webb-rumteleskopet (JWST) opdage tilsvarende vulkanmåner omkring super-Jupitere i andre solsystemer. Teleskopet kan måle varmeudstråling fra vulkansk lava på sådanne exomåner."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Io er det mest vulkansk aktive sted i solsystemet",
-        "Vulkanismen skyldes tidevandsopvarmning",
-        "JWST kan potentielt spotte vulkanske exomåner hos super-Jupitere"
-      ],
-      "betydning": "Forskningen kan hjælpe med at forstå, hvordan tidevandsopvarmning påvirker måners geologi og atmosfære – også i andre planetsystemer.",
-      "pointer": [
-        "Io har hundredvis af vulkaner",
-        "Tidevandsopvarmning driver vulkanismen",
-        "JWST kan finde vulkanske exomåner",
-        "Super-Jupitere er gode mål"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Astronomers find strongest evidence yet that Betelgeuse has a companion",
-      "link": "https://phys.org/news/2026-07-astronomers-strongest-evidence-betelgeuse-companion.html",
-      "dato": "2026-07-28T12:00:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "At long last, astronomers have firm evidence that Betelgeuse, one of the most famous stars in the night sky, is not alone. Using the European Southern Observatory's Very Large Telescope (ESO's VLT), a team led by French researcher Miguel Montargès obtained the clearest image yet of what is likely Betelgeuse B, the star orbiting Betelgeuse. \"This is the conclusion of a century-long quest,\" Montargè",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-find-stron.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Betelgeuse har fået en stjernenabo",
-      "resume_da": "Astronomer har taget det hidtil skarpeste billede af en følgesvend til den berømte stjerne Betelgeuse. Opdagelsen afslutter en søgen, der har stået på i over 100 år.",
-      "sektioner": [
-        {
-          "overskrift": "Århundredes jagt er slut",
-          "tekst": "Franske Miguel Montargès og hans hold brugte ESO's Very Large Telescope til at finde stjernen. De fik det tydeligste billede nogensinde af det, der menes at være Betelgeuse B. Montargès kalder det afslutningen på en søgen, der har varet i **100 år**."
-        },
-        {
-          "overskrift": "Hvad opdagelsen betyder",
-          "tekst": "Betelgeuse er en af de mest kendte stjerner på nattehimlen. Nu ved vi, at den ikke er alene. Følgesvenden kredser om Betelgeuse og kaldes Betelgeuse B."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "100 år",
-          "label": "søgenens varighed"
-        }
-      ],
-      "detaljer": [
-        "Opdagelsen blev gjort med ESO's Very Large Telescope (VLT).",
-        "Holdet blev ledet af Miguel Montargès.",
-        "Betelgeuse B er en stjerne, der kredser om Betelgeuse."
-      ],
-      "betydning": "Opdagelsen giver ny viden om en af de mest kendte stjerner, hvilket kan hjælpe os med at forstå, hvordan stjerner og solsystemer dannes.",
-      "pointer": [
-        "Første klare bevis på Betelgeuses følgesvend",
-        "Brug af avanceret teleskopteknologi",
-        "Afslutter en 100 år gammel søgen"
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Moon's thick crust could amplify elusive gravitational-wave signals",
-      "link": "https://phys.org/news/2026-07-moon-thick-crust-amplify-elusive.html",
-      "dato": "2026-07-28T11:00:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Gravitational waves are tiny ripples in the fabric of spacetime that are produced when massive objects in the cosmos accelerate or collide. By detecting these waves, astrophysicists can study various cosmic events, including black hole mergers, neutron star collisions and the early evolution of the universe.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-moon-could-amplify.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Månens tykke skorpe kan forstærke gravitationsbølger",
-      "resume_da": "Forskere mener, at Månens tykke skorpe kan fungere som en forstærker af gravitationsbølger. Det kan hjælpe med at opdage svage signaler, som ellers ville være umulige at måle.",
-      "sektioner": [
-        {
-          "overskrift": "Gravitationsbølger og Månen",
-          "tekst": "Gravitationsbølger er små krusninger i rumtidens stof, som opstår, når massive objekter accelererer eller kolliderer. De kan blandt andet bruges til at studere sorte hul-kollisioner og neutronstjerne-sammenstød. Ifølge ny forskning kan Månens tykke skorpe forstærke disse bølger."
-        },
-        {
-          "overskrift": "Ny opdagelsesmulighed",
-          "tekst": "Månens skorpe er tykkere end Jordens, og det menes at kunne fungere som en slags detektor. Det kan gøre det muligt at opdage gravitationsbølger, der hidtil har været for svage til at måle."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Gravitationsbølger er små krusninger i rumtidens stof.",
-        "De opstår ved acceleration eller kollision af massive objekter.",
-        "Månens tykke skorpe kan forstærke signaler fra disse bølger."
-      ],
-      "betydning": "Opdagelsen kan give forskere en ny måde at måle gravitationsbølger på, hvilket kan føre til ny viden om universet.",
-      "pointer": [
-        "Månen kan forstærke gravitationsbølger.",
-        "Det kan afsløre skjulte sorte hul-kollisioner.",
-        "Ny metode til at studere universets tidlige udvikling."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Smoke Blankets Oregon",
-      "link": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
-      "dato": "2026-07-28T04:01:00+00:00",
-      "kilde": "NASA",
-      "resume": "Lightning storms have ignited dozens of fires in central and eastern Oregon.",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-blankets-oregon/oregonfires_amo_20260726.jpg?w=2160&#038;h=1740&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "Long plumes of gray wildfire smoke stream northeast from a line of fires in central and eastern Oregon, including the Beachcomb, Shingle, and Second Flat fires that threatened communities.",
-      "kategori": "Rumvejr",
-      "rubrik": "Røg fra skovbrande dækker Oregon",
-      "resume_da": "Tørke, tordenvejr og kraftig vind har ført til omfattende skovbrande i Oregon. NASA's Aqua-satellit har fanget billeder af røgfaner, der dækker hundredvis af kvadratkilometer.",
-      "sektioner": [
-        {
-          "overskrift": "Lyn starter brande",
-          "tekst": "Tørre tordenbyger over Cascade Range den **15. juli 2026** forårsagede tusindvis af lynnedslag i Oregon og Washington. Dagen efter opdagede NASA-satellitter et stort antal skovbrande i det centrale og østlige Oregon."
-        },
-        {
-          "overskrift": "Brande spreder sig",
-          "tekst": "Brandene blev styrket af vind og tørke. Da NASA's Aqua-satellit tog billedet den **26. juli**, sivede røg fra snesevis af store brande, der havde brændt hundredvis af kvadratkilometer. Over **10.000** brandfolk bekæmpede brandene."
-        },
-        {
-          "overskrift": "Luftkvalitet og evakuering",
-          "tekst": "Røgen førte til luftkvalitetsadvarsler i det østlige Oregon, og mange samfund måtte evakuere. De største aktive brande var Hay Creek Complex, Brewer, Big Grass, Akawa Butte og Powder River. Flere var mindre end **5 %** under kontrol."
-        },
-        {
-          "overskrift": "Omfattende skader",
-          "tekst": "Pr. **27. juli 2026** havde brandene i Oregon brændt over **1 million acres**. I hele USA var der brændt over **4 millioner acres** – det 10-årige gennemsnit for denne tid på året er **3,4 millioner acres**."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1 million acres",
-          "label": "Brændt areal i Oregon"
-        },
-        {
-          "tal": "4 millioner acres",
-          "label": "Brændt areal i USA"
-        },
-        {
-          "tal": "3,4 millioner acres",
-          "label": "10-års gennemsnit"
-        }
-      ],
-      "detaljer": [
-        "Billedet blev taget af MODIS-instrumentet på NASAs Aqua-satellit den 26. juli 2026.",
-        "Brandene startede efter tørre tordenbyger den 15. juli 2026.",
-        "Flere brande var mindre end 5 % under kontrol.",
-        "Oregon aktiverede sin Emergency Conflagration Act for at beskytte samfund.",
-        "NASA tilbyder værktøjer som FIRMS og Worldview til overvågning af brande."
-      ],
-      "betydning": "Skovbrande påvirker luftkvaliteten og kan true både mennesker og miljø. Satellitdata gør det muligt at følge brandene i realtid og forbedre beredskabet.",
-      "pointer": [
-        "Tørke og lynnedslag har antændt omfattende brande i Oregon.",
-        "Røgen breder sig over store områder og forringer luftkvaliteten.",
-        "Mere end 10.000 brandfolk er indsat.",
-        "Brandarealet overstiger gennemsnittet for denne tid på året."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "How NASA plans to build the Habitable Worlds Observatory",
-      "link": "https://phys.org/news/2026-07-nasa-habitable-worlds-observatory.html",
-      "dato": "2026-07-27T22:20:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "We've been covering the journey of the Habitable Worlds Observatory for some time now. Over the past few years, it's gone from a proposal to a relatively fleshed-out plan for how and what the next Great Observatory should do—in this case, look at and characterize potentially habitable exoplanets.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-nasa-plans-to-buil.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "NASA vil bygge nyt teleskop til beboelige exoplaneter",
-      "resume_da": "Det Habitable Worlds Observatory skal finde og studere jordlignende planeter uden for solsystemet. Projektet er gået fra idé til en konkret plan.",
-      "sektioner": [
-        {
-          "overskrift": "Teleskopets formål",
-          "tekst": "Observatoriet skal blive det næste store NASA-observatorium. Dets primære opgave er at kigge på og karakterisere potentielt beboelige exoplaneter."
-        },
-        {
-          "overskrift": "Planens udvikling",
-          "tekst": "I de seneste år er projektet gået fra et forslag til en relativt udarbejdet plan. Det er nu klart, hvordan og hvad teleskopet skal gøre."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Observatoriet skal erstatte James Webb-rumteleskopet som næste store NASA-observatorium.",
-        "Fokus er på at finde og analysere jordlignende planeter i beboelige zoner."
-      ],
-      "betydning": "Hvis det lykkes, kan vi finde ud af, om der findes andre planeter med liv. Det vil ændre vores forståelse af universet.",
-      "pointer": [
-        "Finde jordlignende exoplaneter",
-        "Kortlægge beboelige zoner",
-        "Næste store NASA-teleskop",
-        "Fra idé til konkret plan"
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Hubble shows star formation in Andromeda galaxy is winding down",
-      "link": "https://phys.org/news/2026-07-hubble-star-formation-andromeda-galaxy.html",
-      "dato": "2026-07-27T21:20:09+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "A new study using data from NASA's Hubble Space Telescope finds that star formation in the nearby Andromeda galaxy has undergone a 500-million-year decline, with an even steeper drop in the last 40 million years. Andromeda, a spiral galaxy comparable in size to our Milky Way, is close enough to be seen with the unaided eye from areas with dark skies. Located about 2.5 million light-years from Eart",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/hubble-shows-star-form.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Hubble: Stjernedannelse i Andromeda aftager kraftigt",
-      "resume_da": "En ny analyse fra Hubble-teleskopet viser, at stjernedannelsen i Andromedagalaksen er faldet over de seneste 500 millioner år. Faldet er steget yderligere de sidste 40 millioner år.",
-      "sektioner": [
-        {
-          "overskrift": "Andromedas aftagende stjernedannelse",
-          "tekst": "Andromeda er en spiralgalakse på størrelse med Mælkevejen og ligger **2,5 millioner lysår** fra Jorden. Nye Hubble-data viser, at stjernedannelsen i galaksen har været faldende i **500 millioner år**, og faldet er accelereret de sidste **40 millioner år**."
-        },
-        {
-          "overskrift": "Hvorfor det betyder noget",
-          "tekst": "Andromeda er så tæt på, at astronomer kan studere dens stjerner i detaljer. Den udvikling, man ser her, kan give indsigt i, hvordan galakser som vores egen Mælkevej har udviklet sig over tid."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2,5 millioner lysår",
-          "label": "Afstand til Andromeda"
-        },
-        {
-          "tal": "500 millioner år",
-          "label": "Faldets varighed"
-        },
-        {
-          "tal": "40 millioner år",
-          "label": "Seneste acceleration"
-        }
-      ],
-      "detaljer": [
-        "Hubble-data viser fald i stjernedannelse i Andromeda over 500 mio. år.",
-        "Faldet er steget de seneste 40 mio. år.",
-        "Andromeda er en spiralgalakse som Mælkevejen, 2,5 mio. lysår væk.",
-        "Andromeda kan ses med det blotte øje fra mørke himmelstrøg."
-      ],
-      "betydning": "Studiet af Andromeda hjælper forskere med at forstå, hvordan store spiralgalakser udvikler sig, herunder vores egen Mælkevej, og hvad der sker, når stjernedannelsen aftager.",
-      "pointer": [
-        "Stjernedannelse i Andromeda falder markant.",
-        "Faldet er accelereret de sidste 40 mio. år.",
-        "Andromeda er den nærmeste store spiralgalakse.",
-        "Data fra Hubble giver ny viden om galakseudvikling."
-      ],
-      "prio": 7
     }
   ]
 }
