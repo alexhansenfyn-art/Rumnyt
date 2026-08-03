@@ -1,7 +1,87 @@
 {
-  "opdateret": "2026-08-02T20:15:41.467172+00:00",
+  "opdateret": "2026-08-03T10:56:49.805189+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "AI is ready to run spacecraft. Is the space industry ready for it? (op-ed)",
+      "link": "https://www.space.com/space-exploration/satellites/ai-is-ready-to-run-spacecraft-is-the-space-industry-ready-for-it",
+      "dato": "2026-08-03T10:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "Satellite constellations are getting bigger and increasingly difficult for human operators to manage. Artificial intelligence will soon be able to help, but will the space industry let it happen?",
+      "billede": "https://cdn.mos.cms.futurecdn.net/JXGbZUjDtvyJjx2pjx9Qr9-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "AI parat til at styre rumfartøjer – er industrien klar?",
+      "resume_da": "AI-teknologi kan nu styre satellitter og rumfartøjer, men rumindustrien er endnu ikke helt klar til at tage den i brug. Der er både muligheder og udfordringer.",
+      "sektioner": [
+        {
+          "overskrift": "AI's potentiale i rummet",
+          "tekst": "AI kan gøre rumfartøjer selvkørende og reducere behovet for menneskelig indblanding. Det kan føre til mere effektive og fleksible missioner, siger Martin Halliwell fra NewSpace Capital."
+        },
+        {
+          "overskrift": "Industriens barrierer",
+          "tekst": "Rumindustrien er konservativ og kræver grundig godkendelse af ny teknologi. Der er bekymring for pålidelighed og sikkerhed, hvilket gør indførelsen af AI langsommere."
+        },
+        {
+          "overskrift": "Finansiering og investeringer",
+          "tekst": "Private investorer som NewSpace Capital ser et stort potentiale i AI til rumfart. Men der er behov for klare rammer og beviser for, at teknologien virker i praksis, før de investerer stort."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Martin Halliwell er partner i NewSpace Capital, en privat investeringsfond for rumteknologi.",
+        "Han var tidligere teknologichef hos SES og rådgiver for CEO.",
+        "Artiklen er en op-ed, hvilket betyder, at den er et debatindlæg."
+      ],
+      "betydning": "For almindelige danskere betyder det, at satellitter og rumfart kan blive billigere og mere effektive med AI, hvilket kan forbedre alt fra vejrudsigter til internetdækning.",
+      "pointer": [
+        "AI-til rumfart er teknisk klar",
+        "Industrien er tilbageholdende",
+        "Investorer venter på beviser",
+        "AI kan revolutionere rumfart"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/",
+      "dato": "2026-08-03T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Vaporizing Meteor Photobombs [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/MeteorGecko_Burnett_4944.jpg?w=4944&#038;h=3284&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A dark starfield has a faint red nebula near  the center. A bright streak crosses the image  horizontally from the lower left, filled with faint evaporating wisps in many colors.  Please see the expla",
+      "kategori": "Astronomi",
+      "rubrik": "Meteor fanger opmærksomheden i Lacerta-tågen",
+      "resume_da": "En lys meteor blev fanget på billede foran Lacerta-tågen. Den fordamper og skaber farver, der afslører dens sammensætning.",
+      "sektioner": [
+        {
+          "overskrift": "Billedet af meteoren",
+          "tekst": "Billedet er taget i Death Valley Observatories i Nevada. Meteoren var sandsynligvis en lille sten, der blev varmet op i Jordens atmosfære. Den fordamper og efterlader gas og støv med farver."
+        },
+        {
+          "overskrift": "Tre meteor showers lige nu",
+          "tekst": "Der er tre meteor showers i gang i august. De er svære at se på grund af en lys måne. Perseiderne er mest aktive om cirka 10 dage, når månen er svagere."
+        },
+        {
+          "overskrift": "Perseidernes top i år",
+          "tekst": "Perseidernes top falder sammen med nymåne. Fra nogle steder vil månen endda totalformørke solen. Det giver gode betingelser for at se meteorer."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Billedet blev taget fra Nevada, USA.",
+        "Meteoren blev fanget under en lang eksponering.",
+        "Meteor showers i august inkluderer Perseiderne."
+      ],
+      "betydning": "Det minder os om, at der er smukke himmelfænomener, vi kan se med det blotte øje, og at timing er vigtig for at få den bedste oplevelse.",
+      "pointer": [
+        "Meteor foran Lacerta-tågen fanget på billede.",
+        "Tre meteor showers er aktive nu.",
+        "Perseiderne topper om 10 dage.",
+        "Nymåne giver gode chancer for at se meteorer."
+      ],
+      "prio": 5
+    },
     {
       "titel": "Webb reveals warped structure in nearby TW Hydrae's protoplanetary disk",
       "link": "https://phys.org/news/2026-07-webb-reveals-warped-nearby-tw.html",
@@ -4258,99 +4338,6 @@
         "Data fra Hubble giver ny viden om galakseudvikling."
       ],
       "prio": 7
-    },
-    {
-      "titel": "Mercury reveals short-lived radiation belts during its swing farther from the sun",
-      "link": "https://phys.org/news/2026-07-mercury-reveals-short-belts-sun.html",
-      "dato": "2026-07-27T20:40:06+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Mercury was long considered the exception to the rule that magnetic planets have radiation belts similar to Earth's Van Allen belts, but a new study by University of Michigan Engineering and the University of California, Berkeley, suggests otherwise—Mercury occasionally has such a layer of radiation in its magnetic field.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/mercury-has-part-time.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Merkurs strålingsbælter varer kun kort tid",
-      "resume_da": "En ny undersøgelse viser, at Merkur har kortvarige strålingsbælter, når planeten er længst fra Solen.",
-      "sektioner": [
-        {
-          "overskrift": "Strålingsbælter opdaget",
-          "tekst": "Merkur har tidligere været undtagelsen, da man troede, at magnetiske planeter altid har strålingsbælter som Jordens Van Allen-bælter. En ny undersøgelse fra University of Michigan og UC Berkeley viser dog, at Merkur **af og til** har et sådant lag af stråling i sit magnetfelt."
-        },
-        {
-          "overskrift": "Kortvarige fænomener",
-          "tekst": "Strålingsbælterne på Merkur er **kortvarige** og opstår kun, når planeten er længst fra Solen. Det forklarer, hvorfor de ikke er blevet opdaget før. Forskerne brugte data fra rumfartøjet MESSENGER."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Merkur har et magnetfelt.",
-        "Strålingsbælterne minder om Jordens Van Allen-bælter.",
-        "Undersøgelsen kommer fra University of Michigan Engineering og UC Berkeley.",
-        "Data er fra MESSENGER-rumfartøjet."
-      ],
-      "betydning": "Opdagelsen ændrer vores forståelse af, hvordan magnetiske planeter fungerer, og kan hjælpe os med at forstå andre planeters magnetfelter bedre.",
-      "pointer": [
-        "Merkur kan have strålingsbælter.",
-        "De er kun aktive ved stor afstand til Solen.",
-        "Fundet bygger på gamle data fra MESSENGER.",
-        "Det udfordrer tidligere antagelser om magnetiske planeter."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Launch Preview: Falcon 9 and Chang Zheng rockets set to launch this week",
-      "link": "https://www.nasaspaceflight.com/2026/07/launch-preview-072726/",
-      "dato": "2026-07-27T20:31:02+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "Five orbital launches are scheduled worldwide for this week. In China, a Chang Zheng 6A&#8230; The post Launch Preview: Falcon 9 and Chang Zheng rockets set to launch this week appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/Falcon-9-launch-and-landing-Credit-Julia-Bergeron-for-NSF-scaled.jpeg",
-      "billede_alt": "",
-      "kategori": "Opsendelser",
-      "rubrik": "Fem rumopsendelser på én uge",
-      "resume_da": "Denne uge byder på fem opsendelser: to kinesiske Chang Zheng-raketter og tre SpaceX Falcon 9, heraf to Starlink-missioner og en hemmelig NRO-opsendelse.",
-      "sektioner": [
-        {
-          "overskrift": "Kinesiske Chang Zheng-raketter",
-          "tekst": "Onsdag opsendes en Chang Zheng 7A fra Wenchang, der kan løfte **12.000 kg** til lavt jordkredsløb. Torsdag følger en Chang Zheng 6A fra Taiyuan med en kapacitet på **5.000 kg**. Begge bærer ukendte nyttelaster."
-        },
-        {
-          "overskrift": "SpaceX Falcon 9-missioner",
-          "tekst": "Onsdag sender SpaceX 22 Starlink v2 Mini-satellitter i kredsløb fra Californien. Torsdag følger en hemmelig mission for det amerikanske efterretningskontor NRO. Søndag afsluttes ugen med endnu 24 Starlink-satellitter fra Californien."
-        },
-        {
-          "overskrift": "Raketternes genbrug",
-          "tekst": "SpaceX genbruger raketterne: booster B1081 flyver for **26. gang**, B1096 for **7. gang**, og B1063 for **34. gang**. De lander på droneskibe i Stillehavet eller på land."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "5",
-          "label": "Orbitale opsendelser på en uge"
-        },
-        {
-          "tal": "12.000 kg",
-          "label": "Chang Zheng 7A's løftekapacitet til LEO"
-        },
-        {
-          "tal": "182",
-          "label": "Orbitale opsendelser i 2026 indtil nu"
-        }
-      ],
-      "detaljer": [
-        "Chang Zheng 7A letter onsdag 29. juli kl. 11:42 UTC.",
-        "Chang Zheng 6A letter torsdag 30. juli kl. 01:00 UTC.",
-        "Starlink Group 17-52 letter onsdag 29. juli kl. 02:00 UTC (30. juli dansk tid).",
-        "NROL-95 letter torsdag 30. juli kl. 07:09 UTC.",
-        "Starlink Group 17-53 letter søndag 2. august kl. 14:00 UTC.",
-        "Chang Zheng 7A er 60,13 m høj; Chang Zheng 6A er 50 m høj."
-      ],
-      "betydning": "Rumopsendelser skaber teknologi, der bruges i hverdagen – fx vejrudsigt, GPS og internet. Flere ugentlige opsendelser viser, hvor hurtigt rumindustrien vokser.",
-      "pointer": [
-        "Fem opsendelser på én uge.",
-        "Kina sender to ukendte satellitter op.",
-        "SpaceX opsender Starlink-satellitter til internet.",
-        "Hemmelig NRO-mission torsdag."
-      ],
-      "prio": 5
     }
   ]
 }
