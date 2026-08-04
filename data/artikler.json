@@ -1,7 +1,288 @@
 {
-  "opdateret": "2026-08-04T18:16:05.657967+00:00",
+  "opdateret": "2026-08-04T23:40:22.158842+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "NASA's PUNCH sharpens solar storm forecasting in first test",
+      "link": "https://phys.org/news/2026-08-nasa-sharpens-solar-storm.html",
+      "dato": "2026-08-04T21:10:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Using continuous imagery from NASA's PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, scientists predicted the near-Earth arrival of a solar eruption to within 30 minutes in an initial proof-of-concept test. The results, presented Tuesday at the Committee on Space Research Scientific Meeting and under review at the journal Space Weather, could revolutionize the way Earth-impacting ",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2018/1-solarflare.jpg",
+      "billede_alt": "",
+      "kategori": "Rumvejr",
+      "rubrik": "NASA’s PUNCH forbedrer varsling af solstorme",
+      "resume_da": "Forskere brugte data fra NASA's PUNCH-mission til at forudsige ankomst af en soludbrud med en præcision på 30 minutter i en første test.",
+      "sektioner": [
+        {
+          "overskrift": "Præcis forudsigelse",
+          "tekst": "Forskere har for første gang brugt kontinuerlige billeder fra NASA's PUNCH-mission til at forudsige, hvornår en soludbrud ville nå Jorden. De ramte inden for **30 minutter**. Resultaterne blev præsenteret tirsdag på Committee on Space Research Scientific Meeting."
+        },
+        {
+          "overskrift": "Missionens betydning",
+          "tekst": "PUNCH-missionen overvåger solens korona og heliosfæren løbende. Det giver forskerne mulighed for at følge soludbrud i realtid. Testen viser, at missionen kan bruges til at varsle jordiske storme langt bedre end før."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "30 minutter",
+          "label": "Præcision i forudsigelse"
+        }
+      ],
+      "detaljer": [
+        "Testen var en proof-of-concept, altså et bevis på at konceptet virker.",
+        "Resultaterne er under vurdering i tidsskriftet Space Weather.",
+        "Missionsnavnet PUNCH står for Polarimeter to Unify the Corona and Heliosphere."
+      ],
+      "betydning": "For almindelige mennesker betyder det, at vi kan blive bedre advaret mod solstorme, der kan påvirke elnet, satellitter og GPS. Det kan skåne os for strømafbrydelser og kommunikationsproblemer.",
+      "pointer": [
+        "PUNCH forudsiger soludbrud.",
+        "Rammer inden for 30 minutter.",
+        "Test vist på forskermøde.",
+        "Kan forbedre varsling af solstorme."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS",
+      "link": "https://www.nasaspaceflight.com/2026/08/crew-13-delaney-interview/",
+      "dato": "2026-08-04T20:05:26+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "After a previously targeted launch date in November, NASA has moved up the next International&#8230; The post Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/jsc2026e404725large.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Crew-13 rykker til september og er klar",
+      "resume_da": "Crew-13 sendes til ISS i september 2026. Piloten Luke Delaney fortæller om træning og forskning.",
+      "sektioner": [
+        {
+          "overskrift": "Ny lanceringsdato",
+          "tekst": "NASA har flyttet Crew-13-opskydningen fra november til **12. september 2026**. Astronauterne siger, at de stadig kan nå alle træningsmålene. De har mistet to måneders træning, men de har optimeret planen."
+        },
+        {
+          "overskrift": "Besætningen om bord",
+          "tekst": "Jessica Watkins er kommandør og har fløjet i rummet før. Luke Delaney er pilot og flyver for første gang. Også Joshua Kutryk fra Canada og Sergey Teteryatnikov fra Rusland er med på jomfruflyvningen."
+        },
+        {
+          "overskrift": "Forskning",
+          "tekst": "Delaney glæder sig til at studere, hvordan kroppen reagerer på rumfart, for eksempel væskeforskydning og syn. Han vil også arbejde med stamceller. Han ser en sammenhæng mellem sit tidligere arbejde med jordobservation og forskningen på Stationen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. september 2026",
+          "label": "Ny lanceringsdato"
+        },
+        {
+          "tal": "3.700 timer",
+          "label": "Flyvetid i 48 fly"
+        },
+        {
+          "tal": "70 km",
+          "label": "Afstand til KSC"
+        }
+      ],
+      "detaljer": [
+        "Luke Delaney blev NASA-astronaut i 2021.",
+        "Han var tidligere testpilot og instruktør.",
+        "Han voksede op nær Kennedy Space Center.",
+        "Han har fløjet med i 48 forskellige fly.",
+        "Crewet flyver med Crew Dragon 'Grace'."
+      ],
+      "betydning": "Det viser, hvor fleksible astronauter er, når planer ændres. Det giver også almindelige mennesker et indblik i, hvordan hverdagen om bord på ISS er.",
+      "pointer": [
+        "Crew-13 er rykket til september 2026.",
+        "Delaney flyver første gang.",
+        "Han har over 3.700 flyvetimer.",
+        "Han vil forske i stamceller og krop."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "NOAA purchases Spire hyperspectral microwave sounder data",
+      "link": "https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data/",
+      "dato": "2026-08-04T20:05:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "SAN FRANCISCO – The National Oceanic and Atmospheric Administration will continue to evaluate data from Spire Global’s Hyperspectral Microwave Sounder (HyMS) under a $3 million contract extension announced Aug. 4. [&#8230;] The post NOAA purchases Spire hyperspectral microwave sounder data appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_hyms_image.jpg?fit=879%2C586&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Satellitter",
+      "rubrik": "NOAA køber data fra Spire's nye vejr-satellitter",
+      "resume_da": "NOAA forlænger aftale med Spire Global for at teste data fra deres nye mikrobølge-sonder, der kan forbedre vejrudsigter.",
+      "sektioner": [
+        {
+          "overskrift": "Ny kontrakt",
+          "tekst": "NOAA har forlænget deres samarbejde med Spire Global. De betaler **3 millioner dollars** for at fortsætte med at vurdere data fra Spire's nye Hyperspectral Microwave Sounder (HyMS). Det sker fra den 4. august."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "3 mio. dollars",
+          "label": "Kontraktens størrelse"
+        }
+      ],
+      "detaljer": [
+        "NOAA er det amerikanske agentur for vejr og oceaner.",
+        "Spire Global er et satellitselskab.",
+        "HyMS er en ny type mikrobølge-sensor.",
+        "Dataene skal forbedre vejrudsigter."
+      ],
+      "betydning": "Bedre vejrudsigter kan hjælpe alle med at planlægge hverdagen, og det kan redde liv ved ekstremt vejr.",
+      "pointer": [
+        "NOAA forlænger aftalen.",
+        "Spire's målerdata skal testes.",
+        "3 mio. dollars er prisen.",
+        "Målet er bedre vejrudsigter."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
+      "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/",
+      "dato": "2026-08-04T20:00:14+00:00",
+      "kilde": "NASA",
+      "resume": "Using ground-based telescopes and space-based assets, NASA and SpaceX are tracking a used Falcon 9 upper stage from a commercial mission expected to impact the Moon on Wednesday, Aug. 5, near the Einstein and Bell craters. The impact poses no danger to Earth and NASA scientists are planning to collect lunar data from the event [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/06/art002e024603orig.jpg?w=2048",
+      "billede_alt": "The Moon&#039;s rugged surface is on display in this image. Most of the Moon is visible, with the bottom of the sphere disappearing into the darkness. This line between light and dark is called the te",
+      "kategori": "Missioner",
+      "rubrik": "Raketdel rammer Månen i august",
+      "resume_da": "En brugt SpaceX-raketdel forventes at ramme Månen den 5. august. NASA vil observere nedslaget for at lære mere om Månens geologi.",
+      "sektioner": [
+        {
+          "overskrift": "Baggrund for nedslaget",
+          "tekst": "Raketdelen er fra en Falcon 9, som i januar 2025 sendte en månemodul mod Månen. Solaktivitet og tyngdekraft fik raketdelen til at vende tilbage mod Månen. Nedslaget sker nær kraterne Einstein og Bell."
+        },
+        {
+          "overskrift": "Ingen fare for Jorden",
+          "tekst": "Nedslaget er ufarligt for Jorden. NASA og SpaceX følger raketdelens bane. Nedslaget forventes at lave et krater på omkring **60 fod** i diameter og **12 fod** dybt."
+        },
+        {
+          "overskrift": "Observation og læring",
+          "tekst": "Forskere vil bruge teleskoper og rumsonder til at observere nedslaget. De håber at lære om, hvordan støv og sten opfører sig ved nedslag. Det kan hjælpe med at forstå Månens opbygning og fremtidige missioner."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "5. august",
+          "label": "Dato for nedslaget"
+        },
+        {
+          "tal": "60 fod",
+          "label": "Kraterets bredde"
+        },
+        {
+          "tal": "12 fod",
+          "label": "Kraterets dybde"
+        }
+      ],
+      "detaljer": [
+        "Raketdelen er fra en Falcon 9, der sendte Firefly Aerospace's Blue Ghost 1-månemodul af sted.",
+        "Nedslaget sker nær Einstein- og Bell-kratere på Månen.",
+        "NASA's Center for Near Earth Object Studies bekræftede 100% chance for nedslag.",
+        "Månen rammes af meteoritter dagligt, men menneskeskabte nedslag er sjældnere.",
+        "Nedslaget kan ikke ses med det blotte øje fra Jorden.",
+        "NASA's Lunar Reconnaissance Orbiter og ShadowCam-instrumentet vil forsøge at fotografere stedet."
+      ],
+      "betydning": "Nedslaget giver forskere mulighed for at studere Månens overflade og forbedre modeller for fremtidige missioner. Det er også et eksempel på, hvordan man sikkert kan bortskaffe brugte raketdele.",
+      "pointer": [
+        "Raketdel rammer Månen 5. august",
+        "Ingen risiko for Jorden",
+        "NASA observerer og lærer af nedslaget",
+        "Krater på 60 fod bredt"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Mapping the upper atmosphere with public Starlink satellite data",
+      "link": "https://phys.org/news/2026-08-upper-atmosphere-starlink-satellite.html",
+      "dato": "2026-08-04T19:10:02+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "The space around Earth is becoming increasingly crowded, with thousands of satellites and pieces of debris now sharing low Earth orbit. Even above this region—at altitudes of several hundred kilometers—the extremely thin upper atmosphere can slow satellites, making accurate information on atmospheric density essential for predicting satellite motion and preventing collisions.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/mapping-the-upper-atmo.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Kortlægning af øvre atmosfære med Starlink-data",
+      "resume_da": "Forskere bruger offentlige data fra Starlink-satellitter til at kortlægge den øvre atmosfære, hvilket kan forbedre forudsigelser af satellitbaner og undgå kollisioner.",
+      "sektioner": [
+        {
+          "overskrift": "Trangt i rummet",
+          "tekst": "Der er efterhånden mange satellitter og affald i lavt jordkredsløb. Selv i stor højde kan den tynde atmosfære bremse satellitter, så det er vigtigt at kende lufttætheden."
+        },
+        {
+          "overskrift": "Nye data fra Starlink",
+          "tekst": "Offentlige data fra Starlink-satellitter kan bruges til at måle atmosfærens tæthed i højden. Det giver ny viden, som kan hjælpe med at forudsige satellitbevægelser og undgå sammenstød."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "flere hundrede km",
+          "label": "højde for øvre atmosfære"
+        }
+      ],
+      "detaljer": [
+        "Lavt jordkredsløb er fyldt med satellitter og affald",
+        "Øvre atmosfære kan bremse satellitter",
+        "Præcis viden om lufttæthed er nødvendig for at forudsige baner"
+      ],
+      "betydning": "Det kan hjælpe med at holde rummet sikkert og undgå kollisioner, hvilket er vigtigt, da vi er afhængige af satellitter i hverdagen.",
+      "pointer": [
+        "Rummet omkring Jorden bliver mere fyldt",
+        "Atmosfæren i højden påvirker satellitter",
+        "Starlink-data kan kortlægge atmosfæren",
+        "Kan forbedre satellitbaner og sikkerhed"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test",
+      "link": "https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/",
+      "dato": "2026-08-04T18:02:55+00:00",
+      "kilde": "NASA",
+      "resume": "Using continuous imagery from NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, scientists predicted the near-Earth arrival of a solar eruption to within 30 minutes in an initial proof of concept test. The results, presented Tuesday at the Committee on Space Research Scientific Meeting and under review at the journal Space Weather, could […]",
+      "billede": null,
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "NASA's PUNCH forbedrer varsling af solstorme markant",
+      "resume_da": "NASA's PUNCH-mission kan forudsige ankomsten af solstorme til Jorden med en præcision på 30 minutter - 10 gange bedre end tidligere metoder.",
+      "sektioner": [
+        {
+          "overskrift": "Imponerende første test",
+          "tekst": "Forskere brugte data fra en solstorm den 31. maj 2025 til at teste PUNCH's evner. Modellen forudsagde, at stormen ville nå Jorden otte timer efter afgang. Den faktiske ankomst var kun en halv time fra forudsigelsen. Det er **10 gange** bedre end de nuværende metoder, som kun giver et vindue på **5 timer**."
+        },
+        {
+          "overskrift": "Kontinuerlig overvågning er nøglen",
+          "tekst": "PUNCH består af fire rumfartøjer i lavt kredsløb om Jorden. De tager billeder af solen hvert fjerde minut og kan følge soludbrud næsten hele vejen til Jorden. Tidligere kunne man kun følge dem en femtedel af vejen, hvilket gjorde forudsigelser usikre. Med de nye data kan forskerne se, hvordan udbruddene udvikler sig og er klumpede."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "30 minutter",
+          "label": "Præcision i forudsigelse"
+        },
+        {
+          "tal": "10 gange",
+          "label": "Forbedring i forhold til før"
+        },
+        {
+          "tal": "5 timer",
+          "label": "Nuværende usikkerhed"
+        }
+      ],
+      "detaljer": [
+        "PUNCH blev sendt op i 2025.",
+        "Fire rumfartøjer laver 3D-observationer af det indre solsystem.",
+        "Forskerne så nye strukturer i soludbrud, der er klumpede og ændrer sig.",
+        "Resultaterne er præsenteret på en videnskabelig konference og er ved at blive publiceret."
+      ],
+      "betydning": "Bedre varsling af solstorme kan beskytte strømforsyning, satellitter og astronauter mod skadelige påvirkninger, hvilket er vigtigt for vores teknologiske samfund.",
+      "pointer": [
+        "PUNCH forbedrer forudsigelser af solstorme markant.",
+        "Første test viser 30 minutters præcision.",
+        "Kontinuerlig overvågning er afgørende.",
+        "Kan beskytte infrastruktur og astronauter."
+      ],
+      "prio": 7
+    },
     {
       "titel": "Ames Science Stars of the Month – August 2026",
       "link": "https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/",
@@ -120,6 +401,47 @@
         "Fra University of Michigan"
       ],
       "prio": 5
+    },
+    {
+      "titel": "August 2026 Satellite Puzzler",
+      "link": "https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/",
+      "dato": "2026-08-04T16:31:46+00:00",
+      "kilde": "NASA",
+      "resume": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/satellite-puzzler/2026_augustpuzzler.jpg?w=720&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A landform displays various shades of green interspersed with several especially dark channels toward the right and light brown patches toward the left.",
+      "kategori": "Forskning",
+      "rubrik": "NASA's månedlige satellitbillede-gåde",
+      "resume_da": "NASA Earth Observatory udfordrer dig til at gætte, hvor et mystisk satellitbillede er taget. Indsend dit bud og vind æren.",
+      "sektioner": [
+        {
+          "overskrift": "Månedlig udfordring",
+          "tekst": "Hver måned udgiver NASA Earth Observatory et forvirrende satellitbillede. I august 2026 er det din tur til at gætte placeringen. Del dine observationer og begrundelser."
+        },
+        {
+          "overskrift": "Sådan deltager du",
+          "tekst": "Send dit svar via formularen på hjemmesiden og vælg 'Puzzler Answer'. Du kan gætte stedet, nævne satellit og instrument, spektrale bånd eller detaljer om geologi og historie."
+        },
+        {
+          "overskrift": "Præmien",
+          "tekst": "Der er ingen pengepræmie, men du får æren og måske blive fremhævet. Omkring en uge efter offentliggøres svaret og historien bag billedet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Billedet er fra august 2026.",
+        "Man kan vinde 'bragging rights' for at gætte rigtigt.",
+        "Man kan også nævne detaljer om billedet.",
+        "Svaret offentliggøres cirka en uge senere."
+      ],
+      "betydning": "Det er en sjov måde at lære om jordobservation fra satellitter på, og det engagerer offentligheden i rumforskning.",
+      "pointer": [
+        "Månedlig billedgåde fra NASA.",
+        "Gæt placeringen på satellitbilledet.",
+        "Indsend svar via onlineformular.",
+        "Præmie: ære og anerkendelse."
+      ],
+      "prio": 3
     },
     {
       "titel": "While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14",
@@ -610,6 +932,60 @@
         "Motoren bruger luft som brændstof.",
         "Testen sker i lavt kredsløb om Jorden.",
         "Det er første gang i rummet."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Smoke Streams Across Eastern Washington",
+      "link": "https://science.nasa.gov/earth/earth-observatory/smoke-streams-across-eastern-washington/",
+      "dato": "2026-08-04T04:00:00+00:00",
+      "kilde": "NASA",
+      "resume": "Wildland fires in early August 2026 pushed air quality to unhealthy levels, destroyed hundreds of structures, and triggered mandatory evacuations in Spokane.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-streams-across-eastern-washington/washingtonfires_tmo_20260802.jpg?w=1440&#038;h=960&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A wide plume of brown-gray smoke stretches across a satellite image spanning Washington, Idaho, Montana, and Canada.",
+      "kategori": "Politik & penge",
+      "rubrik": "Røg fra skovbrande kvæler det østlige Washington",
+      "resume_da": "Nye og igangværende skovbrande i det østlige Washington sender store mængder røg mod nordøst. Satellitbilleder viser omfanget, og luftkvaliteten er usund i flere områder.",
+      "sektioner": [
+        {
+          "overskrift": "Brande raser i øst",
+          "tekst": "Den 2. august 2026 optog NASA's Terra-satellit et billede af massive røgfaner fra flere skovbrande i det østlige Washington. Den største brand, Little Giant, havde brændt **38.500 acres** og var ikke under kontrol. Mindre brande nær Spokane havde også spredt sig hurtigt."
+        },
+        {
+          "overskrift": "Dårlig luftkvalitet",
+          "tekst": "Røgen fra brandene gav usund til meget usund luftkvalitet i dele af staten. I områder som Chelan, Leavenworth og Wenatchee blev beboere advaret om sundhedsrisici. Brandene havde også ødelagt eller beskadiget over **600 bygninger**."
+        },
+        {
+          "overskrift": "Rekordmange brande",
+          "tekst": "I 2026 er der brændt over **425.000 acres** i Washington på grund af mere end **1.000 brande**. Det er det højeste antal siden 2021. Tørke og ekstremt vejr har gjort vegetationen letantændelig."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "38.500 acres",
+          "label": "Little Giant brandens størrelse"
+        },
+        {
+          "tal": "600+",
+          "label": "Ødelagte eller beskadigede bygninger"
+        },
+        {
+          "tal": "425.000 acres",
+          "label": "Samlet brændt areal i år"
+        }
+      ],
+      "detaljer": [
+        "Brandene startede efter lynnedslag den 15. juli 2026.",
+        "Spokane-området havde brande, der brændte over 8.000 acres den 3. august.",
+        "National Weather Service udsendte en 'particularly dangerous situation' advarsel for første gang.",
+        "NASA's Disasters Program er aktiveret for at hjælpe med responsen."
+      ],
+      "betydning": "Røgen fra skovbrande kan påvirke vejret og luftkvaliteten i hele regionen. Det er vigtigt at følge med i, hvordan naturbrande ændrer sig i et varmere klima.",
+      "pointer": [
+        "Brande raser i det østlige Washington.",
+        "Røg giver usund luftkvalitet.",
+        "Mange bygninger er ødelagt.",
+        "Tørke har gjort området brandfarligt."
       ],
       "prio": 5
     },
@@ -4032,351 +4408,6 @@
         "Solen bliver rød om milliarder af år."
       ],
       "prio": 3
-    },
-    {
-      "titel": "New Zealand’s Southern Wilderness",
-      "link": "https://science.nasa.gov/earth/earth-observatory/new-zealands-southern-wilderness/",
-      "dato": "2026-07-30T04:01:00+00:00",
-      "kilde": "NASA",
-      "resume": "Stewart Island/Rakiura, New Zealand’s third-largest island, is known for its vibrant birdlife, unique forests, wilderness beaches, and views of the night sky.",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-zealand",
-      "billede_alt": "A roughly triangular island is almost entirely covered in green vegetation and has a large inlet on its eastern side.",
-      "kategori": "Forskning",
-      "rubrik": "New Zealands sydlige vildmark fotograferet fra rummet",
-      "resume_da": "Et sjældent skyfrit billede fra Landsat 9 viser Stewart Island/Rakiura, New Zealands tredjestørste ø, fyldt med unik natur og mørk himmel.",
-      "sektioner": [
-        {
-          "overskrift": "Øens unikke natur",
-          "tekst": "Stewart Island/Rakiura er New Zealands tredjestørste og sydligste beboede ø. **85 procent** af øen er dækket af Rakiura National Park med skove, vådområder og klitter."
-        },
-        {
-          "overskrift": "Kiwiens paradis",
-          "tekst": "Øen er hjemsted for den store Stewart Island tokoeka-kiwi, en underart af den sydlige brun kiwi. Bestanden tæller tusindvis, mens menneskebefolkningen kun er omkring **500**."
-        },
-        {
-          "overskrift": "Mørk himmel og astronomi",
-          "tekst": "I 2019 blev Stewart Island/Rakiura udnævnt til International Dark Sky Sanctuary. Herfra kan man se stjerner, auroraer og dværggalakser på den sydlige himmel."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "500",
-          "label": "Øens befolkning"
-        },
-        {
-          "tal": "85%",
-          "label": "Nationalparkdækning"
-        }
-      ],
-      "detaljer": [
-        "Billedet er taget med OLI på Landsat 9 den 14. maj 2026.",
-        "Māori-navnet Rakiura betyder 'glødende himle'.",
-        "Ulva Island er blevet rottfri siden 1997.",
-        "På øen findes også den sjældne kākāpō-papegøje."
-      ],
-      "betydning": "Billedet viser en af verdens bedste destinationer for stjernekiggeri og et eksempel på vellykket naturbevaring.",
-      "pointer": [
-        "Sjældent skyfrit satellitbillede af Stewart Island.",
-        "Øen er et fristed for truede fugle som kiwi og kākāpō.",
-        "Udnævnt til Dark Sky Sanctuary i 2019.",
-        "Bruges til at observere sydhimlens astronomiske objekter."
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "Sophia Space and Caltech claim patent for space data centers",
-      "link": "https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/",
-      "dato": "2026-07-30T04:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "SAN FRANCISCO – Sophia Space announced the award July 30 of a patent, shared with the California Institute of Technology, covering large, modular space-based data centers. The patent, issued July [&#8230;] The post Sophia Space and Caltech claim patent for space data centers appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_1tile.jpg?fit=879%2C494&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Patent givet til rumdatacentre fra Sophia Space og Caltech",
-      "resume_da": "Sophia Space og California Institute of Technology har fået patent på store, modulære datacentre i rummet.",
-      "sektioner": [
-        {
-          "overskrift": "Patentet er tildelt",
-          "tekst": "Sophia Space annoncerede den 30. juli, at de sammen med California Institute of Technology har fået et patent. Patentet dækker store, modulære datacentre i rummet."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Patentet blev tildelt 30. juli.",
-        "Sophia Space og Caltech deler patentet.",
-        "Det dækker store, modulære datacentre placeret i rummet."
-      ],
-      "betydning": "Rumbaserede datacentre kan potentielt reducere jordens energiforbrug og give mere sikker databehandling.",
-      "pointer": [
-        "Sophia Space og Caltech har fået patent på rumdatacentre.",
-        "Patentet blev tildelt 30. juli.",
-        "Datacentrene er store og modulære.",
-        "Teknologien kan ændre fremtidens databehandling."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Proposed rule would exempt commercial launch licensing from environmental regulations",
-      "link": "https://spacenews.com/proposed-rule-would-exempt-commercial-launch-licensing-from-environmental-regulations/",
-      "dato": "2026-07-29T23:12:56+00:00",
-      "kilde": "SpaceNews",
-      "resume": "The Department of Transportation is proposing to exempt commercial space launch licensing from many environmental regulations, a move praised by industry but criticized by environmental groups. The post Proposed rule would exempt commercial launch licensing from environmental regulations appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starship-flt13-sunset.jpeg?fit=1024%2C576&amp;ssl=1",
-      "billede_alt": "Starship sunset",
-      "kategori": "Politik & penge",
-      "rubrik": "Forslag: Kommercielle rumopsendelser fri for miljøregler",
-      "resume_da": "Transportministeriet foreslår at fritage kommercielle rumopsendelser fra mange miljøregler, hvilket glæder industrien, men bekymrer miljøgrupper.",
-      "sektioner": [
-        {
-          "overskrift": "Forslagets indhold",
-          "tekst": "Transportministeriet foreslår at undtage kommercielle rumopsendelser fra mange miljøreguleringer. Det betyder, at SpaceX og andre firmaer ikke skal gennemgå miljøvurderinger, før de får licens til opsendelser."
-        },
-        {
-          "overskrift": "Industriens reaktion",
-          "tekst": "Rumindustrien roser forslaget og siger, det vil fremskynde opsendelser og reducere bureaukrati. De mener, at nuværende regler er for langsomme og dyre."
-        },
-        {
-          "overskrift": "Miljøgruppers kritik",
-          "tekst": "Miljøorganisationer kritiserer forslaget skarpt. De advarer om, at det kan føre til forurening og skade på naturen uden tilstrækkeligt tilsyn."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Forslaget kommer fra det amerikanske transportministerium.",
-        "Det vil fritage kommercielle rumopsendelser fra mange miljøreguleringer.",
-        "Industrien støtter forslaget.",
-        "Miljøgrupper er imod forslaget."
-      ],
-      "betydning": "Forslaget kan påvirke, hvordan rumindustrien opererer i USA, og kan sætte en præcedens for andre lande. For almindelige danskere betyder det, at miljøhensyn måske nedprioriteres til fordel for hurtigere rumopsendelser.",
-      "pointer": [
-        "Forslag om at fritage kommercielle rumopsendelser fra miljøregler.",
-        "Industrien ser det som en lettelse.",
-        "Miljøgrupper bekymrer sig om konsekvenserne.",
-        "Kan påvirke fremtidig rumfartspolitik."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "NASA Awards 2026 Innovative Technology Concepts",
-      "link": "https://www.nasa.gov/news-release/nasa-awards-2026-innovative-technology-concepts/",
-      "dato": "2026-07-29T21:04:20+00:00",
-      "kilde": "NASA",
-      "resume": "The NASA Innovative Advanced Concepts (NIAC) program has created 18 new awards to support visionary ideas to improve aerospace technologies in areas ranging from the exploration of the solar system to understanding the universe. The 18 NIAC Phase I awards total $3.2 million. Each award provides up to $175,000 for a nine-month initial investigation. The [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/niac.png?w=2048",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "NASA støtter 18 vilde rumidéer med 25 mio. kr.",
-      "resume_da": "NASA’s NIAC-program har tildelt 3,2 millioner dollars til 18 tidlige koncepter, der spænder fra måneudforskning til interstellar rejse.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er NIAC?",
-          "tekst": "NIAC står for NASA Innovative Advanced Concepts. Programmet støtter tidlige, visionære idéer, der kan revolutionere rumteknologi. Hvert projekt får op til **175.000 dollars** til en **9-måneders** indledende undersøgelse."
-        },
-        {
-          "overskrift": "Måne- og planetidéer",
-          "tekst": "Flere projekter fokuserer på Månen, fx varmestyring til små robotter og radioisotopvarmere til rumdragter. Andre ser på Venus, Saturns ringe (med en sværm af **10.000** små satellitter) og prøvetagning fra Uranus’ og Neptuns ringe."
-        },
-        {
-          "overskrift": "Interstellare og astronomiske koncepter",
-          "tekst": "Nogle idéer rækker ud over solsystemet, fx sejl til interstellar rejse, kortlægning af eksoplaneters kontinenter og observation af sorte hullers fotonringe. Andre kan måle gravitationsbølger for at forstå galaksedannelse."
-        },
-        {
-          "overskrift": "Jordrelaterede projekter",
-          "tekst": "Et projekt undersøger, om rumstøv kan reducere solindstråling på Jorden. Et andet handler om at fjerne rumaffald. Ingen af projekterne er officielle NASA-missioner, men de kan bane vejen for fremtidige teknologier."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "3,2 mio. dollars",
-          "label": "samlet bevilling"
-        },
-        {
-          "tal": "18",
-          "label": "antal projekter"
-        },
-        {
-          "tal": "175.000 dollars",
-          "label": "max beløb per projekt"
-        }
-      ],
-      "detaljer": [
-        "18 NIAC Phase I-projekter er udvalgt.",
-        "Hvert projekt varer 9 måneder.",
-        "Projekterne er tidlige koncepter, ikke officielle missioner.",
-        "Idéerne omfatter måneinfrastruktur, planetudforskning og interstellar rejse.",
-        "Et projekt vil bruge 10.000 små satellitter til at udforske Saturns ringe.",
-        "Radioisotopvarmere kan holde astronauter varme under månenætter."
-      ],
-      "betydning": "Selvom projekterne er i en tidlig fase, kan de føre til teknologier, der gør rumfart billigere, mere effektiv og åbner nye muligheder for udforskning – til gavn for både videnskab og samfund.",
-      "pointer": [
-        "NASA investerer i vilde, banebrydende idéer.",
-        "Projekter spænder fra Månen til sorte huller.",
-        "Nogle koncepter kan påvirke livet på Jorden.",
-        "Ingen af idéerne er sikre – de er stadig på tegnebrættet."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Space Force awards All Points $250 million to expand satellite processing at Vandenberg",
-      "link": "https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/",
-      "dato": "2026-07-29T19:45:17+00:00",
-      "kilde": "SpaceNews",
-      "resume": "All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch vehicles The post Space Force awards All Points $250 million to expand satellite processing at Vandenberg appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/9778751-scaled.jpg?fit=1024%2C683&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Space Force bruger 250 mio. dollars på nye satellitfaciliteter",
-      "resume_da": "Space Force har givet All Points Logistics en kontrakt på 250 millioner dollars til at udvide satellitbehandling ved Vandenberg Space Force Base.",
-      "sektioner": [
-        {
-          "overskrift": "Tredje kontrakt af sin slags",
-          "tekst": "All Points Logistics er den tredje virksomhed, der får en kontrakt under et kommercielt program. Programmet skal opføre nye faciliteter, hvor satellitter kan inspiceres, testes, tankes og klargøres til opsendelse."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "250 millioner dollars",
-          "label": "kontraktens værdi"
-        }
-      ],
-      "detaljer": [
-        "All Points Logistics vandt kontrakten under et kommercielt åbningsprogram.",
-        "Faciliteterne skal bruges til satellitbehandling før opsendelse."
-      ],
-      "betydning": "Kontrakten viser, at Space Force satser på kommercielle partnere til at opgradere rumfartsinfrastruktur. Det kan gøre opsendelser hurtigere og billigere.",
-      "pointer": [
-        "Space Force investerer i satellitbehandlingskapacitet.",
-        "All Points Logistics får 250 mio. dollars til opgaven.",
-        "Faciliteterne skal stå ved Vandenberg-base i Californien."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Little red dots may mark temporary black hole phase",
-      "link": "https://phys.org/news/2026-07-red-dots-temporary-black-hole.html",
-      "dato": "2026-07-29T19:10:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Since their discovery by NASA's James Webb Space Telescope in 2022, little red dots (LRDs) have been the subject of great interest to astronomers. Understanding the nature of these extremely distant, compact red sources has been a puzzling scientific endeavor.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/webb-explores-family-t-1.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Små røde prikker kan være sorte huller",
-      "resume_da": "Siden 2022 har James Webb-teleskopet observeret mystiske små røde prikker i det fjerne univers. Ny forskning tyder på, at de kan være korte faser af sorte hullers aktivitet.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er de røde prikker?",
-          "tekst": "Siden **2022** har NASA's James Webb-rumteleskop fundet små, kompakte røde kilder langt væk. De kaldes little red dots (LRD'er). Astronomer har undret sig over, hvad de er."
-        },
-        {
-          "overskrift": "Ny forklaring",
-          "tekst": "Ny forskning tyder på, at LRD'er kan være sorte huller i en kort, aktiv fase. De er meget fjerne, så vi ser dem, som universet var for milliarder af år siden."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "James Webb-teleskopet opdagede de små røde prikker i 2022.",
-        "Prikkerne er ekstremt fjerne og kompakte.",
-        "Forskere kalder dem little red dots (LRD'er)."
-      ],
-      "betydning": "Forskningen kan hjælpe os med at forstå, hvordan sorte huller blev dannet og udviklede sig i det tidlige univers.",
-      "pointer": [
-        "Små røde prikker set af James Webb-teleskopet",
-        "Kan være sorte huller i en kort fase",
-        "Er meget fjerne og gamle",
-        "Hjælper med at forstå universets udvikling"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Curiosity Mars rover discovers field of honeycomb textures",
-      "link": "https://phys.org/news/2026-07-curiosity-mars-rover-field-honeycomb.html",
-      "dato": "2026-07-29T17:30:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "As NASA's Curiosity rover recently began climbing a Martian valley nicknamed \"Valle Grande,\" it sent back images that were a familiar sight to mission scientists: honeycomb-like textures called polygonal fractures, each about 1.5–3 inches (4–8 centimeters) across. The mission has spotted small patches of these geometric shapes several times before, but nothing at the scale discovered in Valle Gran",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/curiosity-mars-rover-d.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Curiosity finder honningkage-mønstre på Mars",
-      "resume_da": "NASAs rover Curiosity har opdaget et stort område med honningkagelignende revner i Mars-dalen Valle Grande. Mønstrene er velkendte, men aldrig set i denne størrelse.",
-      "sektioner": [
-        {
-          "overskrift": "Opdagelse i Valle Grande",
-          "tekst": "Roveren Curiosity er begyndt at køre op ad dalen Valle Grande på Mars. Her har den fotograferet et stort område med bikage-lignende mønstre, kaldet polygonale brud. Hvert mønster er omkring **1,5-3 tommer** (**4-8 centimeter**) bredt."
-        },
-        {
-          "overskrift": "Kendt fænomen",
-          "tekst": "Forskerne har set små områder med disse geometriske former før. Men aldrig i så stor skala som i Valle Grande. Mønstrene dannes, når Mars' overflade tørrer ud og revner."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1,5-3 tommer",
-          "label": "Bredde af hvert mønster"
-        }
-      ],
-      "detaljer": [
-        "Opdagelsen er gjort af Curiosity-roveren under dens opstigning i Valle Grande-dalen.",
-        "Polygonale brud er et tegn på, at overfladen har været våd og derefter tørret ud."
-      ],
-      "betydning": "Opdagelsen giver forskerne ny viden om, hvordan vand og klima har formet Mars' overflade gennem tiden.",
-      "pointer": [
-        "Stort område med bikagemønstre fundet.",
-        "Mønstre er 4-8 cm brede.",
-        "Aldrig set i denne mængde før.",
-        "Fortæller om Mars' tørre fortid."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "NASA Sets Coverage for August Northern Hemisphere Total Solar Eclipse",
-      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/",
-      "dato": "2026-07-29T16:49:37+00:00",
-      "kilde": "NASA",
-      "resume": "On Wednesday, Aug. 12, a total solar eclipse will be visible in parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. NASA will stream the eclipse live with views across the path and interviews with subject matter experts through a variety of platforms. Learn where to watch online: [&#8230;]",
-      "billede": "https://www.youtube.com/embed/29ixFQIGZaY",
-      "billede_alt": "A total solar eclipse is seen in Dallas, Texas on Monday, April 8, 2024. A total solar eclipse swept across a narrow portion of the North American continent from Mexico’s Pacific coast to the Atlantic",
-      "kategori": "Astronomi",
-      "rubrik": "Total solformørkelse 12. august synlig fra Nordeuropa",
-      "resume_da": "Den 12. august 2026 kan en total solformørkelse opleves fra bl.a. Grønland, Island og Spanien. NASA sender live og udfører eksperimenter.",
-      "sektioner": [
-        {
-          "overskrift": "Hvor og hvornår",
-          "tekst": "Onsdag **12. august** oplever Grønland, Island, Nordrusland, Atlanterhavet, Spanien og Portugal en total solformørkelse. Dele af USA, Canada, Europa og Nordvestafrika ser en delvis formørkelse. NASA starter live-transmissionen kl. **13:15** amerikansk østkysttid, og totaliteten begynder i Island kl. **13:45** og i Spanien kl. **14:28**."
-        },
-        {
-          "overskrift": "NASA's eksperimenter",
-          "tekst": "NASA sender et forskningsfly (WB-57) ind i Månens skygge for at studere Solens korona. Studerende fra flere amerikanske universiteter sender balloner op fra Island og Spanien for at måle, hvordan formørkelsen påvirker Jordens atmosfære."
-        },
-        {
-          "overskrift": "Sådan følger du med",
-          "tekst": "NASA streames live med ekspertinterviews på deres hjemmeside. Du kan stille spørgsmål på X, Facebook og Instagram ved at tagge NASA's konti. Billeder lægges på Flickr kort efter formørkelsen."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "12. august 2026",
-          "label": "Dato for formørkelsen"
-        },
-        {
-          "tal": "13:15 ET",
-          "label": "Start af NASA's live"
-        }
-      ],
-      "detaljer": [
-        "Total solformørkelse synlig fra Grønland, Island, Nordrusland, Atlanterhavet, Spanien og Portugal.",
-        "Delvis formørkelse synlig i store dele af USA, Canada, Europa og Nordvestafrika.",
-        "NASA udfører eksperimenter med fly og balloner under formørkelsen.",
-        "Live-transmission starter kl. 13:15 ET den 12. august.",
-        "Spørgsmål kan sendes via sociale medier under broadcast."
-      ],
-      "betydning": "Selvom totaliteten i Danmark ikke er direkte synlig, kan danskere opleve en delvis formørkelse. NASA's forskning under formørkelsen giver ny viden om Solen og Jordens atmosfære, som kan påvirke vejr- og klimamodeller.",
-      "pointer": [
-        "Total solformørkelse 12. august 2026",
-        "Synlig i Grønland, Island og Spanien",
-        "NASA sender live og udfører eksperimenter",
-        "Delvis formørkelse i store dele af Nordhalvkuglen"
-      ],
-      "prio": 7
     }
   ]
 }
