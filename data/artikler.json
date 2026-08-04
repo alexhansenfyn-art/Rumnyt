@@ -1,7 +1,489 @@
 {
-  "opdateret": "2026-08-04T10:16:16.822767+00:00",
+  "opdateret": "2026-08-04T18:16:05.657967+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Ames Science Stars of the Month – August 2026",
+      "link": "https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/",
+      "dato": "2026-08-04T17:08:04+00:00",
+      "kilde": "NASA",
+      "resume": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Danielle Lopez, Jennifer Claudio, and Duncan Mifsud. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star of the Month: Danielle Lopez Danielle Lopez is the [&",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/slide1.jpeg?w=1920",
+      "billede_alt": "Image of the profile photos of the Ames stars of the month for August 2026. Pictured from left to right is Danielle Lopez, Jennifer Claudio, and Duncan Misfud.",
+      "kategori": "Forskning",
+      "rubrik": "NASA Ames hædrer tre medarbejdere",
+      "resume_da": "NASA Ames har udnævnt tre medarbejdere til 'månedens stjerner' for deres bidrag til rumforskning og uddannelse.",
+      "sektioner": [
+        {
+          "overskrift": "Danielle Lopez: Open Science",
+          "tekst": "Danielle Lopez er leder af Open Science Data Repository. Hun roses for at holde projekter på sporet i svære tider og for at fremme samarbejde på tværs af NASA. Hendes indsats har været afgørende for Open Science."
+        },
+        {
+          "overskrift": "Jennifer Claudio: GL4HS-program",
+          "tekst": "Jennifer Claudio støtter GeneLab for High School sommerprogrammet. Hun er anerkendt for sin effektivitet og for hurtigt at løse et sikkerhedsbrud på læringsplatformen. Det viser hendes handlekraft og engagement."
+        },
+        {
+          "overskrift": "Duncan Mifsud: Asteroideforskning",
+          "tekst": "Duncan Mifsud er forsker i astrofysik. Han har analyseret infrarøde data fra laboratorieprøver og materiale fra asteroiden Bennu. Det er en del af OSIRIS-REx-missionen, og arbejdet er vigtigt for at forstå organiske molekyler i rummet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "De tre er udvalgt for deres ekstraordinære bidrag til NASA’s mission.",
+        "Danielle Lopez er assisterende projektleder hos Amentum.",
+        "Jennifer Claudio arbejder for Blue Marble Space.",
+        "Duncan Mifsud er postdoc hos BAERI.",
+        "Mifsud har arbejdet med prøver fra asteroiden Bennu."
+      ],
+      "betydning": "Historien viser, hvordan dedikerede forskere og ledere bidrager til rumforskning. Det kan inspirere og skabe tillid til, at NASA's arbejde udføres af kompetente folk, hvilket er relevant for skatteborgernes investering i rumfart.",
+      "pointer": [
+        "Tre medarbejdere hædres ved NASA Ames.",
+        "Lopez styrker Open Science og samarbejde.",
+        "Claudio reddede sommerprogram efter cyberangreb.",
+        "Mifsud analyserer prøver fra asteroide Bennu."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "Mapping monsters: Data release unveils all-sky views of supermassive black holes",
+      "link": "https://phys.org/news/2026-08-monsters-unveils-sky-views-supermassive.html",
+      "dato": "2026-08-04T17:00:05+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Data released by the Sloan Digital Sky Survey (SDSS) marks a landmark expansion in the study of accreting supermassive black holes (SMBHs). As part of the fifth generation of the survey (SDSS-V), the Black Hole Mapper (BHM) program is providing unprecedented insights into the masses, growth and physics of quasars and active galactic nuclei (AGN) across cosmic time.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/mapping-monsters-sdss.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Nyt kort viser supermassive sorte huller",
+      "resume_da": "Sloan Digital Sky Survey har frigivet data om sorte huller, der giver ny viden om deres vækst og fysik.",
+      "sektioner": [
+        {
+          "overskrift": "Data frigivet",
+          "tekst": "Sloan Digital Sky Survey (SDSS) har frigivet data fra sit femte program. Det er en stor udvidelse i studiet af supermassive sorte huller. Programmet hedder Black Hole Mapper."
+        },
+        {
+          "overskrift": "Ny viden",
+          "tekst": "Dataene giver hidtil uset indsigt i massen og væksten af kvasarer og aktive galaksekerner. Det hjælper forskere med at forstå, hvordan sorte huller udvikler sig over tid."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Data frigivet af Sloan Digital Sky Survey",
+        "Femte generation af undersøgelsen (SDSS-V)",
+        "Programmet hedder Black Hole Mapper (BHM)",
+        "Fokuserer på supermassive sorte huller, kvasarer og aktive galaksekerner"
+      ],
+      "betydning": "For almindelige danskere er dette relevant, fordi forskning i sorte huller udvider vores forståelse af universet og dets udvikling.",
+      "pointer": [
+        "Stor datafrigivelse om sorte huller",
+        "Ny indsigt i masse og vækst",
+        "Fra SDSS' femte program"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Designing memory-centric chips for future space telescopes",
+      "link": "https://phys.org/news/2026-08-memory-centric-chips-future-space.html",
+      "dato": "2026-08-04T16:40:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Two proposed computer chip designs could efficiently process data on future space telescopes while they search for Earth–like exoplanets, according to a University of Michigan Engineering study that will be presented at the IEEE Space Computing Conference in August.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/designing-memory-centr.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Nye chipdesigns til fremtidens rumteleskoper",
+      "resume_da": "To nye chipdesigns kan gøre databehandling mere effektiv på fremtidige rumteleskoper, der leder efter jordlignende exoplaneter. Designene præsenteres i august på en IEEE-konference.",
+      "sektioner": [
+        {
+          "overskrift": "Effektiv databehandling",
+          "tekst": "To foreslåede chipdesigns kan behandle data effektivt på fremtidige rumteleskoper. De er udviklet til teleskoper, der søger efter jordlignende exoplaneter. Studiet er fra University of Michigan Engineering."
+        },
+        {
+          "overskrift": "Præsentation på konference",
+          "tekst": "Designene præsenteres på IEEE Space Computing Conference i august. Konferencen fokuserer på rumfartsteknologi. Det er et vigtigt skridt mod bedre rumteleskoper."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2",
+          "label": "Antal chipdesigns"
+        }
+      ],
+      "detaljer": [
+        "Designene er målrettet fremtidige rumteleskoper, der søger efter exoplaneter.",
+        "Studiet kommer fra University of Michigan Engineering.",
+        "Præsentationen finder sted på IEEE Space Computing Conference i august."
+      ],
+      "betydning": "Bedre chips kan gøre det muligt for rumteleskoper at finde jordlignende planeter, hvilket kan bringe os tættere på at opdage liv uden for vores solsystem.",
+      "pointer": [
+        "To chipdesigns til rumteleskoper",
+        "Skal finde jordlignende exoplaneter",
+        "Præsenteres i august",
+        "Fra University of Michigan"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14",
+      "link": "https://www.nasaspaceflight.com/2026/08/spacex-recovers-ship-40-ship-41-flight-14/",
+      "dato": "2026-08-04T16:27:05+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "SpaceX is recovering the intact Ship 40 from the Indian Ocean after its soft landing&#8230; The post While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14 appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-04-16-40-59-442.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "SpaceX henter Ship 40 og forbereder Flight 14",
+      "resume_da": "SpaceX har i en sjælden bedrift bjærget Starship-trinet Ship 40 intakt fra havet. Nu gør de klar til næste testflyvning, Flight 14, som kan ske allerede i august.",
+      "sektioner": [
+        {
+          "overskrift": "Intakt bjærgning i Indiske Ocean",
+          "tekst": "Ship 40 bløde landede i havet efter Flight 13 og forblev intakt, hvilket er nyt. Tidligere gik trinene tabt, når de væltede efter landing. SpaceX har sendt skibe for at hente det, og rejsen til Australien kan tage flere dage."
+        },
+        {
+          "overskrift": "Vigtige data om varmeskjold",
+          "tekst": "Bjærgningen giver ingeniører direkte adgang til varmeskjoldet efter en hel flyvning. Billeder fra rummet viser, at skjoldet er stort set intakt, men nogle fliser mangler bagtil. Det giver vigtig viden til at forbedre designet."
+        },
+        {
+          "overskrift": "Preparations til næste flyvning",
+          "tekst": "Flight 14 kan finde sted den 20. august ifølge planlægningsdokumenter. Booster 21 og Ship 41 gøres klar. Ship 41 skal gennemgå motor test på Massey's, og pad 2 er ved at blive repareret efter den seneste flyvning."
+        },
+        {
+          "overskrift": "Raptor-motorer testes",
+          "tekst": "SpaceX har udført 22 Raptor-tests på to uger, herunder en på 140 sekunder, der svarer til en fuld opstigning. McGregor-faciliteten sikrer, at hver motor er godkendt, før den installeres."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "400 kilometer",
+          "label": "Drift efter landing"
+        },
+        {
+          "tal": "20. august",
+          "label": "Mulig dato for Flight 14"
+        },
+        {
+          "tal": "140 sekunder",
+          "label": "Længste Raptor-test"
+        }
+      ],
+      "detaljer": [
+        "Ship 40 blev ikke skrottet, men bjærges.",
+        "Landingspræcisionen kunne have tilladt et fangst med tårnarmene.",
+        "Satellitbilleder viser manglende fliser på den bagerste del.",
+        "Booster 21 har gennemgået kryogene test og modtager motorer.",
+        "Ship 41 er klar til at rulle til Massey's for motortest."
+      ],
+      "betydning": "Det viser, at SpaceX er tættere på at kunne genbruge hele Starship. Det kan betyde billigere og hyppigere rumrejser i fremtiden, med mulighed for at sende mere nyttelast og i sidste ende mennesker til Månen og Mars.",
+      "pointer": [
+        "SpaceX bjærger Ship 40 intakt for første gang.",
+        "Data om varmeskjoldet er afgørende for forbedringer.",
+        "Flight 14 kan ske i august.",
+        "Raptor-motorerne testes intenst."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations",
+      "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/",
+      "dato": "2026-08-04T16:14:51+00:00",
+      "kilde": "NASA",
+      "resume": "NASA is making progress in building the Moon Base, which will become a resilient outpost near the Moon’s South Pole for science, technology, and eventual human operations. To advance lunar surface infrastructure development, commercial partners such as Blue Origin, Firefly Aerospace, Intuitive Machines, and Voyager Lunar Systems are working toward delivering landers by 2028. These [&#8230;]",
+      "billede": "https://www.youtube.com/embed/Sempwv5MPMQ",
+      "billede_alt": "Graphic of the Moon’s surface with bright points of light and a crescent Earth, labeled “Moon Base – August 2026 Update.",
+      "kategori": "Missioner",
+      "rubrik": "NASA's månebase gør fremskridt med leverancer",
+      "resume_da": "NASA og kommercielle partnere er på vej til at sende landere til Månens sydpol inden 2028. Det er en vigtig del af opbygningen af en base med plads til mennesker.",
+      "sektioner": [
+        {
+          "overskrift": "Månebasen i fase I",
+          "tekst": "NASA bygger på Månens sydpol. Fase I løber fra nu og frem til 2029. Den omfatter mere end **20** robotlandinger. Hver mission skal lære NASA og partnerne mere om, hvordan man kan leve på månen, og opbygge den nødvendige infrastruktur."
+        },
+        {
+          "overskrift": "Blue Origins lander",
+          "tekst": "Blue Origin har bygget landeren Blue Moon MK1. Den har gennemgået test i vakuum og kulde. Næste skridt er at fylde brændstof på. Missionen hedder Endurance. Den skal vise præcis landing og udforske månemiljøet."
+        },
+        {
+          "overskrift": "Firefly til Månens bagside",
+          "tekst": "Fireflys anden mission, Blue Ghost Mission 2, skal lande på Månens bagside. Det bliver første gang for en amerikansk lander. Systemet er tre gange så højt som den første mission. Med på turen er tre NASA-nyttelaster, og de skal blandt andet undersøge mørkets tidsalder i universet."
+        },
+        {
+          "overskrift": "Intuitive Machines' tredje tur",
+          "tekst": "Intuitive Machines sender tredje mission med Nova-C landeren og en datarelay-satellit. Landeren skal lande i et område med magnetisk anomali. Det er første gang, man undersøger overfladen af en såkaldt 'lunar swirl'. Missionen er fyldt med både NASA-udstyr og kommerciel last."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2028",
+          "label": "Leveringer til månebase"
+        },
+        {
+          "tal": "20",
+          "label": "Robotlandinger i fase I"
+        },
+        {
+          "tal": "22 fod",
+          "label": "Højden på Firefly-system"
+        }
+      ],
+      "detaljer": [
+        "Blue Moon MK1 har bestået en vakuumtest ved NASA.",
+        "Fireflies mission lander på Månens bagside.",
+        "Intuitive Machines sender en datarelay-satellit med.",
+        "Månebasen er ved Månens sydpol."
+      ],
+      "betydning": "Danmark kan komme til at spille en rolle i fremtidige missioner, og teknologien kan have afsmittende effekt på danske virksomheder inden for rumfart.",
+      "pointer": [
+        "Månebase ved sydpolen",
+        "Kommercielle partnere involveret",
+        "Øvelser i månemiljø",
+        "Første gang til Månens bagside"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Roman Space Telescope Plaque Install",
+      "link": "https://www.nasa.gov/image-article/roman-space-telescope-plaque-install/",
+      "dato": "2026-08-04T15:50:44+00:00",
+      "kilde": "NASA",
+      "resume": "Technicians installed a commemorative plaque, seen in this July 28, 2026, photo, on NASA&#8217;s Nancy Grace Roman Space Telescope. The plaque honors the legacy of Dr. Nancy Grace Roman, NASA’s first chief astronomer and one of the architects of the agency’s modern science program. It also features a memory card containing a total of 1,350,144 [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260728-ph-jmt01-0003orig.jpg?w=2048",
+      "billede_alt": "A close-up view of NASA&#039;s Nancy Grace Roman Space Telescope shows a commemorative plaque with writing on it, as well as an illustration of Roman, and a memory card.",
+      "kategori": "Missioner",
+      "rubrik": "Plaque med 1,35 mio. navne installeret på rumteleskop",
+      "resume_da": "NASA har installeret en mindeplade med 1.350.144 navne på Nancy Grace Roman-rumteleskopet, som skal opsendes i august 2026.",
+      "sektioner": [
+        {
+          "overskrift": "Mindepladen og navnene",
+          "tekst": "Plaquen hylder Dr. Nancy Grace Roman, NASA's første chef-astronom. Den indeholder et hukommelseskort med **1.350.144** navne fra hele verden, herunder astronauter fra Artemis II og III."
+        },
+        {
+          "overskrift": "Teleskopets mission",
+          "tekst": "Roman-teleskopet skal opsendes **30. august 2026**. Det kan blokere stjernelys for at se exoplaneter direkte og lave en folketælling af planetsystemer i vores galakse."
+        },
+        {
+          "overskrift": "Videnskabelige mål",
+          "tekst": "Teleskopet skal undersøge mørk energi, exoplaneter og infrarød astrofysik. Det skal besvare grundlæggende spørgsmål om universet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1.350.144",
+          "label": "navne på hukommelseskort"
+        },
+        {
+          "tal": "30. august 2026",
+          "label": "planlagt opsendelsesdato"
+        }
+      ],
+      "detaljer": [
+        "Plaquen blev installeret den 28. juli 2026.",
+        "Dr. Nancy Grace Roman var NASA's første chef-astronom.",
+        "Navnene inkluderer astronauter fra Artemis II og III."
+      ],
+      "betydning": "Historien viser, hvordan almindelige mennesker kan blive en del af rumforskning. Teleskopet kan ændre vores forståelse af universet.",
+      "pointer": [
+        "NASA har installeret en mindeplade.",
+        "Plaquen indeholder 1,35 mio. navne.",
+        "Teleskopet opsendes i august 2026.",
+        "Det skal studere exoplaneter og mørk energi."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Rubicon ASCENT thruster moves from hot-fire testing to production",
+      "link": "https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production/",
+      "dato": "2026-08-04T15:48:20+00:00",
+      "kilde": "SpaceNews",
+      "resume": "SAN FRANCISCO – Rubicon Space Systems completed hot-fire testing of its Velox 5-newton ASCENT monopropellant thruster, paving the way for on-orbit operations in 2027. “The program demonstrated performance beyond our [&#8230;] The post Rubicon ASCENT thruster moves from hot-fire testing to production appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_1thruster_firing_resized.png?fit=879%2C623&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Rubicon fremrykker rumthruster til produktion",
+      "resume_da": "Rubicon Space Systems har afsluttet test af sin Velox 5-newton thruster. Den skal bruges i rummet i 2027.",
+      "sektioner": [
+        {
+          "overskrift": "Testen er færdig",
+          "tekst": "Rubicon Space Systems har gennemført hot-fire test af sin Velox 5-newton ASCENT thruster. Testen viste bedre resultater end forventet. Nu går de videre til produktion."
+        },
+        {
+          "overskrift": "Planlagt opsendelse",
+          "tekst": "Thrusteren skal bruges i rummet i 2027. Den skal bruges til at flytte satellitter i omløb."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "5-newton",
+          "label": "Thrusterens kraft"
+        },
+        {
+          "tal": "2027",
+          "label": "År for brug i rummet"
+        }
+      ],
+      "detaljer": [
+        "Testen blev kaldt hot-fire test, hvilket betyder, at thrusteren blev tændt under rigtige forhold.",
+        "Programmet demonstrerede ydeevne ud over forventningerne."
+      ],
+      "betydning": "For almindelige danskere betyder det, at fremtidige satellitter kan blive mere effektive til at manøvrere i rummet, hvilket kan forbedre kommunikation og vejrudsigt på Jorden.",
+      "pointer": [
+        "Hot-fire test er færdig.",
+        "Produktion er startet.",
+        "Brug i 2027."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Astronomers catch massive star's death from the first explosive moment",
+      "link": "https://phys.org/news/2026-08-astronomers-massive-star-death-explosive.html",
+      "dato": "2026-08-04T15:00:05+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "In March 2026, the Einstein Probe detected a brief flash of soft X-rays emitted from a galaxy about 500 million light-years away. The flash, dubbed EP260321a, immediately triggered a worldwide observing campaign. Within an hour, ground-based telescopes began monitoring the source, revealing a rapidly brightening supernova, later designated SN 2026gzf. Two teams of scientists used several NSF NOIRL",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-catch-mass-1.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Døende stjerne fanget fra første eksplosive øjeblik",
+      "resume_da": "I marts 2026 opdagede Einstein-probe et røntgenblink fra en supernova 500 millioner lysår væk. Et stort teleskopnetværk fulgte begivenheden fra starten.",
+      "sektioner": [
+        {
+          "overskrift": "Et blink i rummet",
+          "tekst": "I marts 2026 fangede Einstein-proben et kort røntgenblink fra en galakse omkring **500 millioner lysår** væk. Blinket fik navnet EP260321a og satte straks gang i en verdensomspændende observationskampagne."
+        },
+        {
+          "overskrift": "Hurtig opfølgning",
+          "tekst": "Inden for en time begyndte teleskoper på Jorden at følge kilden. De så en supernova, som hurtigt blev klarere. Den fik betegnelsen SN 2026gzf. To forskerhold brugte flere NSF NOIRLab-faciliteter til at overvåge begivenheden."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "500 millioner lysår",
+          "label": "Afstand til supernovaen"
+        }
+      ],
+      "detaljer": [
+        "Opdaget af Einstein-probe i marts 2026",
+        "Blinket blev kaldt EP260321a",
+        "Supernovaen fik navnet SN 2026gzf",
+        "To hold forskere observerede med NSF NOIRLab-faciliteter"
+      ],
+      "betydning": "Det viser, hvordan rumteleskoper og jordbaserede teleskoper kan samarbejde om at fange sjældne kosmiske begivenheder helt fra starten – og det kan lære os mere om, hvordan massive stjerner dør.",
+      "pointer": [
+        "Røntgenblink fra døende stjerne opdaget",
+        "Supernova fulgt fra første eksplosion",
+        "Internationalt samarbejde om observation",
+        "Nye indsigter i stjerners død"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Future of Crew Dragon weighs on commercial spaceflight industry",
+      "link": "https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry/",
+      "dato": "2026-08-04T12:14:03+00:00",
+      "kilde": "SpaceNews",
+      "resume": "While SpaceX says there is a “significant” amount of life left in its Crew Dragon fleet, the company has hedged on how long it will continue flying the spacecraft. The post Future of Crew Dragon weighs on commercial spaceflight industry appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/ax4crewdragon.jpeg?fit=1024%2C683&amp;ssl=1",
+      "billede_alt": "Ax-4 Crew Dragon",
+      "kategori": "Missioner",
+      "rubrik": "Crew Dragons fremtid bekymrer rumindustrien",
+      "resume_da": "SpaceX siger, at der er 'betydeligt' liv tilbage i Crew Dragon-rumskibene, men vil ikke love, hvor længe de flyver. Det bekymrer industrien.",
+      "sektioner": [
+        {
+          "overskrift": "SpaceX' forsigtige svar",
+          "tekst": "SpaceX siger, at der er 'betydeligt' liv tilbage i Crew Dragon-flåden. Men de vil ikke sige, hvor længe skibene faktisk vil flyve."
+        },
+        {
+          "overskrift": "Bekymring i industrien",
+          "tekst": "Usikkerheden vejer tungt på den kommercielle rumfartsindustri. Mange parter er afhængige af Crew Dragon til at transportere astronauter."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "SpaceX har ikke givet en konkret udfasningsdato for Crew Dragon.",
+        "Crew Dragon bruges til at sende astronauter til Den Internationale Rumstation."
+      ],
+      "betydning": "Crew Dragon er et af de vigtigste rumskibe lige nu. Hvis det stopper, kan det påvirke fremtidige rummissioner og forskning.",
+      "pointer": [
+        "SpaceX er vag om Crew Dragons levetid.",
+        "Industrien er bekymret.",
+        "Crew Dragon er vigtig for astronauttransport."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Asteroid Nysa's rare three-lobed structure challenges formation models",
+      "link": "https://phys.org/news/2026-08-asteroid-nysa-rare-lobed-formation.html",
+      "dato": "2026-08-04T12:00:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Named for the mythical valley where the god Dionysus was raised in secret by nymphs, the asteroid 44 Nysa inhabits the asteroid belt between Mars and Jupiter. Through observations by the Hubble Space Telescope, astronomers have determined it to be the largest and brightest known member of a rare category of asteroids called \"E-types,\" made of unusually bright, enstatite-rich material similar to so",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/asteroid-reveals-its-r.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Asteroide Nysa: Usædvanlig form udfordrer teorier",
+      "resume_da": "Hubble-teleskopet viser, at asteroiden 44 Nysa har tre lapper. Det udfordrer vores forståelse af, hvordan asteroider dannes.",
+      "sektioner": [
+        {
+          "overskrift": "En sjælden asteroide",
+          "tekst": "Asteroiden 44 Nysa ligger i asteroidebæltet mellem Mars og Jupiter. Den er den største og klareste kendte af en sjælden type kaldet E-type. Den er lavet af usædvanligt lyst materiale, der ligner nogle sjældne meteoritter på Jorden."
+        },
+        {
+          "overskrift": "Tre lapper opdaget",
+          "tekst": "Hubble-observationer viser, at Nysa har en usædvanlig form med tre lapper. Tidligere modeller baseret på lysvariationer antydede en aflang, skæv form. Men den nye opdagelse overrasker forskerne."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Nysa er opkaldt efter en dal i den græske mytologi.",
+        "Den befinder sig i asteroidebæltet.",
+        "Den er den største og klareste kendte E-type asteroide.",
+        "Materialet ligner sjældne meteoritter fundet på Jorden."
+      ],
+      "betydning": "Opdagelsen giver ny viden om asteroider og solsystemets historie. Det kan ændre vores forståelse af, hvordan planeter og asteroider dannes.",
+      "pointer": [
+        "Nysa er en sjælden E-type asteroide.",
+        "Hubble viser tre-lappet struktur.",
+        "Udfordrer dannelsesmodeller.",
+        "Ny viden om solsystemet."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "SpaceX’s new Starfall program offers validation and competition for reentry startups",
+      "link": "https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups/",
+      "dato": "2026-08-04T12:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Demand for microgravity research and manufacturing is brewing — perhaps literally. When SpaceX launched the first test flight of Starfall, its commercial reentry capsule, on June 23, the company did [&#8230;] The post SpaceX’s new Starfall program offers validation and competition for reentry startups appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/varda-w6.jpeg?fit=1024%2C768&amp;ssl=1",
+      "billede_alt": "The capsule from Varda Space Industries’ W-6 mission after landing the Koonibba Test Range in South Australia in May. Credit: Southern Launch",
+      "kategori": "Missioner",
+      "rubrik": "SpaceX's Starfall-kapsel: Ny konkurrent i rumkapløbet",
+      "resume_da": "SpaceX har sendt sin første Starfall-kapsel afsted. Den skal bringe forskning og produkter tilbage fra rummet. Det kan presse andre rumfartsselskaber.",
+      "sektioner": [
+        {
+          "overskrift": "Første Starfall-test",
+          "tekst": "Den 23. juni sendte SpaceX sin første Starfall-kapsel på en testflyvning. Kapslen er designet til at bringe ting tilbage fra rummet, for eksempel forskningseksperimenter. Det er en ny forretning for SpaceX."
+        },
+        {
+          "overskrift": "Konkurrence og anerkendelse",
+          "tekst": "Starfall-programmet giver validering til den kommercielle rumindustri. Men det er også konkurrence for andre selskaber, der laver samme slags kapsler. SpaceX er en stor spiller, så det kan ændre markedet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "23. juni",
+          "label": "Dato for testflyvningen"
+        }
+      ],
+      "detaljer": [
+        "SpaceX lancerede den første testflyvning af Starfall den 23. juni.",
+        "Starfall er en kommerciel kapsel, der skal bringe materiale tilbage fra rummet.",
+        "Programmet skaber både validering og konkurrence for andre reentry-selskaber."
+      ],
+      "betydning": "For almindelige mennesker betyder det, at vi kan få mere forskning og produkter fra rummet. Konkurrence kan gøre det billigere og hurtigere.",
+      "pointer": [
+        "SpaceX tester ny kapsel.",
+        "Kapslen skal bringe ting tilbage fra rummet.",
+        "Programmet hedder Starfall.",
+        "Det er konkurrence til andre selskaber."
+      ],
+      "prio": 6
+    },
     {
       "titel": "I bought a $50 telescope on Facebook Marketplace — here's what I learned",
       "link": "https://www.space.com/stargazing/skywatching-kit/i-bought-a-50-dollar-telescope-on-facebook-marketplace-heres-what-i-learned",
@@ -46,6 +528,52 @@
         "Ekspert værdsætter enkelhed."
       ],
       "prio": 4
+    },
+    {
+      "titel": "APOD: August 4, 2026 – Curious Cometary Knots in the Helix Nebula",
+      "link": "https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/",
+      "dato": "2026-08-04T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: August 4, 2026 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Curious Cometary Knots [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/01/STScI-01KCMAMZ8ZSMRTR9KKD8Y6EMRJ.png?w=11124&#038;h=8064&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A closeup of a small section of the Helix Nebula, an expanding shell of gas and dust. Thousands of orange and gold comet-like pillars stream upward from the bottom, like thin liquid blown up a sheet o",
+      "kategori": "Astronomi",
+      "rubrik": "Mystiske knuder i Helix-tågen fotograferet",
+      "resume_da": "James Webb-teleskopet har taget nye billeder af Helix-tågen. Billederne viser mærkelige knuder af gas og støv, som forskerne endnu ikke helt forstår.",
+      "sektioner": [
+        {
+          "overskrift": "Ny opdagelse gjort",
+          "tekst": "Forskere har opdaget knuder af gas og støv i planetariske tåger. De findes også i andre tåger som Ringtågen og Dumbbell-tågen. Deres oprindelse er stadig et mysterium."
+        },
+        {
+          "overskrift": "Billeder fra James Webb",
+          "tekst": "James Webb-teleskopet har taget et utroligt detaljeret billede af Helix-tågen i infrarødt lys. Knuderne har omtrent samme masse som Jorden, men er flere gange så store som Plutos bane. En teori er, at de er skabt af stjernevinde fra en central stjerne."
+        },
+        {
+          "overskrift": "Hvad er Helix-tågen?",
+          "tekst": "Helix-tågen er en planetarisk tåge, som opstår, når en stjerne som Solen når enden af sit liv. Den befinder sig omkring **650 lysår** væk i stjernebilledet Vandbæreren (Aquarius). Tågen er en af de nærmeste af slagsen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "650 lysår",
+          "label": "Afstand til Helix-tågen"
+        }
+      ],
+      "detaljer": [
+        "Knuderne kaldes komære knuder på grund af deres form.",
+        "De findes i flere planetariske tåger, ikke kun Helix-tågen.",
+        "Knudernes masse ligner Jordens, men de er meget større.",
+        "Billedet er taget af James Webb-teleskopet i infrarødt lys."
+      ],
+      "betydning": "Det er vigtigt at forstå, hvordan stjerner som Solen ender deres liv. Det kan give os indsigt i vores egen sols fremtid. James Webb-teleskopet hjælper med at løse disse mysterier.",
+      "pointer": [
+        "Helix-tågen er en planetarisk tåge.",
+        "Nye billeder viser mærkelige knuder.",
+        "Knudernes oprindelse er ukendt.",
+        "Teleskopet James Webb tog billederne."
+      ],
+      "prio": 7
     },
     {
       "titel": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
@@ -3849,548 +4377,6 @@
         "Delvis formørkelse i store dele af Nordhalvkuglen"
       ],
       "prio": 7
-    },
-    {
-      "titel": "Rare Total Solar Eclipse-Perseid Meteor Shower Double-Header August 12th",
-      "link": "https://skyandtelescope.org/astronomy-news/rare-total-solar-eclipse-perseid-meteor-shower-double-header-on-august-12th/",
-      "dato": "2026-07-29T16:40:28+00:00",
-      "kilde": "Sky & Telescope",
-      "resume": "The only total solar eclipse of the year coincides with the Perseid meteor shower. Here's what you need to know to watch the eclipse. The post Rare Total Solar Eclipse-Perseid Meteor Shower Double-Header August 12th appeared first on Sky &amp; Telescope .",
-      "billede": null,
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Total solformørkelse og Perseider på samme dag",
-      "resume_da": "Årets eneste totale solformørkelse falder sammen med Perseid-meteorsværmen den 12. august. Her er hvad du skal vide.",
-      "sektioner": [
-        {
-          "overskrift": "Sjældent astronomisk dobbeltfænomen",
-          "tekst": "Den 12. august finder årets eneste totale solformørkelse sted samtidig med Perseid-meteorsværmen. Det er et usædvanligt sammenfald, der giver en unik mulighed for at observere begge begivenheder."
-        },
-        {
-          "overskrift": "Hvor og hvornår",
-          "tekst": "Formørkelsen vil være synlig fra et smalt bælte over Nordamerika. Perseiderne er aktive i hele august, men topper omkring den 12. august."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "12. august",
-          "label": "Dato for begivenheden"
-        }
-      ],
-      "detaljer": [
-        "Årets eneste totale solformørkelse falder sammen med Perseid-meteorsværmen.",
-        "Formørkelsen er synlig fra Nordamerika.",
-        "Perseiderne topper omkring 12. august."
-      ],
-      "betydning": "For almindelige danskere er det en sjælden chance for at opleve to store astronomiske begivenheder på én gang, selvom formørkelsen bedst ses fra Nordamerika.",
-      "pointer": [
-        "Total solformørkelse den 12. august",
-        "Samtidig Perseid-meteorsværm",
-        "Kun synlig i Nordamerika",
-        "Sjældent sammenfald"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "NASA’s Curiosity Views a Sand-Capped Butte",
-      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/",
-      "dato": "2026-07-29T16:08:12+00:00",
-      "kilde": "NASA",
-      "resume": "Description NASA’s Curiosity Mars rover captured this sand-capped butte, nicknamed “Miraflores,” estimated to be about 20 feet (6 meters) tall, with its Mast Camera, or Mastcam, on June 11, 2026, the 4,923rd Martian day, or sol, of the mission. The butte was left behind as surrounding rock eroded away over time, deepening the broad valley […]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26730/PIA26730.png?w=6162&#038;h=2576&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A layered, rocky mound topped with smooth sand sits amid a vast, rocky expanse on Mars, illustrating the complex geological history being studied by NASA",
-      "kategori": "Missioner",
-      "rubrik": "Mars-sandsten fanget af Curiosity",
-      "resume_da": "NASAs rover Curiosity har fotograferet en sandklippe på Mars kaldet 'Miraflores'. Klippen er omkring 6 meter høj og står tilbage efter erosion.",
-      "sektioner": [
-        {
-          "overskrift": "Billede af klippe",
-          "tekst": "Den sandkappede klippe 'Miraflores' blev fotograferet af Curiositys Mastcam den 11. juni 2026. Klippen er omkring **20 fod (6 meter)** høj."
-        },
-        {
-          "overskrift": "Dannelse og omgivelser",
-          "tekst": "Klippen blev efterladt, da omkringliggende sten eroderede væk og udvidede dalen, Curiosity kører igennem. Området har mange polygonformede overfladetræk."
-        },
-        {
-          "overskrift": "Billedets sammensætning",
-          "tekst": "Panoramaet består af **11 individuelle billeder** syet sammen. Farverne er justeret, så de matcher menneskelig syn på Jorden."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "6 meter",
-          "label": "Klippens højde"
-        },
-        {
-          "tal": "4.923",
-          "label": "Marsdage på missionen"
-        },
-        {
-          "tal": "11",
-          "label": "Antal billeder i panorama"
-        }
-      ],
-      "detaljer": [
-        "Billedet er taget den 11. juni 2026.",
-        "Klippen kaldes 'Miraflores'.",
-        "Curiosity blev bygget af NASA JPL.",
-        "Mastcam er bygget af Malin Space Science Systems."
-      ],
-      "betydning": "Billedet viser, hvordan Mars' landskab formes af erosion over tid, hvilket hjælper forskere med at forstå planetens geologiske historie.",
-      "pointer": [
-        "Curiosity fotograferede en sandklippe kaldet Miraflores.",
-        "Klippen er 6 meter høj.",
-        "Billedet er et panorama af 11 billeder.",
-        "Omgivelserne har polygon-mønstre."
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "NASA’s Curiosity Discovers a Field of Martian Polygons",
-      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/",
-      "dato": "2026-07-29T16:06:39+00:00",
-      "kilde": "NASA",
-      "resume": "Description NASA’s Curiosity Mars rover captured this 360-degree view of an expanse of terrain covered in surface features called polygons on June 19 and 20, 2026, the 4,930th and 4,931st Martian days, or sols, of the mission. The rover has found polygons several times in the past, but never so many in one place. Across […]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26729/PIA26729.png?w=29240&#038;h=8040&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A panoramic view of a sweeping Martian plain covered in patterned fractures leading toward distant hills showcases the terrain explored by NASA",
-      "kategori": "Missioner",
-      "rubrik": "Curiosity finder felt af polygoner på Mars",
-      "resume_da": "NASA's rover Curiosity har opdaget et stort område fyldt med polygonformede mønstre på Mars. Det er første gang, der ses så mange på ét sted.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad blev fundet",
-          "tekst": "Curiosity fangede et 360-graders panorama af et terræn dækket af polygoner den **19.-20. juni 2026**. Polygonerne har en diameter på **2-4 tommer (5-10 cm)** og omgiver en sanddækket bakke kaldet 'Miraflores'."
-        },
-        {
-          "overskrift": "Hvordan polygoner opstår",
-          "tekst": "Polygonmønstre kan dannes på flere måder, fx når overfladen tørrer ud som muddersprækker, ved temperaturcyklusser, kompaktion under begravelse eller mineralændringer. Forskere måler polygonernes egenskaber for at finde den præcise dannelsesproces."
-        },
-        {
-          "overskrift": "Panoramaets detaljer",
-          "tekst": "Panoramaet består af **340 individuelle billeder** taget med Curiositys Mastcam. Farverne er justeret, så de svarer til menneskelig syn på Jorden. Rovers kører i dag på Mount Sharps højsletter, som den har besteget siden 2014."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2-4 tommer (5-10 cm)",
-          "label": "Diameter på polygoner"
-        },
-        {
-          "tal": "340",
-          "label": "Antal billeder i panorama"
-        },
-        {
-          "tal": "19.-20. juni 2026",
-          "label": "Dato for observation"
-        }
-      ],
-      "detaljer": [
-        "Curiosity har set polygoner før, men aldrig så mange på ét sted.",
-        "Bakken 'Miraflores' er dækket af sand og omgivet af polygoner.",
-        "Panoramaet er taget under rovers opstigning mod Mount Sharp.",
-        "Roveren blev bygget af NASAs Jet Propulsion Laboratory.",
-        "Mastcam er bygget og drives af Malin Space Science Systems."
-      ],
-      "betydning": "Fundet hjælper forskere med at forstå Mars' geologiske historie og klimaforhold, hvilket er vigtigt for fremtidig udforskning og eventuel beboelse.",
-      "pointer": [
-        "Stort polygonfelt opdaget på Mars",
-        "Diameter 5-10 cm",
-        "Forskere søger dannelsesproces",
-        "Panorama på 340 billeder"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
-      "link": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
-      "dato": "2026-07-29T15:30:00+00:00",
-      "kilde": "NASA",
-      "resume": "As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission scientists: honeycomb-like textures called polygonal fractures, each one about 1.5 to 3 inches (4 to 8 centimeters) across. The mission has spotted small patches of these geometric shapes several times [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia26729-curiosity-discovers-a-field-of-martian-polygons.png?w=2048",
-      "billede_alt": "A panoramic view of a sweeping Martian plain covered in patterned fractures leading toward distant hills showcases the terrain explored by NASA&#039;s Curiosity rover to investigate the planet&#039;s ",
-      "kategori": "Missioner",
-      "rubrik": "Curiosity finder enormt bikagemønster på Mars",
-      "resume_da": "NASA's Mars-rover Curiosity har opdaget et stort område med honeycomb-lignende polygoner på Mars, noget aldrig set før i så stor skala.",
-      "sektioner": [
-        {
-          "overskrift": "Enormt bikagemønster fundet",
-          "tekst": "Curiosity fandt et stort felt med polygonale brud, der ligner en bikage, i en dal kaldet Valle Grande. Mønstrene er **1,5 til 3 tommer (4-8 cm)** tværs over og spreder sig så langt roveren kan se."
-        },
-        {
-          "overskrift": "Mulig oprindelse og historie",
-          "tekst": "Nogle polygoner er gamle muddersprækker, men andre kan være dannet af temperaturændringer eller kompression. Curiosity har tidligere påvist, at Mars havde vand, kemi og næringsstoffer, der kunne understøtte mikrobielt liv. Billiarder af år siden var området præget af søer og vandløb."
-        },
-        {
-          "overskrift": "Nye spor om Mars' fortid",
-          "tekst": "Roveren har tidligere fundet organiske molekyler, der kan være forstadier til RNA og DNA. Det er uvist, om de kommer fra biologiske eller geologiske processer, men de bekræfter, at den gamle Mars havde den rette kemi til liv."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1,5-3 tommer (4-8 cm)",
-          "label": "Polygonernes størrelse"
-        },
-        {
-          "tal": "20 fod (6 meter)",
-          "label": "Højde på butte Miraflores"
-        },
-        {
-          "tal": "14 år",
-          "label": "Tid siden landing på Mars"
-        }
-      ],
-      "detaljer": [
-        "Panoramaet blev taget den 19. og 20. juni 2026 på sol 4930 og 4931.",
-        "Miraflores er en butte med tykt sandlag på toppen.",
-        "Curiosity landede den 5. august 2012.",
-        "Roveren har kørt op ad Mount Sharp siden 2014."
-      ],
-      "betydning": "Historien viser, at Mars havde betingelser for liv, og de nye polygoner kan give vigtige spor om planetens fortid. For danskere er det et eksempel på, hvordan rumforskning afslører, hvor udbredt vand og livsbetingelser var i solsystemet.",
-      "pointer": [
-        "Curiosity fandt et stort honeycomb-lignende mønster på Mars.",
-        "Polygonerne er dannet af muddersprækker eller tryk.",
-        "Mars havde engang søer og vandløb.",
-        "Fundet bekræfter gamle livsbetingelser på Mars."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "APOD: 2026 July 29 – Psyche Receives Gravity Assist from Mars",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-29-psyche-receives-gravity-assist-from-mars/",
-      "dato": "2026-07-29T15:25:54+00:00",
-      "kilde": "NASA",
-      "resume": "A video of the Psyche spacecraft flying by Mars.",
-      "billede": null,
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Psyche fik fart fra Mars i maj 2026",
-      "resume_da": "Rumsonden Psyche brugte Mars' tyngdekraft til at øge farten og spare brændstof på vej mod asteroide Psyche.",
-      "sektioner": [
-        {
-          "overskrift": "Gravity assist fra Mars",
-          "tekst": "I maj 2026 fløj rumsonden Psyche forbi Mars og brugte planetens tyngdekraft til at øge sin fart og ændre kurs. Mars' banehastighed er omkring **87.000 km/t**, og dens tyngdekraft trak Psyche med sig. Metoden har været brugt siden **1959**."
-        },
-        {
-          "overskrift": "Første mission til metalasteroide",
-          "tekst": "Psyche er på vej mod asteroide Psyche, som menes hovedsageligt at bestå af metal. Det er første gang, en sonde besøger en sådan asteroide. Rumsonden testede instrumenter under forbiflyvningen og ankommer til asteroiden i **2029**."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "87.000 km/t",
-          "label": "Mars' banehastighed"
-        },
-        {
-          "tal": "1959",
-          "label": "Første gravity assist"
-        },
-        {
-          "tal": "2029",
-          "label": "Ankomst til asteroide"
-        }
-      ],
-      "detaljer": [
-        "Gravity assist sparer brændstof og gør dyb rumfart mulig.",
-        "Psyche er den første mission til en metalasteroide.",
-        "Mars' tyngdekraft øgede sondens hastighed."
-      ],
-      "betydning": "Missionen kan lære os, hvordan planeter dannes, og hvordan metalliske asteroider ser ud.",
-      "pointer": [
-        "Rumsonden Psyche brugte Mars til at få fart.",
-        "Metoden sparer brændstof.",
-        "Ankommer til asteroide Psyche i 2029.",
-        "Første mission til en metalasteroide."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Understanding How Martian Auroras Are Made",
-      "link": "https://www.nasa.gov/image-article/understanding-how-martian-auroras-are-made/",
-      "dato": "2026-07-29T15:20:28+00:00",
-      "kilde": "NASA",
-      "resume": "This July 23, 2026, illustration depicts charged particles from a solar storm stripping away charged particles of Mars&#8217; atmosphere, one of the processes of Martian atmosphere loss studied by NASA&#8217;s MAVEN (Mars Atmosphere and Volatile Evolution) mission. NASA MAVEN mission scientists have found that certain types of auroras on Mars form in a similar way [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/pia22076.jpg?w=2048",
-      "billede_alt": "In this illustration, yellow charged particles from the Sun strip off rainbow-colored charged particles from Mars (in the foreground). The Martian particles stream away from the planet, toward the vie",
-      "kategori": "Forskning",
-      "rubrik": "Mars-auroraer minder om dem på Jorden",
-      "resume_da": "NASA's MAVEN-mission har opdaget, at nogle typer nordlys på Mars dannes på samme måde som på Jorden: når solens partikler rammer atmosfæren.",
-      "sektioner": [
-        {
-          "overskrift": "Ligner Jordens nordlys",
-          "tekst": "Forskere fra NASA's MAVEN-mission har fundet, at visse typer auroraer på Mars dannes på samme måde som på Jorden. Det sker, når ladede partikler fra solen rammer planetens atmosfære. Illustrationen viser, hvordan solstorme kan fjerne ladede partikler fra Mars' atmosfære."
-        },
-        {
-          "overskrift": "MAVEN studerer atmosfæretab",
-          "tekst": "MAVEN-missionen har til formål at undersøge, hvordan Mars mister sin atmosfære. Denne viden hjælper forskerne med at forstå klimaforandringer på Mars gennem tiden."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Illustrationen fra 23. juli 2026 viser ladede partikler fra en solstorm, der fjerner partikler fra Mars' atmosfære.",
-        "MAVEN står for Mars Atmosphere and Volatile Evolution."
-      ],
-      "betydning": "At forstå Mars' atmosfære hjælper os med at lære mere om planetens historie og muligheder for fremtidig beboelse.",
-      "pointer": [
-        "Mars har nordlys ligesom Jorden.",
-        "Solstorme påvirker Mars' atmosfære.",
-        "MAVEN-missionen undersøger atmosfæretab."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "ESCAPADE's cameras capture Earth and moon",
-      "link": "https://phys.org/news/2026-07-escapade-cameras-capture-earth-moon.html",
-      "dato": "2026-07-29T14:40:04+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "In November 2025, NASA's Mars-bound ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft launched from Cape Canaveral with special cargo on board: two camera systems designed and built by faculty and students at NAU, with support from the University of California, Berkeley, and Rocket Lab.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/nau-camera-captures-ea.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "ESCAPADE fanger Jorden og Månen på kamera",
-      "resume_da": "NASAs ESCAPADE-rumfartøj på vej til Mars har taget billeder af Jorden og Månen med kameraer bygget af studerende.",
-      "sektioner": [
-        {
-          "overskrift": "Kameraer fra studerende",
-          "tekst": "To kamerasystemer designet og bygget af studerende og ansatte på Northern Arizona University (NAU) er om bord på ESCAPADE. Projektet er støttet af University of California, Berkeley, og Rocket Lab."
-        },
-        {
-          "overskrift": "Billeder fra rejsen",
-          "tekst": "Rumfartøjet opsendt i november 2025 fangede billeder af Jorden og Månen undervejs. Det viser, at kameraerne fungerer, som de skal."
-        },
-        {
-          "overskrift": "Mission mod Mars",
-          "tekst": "ESCAPADE er på vej til Mars for at studere plasma og acceleration. Kameraerne giver videnskabelige data og undervisningsmuligheder."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "November 2025",
-          "label": "Opsendelsesmåned"
-        }
-      ],
-      "detaljer": [
-        "Kameraerne er designet og bygget af studerende på NAU.",
-        "Støtte fra UC Berkeley og Rocket Lab.",
-        "Rumfartøjet er på vej til Mars."
-      ],
-      "betydning": "Missionen viser, at studerende kan bidrage til avancerede rumprojekter, og billederne skaber offentlig interesse.",
-      "pointer": [
-        "Studerende byggede kameraer til NASA-fartøj.",
-        "Jorden og Månen fotograferet under rejsen.",
-        "Rumfartøjet opsendt i november 2025.",
-        "Mission er rettet mod Mars."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE",
-      "link": "https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae/",
-      "dato": "2026-07-29T14:38:53+00:00",
-      "kilde": "SpaceNews",
-      "resume": "PERTH, Western Australia — LatConnect 60 (LC60) is executing on a multi-geography industrial plan to accelerate its SWIRSAT constellation, anchoring core technology development and payload manufacturing in Western Australia while [&#8230;] The post LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/latconnect-60-logo-square-scaled.png?fit=1024%2C1024&amp;ssl=1",
-      "billede_alt": "latconnect 60 logo",
-      "kategori": "Satellitter",
-      "rubrik": "LatConnect 60 udvider jordobservationskonstellation",
-      "resume_da": "LatConnect 60 planlægger at accelerere sin SWIRSAT-konstellation med aktiviteter i Australien, Malaysia og UAE.",
-      "sektioner": [
-        {
-          "overskrift": "Multi-geografisk plan",
-          "tekst": "LatConnect 60 udfører en industriel plan på tværs af flere lande for at accelerere sin SWIRSAT-konstellation. Kerneudvikling og fremstilling af nyttelast forankres i Western Australia."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [],
-      "betydning": "Artiklen viser, hvordan rumindustrien udnytter globale partnerskaber til at opbygge satellitkonstellationer hurtigere.",
-      "pointer": [
-        "SWIRSAT er en jordobservationskonstellation",
-        "Kernekapacitet placeres i Western Australia",
-        "Ekspansion til Malaysia og UAE"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Black hole 'blast' reaches 300,000 light-years",
-      "link": "https://phys.org/news/2026-07-black-hole-blast-years.html",
-      "dato": "2026-07-29T14:20:10+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "A team of researchers has discovered that winds generated by supermassive black holes are 100 times more powerful than previously thought, carrying energy across distances of approximately 300,000 light-years. The discovery demonstrates that these explosive winds affect the vast expanse of space beyond the galaxies they inhabit.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/black-hole-blast-reach.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Sort hul sender vind 300.000 lysår ud",
-      "resume_da": "Sort huls vinde er 100 gange kraftigere end hidtil antaget og når 300.000 lysår ud i rummet.",
-      "sektioner": [
-        {
-          "overskrift": "Kraftige vinde opdaget",
-          "tekst": "Forskere har opdaget, at vinde fra supermassive sorte huller er **100 gange** kraftigere end tidligere antaget. Vindene strækker sig over **300.000 lysår** og påvirker rummet langt uden for deres galakser."
-        },
-        {
-          "overskrift": "Større rækkevidde end ventet",
-          "tekst": "Opdagelsen viser, at de eksplosive vinde har stor indflydelse på det omkringliggende rum. De kan ændre forståelsen af, hvordan sorte huller påvirker galaksedannelse og udvikling."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "300.000 lysår",
-          "label": "Vindens rækkevidde"
-        },
-        {
-          "tal": "100 gange",
-          "label": "Kraftigere end antaget"
-        }
-      ],
-      "detaljer": [
-        "Vindene genereres af supermassive sorte huller.",
-        "De når længder på cirka 300.000 lysår.",
-        "Påvirker rummet uden for galakserne."
-      ],
-      "betydning": "Forståelsen af sorte hullers påvirkning på universet bliver ændret, hvilket kan give indsigt i galaksers udvikling.",
-      "pointer": [
-        "Vindene er 100 gange stærkere end først troet.",
-        "Rækker 300.000 lysår ud i rummet.",
-        "Påvirker områder uden for galakserne."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "NASA Webb Explores Family Tree of Newly Discovered Distant Objects",
-      "link": "https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
-      "dato": "2026-07-29T14:00:00+00:00",
-      "kilde": "NASA",
-      "resume": "Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots (LRDs) have been the subject of great interest to astronomers. Understanding the nature of these extremely distant, compact red sources has been a puzzling scientific endeavor. One popular theory is that little red dots are supermassive black holes known as active […]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KVTW3MA3BWZ66MW2C9HG0601.png?w=16191&#038;h=7844&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A rectangular image with thousands of galaxies of various shapes and colors on the black background of space. Some are noticeably spirals, either face-on or edge-on, while others are blobby elliptical",
-      "kategori": "Astronomi",
-      "rubrik": "Webb udforsker 'små røde prikkers' skæbne",
-      "resume_da": "Forskere har brugt James Webb-teleskopet til at studere galaksen 'Saguaro' og foreslår, at de mystiske 'små røde prikker' er en midlertidig fase af aktive sorte huller.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er små røde prikker?",
-          "tekst": "Siden deres opdagelse i **2022** har 'små røde prikker' (LRD) været et mysterium. De er kompakte, røde kilder i det tidlige univers. En teori siger, at de er supermassive sorte huller, men de opfører sig anderledes end dem i nærheden."
-        },
-        {
-          "overskrift": "Saguaro-galaksen giver spor",
-          "tekst": "Forskerne analyserede galaksen WISEA J123635.56+621424.2, kaldet 'Saguaro', der ligger **3,3 milliarder år** efter Big Bang. Dens centrum ligner en lille rød prik. Data fra Webb og Hubble viste, at kernen er lysere i ultraviolet og infrarød end i synligt lys, ligesom fjerne LRD."
-        },
-        {
-          "overskrift": "Fremtid for de røde prikker",
-          "tekst": "Holdet konkluderer, at LRDer kan være en midlertidig fase af meget aktive sorte huller. De forsvinder, når universet ældes. Saguaro er et sjældent eksempel på en LRD på lavere afstand, hvilket gør det muligt at studere deres udvikling."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2022",
-          "label": "Opdagelse af små røde prikker"
-        },
-        {
-          "tal": "3,3 milliarder år",
-          "label": "Alder af Saguaro-galaksen efter Big Bang"
-        }
-      ],
-      "detaljer": [
-        "Studiet blev offentliggjort i The Astrophysical Journal den 29. juli 2024.",
-        "Holdet brugte arkivdata fra Hubble (ultraviolet) og Webb (infrarød).",
-        "Chandra-observatoriet detekterede svag røntgenstråling fra Saguaro, hvilket indikerer et aktivt sort hul."
-      ],
-      "betydning": "Forståelsen af 'små røde prikker' giver indsigt i, hvordan sorte huller og galakser udvikler sig i det tidlige univers – noget der hjælper os med at forstå universets historie.",
-      "pointer": [
-        "Små røde prikker blev opdaget i 2022 med Webb.",
-        "De er kompakte, røde kilder i det tidlige univers.",
-        "Saguaro-galaksen er et sjældent nært eksempel.",
-        "Forskere mener de er aktive sorte huller i en midlertidig fase."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "First 3D map reveals hidden thermal structure of nearby interstellar medium",
-      "link": "https://phys.org/news/2026-07-3d-reveals-hidden-thermal-nearby.html",
-      "dato": "2026-07-29T13:40:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Astronomers have built the first three-dimensional map of gas temperature in the space surrounding our solar system, revealing a far messier and more dynamic picture than current models predict. The study was submitted to the arXiv preprint server on July 16.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-3d-map-reveals-t.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "3D-kort viser skjult varme i nærrummet",
-      "resume_da": "Astronomer har lavet det første tredimensionelle kort over gastemperatur i rummet omkring solsystemet. Det viser et mere rodet og dynamisk billede end tidligere modeller.",
-      "sektioner": [
-        {
-          "overskrift": "Nyt 3D-kort over rummet",
-          "tekst": "Astronomer har skabt det første 3D-kort over gastemperatur i det interstellare medium nær vores solsystem. Resultaterne viser en mere kompleks struktur end hidtil antaget."
-        },
-        {
-          "overskrift": "Termisk struktur afsløret",
-          "tekst": "Kortet afslører skjulte varmestrukturer i rummet omkring os. Det viser, at temperaturen varierer meget mere end tidligere modeller har forudsagt."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Studiet blev indsendt til arXiv preprint server den 16. juli.",
-        "Kortet er det første tredimensionelle over gastemperatur i det nære interstellare medium."
-      ],
-      "betydning": "Forståelse af rummet omkring solsystemet er vigtig for at forudsige, hvordan partikler og stråling påvirker Jorden og rumfartøjer.",
-      "pointer": [
-        "Første 3D-kort af gastemperatur nær solsystemet",
-        "Afslører mere dynamisk billede end forventet",
-        "Indsendt til arXiv 16. juli"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Contractor to Civil Servant: NASA Welcomes Ray Williams",
-      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-ray-williams/",
-      "dato": "2026-07-29T13:32:50+00:00",
-      "kilde": "NASA",
-      "resume": "Ray Williams’ progression at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has uniquely prepared him for his new role. As part of NASA’s plan to restore core competencies by converting contractors to civil service, the New Orleans native and Grambling State University graduate now works as a supervisor for test operations support at [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/s26-007-ray-williams.jpg?w=2048",
-      "billede_alt": "Headshot of Ray Williams",
-      "kategori": "Politik & penge",
-      "rubrik": "NASA ansætter kontraktansat som fast tjenestemand",
-      "resume_da": "Ray Williams er blandt de første ingeniører, der bliver fastansat hos NASA som led i at styrke kernekompetencer. Han har 28 års erfaring fra testfaciliteten E-Complex.",
-      "sektioner": [
-        {
-          "overskrift": "Ny rolle hos NASA",
-          "tekst": "Ray Williams er blevet fastansat som civil tjenestemand hos NASA's Stennis Space Center. Han arbejder som supervisor for testoperationssupport ved E-Complex, et anlæg til fremdriftstest. Han er en af de første, der skifter fra kontraktansat til fastansat som led i NASAs plan om at styrke tekniske kernekompetencer."
-        },
-        {
-          "overskrift": "28 års erfaring",
-          "tekst": "Williams startede i **1998** som elektrikerkontraktansat under anlæggets design- og byggefase. Han avancerede til instrument- og elingeniør og har i alt **28 års** erfaring. Han kender faciliteten og udfordringerne for teknikerne indgående."
-        },
-        {
-          "overskrift": "E-Complex' fleksibilitet",
-          "tekst": "E-Complex kan håndtere ekstremt høje tryk og store mængder superkolde kryogener. Det adskiller sig fra andre testkomplekser ved at være meget tilpasningsdygtigt. Kommercielle partnere kan få testet store, komplekse komponenter under nøjagtige, ekstreme forhold."
-        },
-        {
-          "overskrift": "Mission mod Månen",
-          "tekst": "Williams ser sit arbejde som en drøm, der startede med en skoleudflugt til NASA Stennis. Han bidrager nu til Artemis-missionerne, hvor NASA vender tilbage til Månen og bygger en månebase."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "28 år",
-          "label": "Williams' erfaring hos NASA"
-        },
-        {
-          "tal": "1998",
-          "label": "Startår hos NASA"
-        }
-      ],
-      "detaljer": [
-        "Ray Williams er supervisor for testoperationssupport ved E-Complex.",
-        "Han er blandt de første, der skifter fra kontraktansat til fastansat civil tjenestemand.",
-        "E-Complex tester fremdriftssystemer med høj- og lavtryksanlæg.",
-        "Williams startede som elektrikerkontraktansat i 1998.",
-        "Han har 28 års erfaring.",
-        "Faciliteten kan tilpasses kommercielle partneres behov."
-      ],
-      "betydning": "Historien viser, at NASA satser på at fastholde ekspertise internt for at mindske risici. Det er vigtigt for danskere, fordi rumfart er en global industri, hvor kompetencer og samarbejde med kommercielle aktører er afgørende.",
-      "pointer": [
-        "NASA styrker interne kompetencer ved fastansættelse.",
-        "Ray Williams har 28 års erfaring fra testfacilitet.",
-        "E-Complex tilpasses til kommercielle partneres testbehov.",
-        "Faciliteten støtter Artemis-missionen mod Månen."
-      ],
-      "prio": 5
     }
   ]
 }
