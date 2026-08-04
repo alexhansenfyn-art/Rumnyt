@@ -1,7 +1,126 @@
 {
-  "opdateret": "2026-08-03T23:50:35.205997+00:00",
+  "opdateret": "2026-08-04T10:16:16.822767+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "I bought a $50 telescope on Facebook Marketplace — here's what I learned",
+      "link": "https://www.space.com/stargazing/skywatching-kit/i-bought-a-50-dollar-telescope-on-facebook-marketplace-heres-what-i-learned",
+      "dato": "2026-08-04T09:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "I bought a $50 telescope from Facebook Marketplace",
+      "billede": "https://cdn.mos.cms.futurecdn.net/EHnYiwLBmMAEnzNv2HZWyN-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Billigt køb på Facebook gav overraskende resultat",
+      "resume_da": "En erfaren amatørastronom købte et brugt teleskop for 50 dollars og lærte værdien af tålmodighed og enkelhed i astronomi.",
+      "sektioner": [
+        {
+          "overskrift": "Teleskopet fundet",
+          "tekst": "Astronomen Damian Peach fandt et brugt teleskop til **50 dollars** på Facebook Marketplace. Han besluttede at teste det for at se, hvad man kan få for pengene. Resultatet overraskede ham positivt."
+        },
+        {
+          "overskrift": "Læring fra købet",
+          "tekst": "Peach lærte, at et billigt teleskop kan give fine observationer, hvis man har tålmodighed. Han understreger, at udstyr ikke er det vigtigste – det er øjnene og interessen. Et lille teleskop kan være en god start for nybegyndere."
+        },
+        {
+          "overskrift": "Praktiske råd",
+          "tekst": "Peach råder andre til at købe brugt udstyr og starte småt. Han anbefaler at lære himlen at kende, før man investerer i dyrt grej. Et billigt teleskop kan give mange timers glæde."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "50 dollars",
+          "label": "Prisen på teleskopet"
+        }
+      ],
+      "detaljer": [
+        "Damian Peach er en prisbelønnet amatørastronom med over 30 års erfaring.",
+        "Hans billeder er brugt af NASA og ESA.",
+        "Asteroiden 27632 er opkaldt efter ham."
+      ],
+      "betydning": "Historien viser, at man ikke behøver dyrt udstyr for at dyrke astronomi. Det kan inspirere danskere til at undersøge himlen med et billigt teleskop derhjemme.",
+      "pointer": [
+        "Billigt udstyr kan give gode oplevelser.",
+        "Tålmodighed er vigtigere end dyre linser.",
+        "Brugt køb er en god måde at starte på.",
+        "Ekspert værdsætter enkelhed."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
+      "link": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/",
+      "dato": "2026-08-04T04:01:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "SAN FRANCISCO – Spanish startup Kreios Space announced plans Aug. 4 to conduct the first very low Earth orbit (VLEO) demonstration of its air-breathing electric propulsion (ABEP) in a Kongsberg [&#8230;] The post Kreios Space to fly VLEO demonstration in NanoAvionics bus appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_kreios-sede.jpg?fit=879%2C495&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Spansk firma tester lufttændende motor i lavt kredsløb",
+      "resume_da": "Kreios Space vil teste en ny type elektrisk fremdrift, der bruger luft fra jordens atmosfære som brændstof. Testen skal ske i et lavt kredsløb om Jorden i en satellit fra NanoAvionics.",
+      "sektioner": [
+        {
+          "overskrift": "Planen for testen",
+          "tekst": "Det spanske firma Kreios Space har annonceret, at de vil teste deres såkaldte luftåndende elektriske fremdrift i et meget lavt kredsløb om Jorden. Det sker i en satellit fra producenten NanoAvionics, som er ejet af norske Kongsberg."
+        },
+        {
+          "overskrift": "Teknologien bag",
+          "tekst": "Motoren bruger luft fra den tynde atmosfære i lav højde som brændstof. Det kan gøre satellitter mere effektive, fordi de ikke skal medbringe så meget brændstof. Det er første gang, teknologien skal demonstreres i rummet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Kreios Space er et spansk firma.",
+        "Testen er planlagt til at finde sted i en meget lav jordkredsløb (VLEO).",
+        "Satellitten, der skal bruges, er fra NanoAvionics.",
+        "NanoAvionics er ejet af det norske firma Kongsberg.",
+        "Det er første demonstration af teknologien i rummet."
+      ],
+      "betydning": "Teknologien kan gøre satellitter lettere og billigere, fordi de ikke skal medbringe så meget brændstof. Det kan betyde bedre og billigere satellitter til fx internet og klimaovervågning.",
+      "pointer": [
+        "Spansk firma tester ny motor.",
+        "Motoren bruger luft som brændstof.",
+        "Testen sker i lavt kredsløb om Jorden.",
+        "Det er første gang i rummet."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "NASA, SpaceX studying how to prevent future upper stage lunar collisions",
+      "link": "https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/",
+      "dato": "2026-08-04T02:03:57+00:00",
+      "kilde": "SpaceNews",
+      "resume": "With a Falcon 9 upper stage set to hit the moon this week, SpaceX says it is working with NASA on ways to prevent similar collisions in the future. The post NASA, SpaceX studying how to prevent future upper stage lunar collisions appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/f9-fireflyispace.jpg?fit=1024%2C682&amp;ssl=1",
+      "billede_alt": "F9 launch Firefly ispace",
+      "kategori": "Missioner",
+      "rubrik": "SpaceX og NASA vil undgå nye månekollisioner",
+      "resume_da": "En Falcon 9-raketdel rammer månen i denne uge. SpaceX og NASA undersøger nu, hvordan de kan undgå lignende kollisioner i fremtiden.",
+      "sektioner": [
+        {
+          "overskrift": "Raketdel rammer månen",
+          "tekst": "En del af en Falcon 9-raket er på vej mod månen og rammer den i denne uge. Det er et uønsket sammenstød, som forskere gerne vil undgå i fremtiden."
+        },
+        {
+          "overskrift": "Samarbejde om løsninger",
+          "tekst": "SpaceX oplyser, at de arbejder sammen med NASA. De ser på, hvordan man kan forhindre lignende kollisioner. Det kræver nye metoder og planer."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Raketdelen er fra en Falcon 9-raket.",
+        "Sammenstødet sker i denne uge.",
+        "SpaceX og NASA samarbejder om at undgå lignende hændelser."
+      ],
+      "betydning": "Det viser, at rumaffald også kan ramme månen. Det kan få betydning for fremtidige månefærd og forskning.",
+      "pointer": [
+        "Falcon 9-raketdel rammer månen.",
+        "SpaceX og NASA samarbejder om løsninger.",
+        "De vil undgå nye kollisioner.",
+        "Sker i denne uge."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Launch Preview: Starlink, AST SpaceMobile, and Chinese missions fill launch manifest",
       "link": "https://www.nasaspaceflight.com/2026/08/launch-preview-080326/",
@@ -4272,122 +4391,6 @@
         "Faciliteten støtter Artemis-missionen mod Månen."
       ],
       "prio": 5
-    },
-    {
-      "titel": "Fortastra and Hadrian join forces to streamline satellite production",
-      "link": "https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/",
-      "dato": "2026-07-29T13:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "SAN FRANCISCO – Fortastra, a Los Angeles startup focused on defending on-orbit infrastructure, is working with manufacturing specialist Hadrian to explore ways to apply precision machining and additive manufacturing to [&#8230;] The post Fortastra and Hadrian join forces to streamline satellite production appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_hadrian_f3.jpg?fit=879%2C703&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Samarbejde for at gøre satellitproduktion billigere",
-      "resume_da": "Fortastra og Hadrian samarbejder om at bruge avancerede fremstillingsmetoder til at gøre satellitter hurtigere og billigere at producere.",
-      "sektioner": [
-        {
-          "overskrift": "Nyt samarbejde mellem virksomheder",
-          "tekst": "Den Los Angeles-baserede startup Fortastra, der beskytter ruminfrastruktur, arbejder med specialisten Hadrian. De undersøger, hvordan præcisionsbearbejdning og additiv fremstilling kan gøre satellitproduktionen mere effektiv."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Fortastra er en startup fra Los Angeles, der fokuserer på at forsvare infrastruktur i rummet.",
-        "Hadrian er en specialiseret fremstillingsvirksomhed."
-      ],
-      "betydning": "Det kan føre til billigere og hurtigere produktion af satellitter, hvilket i sidste ende kan gøre rumteknologi mere tilgængelig for almindelige mennesker.",
-      "pointer": [
-        "Fortastra og Hadrian vil optimere satellitproduktion.",
-        "Præcisionsbearbejdning og 3D-print skal gøre processen billigere.",
-        "Lettere adgang til rummet kan komme samfundet til gode."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "H3 to launch next ispace lunar lander mission",
-      "link": "https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/",
-      "dato": "2026-07-29T12:10:11+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Japanese lunar lander developer ispace has selected the H3 rocket to launch its next mission in 2028, creating what the companies called Japan’s first private lunar transportation system. The post H3 to launch next ispace lunar lander mission appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/h3-202512.jpeg?fit=1024%2C808&amp;ssl=1",
-      "billede_alt": "H3 launch",
-      "kategori": "Missioner",
-      "rubrik": "japansk månelander får h3-raket i 2028",
-      "resume_da": "Ispace vælger H3-raketten til sin næste månelander-mission i 2028. Det skaber Japans første private månetransportsystem.",
-      "sektioner": [
-        {
-          "overskrift": "Missionen i 2028",
-          "tekst": "Det japanske firma ispace har valgt H3-raketten til sin næste månelander-mission. Opsendelsen er planlagt til **2028**."
-        },
-        {
-          "overskrift": "Japans første private månetransport",
-          "tekst": "Sammen med raketproducenten kalder de det Japans første private månetransportsystem. Det skal sende en lander til Månen."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2028",
-          "label": "planlagt opsendelsesår"
-        }
-      ],
-      "detaljer": [
-        "Ispace udvikler månelandere.",
-        "H3 er en japansk bæreraket.",
-        "Firmaerne kalder det Japans første private månetransportsystem."
-      ],
-      "betydning": "Mere privat rumfart betyder flere missioner til Månen. Det kan bane vej for kommerciel aktivitet på Månen.",
-      "pointer": [
-        "Ispace sender lander til Månen i 2028.",
-        "H3-raketten skal bruges.",
-        "Det er Japans første private månetransport.",
-        "Private firmaer får større rolle i rumfart."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "A distant primordial object may be a newborn 'Little Red Dot'",
-      "link": "https://phys.org/news/2026-07-distant-primordial-newborn-red-dot.html",
-      "dato": "2026-07-29T12:00:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "The infrared-sensitive James Webb Space Telescope (JWST) has conducted multiple surveys of the very distant universe, digging into what was happening in the first billion years after the Big Bang. As part of these deep surveys, its sensors have been picking up mysterious objects dubbed \"Little Red Dots.\" It has found more than 300 of them since their discovery in 2024. These intriguing little obje",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-distant-primordial-o.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Mystiske røde prikker i det tidlige univers",
-      "resume_da": "JWST har opdaget over 300 mystiske 'Little Red Dots' fra det tidlige univers. En af dem kan være en nyfødt, lille galakse.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er Little Red Dots?",
-          "tekst": "James Webb Space Telescope har fundet over **300** af disse objekter siden opdagelsen i **2024**. De ser ud som fjerne, små røde prikker på JWST's billeder."
-        },
-        {
-          "overskrift": "En mulig nyfødt galakse",
-          "tekst": "Et af objekterne kan være en 'nyfødt' galakse fra tiden kort efter Big Bang. Det viser, at JWST kan fange helt tidlige stadier af galaksedannelse."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "300+",
-          "label": "Antal opdagede røde prikker"
-        },
-        {
-          "tal": "2024",
-          "label": "Opdagelsesår"
-        }
-      ],
-      "detaljer": [
-        "Objekterne kaldes 'Little Red Dots' og ses kun med JWST's infrarøde sensorer.",
-        "De befinder sig i det første milliard år efter Big Bang.",
-        "En af prikkerne er særligt interessant, da den kan være en nyfødt galakse."
-      ],
-      "betydning": "Opdagelsen hjælper forskere med at forstå, hvordan de første galakser blev født og udviklede sig i universets barndom.",
-      "pointer": [
-        "JWST har fundet hundredvis af 'Little Red Dots'.",
-        "Objekterne er små og røde på JWST-billeder.",
-        "En prik kan være en nyfødt galakse.",
-        "De giver ny viden om universets tidligste tider."
-      ],
-      "prio": 7
     }
   ]
 }
