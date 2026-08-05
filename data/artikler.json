@@ -1,7 +1,172 @@
 {
-  "opdateret": "2026-08-05T17:14:43.797803+00:00",
+  "opdateret": "2026-08-05T22:19:08.339866+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Diffuse inter-filament gas is likely a key fuel source for massive star formation",
+      "link": "https://phys.org/news/2026-08-diffuse-inter-filament-gas-key.html",
+      "dato": "2026-08-05T21:20:04+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Researchers from Kyushu University have discovered that diffuse gas surrounding dense filaments in a nearby stellar nursery plays a much larger role in star formation than previously recognized. By tracking the movement of gas in the Monoceros R2 hub–filament system, the team found that low-density gas contributes to hub growth both through direct inflow and by replenishing nearby dense filaments.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/inter-filamentary-diff.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Diffus gas er nøglen til massive stjerners fødsel",
+      "resume_da": "Forskere fra Kyushu University har opdaget, at diffus gas omkring tætte filamenter i en babysstjernehave spiller en større rolle end hidtil kendt. Gas bidrager direkte til vækst af massive stjerner, og overser man den, undervurderes stjernematerialet markant.",
+      "sektioner": [
+        {
+          "overskrift": "Ny opdagelse om gas",
+          "tekst": "Forskere fra Kyushu University har fundet ud af, at diffus gas i Monoceros R2 hub–filament systemet er vigtigere for stjernedannelse end tidligere antaget. De sporede gasbevægelser og så, at lavdensitetsgas både strømmer direkte ind og genopbygger tætte filamenter."
+        },
+        {
+          "overskrift": "Konsekvenser for forskning",
+          "tekst": "Resultaterne viser, at man kan undervurdere mængden af materiale til massive stjerner, hvis man ikke medregner diffus gas. Det betyder, at modeller for stjernedannelse bør opdateres."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "ikke opgivet",
+          "label": "ingen tal i kilden"
+        }
+      ],
+      "detaljer": [
+        "Forskerne studerede Monoceros R2 hub–filament systemet.",
+        "Diffus gas er med til at vokse hubben gennem direkte tilstrømning og genopfyldning af filamenter.",
+        "Overser man diffus gas, undervurderes materialet til massive stjerner."
+      ],
+      "betydning": "For almindelige danskere handler det om at forstå, hvordan stjerner og planeter opstår. Det kan give indsigt i vores eget solsystems oprindelse og universets udvikling.",
+      "pointer": [
+        "Diffus gas er vigtig for stjernedannelse.",
+        "Forskerne sporede gas i Monoceros R2.",
+        "Resultatet kan ændre modeller for stjernedannelse."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Runaway supermassive black hole RBH-1 offers new way to reconstruct ancient merger",
+      "link": "https://phys.org/news/2026-08-runaway-supermassive-black-hole-rbh.html",
+      "dato": "2026-08-05T19:20:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Black holes are fascinating regions in space where gravity is so strong that nothing, even light, can escape them. The largest known black holes, called supermassive black holes, contain millions to billions of times the mass of the sun and are typically located at the centers of galaxies.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-traces-the-possi.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Løbsk sort hul kan afsløre fortidens kollisioner",
+      "resume_da": "Et stort sort hul, RBH-1, flygter fra sin galakse. Det kan hjælpe os med at forstå, hvordan galakser er dannet.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er et sort hul?",
+          "tekst": "Et sort hul er et område i rummet, hvor tyngdekraften er så stærk, at intet kan slippe ud, heller ikke lys. De største sorte huller kaldes supermassive og vejer millioner eller milliarder gange så meget som Solen. De findes typisk i centrum af galakser."
+        },
+        {
+          "overskrift": "Det løbske sort hul",
+          "tekst": "Forskere har fundet et supermassivt sort hul, kaldet RBH-1, som ikke er i centrum af sin galakse. Det er på flugt. Det er første gang, vi ser sådan et stort sort hul på den måde."
+        },
+        {
+          "overskrift": "Hvorfor er det vigtigt?",
+          "tekst": "Opdagelsen kan give os ny viden om, hvordan galakser er blevet til. Når galakser kolliderer, kan sorte huller blive slynget ud. RBH-1 kan derfor være et spor fra en gammel kollision."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "RBH-1 er et supermassivt sort hul, der er løbsk fra sin galakse.",
+        "Det kan hjælpe med at rekonstruere gamle kollisioner mellem galakser.",
+        "Sorte huller med så stor masse findes normalt i galaksecentre."
+      ],
+      "betydning": "Det giver os ny viden om universets historie, og hvordan galakser dannes. Det kan også hjælpe med at forstå sorte hullers opførsel.",
+      "pointer": [
+        "RBH-1 er et stort sort hul på flugt.",
+        "Det er fundet uden for sin galakses centrum.",
+        "Opdagelsen kan forklare galaksekollisioner.",
+        "Det er et nyt værktøj til at forstå universet."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Astronomers catch 'Hatchling' quasar breaking out of its dusty cocoon",
+      "link": "https://phys.org/news/2026-08-astronomers-hatchling-quasar-dusty-cocoon.html",
+      "dato": "2026-08-05T18:20:04+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Using observations from multiple powerful telescopes, a team of astronomers studied a red quasar nicknamed \"the Hatchling\" at redshift 3.7. They may have identified one of the clearest examples yet of a quasar caught in transition between a heavily obscured and fully exposed phase.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-catch-a-yo.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Astronomer fanger kvazar i forvandling",
+      "resume_da": "En nyfød kvazar, 'Hatchling', er fanget i overgangen fra at være skjult til at skinne frit. Observationer viser et tydeligt billede af denne sjældne fase.",
+      "sektioner": [
+        {
+          "overskrift": "Genstand for studiet",
+          "tekst": "Forskere brugte flere kraftige teleskoper til at studere en rød kvazar, kaldet 'Hatchling'. Den befinder sig meget langt væk, med en rødforskydning på 3,7. Det betyder, at vi ser den, som den var for milliarder af år siden."
+        },
+        {
+          "overskrift": "En sjælden overgangsfase",
+          "tekst": "Holdet mener, at de har fundet et af de klareste eksempler på en kvazar, der er fanget under overgangen fra at være skjult i støv til at være fuldt synlig. Den type kvazar er meget sjælden at observere."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "3,7",
+          "label": "Rødforskydning, viser afstand"
+        }
+      ],
+      "detaljer": [
+        "Kvazaren kaldes 'Hatchling' på grund af dens unge og transformative fase.",
+        "Observationerne kommer fra flere kraftige teleskoper.",
+        "Den er i overgang fra en støvskjult til en fuldt synlig tilstand."
+      ],
+      "betydning": "At forstå kvazarers udvikling hjælper forskere med at lære om galaksers og universets tidlige historie. Det kan give indsigt i, hvordan sorte huller vokser.",
+      "pointer": [
+        "Nyfødt kvazar observeret i overgangsfase.",
+        "Kaldet 'Hatchling' på grund af dets unge fase.",
+        "Befinder sig ved rødforskydning 3,7.",
+        "Sjældent klart eksempel på denne type overgang."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Artemis III Orion Crew and Service Models Joined",
+      "link": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/",
+      "dato": "2026-08-05T17:27:18+00:00",
+      "kilde": "NASA",
+      "resume": "Technicians joined the Orion crew and service modules together on July 30, 2026, inside the Neil Armstrong Operations and Checkout Building at NASA&#8217;s Kennedy Space Center in Florida. The crew module will carry and sustain NASA astronauts Randy Bresnik, Andre Douglas, and Frank Rubio, and ESA (European Space Agency) astronaut Luca Parmitano, while the service [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260730-ph-as01-6583.webp?w=1536",
+      "billede_alt": "The Orion crew and service modules for Artemis III inside a large building with walkways and safety railings. Written on the floor in the foreground are the words &quot;forklift prohibited.&quot;",
+      "kategori": "Missioner",
+      "rubrik": "Artemis III: Orion-kapsel samlet til Måne-mission",
+      "resume_da": "Technikere har samlet Orion-kapslen og servicemodulet til Artemis III-missionen, som skal teste docking med månelandere.",
+      "sektioner": [
+        {
+          "overskrift": "Kapslen er samlet",
+          "tekst": "Den 30. juli 2026 samlede teknikere Orion-kapslen og servicemodulet i Florida. Kapslen skal transportere astronauter, mens servicemodulet sørger for strøm og fremdrift."
+        },
+        {
+          "overskrift": "Astronauterne om bord",
+          "tekst": "Nasa-astronauterne Randy Bresnik, Andre Douglas og Frank Rubio samt ESA-astronaut Luca Parmitano skal flyve med. De skal blandt andet øve at docke med kommercielle månelandere fra Blue Origin og SpaceX."
+        },
+        {
+          "overskrift": "Vigtig milepæl",
+          "tekst": "Samlingen er en vigtig milepæl for Artemis III-missionen. Den bringer os et skridt nærmere månelanding."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "30. juli 2026",
+          "label": "Dato for samling"
+        }
+      ],
+      "detaljer": [
+        "Samlingen skete i Neil Armstrong Operations and Checkout Building ved Kennedy Space Center i Florida.",
+        "Missionen skal teste rendezvous og docking med testmodeller af landingsfartøjer fra Blue Origin og SpaceX."
+      ],
+      "betydning": "Artemis III er en del af NASAs plan om at bringe mennesker tilbage til Månen. Det kan bane vej for fremtidige opdagelser og teknologisk udvikling.",
+      "pointer": [
+        "Orion-kapsel og servicemodul samlet i Florida.",
+        "Fire astronauter skal med på Artemis III.",
+        "Docking med månelandere skal testes.",
+        "Vigtig milepæl for månelanding."
+      ],
+      "prio": 7
+    },
     {
       "titel": "Capella, Iceye and Umbra win NRO radar-data contracts",
       "link": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/",
@@ -67,6 +232,59 @@
         "Projektet er på idéstadiet."
       ],
       "prio": 6
+    },
+    {
+      "titel": "NASA’s Perseverance Captures Phobos and Earth",
+      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/",
+      "dato": "2026-08-05T15:28:03+00:00",
+      "kilde": "NASA",
+      "resume": "Description This composite of seven images from the Mastcam-Z instrument aboard NASA’s Perseverance Mars rover shows Earth, visible as a small bright dot moving from upper left to lower right, passing behind the Martian moon Phobos on July 2, 2026, 1,907th Martian day, or sol, of the mission. The black background is the result of […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26758/PIA26758.png?w=1535&#038;h=333&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A grainy black image showing a horizontal sequence of seven faint crescent shapes evenly spaced from left to right. A tiny bright white dot moves diagonally from the upper left to the lower right, app",
+      "kategori": "Forskning",
+      "rubrik": "Perseverance fanger Phobos og Jorden fra Mars",
+      "resume_da": "NASAs Mars-rover Perseverance har fanget Jorden passere bag Mars' måne Phobos i juli 2026. Optagelsen er lavet med Mastcam-Z-kameraet.",
+      "sektioner": [
+        {
+          "overskrift": "Optagelsen",
+          "tekst": "Den 2. juli 2026 tog Perseverance syv billeder med Mastcam-Z-kameraet. De viser Jorden som en lille lys prik, der bevæger sig bag Phobos. Baggrunden er gjort sort for at fremhæve detaljer."
+        },
+        {
+          "overskrift": "Billederne",
+          "tekst": "Figur A er et sammensat billede af ni optagelser fra samme dag. Indsættelsen øverst til højre viser Jorden passere bag Phobos. Billederne blev taget omkring 40 minutter efter solnedgang i Mars' tusmørke."
+        },
+        {
+          "overskrift": "Roverens mission",
+          "tekst": "Perseverance blev bygget af NASAs Jet Propulsion Laboratory og ledes af Caltech. Mastcam-Z-instrumentet drives af Arizona State University i samarbejde med Malin Space Science Systems."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2. juli 2026",
+          "label": "Dato for optagelsen"
+        },
+        {
+          "tal": "1.907",
+          "label": "Marsdag under missionen"
+        },
+        {
+          "tal": "40 minutter",
+          "label": "Efter solnedgang"
+        }
+      ],
+      "detaljer": [
+        "Roveren Perseverance befinder sig på Mars.",
+        "Optagelsen består af syv billeder.",
+        "Figur A viser ni billeder med annoteringer.",
+        "Mastcam-Z er et kamerainstrument."
+      ],
+      "betydning": "Det er sjældent, at vi ser Jorden og en måne fra en anden planet. Det kan hjælpe forskere med at forstå Mars' himmel og vejr.",
+      "pointer": [
+        "Perseverance tog billeder af Jorden bag Phobos.",
+        "Billederne viser Mars' tusmørkehimlen.",
+        "Optagelsen fandt sted i juli 2026."
+      ],
+      "prio": 7
     },
     {
       "titel": "NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon",
@@ -4207,209 +4425,6 @@
         "Navnet blev opfundet i 1986 under Halleys komet."
       ],
       "prio": 4
-    },
-    {
-      "titel": "Destructive Fires Char Western Europe",
-      "link": "https://science.nasa.gov/earth/earth-observatory/destructive-fires-char-western-europe/",
-      "dato": "2026-07-31T04:01:00+00:00",
-      "kilde": "NASA",
-      "resume": "Raging wildfires disrupted summer in Spain and France amid sweltering heat waves and prolonged drought.",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/destructive-fires-char-western-europe/spainfires_oli2_20260729.jpg?w=1440&#038;h=960&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A brown patch of burned vegetation is visible on the landscape surrounding two reservoirs in a hilly region west of Madrid.",
-      "kategori": "Forskning",
-      "rubrik": "Rekordstore skovbrande hærger Spanien og Frankrig",
-      "resume_da": "I juli 2026 har massive skovbrande i Spanien og Frankrig tvunget hundredtusinder til at evakuere. NASA-satellitter overvåger ødelæggelserne.",
-      "sektioner": [
-        {
-          "overskrift": "Brandene i Spanien",
-          "tekst": "I Spanien er en brand i Ávila den største nogensinde registreret. Den har brændt omkring **50.000 hektar** og voksede til **77.000 hektar**. Flammerne har ødelagt hjem, restauranter og campingpladser."
-        },
-        {
-          "overskrift": "Krise i Frankrig",
-          "tekst": "I Frankrig har en brand i Gironde-området brændt **42.000 hektar** og ødelagt landsbyen Le Porge. I hele Frankrig er der brændt **90.000 hektar**, det værste i årtier. En 'pyrocumulonimbus' blev dannet, det første nogensinde i Frankrig."
-        },
-        {
-          "overskrift": "Hvorfor brandene opstod",
-          "tekst": "Vådt vintervejr fik planter til at vokse ekstra meget. Så kom hedebølger og tørke, der gjorde alt tørt. Stærke vinde på op til **65 km/t** fik flammerne til at sprede sig hurtigt."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "77.000 hektar",
-          "label": "Areal brændt i Spanien"
-        },
-        {
-          "tal": "90.000 hektar",
-          "label": "Areal brændt i Frankrig"
-        },
-        {
-          "tal": "65 km/t",
-          "label": "Vindhastighed"
-        }
-      ],
-      "detaljer": [
-        "Satellitter fra NASA observerede brandene og ødelæggelserne.",
-        "Tusindvis af brandmænd og soldater bekæmpede brandene.",
-        "Evakueringsordrer blev begyndt at blive ophævet i slutningen af juli."
-      ],
-      "betydning": "Brandene viser, hvordan klimaforandringer og ekstremt vejr påvirker Europa. Det er relevant, fordi det kan have konsekvenser for luftkvalitet og klima for os alle.",
-      "pointer": [
-        "Store brande i Spanien og Frankrig i juli 2026.",
-        "Rekordstor brand i Ávila, Spanien.",
-        "Første pyrocumulonimbus i Frankrig.",
-        "Vådt vejr, hedebølger og tørke skyld i brandene."
-      ],
-      "prio": 8
-    },
-    {
-      "titel": "Probing binary stars in the Small Magellanic Cloud with the JWST",
-      "link": "https://phys.org/news/2026-07-probing-binary-stars-small-magellanic.html",
-      "dato": "2026-07-31T01:40:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "The formation and evolution of individual stars in a galaxy shape the evolution of the galaxy itself. Stars and stellar remnants make up the vast majority of a galaxy's mass, so it's not surprising that the stellar population affects the evolution of galaxies. In the Milky Way's disk and bulge, stars and dead stars make up about 85% of the baryonic mass.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/probing-binary-stars-i.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "JWST kigger på dobbeltstjerner i nabo-galakse",
-      "resume_da": "Astronomer har brugt James Webb-teleskopet til at studere dobbeltstjerner i Den Lille Magellanske Sky, en nabo-galakse til Mælkevejen.",
-      "sektioner": [
-        {
-          "overskrift": "Hvorfor studere stjerner?",
-          "tekst": "Stjerner og deres udvikling påvirker hele galaksen. De udgør størstedelen af galaksens masse. I Mælkevejens skive og bule er stjerner og døde stjerner omkring **85%** af den baryoniske masse."
-        },
-        {
-          "overskrift": "Hvad undersøger forskerne?",
-          "tekst": "Med James Webb-teleskopet (JWST) vil forskerne undersøge dobbeltstjerner i Den Lille Magellanske Sky. Det er en lille nabo-galakse til vores Mælkevej."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "85%",
-          "label": "andel af baryonisk masse i Mælkevejen"
-        }
-      ],
-      "detaljer": [
-        "Forskerne bruger JWST til at studere dobbeltstjerner.",
-        "Dobbeltstjerner findes i Den Lille Magellanske Sky.",
-        "Stjerners udvikling er vigtig for galaksers udvikling."
-      ],
-      "betydning": "Det er vigtigt at forstå, hvordan stjerner udvikler sig, fordi de påvirker hele galaksen. Denne forskning kan hjælpe os med at forstå vores egen galakse bedre.",
-      "pointer": [
-        "JWST studerer dobbeltstjerner i en nabo-galakse.",
-        "Stjerner udgør meget af galaksens masse.",
-        "Det hjælper os at forstå galakseudvikling."
-      ],
-      "prio": 3
-    },
-    {
-      "titel": "Rules of the road needed for orbital data center constellations",
-      "link": "https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations/",
-      "dato": "2026-07-31T00:00:37+00:00",
-      "kilde": "SpaceNews",
-      "resume": "As companies develop large constellations of orbital data center satellites, experts say now is the time to start thinking about some critical space safety topics and rules of the road. The post Rules of the road needed for orbital data center constellations appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/starcloud.jpeg?fit=1024%2C566&amp;ssl=1",
-      "billede_alt": "Starcloud",
-      "kategori": "Politik & penge",
-      "rubrik": "Forskere: Vi skal have trafikregler for datacentre i rummet",
-      "resume_da": "Flere virksomheder planlægger store satellitkonstellationer som datacentre i kredsløb. Nu opfordrer eksperter til, at vi får lavet regler for sikkerhed i rummet, før det går galt.",
-      "sektioner": [
-        {
-          "overskrift": "Datacentre i kredsløb",
-          "tekst": "Flere virksomheder arbejder på at sende store netværk af datacentre op i rummet. De skal ligge i kredsløb om Jorden og behandle data. Det kan give hurtigere internet og mere regnekraft."
-        },
-        {
-          "overskrift": "Behov for regler",
-          "tekst": "Eksperter siger, at vi nu skal tænke over, hvordan vi undgår sammenstød og andet bøvl i rummet. De vil have fælles regler og bedre styr på trafikken, før de nye satellitter sendes op. Ellers kan der ske uheld."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Virksomheder udvikler store konstellationer af datacenter-satellitter.",
-        "Eksperter efterlyser regler for sikkerhed i rummet nu.",
-        "Artiklen kommer fra SpaceNews."
-      ],
-      "betydning": "Hvis vi får datacentre i rummet, påvirker det os alle – både i form af hurtigere internet, men også risiko for rumaffald og sammenstød. Derfor er det vigtigt, at vi får lavet klare regler i tide.",
-      "pointer": [
-        "Planer om datacentre i rummet",
-        "Eksperter advarer om sikkerhed",
-        "Regler skal på plads tidligt"
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Risks of debris between the Earth and the moon for future exploration",
-      "link": "https://phys.org/news/2026-07-debris-earth-moon-future-exploration.html",
-      "dato": "2026-07-31T00:00:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Cislunar space has become the focal point of considerable interest and strategic planning because of the many proposed missions to send crews to the moon in the next decade. These include NASA's Artemis program, China and Russia's International Lunar Research Station (ILRS), the European Space Agency's Argonaut program and others. The long-term goals of these programs include creating infrastructu",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-risks-of-debris-be.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Rumaffald i cislunar rum truer fremtidige månemissioner",
-      "resume_da": "Ny forskning peger på stigende risiko fra rumaffald mellem Jorden og Månen, hvilket kan påvirke kommende missioner som Artemis.",
-      "sektioner": [
-        {
-          "overskrift": "Voksende interesse og planer",
-          "tekst": "Flere månemissioner er planlagt i det kommende årti, herunder NASAs Artemis-program, Kina og Ruslands internationale måneforskningsstation og ESA's Argonaut-program. Langsigtede mål inkluderer infrastruktur mellem Jorden og Månen for fortsat udforskning."
-        },
-        {
-          "overskrift": "Risici fra rumaffald",
-          "tekst": "Cislunar rum – området mellem Jorden og Månen – er blevet et fokusområde for strategisk planlægning. Affald i dette område udgør en risiko for fremtidige missioner og infrastruktur."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Cislunar rum er blevet et centralt punkt for interesse og strategisk planlægning",
-        "Mange missioner er foreslået for at sende besætninger til Månen i det næste årti",
-        "NASA's Artemis-program er et af de nævnte initiativer",
-        "Kina og Rusland samarbejder om International Lunar Research Station (ILRS)",
-        "European Space Agency har Argonaut-programmet",
-        "Langsigtede mål inkluderer infrastruktur mellem Jorden og Månen"
-      ],
-      "betydning": "For almindelige mennesker er det relevant, fordi rumaffald kan påvirke sikkerheden og omkostningerne ved fremtidige månemissioner, som kan have betydning for teknologisk udvikling og internationalt samarbejde.",
-      "pointer": [
-        "Flere lande planlægger månebaser",
-        "Cislunar rum bliver mere travlt",
-        "Affald udgør en risiko",
-        "Infrastruktur er et langsigtet mål"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "A thermal camera trick could let LIGO see twice as far",
-      "link": "https://phys.org/news/2026-07-thermal-camera-ligo.html",
-      "dato": "2026-07-30T23:20:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "There's a nice kind of irony buried in this story: One of the most sensitive instruments ever built, capable of measuring distortions smaller than the width of a proton, has been quietly held back by something as mundane as heat. And the fix, it turns out, is not some exotic new sensor but a thermal camera you could genuinely buy off the shelf.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-thermal-camera-trick.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Termisk kamera kan fordoble LIGOs rækkevidde",
-      "resume_da": "Et almindeligt termisk kamera kan hjælpe gravitationsbølgeobservatoriet LIGO med at se dobbelt så langt ud i universet.",
-      "sektioner": [
-        {
-          "overskrift": "Varme begrænser LIGO",
-          "tekst": "LIGO er et af verdens mest følsomme instrumenter og kan måle forstyrrelser mindre end en protons bredde. Men det har været begrænset af varme, som skaber støj i målingerne."
-        },
-        {
-          "overskrift": "Løsningen: termisk kamera",
-          "tekst": "Forskere har opdaget, at et almindeligt termisk kamera kan købes i butikken og bruges til at reducere varmestøjen. Det kan fordoble LIGOs rækkevidde."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "LIGO kan måle forstyrrelser mindre end en protons bredde.",
-        "Varme har begrænset LIGOs følsomhed.",
-        "Et almindeligt termisk kamera kan løse problemet."
-      ],
-      "betydning": "Bedre LIGO-data kan føre til flere opdagelser af gravitationsbølger, hvilket giver ny viden om sorte huller og universets historie.",
-      "pointer": [
-        "LIGO måler gravitationsbølger meget præcist.",
-        "Varmestøj har været en begrænsning.",
-        "Et termisk kamera kan fordoble rækkevidden.",
-        "Løsningen er enkel og billig."
-      ],
-      "prio": 7
     }
   ]
 }
