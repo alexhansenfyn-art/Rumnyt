@@ -1,7 +1,161 @@
 {
-  "opdateret": "2026-08-04T23:40:22.158842+00:00",
+  "opdateret": "2026-08-05T10:12:12.098744+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Total solar eclipse: how to watch live from home",
+      "link": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
+      "dato": "2026-08-05T08:00:00+00:00",
+      "kilde": "ESA",
+      "resume": "A total solar eclipse is coming to Europe. The European Space Agency (ESA) will broadcast live from 19:30 CEST on 12 August, allowing you to experience this rare event from anywhere in the world. Quick links: - Live broadcast on YouTube (12 August, 19:30–20:45 CEST) - Event programme in León, Spain (12 August, 10:00–14:00 and 17:30–21:45 CEST) - Overview of all ESA activities, including videos, gr",
+      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/solar_eclipse_artist_impression/27150246-1-eng-GB/Solar_eclipse_artist_impression_card_full.png",
+      "billede_alt": "Solar eclipse (artist impression) ",
+      "kategori": "Politik & penge",
+      "rubrik": "Se solformørkelsen live fra ESA",
+      "resume_da": "ESA sender live fra en total solformørkelse den 12. august. Du kan se med fra hele verden på YouTube fra kl. 19:30 CEST.",
+      "sektioner": [
+        {
+          "overskrift": "Live fra ESA",
+          "tekst": "Den Europæiske Rumorganisation ESA viser en total solformørkelse live. Showet starter kl. **19:30 CEST** den **12. august**. Du kan se det på YouTube fra kl. **19:30 til 20:45 CEST**."
+        },
+        {
+          "overskrift": "Arrangementer i Spanien",
+          "tekst": "ESA har også aktiviteter i León, Spanien, samme dag. Der er program fra kl. **10:00 til 14:00** og igen fra **17:30 til 21:45 CEST**. Der vil være videoer, grafik og læring for børn."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "19:30 CEST",
+          "label": "Start på liveudsendelsen"
+        },
+        {
+          "tal": "12. august",
+          "label": "Dato for solformørkelsen"
+        }
+      ],
+      "detaljer": [
+        "ESA sender live på YouTube.",
+        "Varighed: 19:30-20:45 CEST.",
+        "Aktiviteter i León, Spanien fra 10:00-14:00 og 17:30-21:45 CEST.",
+        "Inkluderer videoer, grafik og undervisning."
+      ],
+      "betydning": "En total solformørkelse er et sjældent syn. Det er en let måde at opleve rumfart og naturfænomener på hjemmefra.",
+      "pointer": [
+        "Live på YouTube 12. august.",
+        "Start klokken 19:30 CEST.",
+        "Slut klokken 20:45 CEST.",
+        "ESA tilbyder undervisning."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Think tank warns Europe’s orbital compute gap is widening",
+      "link": "https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening/",
+      "dato": "2026-08-05T08:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Europe risks becoming dependent on foreign orbital computing infrastructure as U.S. companies and China’s government-led push accelerate the development of space-based data centers, according to the European Space Policy Institute. The post Think tank warns Europe’s orbital compute gap is widening appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Orbital.jpg?fit=1024%2C625&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Europa halter bagud i rum-computing",
+      "resume_da": "En tænketank advarer om, at Europa sakker agterud i udviklingen af datacentre i rummet, mens USA og Kina rykker hurtigt frem.",
+      "sektioner": [
+        {
+          "overskrift": "Advarsel fra tænketank",
+          "tekst": "Det Europæiske Rum-Politikinstitut siger, at Europa risikerer at blive afhængig af udenlandsk orbital computerinfrastruktur. USA's virksomheder og Kinas statsstøttede satsning accelererer udviklingen af datacentre i rummet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Advarslen kommer fra European Space Policy Institute.",
+        "USA's virksomheder og Kinas regering fører an i udviklingen.",
+        "Europa kan blive afhængig af udenlandsk infrastruktur."
+      ],
+      "betydning": "For almindelige danskere betyder det, at Europa kan miste indflydelse og sikkerhed i den digitale fremtid, hvis ikke vi følger med i rum-computing.",
+      "pointer": [
+        "Europa halter bagud.",
+        "USA og Kina leder.",
+        "Risiko for afhængighed."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Neuraspace raises $18 million to expand sovereign space awareness",
+      "link": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/",
+      "dato": "2026-08-05T06:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Neuraspace, the Portuguese space traffic management startup, announced around $18 million in fresh funding Aug. 5 to expand European space domain awareness and defense capabilities. The post Neuraspace raises $18 million to expand sovereign space awareness appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/rsz_1neuraspace_def.jpg?fit=879%2C581&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Portugisisk firma får 18 mio. til at overvåge rummet",
+      "resume_da": "Neuraspace, en portugisisk virksomhed, har fået 18 millioner dollars til at udvide Europas overvågning af rummet og forsvaret i rummet.",
+      "sektioner": [
+        {
+          "overskrift": "Frisk kapital til rumovervågning",
+          "tekst": "Neuraspace, en portugisisk virksomhed, har fået omkring **18 millioner dollars** i ny finansiering. Pengene blev annonceret den 5. august. De skal bruges til at udvide den europæiske indsigt i rummet og forsvarskapaciteter."
+        },
+        {
+          "overskrift": "Europas sikkerhed i rummet",
+          "tekst": "Virksomheden arbejder med at spore og styre trafik i rummet. Den nye investering skal styrke Europas evne til at overvåge rummet. Det handler også om at styrke forsvaret i rummet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "18 mio. dollars",
+          "label": "Ny investering"
+        }
+      ],
+      "detaljer": [
+        "Neuraspace er en portugisisk startup.",
+        "Finansieringen blev offentliggjort 5. august.",
+        "Formålet er at udvide rumovervågning og forsvar."
+      ],
+      "betydning": "For en almindelig dansker betyder det, at Europa styrker sin evne til at holde øje med rummet. Det kan være med til at beskytte de satellitter, vi er afhængige af til fx kommunikation og navigation.",
+      "pointer": [
+        "18 mio. dollars til Neuraspace",
+        "Skal styrke Europas rumovervågning",
+        "Annonceret 5. august",
+        "Fokus på forsvar i rummet"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Voyager seeks relaxed requirements in NASA commercial space station RFP",
+      "link": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp/",
+      "dato": "2026-08-05T03:01:23+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Voyager Technologies remains upbeat about the prospects for its Starlab commercial space station but is hoping for some tweaks to NASA’s plans to support the station’s development. The post Voyager seeks relaxed requirements in NASA commercial space station RFP appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Starlab_-_External_Config_2025_-_04.png?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "Starlab",
+      "kategori": "Politik & penge",
+      "rubrik": "Voyager ønsker lempede krav fra NASA",
+      "resume_da": "Voyager Technologies håber på mere fleksible krav fra NASA til deres kommercielle rumstation Starlab, men er optimistiske om projektets fremtid.",
+      "sektioner": [
+        {
+          "overskrift": "Håb om lempelser",
+          "tekst": "Voyager Technologies er positive omkring Starlab, men vil gerne have NASA til at lempe kravene i udbuddet for kommercielle rumstationer. De ønsker mere fleksibilitet for at kunne udvikle stationen bedre."
+        },
+        {
+          "overskrift": "NASA's støtte er vigtig",
+          "tekst": "NASA's støtte er afgørende for at udvikle og drive kommercielle rumstationer. Voyager håber på justeringer, så deres planer kan blive til virkelighed."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Voyager Technologies er fortsat optimistiske omkring Starlab.",
+        "De håber på ændringer i NASA's kravspecifikationer.",
+        "NASA's støtte er vigtig for kommercielle rumstationer."
+      ],
+      "betydning": "For almindelige danskere er det relevant, fordi udviklingen af kommercielle rumstationer kan bane vejen for flere rumaktiviteter og måske fremtidig turisme.",
+      "pointer": [
+        "Voyager vil have mere fleksible krav.",
+        "Starlab er en kommerciel rumstation.",
+        "NASA's støtte er central.",
+        "Ændringer kan hjælpe projektet."
+      ],
+      "prio": 3
+    },
     {
       "titel": "NASA's PUNCH sharpens solar storm forecasting in first test",
       "link": "https://phys.org/news/2026-08-nasa-sharpens-solar-storm.html",
@@ -4228,186 +4382,6 @@
         "Kan påvirke forståelse af galakseudvikling"
       ],
       "prio": 7
-    },
-    {
-      "titel": "Could quantum physics help us find Earth 2.0?",
-      "link": "https://phys.org/news/2026-07-quantum-physics-earth.html",
-      "dato": "2026-07-30T11:40:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "When astronomers talk about directly imaging an exoplanet orbiting a faraway star, the analogy they most commonly use is trying to spot a firefly next to a massive searchlight. An Earth-like exoplanet is incredibly dim—usually between 100 million and 10 billion times fainter than its host star.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-physics-could.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Kvantefysik kan finde nye jordlignende planeter",
-      "resume_da": "Astronomer kan snart bruge kvantefysik til at blokere stjernelys og fotografere exoplaneter, der er op til milliarder gange svagere end deres stjerne.",
-      "sektioner": [
-        {
-          "overskrift": "Kæmpe kontrastproblem",
-          "tekst": "At fotografere en exoplanet direkte er som at lede efter en ildflue ved siden af en kæmpe projektør. En jordlignende planet er alt fra **100 millioner** til **10 milliarder** gange svagere end sin stjerne."
-        },
-        {
-          "overskrift": "Kvanteteknologi som løsning",
-          "tekst": "Ny forskning viser, at kvantefysikkens principper kan bruges til at fjerne stjernelyset, så planeten bliver synlig. Metoden kaldes kvante-begrænset sensing og kan gøre det muligt at se exoplaneter på størrelse med Jorden."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "100 millioner til 10 milliarder",
-          "label": "gange planet er svagere end stjernen"
-        }
-      ],
-      "detaljer": [
-        "At fotografere en exoplanet direkte er svært på grund af stjernens blændende lys.",
-        "Jordlignende planeter er mellem 100 mio. og 10 mia. gange svagere end deres stjerne.",
-        "Kvantefysik kan hjælpe med at blokere stjernelyset og afsløre planeten.",
-        "Metoden kaldes kvante-begrænset sensing."
-      ],
-      "betydning": "Hvis teknologien lykkes, kan astronomer opdage nye jordlignende planeter, der måske kan have liv – noget, der tidligere var umuligt.",
-      "pointer": [
-        "At se exoplaneter direkte er ekstremt svært.",
-        "Jordlignende planeter er meget svage.",
-        "Kvanteteknik kan løse problemet.",
-        "Metoden kan finde planeter med potentiale for liv."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "NASA Johnson Interns Shaping the Future of Exploration",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/",
-      "dato": "2026-07-30T08:08:55+00:00",
-      "kilde": "NASA",
-      "resume": "NASA interns at Johnson Space Center&#160;are applying their talents to real-world projects while working alongside the engineers, scientists, communicators, and innovators advancing human spaceflight.&#160;Learn how these students are gaining hands-on experience, contributing to real missions, and&#160;preparing&#160;to&#160;join&#160;the nation’s&#160;highly skilled and&#160;competitive&#160;aer",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/dsc03157.jpg?w=1536",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "NASA-praktikanter former fremtidens rumfart",
-      "resume_da": "NASA-praktikanter bidrager til virkelige missioner, fra månebaser til AI-systemer, og får erfaring med avanceret teknologi og kommunikation.",
-      "sektioner": [
-        {
-          "overskrift": "Kommunikation for månebase",
-          "tekst": "Macie Landon bruger design og 3D-modellering til at fortælle historien om NASA's Månebaseprogram. Hun skaber visuelt indhold til offentlighed og interne kommunikation og deltager i arrangementer for at inspirere folk."
-        },
-        {
-          "overskrift": "AI til rummissioner",
-          "tekst": "John Graham Reynolds udvikler generativ AI til NASA's avancerede operationslab. Under Artemis II-missionen hjalp hans AI-ingeniørerne med hurtigt at finde information i tekniske dokumenter."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "Artemis II",
-          "label": "Mission med AI-støtte"
-        }
-      ],
-      "detaljer": [
-        "Macie Landon studerede visualization og fandt vej til NASA via et første internship hos Glenn Research Center.",
-        "John Graham Reynolds arbejdede fire år som ingeniør, før han søgte til NASA for at gøre en større forskel.",
-        "Praktikanterne fremhæver samarbejde og passion som nøglen til innovation."
-      ],
-      "betydning": "Historien viser, at NASA giver unge talenter ansvar og chancen for at bidrage til store projekter, hvilket kan inspirere flere til at vælge STEM-karrierer og styrke Danmarks ruminteresse.",
-      "pointer": [
-        "Praktikanter arbejder på ægte missioner som Artemis II.",
-        "Kreative evner er lige så vigtige som tekniske på NASA.",
-        "Samarbejde er afgørende for innovation.",
-        "NASA praktik giver unik hands-on erfaring."
-      ],
-      "prio": 3
-    },
-    {
-      "titel": "APOD: 2026 July 30 – Red Sun trough Wildfire Smoke",
-      "link": "https://science.nasa.gov/image-article/apod/apod-july-30-red-sun-trough-wildfire-smoke/",
-      "dato": "2026-07-30T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 July 30 – Red Sun… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Red [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/red_sun.jpg?w=3000&#038;h=2000&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A deep red sun shows several sunspots. Clouds and haze are visible.",
-      "kategori": "Rumvejr",
-      "rubrik": "Rød sol over Canada på grund af skovbrandsrøg",
-      "resume_da": "Et billede fra 22. juli 2026 viser en rød sol over British Columbia, forårsaget af skovbrandsrøg fra Stillehavsområdet.",
-      "sektioner": [
-        {
-          "overskrift": "Billede af rød sol",
-          "tekst": "Astronomy Picture of the Day viser et billede taget den **22. juli 2026** i Okanagan-regionen i British Columbia, Canada. Røg fra skovbrande fungerede som et solfilter og gjorde solen rød."
-        },
-        {
-          "overskrift": "Synlige solpletter",
-          "tekst": "Flere solpletter er synlige på billedet, herunder **AR 4493**, en hurtigt udviklende, kæmpe aktiv solregion. Røgpartikler spreder blåt lys, så solen ser dæmpet og rød ud."
-        },
-        {
-          "overskrift": "Fremtidig rød sol",
-          "tekst": "Om cirka **6 milliarder år** vil solen naturligt blive rød, når den går ind i sin røde kæmpe-fase. Solnedgange og solopgange kan også blive mere farverige på grund af røg."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "22. juli 2026",
-          "label": "Dato for billedet"
-        },
-        {
-          "tal": "6 milliarder år",
-          "label": "Tid til rød kæmpe-fase"
-        }
-      ],
-      "detaljer": [
-        "Billedet er taget i Okanagan-regionen, British Columbia, Canada.",
-        "Skovbrandsrøg fra Pacific Northwest fungerede som solfilter.",
-        "Solen ser rød og dæmpet ud på grund af partiklernes spredning af blåt lys.",
-        "Solplet AR 4493 er en stor, aktiv solregion, der udvikler sig hurtigt.",
-        "Det er aldrig sikkert at stirre direkte på solen."
-      ],
-      "betydning": "Billedet viser, hvordan naturfænomener som skovbrande kan påvirke vores udsyn til solen, og minder om solens langsigtede udvikling.",
-      "pointer": [
-        "Røg gør solen rød og dæmpet",
-        "Synlige solpletter på billedet",
-        "Solen bliver naturligt rød om 6 milliarder år",
-        "Taget i Canada under skovbrandssæson"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "APOD: July 30 – Red Sun trough Wildfire Smoke",
-      "link": "https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke/",
-      "dato": "2026-07-30T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: July 30 – Red Sun… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Red Sun [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/red_sun.jpg?w=3000&#038;h=2000&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A deep red sun shows several sunspots. Clouds and haze are visible.",
-      "kategori": "Rumvejr",
-      "rubrik": "Rød sol set gennem røg fra skovbrande",
-      "resume_da": "Billede fra Canada viser solen som rød skive på grund af røg fra skovbrande. Flere solpletter er synlige.",
-      "sektioner": [
-        {
-          "overskrift": "Solen set gennem røg",
-          "tekst": "Et foto taget den **22. juli 2026** i britiske Columbia, Canada, viser solen som rød på grund af røg fra skovbrande. Røgpartikler blokerer blåt lys og gør solen mere rød."
-        },
-        {
-          "overskrift": "Solpletter på billedet",
-          "tekst": "På billedet ses flere solpletter. Lige under midten til højre er **AR 4493**, en stor og hurtigt udviklende solpletgruppe."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "22. juli 2026",
-          "label": "dato for billedet"
-        },
-        {
-          "tal": "6 milliarder år",
-          "label": "indtil solen bliver rød kæmpe"
-        }
-      ],
-      "detaljer": [
-        "Billedet er taget i Okanagan-regionen i British Columbia, Canada.",
-        "Røgen fungerer som et solfilter, så man kan fotografere solen direkte.",
-        "Solnedgange og solopgange bliver mere farverige på grund af røgen.",
-        "Om 6 milliarder år vil solen begynde at blive rød som en rød kæmpe."
-      ],
-      "betydning": "Billedet viser, hvordan luftforurening fra skovbrande kan påvirke vores syn af himlen og solen. Det minder os om, at selv små partikler i atmosfæren kan ændre farverne, vi ser.",
-      "pointer": [
-        "Billede taget 22. juli 2026 i Canada.",
-        "Skovbrandsrøg gør solen rød.",
-        "Stor solpletgruppe synlig.",
-        "Solen bliver rød om milliarder af år."
-      ],
-      "prio": 3
     }
   ]
 }
