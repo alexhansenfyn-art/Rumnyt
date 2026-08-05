@@ -1,7 +1,376 @@
 {
-  "opdateret": "2026-08-05T10:12:12.098744+00:00",
+  "opdateret": "2026-08-05T17:14:43.797803+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Capella, Iceye and Umbra win NRO radar-data contracts",
+      "link": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/",
+      "dato": "2026-08-05T17:05:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "SAN FRANCISCO – The National Reconnaissance Office has awarded contracts to Capella Space, Iceye U.S. and Umbra to expand the U.S. government’s use of commercial synthetic aperture radar (SAR). The [&#8230;] The post Capella, Iceye and Umbra win NRO radar-data contracts appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_gen4_iceye_us.jpg?fit=879%2C623&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "NRO giver kontrakter til tre SAR-firmaer",
+      "resume_da": "Det amerikanske efterretningsagentur NRO har hyret Capella, Iceye og Umbra til at levere radarbilleder fra rummet.",
+      "sektioner": [
+        {
+          "overskrift": "Tre firmaer valgt",
+          "tekst": "NRO har givet kontrakter til Capella Space, Iceye U.S. og Umbra. De skal udvide statens brug af kommerciel radar-satellitteknologi (SAR)."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Kontrakterne kommer fra National Reconnaissance Office (NRO).",
+        "De tre firmaer arbejder med syntetisk blænde-radar (SAR)."
+      ],
+      "betydning": "Det viser, at rumdata bliver vigtigere for efterretningstjenester. Det kan øge kvaliteten af overvågning fra rummet.",
+      "pointer": [
+        "NRO hyrer tre rumfirmaer.",
+        "De skal levere radarbilleder.",
+        "Teknologien kaldes SAR.",
+        "Målet er at styrke statens data."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "SpaceX aims to use rockets to quickly transport cargo across the Earth and into orbit",
+      "link": "https://phys.org/news/2026-08-spacex-aims-rockets-quickly-cargo.html",
+      "dato": "2026-08-05T17:00:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "You might think of rockets as powerful vehicles that blast astronaut crews and robotic missions into space. But what if they could be used to send cargo from one side of Earth to the other in a fraction of the time it would take a plane? The company SpaceX recently announced a project that aims to use its rockets to do just that.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2018/rocket.jpg",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "SpaceX vil bruge raketter til hurtig last på Jorden",
+      "resume_da": "SpaceX vil bruge raketter til at flytte last rundt på Jorden på under en time, og samtidig sende den i kredsløb.",
+      "sektioner": [
+        {
+          "overskrift": "Raketter til jordtransport",
+          "tekst": "SpaceX har annonceret et projekt, der skal bruge raketter til at fragte gods fra et sted på Jorden til et andet på under en time. Det er meget hurtigere end fly, der tager flere timer. Raketterne vil også kunne sende lasten videre ud i kredsløb om Jorden."
+        },
+        {
+          "overskrift": "En vision for fremtiden",
+          "tekst": "Projektet er stadig på idéstadiet, og der er ingen konkrete planer eller tidsplan endnu. Men SpaceX ser et stort potentiale i at kombinere hurtig transport på Jorden med adgang til rummet. Virksomheden har tidligere haft succes med at genbruge raketter, hvilket kan gøre det økonomisk muligt."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "SpaceX har annonceret et projekt, der bruger raketter til at flytte last på Jorden.",
+        "Raketterne skal kunne transportere last på under en time.",
+        "Projektet er stadig på idéstadiet."
+      ],
+      "betydning": "Det kan gøre global transport ekstremt hurtig og åbne nye muligheder for kommerciel udnyttelse af rummet.",
+      "pointer": [
+        "Raketter til jordtransport på under en time.",
+        "Kombinerer jordtransport og kredsløb.",
+        "Projektet er på idéstadiet."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon",
+      "link": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/",
+      "dato": "2026-08-05T15:25:27+00:00",
+      "kilde": "NASA",
+      "resume": "Earth and the Martian moon Phobos dance together in a series of images recently acquired by NASA’s Perseverance Mars rover. Earth appears as a point of light in the Martian sky, disappearing behind the crescent of Phobos, the larger of Mars’ two moons. This is the first time humanity has captured from the surface of [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/1-pia26758-figure-a-inset-16x9-1.jpg?w=1024",
+      "billede_alt": "A desolate landscape with a dark horizon sits under a hazy, gray-blue sky. A large rectangular inset in the sky, connected by lines to a smaller rectangle, shows a sequence of five faint crescent shap",
+      "kategori": "Missioner",
+      "rubrik": "Rumsonde ser Jorden forsvinde bag Mars-måne",
+      "resume_da": "NASAs Perseverance-rover har for første gang fra Mars' overflade observeret Jorden passere bag Mars-månen Phobos. Optagelserne blev taget den 2. juli 2026.",
+      "sektioner": [
+        {
+          "overskrift": "Enestående observation",
+          "tekst": "Roverens Mastcam-Z-kamera filmede Jorden som en lys prik, der forsvandt bag Phobos' mørke kant. Det er første gang, mennesker har set dette fra en anden planets overflade. Optagelsen krævede planlægning og held."
+        },
+        {
+          "overskrift": "Phobos og Jorden",
+          "tekst": "Phobos er Mars' største måne, omkring **27 kilometer** bred, og kredser kun **7.800 kilometer** over Mars. Jorden var **314 millioner kilometer** væk, da roveren tog billederne."
+        },
+        {
+          "overskrift": "Hvad er en okkultation?",
+          "tekst": "Når et objekt helt skjuler et andet, kalder astronomer det en okkultation. Det er forskelligt fra en solformørkelse, hvor objekter har samme størrelse på himlen. Perseverance har også set Phobos passere foran Solen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "27 km",
+          "label": "Phobos' bredde"
+        },
+        {
+          "tal": "7.800 km",
+          "label": "Afstand til Mars"
+        },
+        {
+          "tal": "314 mio. km",
+          "label": "Afstand til Jorden"
+        }
+      ],
+      "detaljer": [
+        "Billederne blev taget den 2. juli 2026, på missionens 1907. Mars-dag.",
+        "Optagelserne er en komposit af ni billeder.",
+        "Phobos kredser om Mars tre gange om dagen.",
+        "Roveren står på kanten af Jezero-krateret."
+      ],
+      "betydning": "Det er en historisk milepæl, der viser Jorden fra et andet perspektiv. Det understreger, hvor teknologisk avanceret rumforskning er, og kan inspirere til interesse for Mars og rummet.",
+      "pointer": [
+        "Første observation af Jorden forsvinde bag et objekt fra en anden planet.",
+        "Optaget af Perseverance-roveren på Mars den 2. juli 2026.",
+        "Phobos er en lille, kartoffelformet måne tæt på Mars.",
+        "Jorden var 314 millioner kilometer væk."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Inouye Solar Telescope Sees the Sun Closer Than Ever",
+      "link": "https://skyandtelescope.org/astronomy-news/inouye-solar-telescope-sees-the-sun-closer-than-ever/",
+      "dato": "2026-08-05T15:01:00+00:00",
+      "kilde": "Sky & Telescope",
+      "resume": "Scientists observing the Sun with the Daniel K. Inouye Solar Telescope have caught a wave-like shape that's never been seen on the Sun's visible surface. The post Inouye Solar Telescope Sees the Sun Closer Than Ever appeared first on Sky &amp; Telescope .",
+      "billede": null,
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Nyt teleskop ser ukendt bølgeform på Solen",
+      "resume_da": "Forskere har med det nye Inouye-teleskop observeret en bølgeform på Solens overflade, som aldrig er set før.",
+      "sektioner": [
+        {
+          "overskrift": "Opdagelsen",
+          "tekst": "Med Daniel K. Inouye Solteleskop har forskere set en bølgeform på Solens synlige overflade. Den er aldrig set før. Opdagelsen giver ny viden om Solen."
+        },
+        {
+          "overskrift": "Teleskopets betydning",
+          "tekst": "Teleskopet er det største af sin slags og kan se Solen meget tæt på. Det giver forskerne mulighed for at se detaljer, som tidligere var skjult."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Bølgeformen er observeret på Solens synlige overflade.",
+        "Den er aldrig set før.",
+        "Teleskopet er opkaldt efter Daniel K. Inouye."
+      ],
+      "betydning": "Det giver ny indsigt i Solens aktivitet, som kan påvirke vejr og kommunikation på Jorden.",
+      "pointer": [
+        "Ny bølgeform set på Solen",
+        "Observeret med Inouye-teleskopet",
+        "Aldrig set før",
+        "Giver ny viden om Solen"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Finding room in Starlink’s shadow",
+      "link": "https://spacenews.com/finding-room-in-starlinks-shadow/",
+      "dato": "2026-08-05T15:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Another wave of constellations has staked claims for communications satellites in non-geostationary orbit (NGSO), but what hope do newcomers have alongside the industry’s entrenched, vertically integrated giants? A mix of [&#8230;] The post Finding room in Starlink’s shadow appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Starlink-Mobile.jpg?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Nye satellitkonstellationer i Starlinks skygge",
+      "resume_da": "Flere virksomheder vil opsende kommunikationssatellitter i lavt kredsløb, men de kæmper mod giganter som Starlink. Kan de finde plads?",
+      "sektioner": [
+        {
+          "overskrift": "Nye aktører på banen",
+          "tekst": "En ny bølge af satellitkonstellationer har meldt sig i kapløbet om plads i lavt kredsløb. De håber at kunne tilbyde kommunikationstjenester fra rummet. Men de står over for store udfordringer."
+        },
+        {
+          "overskrift": "Vilkårene for nytilkomne",
+          "tekst": "De etablerede selskaber har enorme fordele. De har mange satellitter i kredsløb og har fuld kontrol over deres systemer. Det gør det svært for nye firmaer at konkurrere på pris og dækning."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Artiklen beskriver en ny bølge af konstellationer i non-geostationær kredsløb (NGSO).",
+        "Nytilkomne står over for vertikalt integrerede giganter som Starlink.",
+        "Artiklen diskuterer mulighederne for nytilkomne i satellitindustrien."
+      ],
+      "betydning": "Det er vigtigt for danskerne, fordi mere konkurrence i rummet kan give bedre og billigere internetforbindelser i fremtiden.",
+      "pointer": [
+        "Nye satellitfirmaer udfordrer Starlink.",
+        "Giganterne har store fordele.",
+        "Spørgsmålet er, om der er plads til flere."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Advanced Mini-laboratories Automate Space Station Research",
+      "link": "https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research/",
+      "dato": "2026-08-05T14:00:00+00:00",
+      "kilde": "NASA",
+      "resume": "The International Space Station hosts hundreds of science experiments at a time. Some experiments can take hours to perform, and researchers need to account for astronauts’ limited time. Fully automated devices, like Redwire’s &#160;ADvanced Space Experiment Processors (ADSEPs), have been designed to conduct more space science with less crew time. Within each ADSEP facility there [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2024/08/iss071e486706.jpg?w=1536",
+      "billede_alt": "NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson swaps out sample processors for the Pharmaceutical In-space Laboratory experiment that is exploring the production and manufacturing of ",
+      "kategori": "Forskning",
+      "rubrik": "Minilaboratorier på rumstationen",
+      "resume_da": "Fuldautomatiske minilaboratorier på ISS udfører mange eksperimenter med minimal astronauttid, bl.a. dyrkning af krystaller til medicin.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er ADSEP?",
+          "tekst": "ADSEP er automatiserede laboratorier på Rumstationen. De har plads til tre-fire små mini-laboratorier, kaldet kassetter. Det betyder, at flere forsøg kan køre samtidig uden at tage meget af astronauternes tid."
+        },
+        {
+          "overskrift": "Krystaller til medicin",
+          "tekst": "Flere forsøg handler om at dyrke krystaller i vægtløs tilstand. Krystallerne kan bruges til at lave ny medicin eller forbedre eksisterende behandlinger. Et forsøg arbejder på at lave medicin mod kræft, der kan tages som pille."
+        },
+        {
+          "overskrift": "Andre eksperimenter",
+          "tekst": "ADSEP bruges også til at studere dyr og celler. I 2021 undersøgte man blæksprutter og deres samspil med bakterier. Resultaterne kan hjælpe astronauter og give viden om lukkede økosystemer."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "3-4",
+          "label": "Kassetter per ADSEP-enhed"
+        },
+        {
+          "tal": "to dusin",
+          "label": "Forsøg siden 2017"
+        },
+        {
+          "tal": "2021",
+          "label": "År for blæksprutteforsøg"
+        }
+      ],
+      "detaljer": [
+        "ADSEP-4 har plads til fire kassetter og kan tage billeder.",
+        "ADSEP-10 krystalliserer molekyler mod kræft.",
+        "ADSEP-15 forbedrer kræftmedicin.",
+        "ADSEP-ICC tester større kassetter til kommerciel produktion.",
+        "ADSEP-UMAMI viste, at mikrober kan reducere stress hos dyr i rummet."
+      ],
+      "betydning": "Forskningen kan føre til bedre medicin mod kræft og andre sygdomme her på Jorden. Den giver også viden, der kan hjælpe astronauter på lange rumrejser.",
+      "pointer": [
+        "Automatisering sparer astronauttid.",
+        "Krystaller dyrket i rummet kan forbedre medicin.",
+        "Forskning omfatter kræft og mikrober.",
+        "Resultater gavner livet på Jorden."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Venus's polygonal plains could point to a watery past",
+      "link": "https://phys.org/news/2026-08-venus-polygonal-plains-watery.html",
+      "dato": "2026-08-05T12:00:09+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Venus may be overwhelmingly inhospitable today, but many planetary scientists believe that it wasn't always this way. Billions of years ago, some observational evidence suggested that our planetary neighbor may have looked far more like Earth, complete with oceans potentially capable of harboring life.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/surface-features-could-1.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Venus' mønstre kan afsløre fortidens have",
+      "resume_da": "Forskere mener, at Venus for milliarder af år siden kan have haft oceaner. Nye mønstre på planetens overflade understøtter denne teori.",
+      "sektioner": [
+        {
+          "overskrift": "Fortidens Venus",
+          "tekst": "Venus er i dag et helt ugæstfrit sted. Men forskere tror, at planeten engang lignede Jorden meget mere. Måske havde den endda oceaner, hvor der kunne være liv."
+        },
+        {
+          "overskrift": "Mønstre i terrænet",
+          "tekst": "Nye observationer viser polygonale mønstre på Venus' overflade. Disse mønstre kan være tegn på, at der engang var vand. Forskere undersøger nu, hvad disse mønstre betyder."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Venus er i dag meget ugæstfri.",
+        "Nogle forskere mener, at Venus for milliarder af år siden lignede Jorden.",
+        "Observationer tyder på, at Venus kan have haft oceaner.",
+        "Polygonale mønstre på overfladen kan være spor fra fortidens vand."
+      ],
+      "betydning": "Forskning i Venus' fortid kan hjælpe os med at forstå, hvordan planeter udvikler sig, og om liv kan opstå andre steder.",
+      "pointer": [
+        "Venus var måske engang som Jorden.",
+        "Oceaner kan have været til stede.",
+        "Mønstre i terrænet giver nye spor.",
+        "Forskere er spændte på at lære mere."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Satellite manufacturing thrives in California despite cost and regulatory pressures",
+      "link": "https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures/",
+      "dato": "2026-08-05T12:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "The mood was celebratory at the ribbon-cutting for Muon Space’s San Jose, California, manufacturing facility in June. State, local, United States Space Force and Pentagon representatives lauded the startup and, [&#8230;] The post Satellite manufacturing thrives in California despite cost and regulatory pressures appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Vast-Gavin-Newsom-010.jpg?fit=1024%2C683&amp;ssl=1",
+      "billede_alt": "California Gov. Gavin Newsom visited Vast Space headquarters in early June with Long Beach Mayor Rex Richardson. From left: Vast CEO Max Haot, Newsom, Vast chief operating officer Kris Young and Richa",
+      "kategori": "Politik & penge",
+      "rubrik": "Kalifornien trives med satellitproduktion trods pres",
+      "resume_da": "Satellitproduktion i Californien er stadig stærk, selv med høje omkostninger og regler. Virksomheder som Muon Space udvider deres faciliteter og skaber arbejdspladser.",
+      "sektioner": [
+        {
+          "overskrift": "Muon Space udvider",
+          "tekst": "Muon Space åbnede en ny fabrik i San Jose med festligheder i juni. Både lokale og føderale repræsentanter roste virksomheden. Fabrikken viser, at satellitindustrien vokser i Californien."
+        },
+        {
+          "overskrift": "Pres på trods af succes",
+          "tekst": "Selvom Californien er et godt sted for satellitproduktion, er der udfordringer. Høje omkostninger og mange regler presser virksomhederne. Alligevel lykkes det dem at trives."
+        },
+        {
+          "overskrift": "Fremtidens rumindustri",
+          "tekst": "Med nye faciliteter og støtte fra myndigheder ser fremtiden lys ud for rumindustrien i Californien. Det skaber arbejdspladser og innovation i staten."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Muon Space har en fabrik i San Jose, Californien.",
+        "Ribbon-cutting fandt sted i juni med deltagelse af lokale og føderale repræsentanter.",
+        "Californien har stadig problemer med omkostninger og reguleringer."
+      ],
+      "betydning": "Artiklen er relevant, fordi den viser, hvordan rumindustrien påvirkes af økonomiske og politiske forhold. Det kan have betydning for danske virksomheder, der samarbejder med USA.",
+      "pointer": [
+        "Satellitproduktion trives i Californien.",
+        "Muon Space åbner ny fabrik i San Jose.",
+        "Omkostninger og reguleringer er udfordringer.",
+        "Myndigheder støtter industrien."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Heading to Europe or the U.K. for the Aug. 12 solar eclipse? Best eclipse glasses to buy before you leave — or after you arrive",
+      "link": "https://www.space.com/stargazing/skywatching-kit/heading-to-europe-or-the-u-k-for-the-aug-12-solar-eclipse-best-eclipse-glasses-to-buy-before-you-leave-or-after-you-arrive",
+      "dato": "2026-08-05T10:20:07+00:00",
+      "kilde": "Space.com",
+      "resume": "We've rounded up the best solar eclipse glasses so you can watch safely from wherever you are.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/ZRobUvrquceymTStKgUruF-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Køb solformørkelsesbriller før rejsen til Europa",
+      "resume_da": "Den 12. august er der solformørkelse i Europa og Storbritannien. Her er tips til at købe godkendte formørkelsesbriller, før du tager af sted.",
+      "sektioner": [
+        {
+          "overskrift": "Vigtigheden af korrekte briller",
+          "tekst": "Du må aldrig se direkte på solen uden godkendte briller. Almindelige solbriller beskytter ikke nok og kan skade øjnene. Køb briller med CE-mærket eller ISO 12312-2-standarden."
+        },
+        {
+          "overskrift": "Hvor kan du købe dem",
+          "tekst": "Du kan købe formørkelsesbriller online hos anerkendte forhandlere. Det er bedst at bestille dem, før du rejser, så du er sikker på at have dem med. I Europa kan du også købe dem hos lokale planetarier og videnskabscentre."
+        },
+        {
+          "overskrift": "Tjek brillerne",
+          "tekst": "Undersøg brillerne for ridser eller skader, før du bruger dem. Brug kun briller, der er godkendt af relevante myndigheder. Følg altid producentens anvisninger."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. august",
+          "label": "Dato for solformørkelsen"
+        }
+      ],
+      "detaljer": [
+        "Solformørkelsen er den 12. august.",
+        "Man skal bruge godkendte briller for at se den.",
+        "CE-mærket og ISO 12312-2 er vigtige standarder.",
+        "Køb brillerne hjemmefra for at være sikker."
+      ],
+      "betydning": "For danskere, der rejser til Europa eller Storbritannien, er det vigtigt at have korrekte briller for at opleve solformørkelsen sikkert uden at skade øjnene.",
+      "pointer": [
+        "Køb godkendte formørkelsesbriller.",
+        "Sørg for CE-mærke eller ISO-standard.",
+        "Tjek brillerne for skader før brug.",
+        "Bestil dem før afrejse."
+      ],
+      "prio": 5
+    },
     {
       "titel": "Total solar eclipse: how to watch live from home",
       "link": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
@@ -119,6 +488,110 @@
         "Fokus på forsvar i rummet"
       ],
       "prio": 5
+    },
+    {
+      "titel": "APOD: 2026 August 5 – Spokes on Saturn’s B Ring",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-5-spokes-on-saturns-b-ring/",
+      "dato": "2026-08-05T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APODScienceAPODAPOD: 2026 August 5 – Spokes…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Brad Croslin Spokes on Saturn&#8217;s B Ring Explanation: Don’t get spooked ",
+      "billede": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/august/saturn_spokes.gif?w=1133&#038;h=716&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A large gaseous planet surrounded by a large ring of material (actually multiple rings). The planet and its rings are rotating. A dark shadow appears at the left side of one of the rings and disappear",
+      "kategori": "Astronomi",
+      "rubrik": "Saturns rings skyggespil i ny timelapse",
+      "resume_da": "Astronomiens daglige billede viser en timelapse af Saturns ringe, hvor skyggelignende 'spokes' dukker op og forsvinder. Fænomenet varierer med årstiderne og er stadig en gåde.",
+      "sektioner": [
+        {
+          "overskrift": "Timelapse af Saturn",
+          "tekst": "Dagens billede fra NASA er en næsten to timer lang timelapse af Saturn og dens ringe. Da et døgn på Saturn kun varer **10 timer**, dækker optagelsen en stor del af planetens rotation. Man kan se en skyggelignende plet, der kommer og går på B-ringen."
+        },
+        {
+          "overskrift": "Observationer gennem årtier",
+          "tekst": "Rumsonder som Voyager 2, Cassini og Hubble har fulgt disse 'spokes' i årtier. Deres udseende skifter med Saturns årstider, ligesom Jordens årstider, fordi planetens akse er vippet. Ved jævndøgn får ringene mere jævn sollys og solvind."
+        },
+        {
+          "overskrift": "Oprindelse er usikker",
+          "tekst": "Forskere mener, at spokes kan være skygger eller refleksioner fra støv og is, der svæver over ringene. Elektromagnetiske vekselvirkninger mellem solvinden og Saturns magnetfelt kan få partiklerne til at løfte sig. Men oprindelsen er stadig ikke fuldt forstået."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "10 timer",
+          "label": "Længden af et døgn på Saturn"
+        },
+        {
+          "tal": "2 timer",
+          "label": "Varighed af timelapsen"
+        }
+      ],
+      "detaljer": [
+        "Timelapsen viser ringene i både fremad og baglæns bevægelse.",
+        "Observationer fra Voyager 2, Cassini og Hubble viser, at spokes varierer med årstiderne.",
+        "Saturns akse er vippet, ligesom Jordens, hvilket giver årstider.",
+        "Spokes kan skyldes elektromagnetiske effekter mellem solvind og magnetfelt."
+      ],
+      "betydning": "Historien giver et fascinerende indblik i Saturns komplekse ringe og årstider, og minder os om, at rummet stadig rummer mange mysterier. Det kan også inspirere til at kigge op og opleve astronomiske fænomener som Perseiderne.",
+      "pointer": [
+        "Saturns ringe viser skyggelignende spokes i timelapse.",
+        "Fænomenet varierer med årstiderne.",
+        "Oprindelsen er stadig uklar.",
+        "NASA opfordrer til at se Perseiderne i august."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "The Paradox of Lençóis Maranhenses National Park",
+      "link": "https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/",
+      "dato": "2026-08-05T04:01:00+00:00",
+      "kilde": "NASA",
+      "resume": "The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-paradox-of-lençóis-maranhenses-national-park/brazillencois_oli_20260608.jpg?w=2160&#038;h=1413&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "Bright white sand dunes stretch for dozens of kilometers between the dark blue Atlantic Ocean and green coastal vegetation. Blue and green freshwater lagoons fill low areas between the dunes, while da",
+      "kategori": "Forskning",
+      "rubrik": "Brasiliens 'ørken' med laguner",
+      "resume_da": "Lençóis Maranhenses er en nationalpark i Brasilien, hvor hvide sandklitter møder ferskvandslaguner. På trods af ørkentræk regner det mere end i London.",
+      "sektioner": [
+        {
+          "overskrift": "En paradoksal naturtype",
+          "tekst": "Parken ligner en ørken, men får omkring **125 centimeter** regn om året. Det er mere end i Seattle og dobbelt så meget som i London. Derfor er der blå og grønne laguner mellem de hvide kvartsklitter."
+        },
+        {
+          "overskrift": "Dannelsen af klitterne",
+          "tekst": "Klitterne findes på grund af en sjælden kombination af geologi og klima. Floder fører kvartssand til en flad kyststrækning, og vinden former sandet til klitter, der kan blive **30 meter** høje. Vinden flytter klitterne op til **25 meter** om året."
+        },
+        {
+          "overskrift": "Dyrelivet i lagunerne",
+          "tekst": "Når lagunerne tørrer ud om vinteren, overlever fisk som trahira ved at grave sig ned i sandet. Parken er hjem for over **850** dokumenterede arter, herunder flere truede dyr. UNESCO erklærede parken som verdensarv i 2024."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "125 cm",
+          "label": "Årlig nedbør i parken"
+        },
+        {
+          "tal": "30 m",
+          "label": "Højden af klitterne"
+        },
+        {
+          "tal": "850+",
+          "label": "Antal dokumenterede arter"
+        }
+      ],
+      "detaljer": [
+        "Klitterne dækker ca. 900 kvadratkilometer.",
+        "Vandet i lagunerne varierer i farve afhængig af dybde og indhold.",
+        "Vindhastigheder på 50 km/t er almindelige i tørsæsonen.",
+        "Klitterne har rykket sig 0,5 km mod vest mellem 1986 og 2026."
+      ],
+      "betydning": "Historien viser, hvordan unikke økosystemer kan eksistere på trods af tilsyneladende modsætningsfyldte forhold. Det minder os om vigtigheden af at beskytte biodiversitet og naturarv.",
+      "pointer": [
+        "Parken ligner en ørken, men er meget våd.",
+        "Klitterne dannes af vind og sand fra floder.",
+        "Lagunerne tørrer ud og bliver til vand igen.",
+        "Området er hjem for mange truede arter."
+      ],
+      "prio": 6
     },
     {
       "titel": "Voyager seeks relaxed requirements in NASA commercial space station RFP",
@@ -3935,451 +4408,6 @@
         "Varmestøj har været en begrænsning.",
         "Et termisk kamera kan fordoble rækkevidden.",
         "Løsningen er enkel og billig."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Students Take on Airborne Field Research with NASA",
-      "link": "https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/",
-      "dato": "2026-07-30T20:36:56+00:00",
-      "kilde": "NASA",
-      "resume": "The gusty wind didn’t make it easy to hold tight to a balloon so large. The balloon, a scientific instrument called an ozonesonde, was about to be released into the atmosphere above the Texas Gulf Coast by students from NASA’s SARP (Student Airborne Research Program), which concluded its summer session July 27. The balloon’s job […]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/balloon%20inflating%206.jpeg?w=3024&#038;h=4032&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "The center of the image shows a large white balloon. Beneath the balloon are five people in a circle, gently holding at the bottom of the balloon to keep it upright. In the background of the image, ot",
-      "kategori": "Forskning",
-      "rubrik": "Studerende sender vejrballoner op med NASA",
-      "resume_da": "NASA's sommerprogram SARP gav studerende mulighed for at sende ozonsonder op i atmosfæren og måle ozonkoncentrationer. Programmet sluttede 27. juli.",
-      "sektioner": [
-        {
-          "overskrift": "Ballonopsendelse og målinger",
-          "tekst": "Studerende fra NASA's SARP-program sendte en ozonsonde op med en heliumfyldt vejrballon ved Texas Gulf Coast. Ballonen målte ozonkoncentrationer undervejs. De overvågede dataene i realtid."
-        },
-        {
-          "overskrift": "Fem fly støttede programmet",
-          "tekst": "Fem forskningsfly, herunder NASA's Gulfstream G-III, GV og C-20A, støttede programmet. Studerende arbejdede med instrumenter som en laser til måling af partikler i atmosfæren."
-        },
-        {
-          "overskrift": "Karriereforløb og erfaring",
-          "tekst": "Programmet gav **48** bachelorstuderende praktisk erfaring inden for jordsystemvidenskab. De arbejdede i fire discipliner: atmosfære, oceaner, økologi og hydrologi. Mange oplevede feltarbejde for første gang."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "48",
-          "label": "antal studerende"
-        }
-      ],
-      "detaljer": [
-        "Programmet varede otte uger.",
-        "Studerende krydstjekkede målinger med NASA-satellitter.",
-        "To grupper fortsatte i Californien og Virginia efter to uger.",
-        "Programmet er designet som et springbræt til STEM-karrierer."
-      ],
-      "betydning": "Programmet viser, hvordan unge forskere får mulighed for at arbejde med avanceret måleudstyr og bidrage til klimaforskning, hvilket kan inspirere danske studerende og forskere.",
-      "pointer": [
-        "Studerende sendte ozonsonder op med vejrballoner.",
-        "Ozonmålinger fra balloner og fly",
-        "Fem fly støttede programmet",
-        "Årligt program med praktisk forskning"
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "K2 Space raises $500 million for commercial, defense satellite expansion",
-      "link": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/",
-      "dato": "2026-07-30T18:42:21+00:00",
-      "kilde": "SpaceNews",
-      "resume": "The Series D more than doubles the satellite manufacturer’s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year The post K2 Space raises $500 million for commercial, defense satellite expansion appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/1784647241166.jpeg?fit=1024%2C683&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "K2 Space henter 500 mio. dollars til satellitproduktion",
-      "resume_da": "Satellitproducenten K2 Space har rejst 500 millioner dollars i serie D-finansiering, hvilket mere end fordobler virksomhedens værdiansættelse.",
-      "sektioner": [
-        {
-          "overskrift": "Stor finansieringsrunde",
-          "tekst": "K2 Space har rejst **500 millioner dollars** i en serie D-investering. Det mere end fordobler virksomhedens værdiansættelse på kun syv måneder."
-        },
-        {
-          "overskrift": "Planer for produktion",
-          "tekst": "Pengene skal bruges til at opskalere produktionen. Målet er at kunne fremstille op til **100 store rumfartøjer om året**."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "500 millioner dollars",
-          "label": "Investeringsbeløb"
-        },
-        {
-          "tal": "100 rumfartøjer om året",
-          "label": "Produktionsmål"
-        }
-      ],
-      "detaljer": [
-        "Serie D-runde på 500 millioner dollars",
-        "Værdiansættelse fordoblet på syv måneder",
-        "Midler til at øge produktionen af store satellitter"
-      ],
-      "betydning": "Investeringen viser, at private virksomheder satser massivt på satellitproduktion, hvilket kan føre til flere og billigere satellitbaserede tjenester.",
-      "pointer": [
-        "K2 Space får 500 mio. dollars i ny investering",
-        "Værdiansættelse mere end fordoblet",
-        "Skal producere op til 100 store satellitter om året",
-        "Penge fra serie D-runde"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Ancient stardust grains were seeds for the earliest solids in the solar system",
-      "link": "https://phys.org/news/2026-07-ancient-stardust-grains-seeds-earliest.html",
-      "dato": "2026-07-30T18:40:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "How did the first solids that made up planets, moons and asteroids form from the \"hot soup\" that characterized our solar system's earliest years? New research from Caltech analyzing pieces of a meteorite has found that, just as snowflakes crystallize around grains of dust, ancient stardust grains left over from long-gone suns may have been the seeds of our solar system's earliest solids.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-stardust-were.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Stjernestøv var frø til solsystemets første faste stoffer",
-      "resume_da": "Ny forskning viser, at ældgammelt stjernestøv fra døde stjerner fungerede som kerner, omkring hvilke de første faste stoffer i solsystemet dannede sig.",
-      "sektioner": [
-        {
-          "overskrift": "Meteorit afslører oprindelse",
-          "tekst": "Forskere fra Caltech har analyseret stykker af en meteorit. De fandt, at ældgammelt stjernestøv fra uddøde sole fungerede som kerner. Omkring disse kerner dannede de første faste stoffer i solsystemet sig."
-        },
-        {
-          "overskrift": "Analogien med snefnug",
-          "tekst": "Processen minder om, hvordan snefnug krystalliserer omkring støvkorn. Det ældgamle stjernestøv var altså frøene, der satte gang i dannelsen af planeter, måner og asteroider."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Forskningen er udført på Caltech.",
-        "Analysen blev gjort på stykker af en meteorit.",
-        "Stjernestøvet er tilbage fra tidligere sole, der længe er forsvundet."
-      ],
-      "betydning": "For en almindelig dansker viser forskningen, hvordan vores solsystem blev til – fra støv fra døde stjerner til de planeter, vi kender i dag.",
-      "pointer": [
-        "Ældgammelt stjernestøv var kernen i de første faste stoffer.",
-        "Analogi: som snefnug omkring støvkorn.",
-        "Fundet er baseret på meteoritanalyse fra Caltech."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Jim Bridenstine on his new role at Quantum Space",
-      "link": "https://spacenews.com/jim-bridenstine-on-his-new-role-at-quantum-space/",
-      "dato": "2026-07-30T17:47:51+00:00",
-      "kilde": "SpaceNews",
-      "resume": "In this episode, David Ariosto speaks with former NASA Administrator Jim Bridenstine, who is now the CEO of Quantum Space. Bridenstine talks about the strategic shift to proliferation in low [&#8230;] The post Jim Bridenstine on his new role at Quantum Space appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/space-minds-podcast-bridenstine-quantum-space-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Jim Bridenstine bliver CEO for Quantum Space",
-      "resume_da": "Den tidligere NASA-chef Jim Bridenstine er ny direktør for rumvirksomheden Quantum Space. Han taler om skiftet mod flere satellitter i lavt kredsløb.",
-      "sektioner": [
-        {
-          "overskrift": "Ny rolle for Bridenstine",
-          "tekst": "Jim Bridenstine, tidligere chef for NASA, er nu CEO for Quantum Space. Det er et privat rumfirma med fokus på nye teknologier."
-        },
-        {
-          "overskrift": "Strategisk skift i rummet",
-          "tekst": "Bridenstine fremhæver en strategisk ændring mod flere satellitter i lavt jordkredsløb. Det kan gøre rummet mere tilgængeligt og effektivt."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Jim Bridenstine var NASA-administrator fra 2018 til januar 2021.",
-        "Quantum Space er et privat rumfirma.",
-        "Bridenstine taler om proliferation, altså opsendelse af mange flere satellitter."
-      ],
-      "betydning": "Skiftet til flere satellitter i lavt kredsløb kan betyde bedre internet, overvågning og rumforskning til gavn for alle.",
-      "pointer": [
-        "Tidligere NASA-chef bliver direktør for Quantum Space.",
-        "Fokus på flere satellitter i lavt kredsløb.",
-        "Privat rumfirma får ny ledelse."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "NASA Assigns Astronaut Deniz Burnham to First Space Station Mission",
-      "link": "https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/",
-      "dato": "2026-07-30T16:11:41+00:00",
-      "kilde": "NASA",
-      "resume": "NASA astronaut Deniz Burnham will embark on her first mission to the International Space Station, serving as an Expedition 76 flight engineer. Burnham will launch aboard the Roscosmos Soyuz MS-30 spacecraft with cosmonauts Dmitri Petelin and Konstantin Borisov. Launch is targeted for March 2027, from the Baikonur Cosmodrome in Kazakhstan, and the trio will spend [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/burnham.jpg?w=1365",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "NASA-astronaut får plads på ISS-mission i 2027",
-      "resume_da": "Deniz Burnham skal til Den Internationale Rumstation som flyingeniør. Hun sendes afsted i marts 2027.",
-      "sektioner": [
-        {
-          "overskrift": "Missionens detaljer",
-          "tekst": "Astronaut Deniz Burnham flyver med russiske kosmonauter om bord på Soyuz MS-30. Opsendelsen sker fra Baikonur i Kasakhstan i marts **2027**. Holdet skal være på ISS i omkring **syv måneder**."
-        },
-        {
-          "overskrift": "Burnhams baggrund",
-          "tekst": "Burnham blev NASA-astronaut i **2021** og tog eksamen i **2024**. Hun har en bachelor i kemiteknik og en master i maskinteknik. Før NASA arbejdede hun i energibranchen og styrede boreoperationer fra olieplatforme i Nordamerika."
-        },
-        {
-          "overskrift": "Forskning på ISS",
-          "tekst": "På ISS skal Burnham lave videnskabelige forsøg og teknologitest. Målet er at forberede mennesker til missioner til Månen og Mars og samtidig gavne livet på Jorden."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2027",
-          "label": "Opsendelsesår"
-        },
-        {
-          "tal": "7 måneder",
-          "label": "Opholdets varighed"
-        },
-        {
-          "tal": "2021",
-          "label": "Udvalgt som astronaut"
-        }
-      ],
-      "detaljer": [
-        "Deniz Burnham er født på Incirlik Air Base i Tyrkiet.",
-        "Hun boede i Wasilla, Alaska, da hun blev udvalgt.",
-        "Hun har været praktikant hos NASA Ames Research Center.",
-        "Hun er uddannet kemiingeniør og maskiningeniør.",
-        "Hun har over ti års erfaring fra oliebranchen.",
-        "Hun tjente i U.S. Navy Reserves som ingeniørofficer."
-      ],
-      "betydning": "Missionen viser, at NASA fortsætter med at sende nye astronauter til ISS for at forberede fremtidige rejser til Månen og Mars.",
-      "pointer": [
-        "NASA-astronaut Deniz Burnham på første ISS-mission i 2027.",
-        "Hun rejser med russisk Soyuz-raket fra Kasakhstan.",
-        "Opholdet varer syv måneder.",
-        "Hun skal udføre forsøg for fremtidig rumfart."
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "Scientists advance space agriculture for future moon and Mars missions",
-      "link": "https://phys.org/news/2026-07-scientists-advance-space-agriculture-future.html",
-      "dato": "2026-07-30T16:00:05+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Space isn't known for rich soil or ideal agricultural conditions anywhere in the solar system. Yet amid extreme temperatures and vast distances, multidisciplinary teams at USF's Aerospace: Science, Technology, Research and Applications Center (ASTRA) are collaborating on sustainable space agriculture projects with potential applications back on Earth.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/usf-scientists-advance.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Forskere udvikler rum-landbrug til Månen og Mars",
-      "resume_da": "Forskere arbejder på bæredygtigt landbrug i rummet, som også kan bruges på Jorden.",
-      "sektioner": [
-        {
-          "overskrift": "Udfordringer i rummet",
-          "tekst": "Rummet har ikke rig jord eller ideelle forhold for landbrug. Men forskere ved USF's ASTRA-center samarbejder om bæredygtige projekter."
-        },
-        {
-          "overskrift": "Potentielle jordiske fordele",
-          "tekst": "Teknologierne kan måske også anvendes på Jorden, hvor landbrug står over for udfordringer som klimaforandringer."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Forskere ved ASTRA-centret arbejder på tværfaglige projekter for at dyrke planter i rummet under ekstreme forhold."
-      ],
-      "betydning": "For almindelige danskere er det relevant, fordi teknologier udviklet til rum-landbrug kan forbedre fødevareproduktionen på Jorden.",
-      "pointer": [
-        "Rum-landbrug er en udfordring på grund af manglende jord og ekstreme temperaturer.",
-        "Forskere samarbejder tværfagligt om at løse problemet.",
-        "Løsningerne kan også gavne landbrug på Jorden.",
-        "Målet er at gøre langvarige rummissioner mere selvforsynende."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Tracking satellites and space debris using radio antennae",
-      "link": "https://phys.org/news/2026-07-tracking-satellites-space-debris-radio.html",
-      "dato": "2026-07-30T15:20:04+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Every year, thousands of satellites are launched into orbit around our planet. The result is an increasingly congested \"space\" above Earth populated by equipment that provides services to the surface. At the same time, these satellites affect ground-based astronomy and create the potential for damage when they eventually fall through Earth's atmosphere to the surface. In addition, near-Earth space",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/tracking-satellites-an.jpg",
-      "billede_alt": "",
-      "kategori": "Satellitter",
-      "rubrik": "Radar sporer satellitter og rumaffald",
-      "resume_da": "Med tusindvis af nye satellitter om året bliver rummet over Jorden mere og mere overfyldt. Radioantenner bruges til at spore satellitter og rumaffald.",
-      "sektioner": [
-        {
-          "overskrift": "Overfyldt rum",
-          "tekst": "Hvert år sendes tusindvis af satellitter i kredsløb om Jorden. Det gør rummet mere og mere overfyldt."
-        },
-        {
-          "overskrift": "Problemer med affald",
-          "tekst": "Rumaffald omfatter gamle raketdele og efterladte genstande som kameraer og handsker. Affaldet kan skade aktive satellitter og true astronomi."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Satellitter påvirker astronomi på Jorden",
-        "Rumaffald vil til sidst falde ned gennem atmosfæren"
-      ],
-      "betydning": "Rumaffald kan true vigtige satellitter, vi er afhængige af til kommunikation, vejr og navigation.",
-      "pointer": [
-        "Tusindvis af nye satellitter hvert år",
-        "Rummet bliver overfyldt",
-        "Affald truer satellitter og astronomi",
-        "Radioantenner bruges til sporing"
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Starburst Galaxy Centaurus A",
-      "link": "https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/",
-      "dato": "2026-07-30T14:24:08+00:00",
-      "kilde": "NASA",
-      "resume": "In this July 6, 2026, image, NASA’s James Webb Space Telescope’s Mid-Infrared Instrument (MIRI) reveals the nearby galaxy Centaurus A, exposing the dusty structures and hidden activity that shape this unusual system. Centaurus A is 11 million light-years away from Earth, relatively close in cosmic terms. Yet, unlike most nearby galaxies, it is very active, [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/stsci-01kvt4gqmq5mxv6xdpfpzmxg65-30d932.png?w=2048",
-      "billede_alt": "The mid-infrared view of Centaurus A from NASA’s James Webb Space Telescope reveals dusty structures and hidden activity within the nearby, active galaxy.",
-      "kategori": "Astronomi",
-      "rubrik": "Webb afslører støv i Centaurus A",
-      "resume_da": "James Webb-rumteleskopet har taget et nyt billede af den aktive galakse Centaurus A, der viser detaljerede støvstrukturer og sort hul-aktivitet.",
-      "sektioner": [
-        {
-          "overskrift": "Nyt billede fra Webb",
-          "tekst": "Den 6. juli 2026 tog James Webb-rumteleskopets MIRI-instrument et billede af Centaurus A. Billedet afslører støv og skjult aktivitet i galaksen."
-        },
-        {
-          "overskrift": "Tæt og aktiv galakse",
-          "tekst": "Centaurus A er **11 millioner lysår** væk, hvilket er tæt på i kosmisk målestok. I modsætning til de fleste nærliggende galakser er den meget aktiv."
-        },
-        {
-          "overskrift": "Laboratorium for galakseudvikling",
-          "tekst": "Galaksen er et vigtigt laboratorium til at forstå, hvordan galakser og sorte huller vokser og udvikler sig sammen."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "11 millioner lysår",
-          "label": "Afstand til Jorden"
-        }
-      ],
-      "detaljer": [
-        "Billedet er taget af James Webb-rumteleskopets MIRI-instrument.",
-        "Centaurus A er usædvanlig aktiv sammenlignet med andre nærliggende galakser.",
-        "Galaksen giver indsigt i samspillet mellem galakser og sorte huller."
-      ],
-      "betydning": "Billedet hjælper forskere med at forstå, hvordan aktive galakser og sorte huller udvikler sig, hvilket har betydning for vores viden om universets udvikling.",
-      "pointer": [
-        "Webb har fotograferet Centaurus A i infrarødt lys.",
-        "Galaksen er kun 11 millioner lysår væk.",
-        "Den er usædvanlig aktiv.",
-        "Studiet gavner forståelsen af galakseudvikling."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Neptune's inner moons may be shattered remains of ancient icy worlds",
-      "link": "https://phys.org/news/2026-07-neptune-moons-shattered-ancient-icy.html",
-      "dato": "2026-07-30T14:00:06+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "In 1989, the Voyager 2 mission discovered six new moons orbiting Neptune, including five tiny ones that orbit just outside the planet's main rings. Because of their small sizes and locations, these satellites have been difficult to study from Earth. Now, using NASA's James Webb Space Telescope (JWST), a team of Caltech researchers has observed Neptune's rings and three of those moons—Larissa, Gala",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/neptunes-inner-moons-m.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Neptuns indre måner: knuste rester af isverdener",
-      "resume_da": "JWST har set, at tre af Neptuns små måner består af is og organisk materiale, hvilket gør dem unikke i det ydre solsystem. Resultaterne peger på, at månerne måske er rester af kæmpekollisioner.",
-      "sektioner": [
-        {
-          "overskrift": "Opdagelse med JWST",
-          "tekst": "Forskere fra Caltech har brugt James Webb-rumteleskopet til at observere tre af Neptuns indre måner: Larissa, Galatea og Proteus. De fandt, at månerne har en unik sammensætning, der adskiller sig fra andre himmellegemer i det ydre solsystem."
-        },
-        {
-          "overskrift": "Unik sammensætning",
-          "tekst": "Månerne består af is og organisk materiale. Det tyder på, at de er rester af større isverdener, der blev knust i kollisioner. Tidligere troede man, at de var opsamlet fra ringene."
-        },
-        {
-          "overskrift": "Fem små måner",
-          "tekst": "Voyager **2** opdagede seks nye måner omkring Neptun i **1989**. Fem af dem er små og kredser lige uden for planetens hovedringe. På grund af deres størrelse og afstand har de været svære at studere fra Jorden."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1989",
-          "label": "Voyager 2 opdagede månerne"
-        },
-        {
-          "tal": "3",
-          "label": "måner observeret med JWST"
-        }
-      ],
-      "detaljer": [
-        "De tre observerede måner hedder Larissa, Galatea og Proteus.",
-        "Sammensætningen er unik blandt objekter i det ydre solsystem.",
-        "Månerne består af is og organisk materiale."
-      ],
-      "betydning": "Forskningen giver ny viden om, hvordan planetsystemer dannes og udvikler sig. Det kan hjælpe os med at forstå historien om vores eget solsystem.",
-      "pointer": [
-        "JWST afslører Neptuns måners iskolde oprindelse.",
-        "Månerne kan være rester efter gigantiske kollisioner.",
-        "Fundet ændrer vores billede af Neptuns månesystem."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "'Strange New Worlds'' latest episode is more 'Event Horizon' than classic Trek",
-      "link": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-episode-is-more-event-horizon-than-classic-trek",
-      "dato": "2026-07-30T13:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "From psychological horror to vampires and zombies, \"Trek\"'s writers have always enjoyed delivering the scares.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/2nrvqaESbrTdSdZh5LrMEZ-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "TV-anmeldelse: Strange New Worlds minder om Event Horizon",
-      "resume_da": "Et afsnit af Star Trek: Strange New Worlds sammenlignes med gyserfilmen Event Horizon. Anmelderen er begejstret.",
-      "sektioner": [
-        {
-          "overskrift": "Anmelderens baggrund",
-          "tekst": "Anmelderen har elsket rumfart siden han så Star Wars som fireårig. Han har skrevet om sci-fi i mange år for magasiner som SFX og Total Film."
-        },
-        {
-          "overskrift": "Sammenligning med Event Horizon",
-          "tekst": "Det seneste afsnit af Strange New Worlds beskrives som mere Event Horizon end klassisk Star Trek. Det er en overraskende drejning mod gyser."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [],
-      "betydning": "For danske sci-fi-fans viser det, at moderne Star Trek tør eksperimentere med genrer og overraske publikum.",
-      "pointer": [
-        "Afsnittet sammenlignes med gyserfilmen Event Horizon.",
-        "Anmelderen har lang erfaring med sci-fi-journalistik.",
-        "Star Trek: Strange New Worlds tør bryde med traditionerne."
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "Wandering Supermassive Black Hole Found at the Edge of its Galaxy",
-      "link": "https://skyandtelescope.org/astronomy-news/wandering-supermassive-black-hole-found-at-the-edge-of-its-galaxy/",
-      "dato": "2026-07-30T12:00:00+00:00",
-      "kilde": "Sky & Telescope",
-      "resume": "Astronomers have long thought supermassive black holes can escape their home galaxies — now they've found one roaming its host's galactic outskirts. The post Wandering Supermassive Black Hole Found at the Edge of its Galaxy appeared first on Sky &amp; Telescope .",
-      "billede": null,
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Forskere finder vandrende sort hul i galakse",
-      "resume_da": "Et supermassivt sort hul er opdaget på flugt i udkanten af sin galakse. Det bekræfter teori om, at sorte huller kan forlade deres hjemmegalakser.",
-      "sektioner": [
-        {
-          "overskrift": "Opdagelsen af det sorte hul",
-          "tekst": "Astronomer har længe troet, at supermassive sorte huller kan undslippe deres hjemmegalakser. Nu har de for første gang fundet et sort hul, der bevæger sig i udkanten af sin galakse."
-        },
-        {
-          "overskrift": "Betydning for astronomien",
-          "tekst": "Fundet bekræfter eksisterende teorier om sorte hullers dannelse og bevægelse. Det kan ændre vores forståelse af galakseudvikling og sorte hullers rolle i universet."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Det sorte hul befinder sig i udkanten af sin galakse.",
-        "Det er et supermassivt sort hul.",
-        "Fundet er det første af sin slags."
-      ],
-      "betydning": "Opdagelsen hjælper forskere med at forstå, hvordan sorte huller og galakser udvikler sig, hvilket kan give ny viden om universets historie.",
-      "pointer": [
-        "Første observation af vandrende sort hul",
-        "Bekræfter teori om sorte hullers flugt",
-        "Kan påvirke forståelse af galakseudvikling"
       ],
       "prio": 7
     }
