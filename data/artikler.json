@@ -1,7 +1,112 @@
 {
-  "opdateret": "2026-08-05T22:19:08.339866+00:00",
+  "opdateret": "2026-08-06T10:15:02.971053+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Webb opens a Treasure Chest filled with stars",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
+      "dato": "2026-08-06T08:00:00+00:00",
+      "kilde": "ESA",
+      "resume": "Image: This NASA/ESA/CSA James Webb Space Telescope Picture of the Month takes us to a fantastical realm within our home galaxy , where piercing starlight and billowing winds sculpt dust clouds into inventive shapes. This scene is from the Carina Nebula, which lies just 7500 light-years away in the constellation Carina (the Keel). Spanning roughly 260 light-years, the nebula is home to an incredib",
+      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/webb_opens_a_treasure_chest_filled_with_stars/27404048-1-eng-GB/Webb_opens_a_Treasure_Chest_filled_with_stars_card_full.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Webb finder stjerneskat i Carinatågen",
+      "resume_da": "Webb-teleskopet har taget et nyt billede af en såkaldt kometglodule i Carinatågen. Den ligner en åben skattekiste fyldt med unge stjerner.",
+      "sektioner": [
+        {
+          "overskrift": "Et kig ind i Skattekisten",
+          "tekst": "James Webb-teleskopet har fotograferet en region i Carinatågen, som forskerne kalder Skattekisten. Den er en kometglodule – en isoleret sky af gas og støv med et tæt hoved og en hale. Billedet viser en kompakt hob af unge stjerner, der skinner gennem støvet."
+        },
+        {
+          "overskrift": "Unge stjerner og støv",
+          "tekst": "Forskerne vurderer, at hoben indeholder omkring **70** stjerner. Den mest massive er en sjælden O-type stjerne, som er omkring **19** gange så tung som Solen. Hoben er formentlig omkring **1,3 millioner** år gammel, og stjernerne er stadig omgivet af støvskiver."
+        },
+        {
+          "overskrift": "Formen skabes udefra",
+          "tekst": "Formen på Skattekisten skyldes strålingen fra Eta Carinae, et stjernesystem med mindst to stjerner, hvoraf den ene er **100** gange så tung som Solen. Også stjernehoben Trumpler 16 i nærheden bidrager med intens stråling."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "7500 lysår",
+          "label": "Afstand til Carinatågen"
+        },
+        {
+          "tal": "260 lysår",
+          "label": "Tågens udstrækning"
+        },
+        {
+          "tal": "19 solmasser",
+          "label": "Masse af den tungeste stjerne"
+        }
+      ],
+      "detaljer": [
+        "Carinatågen er det nærmeste område med massiv stjernedannelse.",
+        "Skattkisten er en kometglobule, der ligner en åben kiste.",
+        "Stjernerne i hoben er omkring 70 i tallet.",
+        "Mange stjerner er omgivet af circumstellare skiver.",
+        "Eta Carinae er det mest lysstærke objekt i hele Carinatågen."
+      ],
+      "betydning": "Billedet giver forskere mulighed for at studere, hvordan unge stjerner påvirker deres omgivelser. Det hjælper os med at forstå, hvordan stjerner og planeter dannes i vores galakse.",
+      "pointer": [
+        "Webb har fotograferet en stjerneskat i Carinatågen.",
+        "Skattekisten er en sky af gas og støv med unge stjerner.",
+        "Hoben indeholder omkring 70 stjerner.",
+        "Stråling fra nabostjerner former skyen som en kiste."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability/",
+      "dato": "2026-08-06T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 6 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. New Sharpest [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/SunFlowers_NSO_1901.jpg?w=1960&#038;h=2832&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A image shows flowery dark and light structures on a yellow background.",
+      "kategori": "Astronomi",
+      "rubrik": "Nyt skarpeste billede af Solen afslører ustabilitet",
+      "resume_da": "Det hidtil skarpeste billede af Solen i synligt lys viser små hvirvler, kaldet Kelvin-Helmholtz-ustabilitet, på Solens overflade. Billedet er taget af Inouye Solarteleskopet på Hawaii.",
+      "sektioner": [
+        {
+          "overskrift": "Det skarpeste billede endnu",
+          "tekst": "Astronomer har udgivet det skarpeste billede af Solen i synligt lys. Billedet er taget af Inouye Solarteleskopet i Hawaii, USA. Det viser detaljer, der er på størrelse med en by, og dækker omtrent Jordens radius."
+        },
+        {
+          "overskrift": "Kelvin-Helmholtz-ustabilitet opdaget",
+          "tekst": "Forskere har længe troet, at Kelvin-Helmholtz-ustabilitet findes på Solens overflade. Den opstår, når to strømme flyder forbi hinanden og skaber bølger og hvirvler. Billedet bekræfter nu, at der er sådanne hvirvler i kanterne af de blomsterlignende strukturer."
+        },
+        {
+          "overskrift": "Fremtidig forskning",
+          "tekst": "Fremtidige undersøgelser kan se på, hvordan Kelvin-Helmholtz-ustabilitet flytter energi og magnetiske felter. Måske hjælper den også med at opvarme Solens korona."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "Radius af Jorden",
+          "label": "Størrelse af billedet"
+        },
+        {
+          "tal": "By-størrelse",
+          "label": "Fineste detaljer"
+        }
+      ],
+      "detaljer": [
+        "Billedet er taget i dyb blå farve, men vist falsk gul.",
+        "Billedet bekræfter Kelvin-Helmholtz-ustabilitet på Solens overflade.",
+        "Inouye Solarteleskopet er placeret i Hawaii, USA.",
+        "Forskerne håber at forstå, hvordan ustabiliteten påvirker Solens korona."
+      ],
+      "betydning": "Dette billede hjælper forskere med at forstå Solens dynamik og vejr, hvilket kan forbedre forudsigelser af solstorme, der kan påvirke teknologi på Jorden.",
+      "pointer": [
+        "Skarpeste solbillede nogensinde i synligt lys.",
+        "Bekræfter Kelvin-Helmholtz-ustabilitet.",
+        "Solar plasma-strømme skaber hvirvler.",
+        "Kan forklare opvarmning af solkoronaen."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Diffuse inter-filament gas is likely a key fuel source for massive star formation",
       "link": "https://phys.org/news/2026-08-diffuse-inter-filament-gas-key.html",
@@ -81,6 +186,60 @@
         "Det er et nyt værktøj til at forstå universet."
       ],
       "prio": 6
+    },
+    {
+      "titel": "NASA’s IXPE May Have Proven 90-Year-Old Theory",
+      "link": "https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/",
+      "dato": "2026-08-05T18:49:14+00:00",
+      "kilde": "NASA",
+      "resume": "A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature. Fast facts Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/ixpe/IXPEMagnetarArtistsConcept_Web.png?w=5250&#038;h=4500&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "An illustration of a bright blue, glowing neutron star against a black, starry background. Thin blue rings representing magnetic field lines loop around the star. A bright blue beam shoots diagonally ",
+      "kategori": "Forskning",
+      "rubrik": "NASA-måling kan bevise 90 år gammel teori om tomt rum",
+      "resume_da": "Med rumteleskopet IXPE har forskere målt lys fra en magnetar. Målingerne tyder på, at tomt rum kan ændre lysets retning – en teori fra 1936 er nu tæt på at blive bevist.",
+      "sektioner": [
+        {
+          "overskrift": "En magnetar observeret",
+          "tekst": "Magnetarer er neutronstjerner med ekstremt stærke magnetfelter – trillioner gange stærkere end Jordens. Forskere brugte NASA's IXPE-teleskop i over **140 timer** til at observere magnetaren 1E 1547-5408 fra marts til april 2025."
+        },
+        {
+          "overskrift": "Overraskende polarisering",
+          "tekst": "Lyset fra magnetaren viste en polarisering næsten **tre gange** højere end set i lignende kilder. Det kunne ikke forklares med kendte modeller, så noget andet måtte være på spil."
+        },
+        {
+          "overskrift": "Teorien om vakuum dobbeltbrydning",
+          "tekst": "Teorien, fremsat i 1936, siger at ekstreme magnetfelter kan ændre tomt rums egenskaber, så lys bliver filtreret. Målingerne og computersimulationer understøtter nu, at denne effekt er observeret for første gang."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "140 timer",
+          "label": "Observationstid med IXPE"
+        },
+        {
+          "tal": "2 sekunder",
+          "label": "Rotationstid for magnetaren"
+        },
+        {
+          "tal": "3 gange",
+          "label": "Højere polarisering observeret"
+        }
+      ],
+      "detaljer": [
+        "Målingerne blev lavet med IXPE, NICER og et radioteleskop i Australien.",
+        "Magnetaren 1E 1547-5408 roterer hurtigt og udsender både radio- og røntgenlys.",
+        "Resultaterne er offentliggjort i det videnskabelige tidsskrift Nature.",
+        "Teorien om vakuum dobbeltbrydning er fremsat i 1936 og bygger på kvanteelektrodynamik."
+      ],
+      "betydning": "Forskningen viser, at selv tomt rum ikke er helt tomt, når der er ekstreme kræfter på spil. Det øger vores forståelse af universets grundlæggende fysik og kan have betydning for fremtidige teknologier.",
+      "pointer": [
+        "Stærke magnetfelter kan ændre lysets polarisering.",
+        "Målingerne er fra en magnetar, en type neutronstjerne.",
+        "Teorien er 90 år gammel, men nu er der beviser.",
+        "Forskere skal observere flere magnetarer for at bekræfte resultatet."
+      ],
+      "prio": 7
     },
     {
       "titel": "Astronomers catch 'Hatchling' quasar breaking out of its dusty cocoon",
@@ -4286,145 +4445,6 @@
         "Rummet får større betydning i krig"
       ],
       "prio": 6
-    },
-    {
-      "titel": "This Week's Sky at a Glance, July 31 – August 9",
-      "link": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-july-31-august-9/",
-      "dato": "2026-07-31T08:49:00+00:00",
-      "kilde": "Sky & Telescope",
-      "resume": "Once the bright Moon is out of the evening sky by Monday or so, use Altair high in the southeast to find little Delphinus and Sagitta roughly a fist at arm's length from it. The post This Week&#039;s Sky at a Glance, July 31 – August 9 appeared first on Sky &amp; Telescope .",
-      "billede": null,
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Ugens himmel: Fra 31. juli til 9. august",
-      "resume_da": "Se efter stjernebillederne Delphinus og Sagitta nær Altair, når Månen er væk fra aftenhimlen.",
-      "sektioner": [
-        {
-          "overskrift": "Find stjernebillederne",
-          "tekst": "Når Månen er ude af aftenhimlen, kan du bruge den lyse stjerne Altair i sydøst som udgangspunkt. Cirka en knytnæve fra Altair finder du de små stjernebilleder Delphinus og Sagitta."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Brug Altair som referencepunkt.",
-        "Delphinus og Sagitta er små stjernebilleder.",
-        "De er cirka en knytnæve fra Altair."
-      ],
-      "betydning": "For en almindelig dansker er det en mulighed for at opleve nattehimlen og lære nogle stjernebilleder at kende uden brug af udstyr.",
-      "pointer": [
-        "Månen er væk fra aftenhimlen.",
-        "Altair er en god guide.",
-        "Find Delphinus og Sagitta."
-      ],
-      "prio": 3
-    },
-    {
-      "titel": "APOD: 2026 July 31 – NGC 4372 and the Dark Doodad",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-31-ngc-4372-and-the-dark-doodad/",
-      "dato": "2026-07-31T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APODScienceAPODAPOD: 2026 July 31 – NGC…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4372 and the Dark Doodad Explanation: The Dark Doodad Nebula drifts through ",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/DARK-DOODAD_2048.jpg?w=2048&#038;h=1307&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A telescopic image of a dark nebula.",
-      "kategori": "Astronomi",
-      "rubrik": "Mørk tåge og kuglehob på årets billede",
-      "resume_da": "NASAs billede viser Dark Doodad-tågen og kuglehoben NGC 4372. Tågen er 700 lysår væk, og hoben er 20.000 lysår væk.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad billedet viser",
-          "tekst": "Billedet viser Dark Doodad-tågen mod sydhimlen. Den ligger i stjernebilledet Musca. Tågen er en mørk støvsky mod rige stjerneområder."
-        },
-        {
-          "overskrift": "NGC 4372",
-          "tekst": "Ved tågens sydlige ende ligger den gule kuglehob NGC 4372. Hoben er omkring **20.000 lysår** væk. Den er i baggrunden og har ingen forbindelse med tågen."
-        },
-        {
-          "overskrift": "Dark Doodad tågen",
-          "tekst": "Tågen er omkring **700 lysår** væk og over **30 lysår** lang. Den er en del af en molekylesky, hvor der kan dannes nye stjerner. Navnet kommer fra en fotograf i 1986."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "700 lysår",
-          "label": "Afstand til tågen"
-        },
-        {
-          "tal": "30 lysår",
-          "label": "Tågens længde"
-        },
-        {
-          "tal": "20.000 lysår",
-          "label": "Afstand til hoben"
-        }
-      ],
-      "detaljer": [
-        "Billedet er dagens astronomiske billede fra NASA.",
-        "Tågen strekker sig over 3 grader på himlen.",
-        "Navnet 'Dark Doodad' blev opfundet i 1986.",
-        "Hoben NGC 4372 ligger i Mælkevejens halo."
-      ],
-      "betydning": "Billedet viser smukke kosmiske objekter, som man kan se med kikkert. Det minder os om, at universet er stort og fuld af fantastiske ting.",
-      "pointer": [
-        "Mørk tåge midt i stjerner",
-        "Kuglehob i baggrunden",
-        "Tågen kan danne stjerner",
-        "Navn fra 1986"
-      ],
-      "prio": 3
-    },
-    {
-      "titel": "APOD: 2026 July 31 – NGC 4372 and the Dark Doodad",
-      "link": "https://science.nasa.gov/image-article/apod-2026-july-31-ngc-4372-and-the-dark-doodad/",
-      "dato": "2026-07-31T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 July 31 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4372 [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/DARK-DOODAD_2048.jpg?w=2048&#038;h=1307&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A telescopic image of a dark nebula.",
-      "kategori": "Astronomi",
-      "rubrik": "Mørk tåge og stjernehob imponerer på nyt billede",
-      "resume_da": "NASAs daglige rumfoto viser den mørke Dark Doodad-tåge og stjernehoben NGC 4372 på den sydlige himmel. Tågen ligger omkring 700 lysår væk.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad billedet viser",
-          "tekst": "Billedet viser den mørke tåge Dark Doodad mod en baggrund af mange stjerner. Den strækker sig over omkring **3 grader** på himlen. Tågen er en såkaldt interstellar støvsky."
-        },
-        {
-          "overskrift": "Stjernehoben NGC 4372",
-          "tekst": "Ved tågens sydlige ende ses den gule stjernehob NGC 4372. Hoben ligger omkring **20.000 lysår** fra Jorden i Mælkevejens udkant. Den er kun på linje med tågen set fra Jorden."
-        },
-        {
-          "overskrift": "Tågens karakteristika",
-          "tekst": "Dark Doodad er cirka **700 lysår** væk og over **30 lysår** lang. Den er en del af en større sky, hvor der kan dannes nye stjerner. Navnet blev opfundet af astro-fotografen Dennis di Cicco i 1986."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "700 lysår",
-          "label": "Afstand til tågen"
-        },
-        {
-          "tal": "20.000 lysår",
-          "label": "Afstand til stjernehoben"
-        },
-        {
-          "tal": "3 grader",
-          "label": "Tågens udstrækning på himlen"
-        }
-      ],
-      "detaljer": [
-        "Dark Doodad-tågen ligger i stjernebilledet Fluen på den sydlige himmel.",
-        "Tågen er en del af den stjernedannende Musca-molekylære sky.",
-        "Billedet er udgivet som Astronomy Picture of the Day den 31. juli 2026.",
-        "Fotografen er Alessandro Cipolat Bares."
-      ],
-      "betydning": "Det er fascinerende at se, hvordan en mørk støvsky kan tegne silhuetter mod et stjernefelt. Det minder os om, at universet er fuld af skjulte strukturer, og at der hele tiden sker noget i rummet, som vi kan opdage.",
-      "pointer": [
-        "Dark Doodad er en mørk støvsky i sydhimlen.",
-        "Den ses sammen med stjernehoben NGC 4372.",
-        "Tågen er omkring 700 lysår fra Jorden.",
-        "Navnet blev opfundet i 1986 under Halleys komet."
-      ],
-      "prio": 4
     }
   ]
 }
