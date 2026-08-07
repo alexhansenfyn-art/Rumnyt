@@ -1,7 +1,541 @@
 {
-  "opdateret": "2026-08-06T10:15:02.971053+00:00",
+  "opdateret": "2026-08-07T04:35:41.684229+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Charting the galaxy: Milky Way Mapper survey releases latest all-sky spectra",
+      "link": "https://phys.org/news/2026-08-galaxy-milky-mapper-survey-latest.html",
+      "dato": "2026-08-06T22:30:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "The Sloan Digital Sky Survey V (SDSS-V) has announced its 20th public data release (DR20), delivering a dramatic expansion of the Milky Way Mapper (MWM) scientific survey—the most detailed spectroscopic map yet assembled of stars in and around our home galaxy.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/charting-the-galaxy-sd.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Kortlægning af Mælkevejen får kæmpe dataudvidelse",
+      "resume_da": "SDSS-V's 20. dataudgivelse udvider den hidtil mest detaljerede spektroskopiske kortlægning af stjerner i og omkring Mælkevejen.",
+      "sektioner": [
+        {
+          "overskrift": "Stor dataudvidelse",
+          "tekst": "Sloan Digital Sky Survey V (SDSS-V) har udgivet sin 20. offentlige datapakke. Den giver en markant udvidelse af Milky Way Mapper-undersøgelsen. Det er den mest detaljerede spektroskopiske kortlægning af stjerner i og omkring vores galakse til dato."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "20. offentlige dataudgivelse fra SDSS-V",
+        "Udvidelse af Milky Way Mapper-undersøgelsen",
+        "Mest detaljerede spektroskopiske kortlægning af stjerner i Mælkevejen"
+      ],
+      "betydning": "Den øgede viden om stjernernes sammensætning og bevægelser hjælper forskere med at forstå, hvordan vores galakse er opstået og udviklet sig.",
+      "pointer": [
+        "SDSS-V udgiver 20. datapakke",
+        "Milky Way Mapper udvides markant",
+        "Detaljeret kort over Mælkevejens stjerner"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Trillion-mile gas streamer may explain tilt of triple-star system's outer planet-forming ring",
+      "link": "https://phys.org/news/2026-08-trillion-mile-gas-streamer-tilt.html",
+      "dato": "2026-08-06T21:00:07+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "A team of astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA) has captured a massive stream of gas—one trillion miles, or 0.2 light-years, long—feeding the young triple-star system GW Orionis. These new observations provide the clearest evidence yet for how such \"streamers\" can tilt and twist the disks where planets are born. The findings are published in The Astronomical Jou",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-trillion-mile-cosmic.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Gassky kaster lys over skæve planetringe",
+      "resume_da": "Astronomer har opdaget en enorm gasstrøm på en billion miles, der kan forklare, hvorfor planetdannende ringe omkring det unge trestjernesystem GW Orionis er skæve.",
+      "sektioner": [
+        {
+          "overskrift": "En kæmpe gasstrøm",
+          "tekst": "Ved hjælp af ALMA-teleskopet har forskere fundet en gasstrøm på en billion miles (cirka 0,2 lysår). Den strømmer ind i systemet GW Orionis. Det er det klareste bevis endnu på, at sådanne strømme kan vippe og dreje planetskiver."
+        },
+        {
+          "overskrift": "Hvorfor er ringene skæve?",
+          "tekst": "GW Orionis er et ungt system med tre stjerner. Dens ydre planetdannende ring er skæv i forhold til stjernerne. Den nye gasstrøm kan være årsagen. Den trækker i skiven og får den til at hælde."
+        },
+        {
+          "overskrift": "Nye observationer",
+          "tekst": "Observationerne er lavet med ALMA, et kraftigt radioteleskop i Chile. Resultaterne er offentliggjort i tidsskriftet The Astronomical Journal. Det giver ny viden om, hvordan planeter dannes i komplekse systemer."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1 billion miles",
+          "label": "Længden af gasstrømmen"
+        },
+        {
+          "tal": "0,2 lysår",
+          "label": "Samme længde i lysår"
+        }
+      ],
+      "detaljer": [
+        "Fundet er offentliggjort i The Astronomical Journal.",
+        "Teleskopet ALMA blev brugt til observationerne.",
+        "Systemet hedder GW Orionis og har tre stjerner."
+      ],
+      "betydning": "Det hjælper forskere med at forstå, hvordan planetsystemer dannes, også i systemer med flere stjerner. Det kan give indsigt i, hvordan vores eget solsystem blev til.",
+      "pointer": [
+        "Gasstrøm er en billion miles lang.",
+        "Den påvirker planetdannende ringe.",
+        "Fundet er fra ALMA-teleskopet.",
+        "Udgivet i The Astronomical Journal."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Milky Way-like simulation reveals how central galactic structures grow together",
+      "link": "https://phys.org/news/2026-08-milky-simulation-reveals-central-galactic.html",
+      "dato": "2026-08-06T20:40:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Understanding the formation and evolution of the centers of galaxies is one of the most intriguing challenges in astrophysics. The new study aims to unveil the physical processes that led to the formation of two striking features surrounding the black holes at the centers of most galaxies: nuclear star clusters and nuclear stellar disks. Only in the last decade have such galactic structures been o",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-central-galactic-s.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Ny simulering afslører galaksers centrale struktur",
+      "resume_da": "Forskere har med en computersimulering vist, hvordan nukleare stjernehobe og stjerneskiver dannes omkring sorte huller i galaksers centre.",
+      "sektioner": [
+        {
+          "overskrift": "Galaksernes gådefulde centre",
+          "tekst": "Astrofysikere har længe undret sig over, hvordan galaksers centrale strukturer dannes. To slående fænomener omkring sorte huller er nukleare stjernehobe og nukleare stjerneskiver. Kun i det seneste årti er de blevet observeret i Mælkevejen og andre galakser."
+        },
+        {
+          "overskrift": "Simulering giver nyt svar",
+          "tekst": "En ny computersimulering efterligner vores Mælkevej og viser, hvordan disse strukturer vokser frem sammen. Modellen afslører de fysiske processer, der har dannet de to strukturer omkring de fleste galaksers sorte huller. Det giver ny indsigt i galaksedannelse."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Studiet er publiceret i tidsskriftet Phys.org Rum.",
+        "Nukleare stjernehobe og stjerneskiver findes omkring sorte huller i de fleste galakser.",
+        "Strukturerne er kun observeret i det seneste årti.",
+        "Simuleringen er lavet efter Mælkevejen."
+      ],
+      "betydning": "Forskningen hjælper os med at forstå, hvordan galakser som vores egen er dannet, og kaster lys over universets udvikling.",
+      "pointer": [
+        "Simulering af Mælkevejen viser dannelse af centrale strukturer.",
+        "Fokuserer på stjernehobe og stjerneskiver omkring sorte huller.",
+        "Fænomenerne er observeret for nylig.",
+        "Giver indsigt i galaksedannelse."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Two decades of blazar observations, and the mysteries keep piling up",
+      "link": "https://phys.org/news/2026-08-decades-blazar-mysteries-piling.html",
+      "dato": "2026-08-06T20:00:05+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Narrow jets of luminous matter may be emitted toward Earth from the nuclei of active galaxies billions of light-years away. The galaxy then appears as a point source and is called a blazar. A Polish-German team of scientists has, for the first time, analyzed the activity of one such blazar over an extended period and, instead of finding answers, encountered an ever-increasing number of intriguing ",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-decades-of-blazar.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Blazar-gåde: Observationer skaber flere spørgsmål end svar",
+      "resume_da": "For første gang har forskere analyseret et blazar-objekt i 20 år. I stedet for svar dukker der flere gåder op. Blazarer er fjerne aktive galakser, der sender stråler af lys mod Jorden.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er en blazar?",
+          "tekst": "En blazar er en fjern aktiv galakse, der sender en smal stråle af lysende stof mod Jorden. Derfor ligner den et punktlys på himlen. Forskere har undersøgt en sådan blazar i **20 år**."
+        },
+        {
+          "overskrift": "Forskernes overraskelse",
+          "tekst": "Et polsk-tysk hold har for første gang analyseret blazarens aktivitet over lang tid. De håbede på svar, men stødte i stedet på flere spørgsmål. Observtionerne har skabt nye gåder."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "20 år",
+          "label": "Observationsperiode for blazaren"
+        },
+        {
+          "tal": "milliarder lysår",
+          "label": "Afstand til blazaren"
+        }
+      ],
+      "detaljer": [
+        "Blazarer er galaksekerner, der sender stråler mod Jorden.",
+        "Analysen er den første af sin slags over så lang tid.",
+        "Mange mysterier er opstået fra observationerne."
+      ],
+      "betydning": "Forskning i blazarer hjælper os med at forstå universets ekstreme fænomener. Det kan give os viden om, hvordan galakser og sorte huller opfører sig.",
+      "pointer": [
+        "Første 20-årige analyse af en blazar.",
+        "Flere spørgsmål end svar.",
+        "Polsk-tysk forskergruppe står bag.",
+        "Blazarer sender lysstråler mod Jorden."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Educators & Teens Get Hands-On With TEMPO Data to Help Investigate Local Air Quality",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/",
+      "dato": "2026-08-06T19:33:32+00:00",
+      "kilde": "NASA",
+      "resume": "The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners. From July 27–29, 2026, the CosmicDS team partnered with the Smithsonian Institution’s BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) project to […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/Educators_and_Teens_Get_Hands-On_With_TEMPO_Data_to_Help_Investigate_Local_Air_Quality.jpg?w=2000&#038;h=1368&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A workshop participant, seen from behind, sits at a laptop displaying the TEMPO-Lab Data Viewer. The screen shows a colorful satellite map of air quality data over the central United States, with togg",
+      "kategori": "Forskning",
+      "rubrik": "Lærere og teenagere får hands-on med NASA's luftkvalitetsdata",
+      "resume_da": "NASA's TEMPO-satellit måler luftforurening hver time. Nu hjælper forskere lærere og teenagere med at bruge dataene til at undersøge luftkvalitet i deres lokalsamfund.",
+      "sektioner": [
+        {
+          "overskrift": "Nyt værktøj til luftkvalitetsdata",
+          "tekst": "Forskere fra Harvard og Smithsonian har udviklet et gratis onlineværktøj kaldet TEMPO-Lab. Det giver adgang til målinger fra NASA's TEMPO-satellit, som overvåger luftforurening i Nordamerika hver time i dagslys. Værktøjet er bygget med støtte fra NASA."
+        },
+        {
+          "overskrift": "Lærere blev uddannet",
+          "tekst": "I juli 2026 mødtes **13** lærere i Boston for at lære at bruge værktøjet. De udviklede også undervisningsmateriale til teenagere om luftkvalitet. Materialet inkluderer case studies om fx røg fra skovbrande og udstødning fra biler."
+        },
+        {
+          "overskrift": "Data næsten i realtid",
+          "tekst": "Forskerne fik hurtigt integreret nye data om jordnær ozon i værktøjet. Det skete natten over, så lærerne kunne bruge de nyeste data dagen efter. Det viser, at værktøjet kan følge med den nyeste NASA-forskning."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "13",
+          "label": "antal lærere, der deltog"
+        }
+      ],
+      "detaljer": [
+        "TEMPO-missionen måler luftforurening fra rummet hver time i dagslys.",
+        "TEMPO-Lab er et gratis onlineværktøj udviklet af Harvard og Smithsonian.",
+        "Lærerne deltog i et tre-dages kursus i juli 2026.",
+        "Materialet skal deles med omkring 100 andre lærere i tre stater.",
+        "Forskerne introducerede nye data om jordnær ozon i værktøjet natten over.",
+        "Målet er at give teenagere værktøjer til at undersøge luftkvalitet i deres lokalsamfund."
+      ],
+      "betydning": "Luftkvalitet påvirker alles helbred. Når unge lærer at bruge ægte NASA-data, kan de forstå og handle på lokale luftproblemer – og det kan føre til bedre luft for os alle.",
+      "pointer": [
+        "NASA's TEMPO-satellit måler luftforurening fra rummet.",
+        "Nyt gratis værktøj giver alle adgang til dataene.",
+        "Lærere kan undervise teenagere i at analysere luftkvalitet.",
+        "Friske data kan integreres natten over."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Super-Earths may be solid deep inside their mantles",
+      "link": "https://phys.org/news/2026-08-super-earths-solid-deep-mantles.html",
+      "dato": "2026-08-06T19:20:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Deep inside super-Earths—rocky planets with masses between 1 and 10 times that of Earth—high pressure can cause familiar minerals to take forms rarely seen on Earth. Understanding more about the temperature and pressure conditions in which these phases are reached could help researchers learn more about how planets evolve.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/super-earths-may-be-so.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Super-Jorde kan have faste mineraler i kappen",
+      "resume_da": "Nye forskningsresultater tyder på, at super-jorde – klippeplaneter op til ti gange Jordens masse – kan have faste mineraler dybt i deres indre på grund af ekstremt pres.",
+      "sektioner": [
+        {
+          "overskrift": "Ekstremt pres i super-jorde",
+          "tekst": "Inde i super-jorde skaber det høje tryk kendte mineraler i usædvanlige former, som man sjældent ser på Jorden. Det kan give ny viden om, hvordan planeten udvikler sig."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1-10 gange Jordens masse",
+          "label": "Massen af en super-jord"
+        }
+      ],
+      "detaljer": [
+        "Super-jorde er klippeplaneter med masser mellem 1 og 10 gange Jordens masse.",
+        "Dyb i super-jorde kan trykket få mineraler til at antage former, der er sjældne på Jorden.",
+        "Forskning i disse faser kan hjælpe med at forstå planeters udvikling."
+      ],
+      "betydning": "For almindelige mennesker er dette vigtigt, fordi det giver indsigt i, hvordan planeter uden for vores solsystem kan se ud og udvikle sig.",
+      "pointer": [
+        "Super-jorde kan have faste mineraler i kappen",
+        "Ekstremt tryk ændrer mineralernes form",
+        "Ny viden om planetudvikling"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "JWST study suggests a handful of 'leaky' galaxies reionized the early universe",
+      "link": "https://phys.org/news/2026-08-jwst-leaky-galaxies-reionized-early.html",
+      "dato": "2026-08-06T18:40:04+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "A new study analyzing the James Webb Space Telescope (JWST) spectra of more than 1,400 galaxies suggests a surprisingly small group of \"leaky\" galaxies was responsible for cosmic reionization. The paper outlining this work was posted to the arXiv preprint server on July 24.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/jwst-study-suggests-a.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Få galakser reioniserede det tidlige univers",
+      "resume_da": "JWST-data fra over 1.400 galakser tyder på, at et lille antal 'utætte' galakser stod for kosmisk reionisering. Resultatet er offentliggjort på arXiv den 24. juli.",
+      "sektioner": [
+        {
+          "overskrift": "Ny JWST-analyse",
+          "tekst": "Forskere har analyseret JWST-spektre fra mere end **1.400** galakser. De fandt, at kun en håndfuld 'utætte' galakser slap ioniserende stråling ud. Dette forklarer måske kosmisk reionisering."
+        },
+        {
+          "overskrift": "Kosmisk reionisering",
+          "tekst": "Kosmisk reionisering var en periode, hvor universets brint blev ioniseret. Tidligere troede man, at mange galakser bidrog. Nu tyder data på, at få galakser gjorde det meste."
+        },
+        {
+          "overskrift": "Offentliggjort på arXiv",
+          "tekst": "Undersøgelsen blev lagt på arXiv den **24. juli**. Det er et preprint, så den er endnu ikke fagfællebedømt. Alligevel vækker den opmærksomhed."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1.400",
+          "label": "galakser analyseret"
+        },
+        {
+          "tal": "24. juli",
+          "label": "offentliggørelsesdato"
+        }
+      ],
+      "detaljer": [
+        "JWST har observeret spektre fra over 1.400 galakser.",
+        "Kun en lille gruppe 'utætte' galakser slap meget ioniserende stråling ud.",
+        "Resultaterne er postet på arXiv-preprintserveren den 24. juli.",
+        "Forskningen kan ændre forståelsen af kosmisk reionisering."
+      ],
+      "betydning": "For almindelige mennesker viser dette, hvordan rumteleskoper som JWST konstant udfordrer og forfiner vores viden om universets historie. Det giver et mere præcist billede af, hvordan de første stjerner og galakser formede det kosmos, vi ser i dag.",
+      "pointer": [
+        "JWST analyserede over 1.400 galakser.",
+        "Få 'utætte' galakser reioniserede universet.",
+        "Paper lagt på arXiv 24. juli."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "We might soon have the technology to reach other star systems",
+      "link": "https://phys.org/news/2026-08-technology-star.html",
+      "dato": "2026-08-06T18:20:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "The recent confirmation of an atmosphere around a rocky exoplanet called LHS 1140b has created a wave of interest within the astronomy community. The planet orbits within the habitable zone around its parent star—a red dwarf located some 48 light-years from Earth.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/we-might-soon-have-the.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Ny atmosfære fundet ved fjern klippeplanet",
+      "resume_da": "Astronomer har bekræftet en atmosfære omkring den klippefulde exoplanet LHS 1140b, der ligger i den beboelige zone 48 lysår fra Jorden.",
+      "sektioner": [
+        {
+          "overskrift": "Vigtig opdagelse",
+          "tekst": "Opdagelsen af atmosfæren omkring LHS 1140b har skabt stor begejstring blandt astronomer. Planeten er en klippeplanet, der ligner Jorden mere end tidligere fundne exoplaneter. Den kredser om en rød dværgstjerne i den beboelige zone."
+        },
+        {
+          "overskrift": "Betydning for liv",
+          "tekst": "Atmosfæren kan betyde, at planeten har betingelser for liv, som vi kender det. Forskere vil nu undersøge atmosfæren nærmere for at finde ud af mere."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "48 lysår",
+          "label": "Afstand fra Jorden"
+        }
+      ],
+      "detaljer": [
+        "LHS 1140b er en klippeplanet.",
+        "Den ligger i den beboelige zone omkring sin stjerne.",
+        "Atmosfæren er bekræftet omkring planeten."
+      ],
+      "betydning": "Opdagelsen bringer os tættere på at finde liv uden for vores solsystem og inspirerer til videre forskning i andre stjernesystemer.",
+      "pointer": [
+        "Atmosfære bekræftet på LHS 1140b.",
+        "Klippeplanet ligner Jorden.",
+        "Ligger i beboelig zone."
+      ],
+      "prio": 8
+    },
+    {
+      "titel": "NASA’s SkyFall Helicopters at Work (Artist’s Concept)",
+      "link": "https://science.nasa.gov/photojournal/nasas-skyfall-helicopters-at-work-artists-concept/",
+      "dato": "2026-08-06T18:06:07+00:00",
+      "kilde": "NASA",
+      "resume": "Description This artist’s concept depicts NASA’s three SkyFall Mars helicopters collecting data while flying over the surface of the Red Planet. The green frequency waves emanating from the helicopters’ large antennas depict collection of subsurface radar data. The red beams depict collect near-infrared imagery data from regolith (crushed rock and dust) and other surface features. […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26760/PIA26760.jpg?w=2880&#038;h=1620&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "Three drone helicopters fly over a barren, reddish-brown rocky landscape. The foreground drone and two smaller drones in the background all project wavy, translucent red and green beams of light downw",
+      "kategori": "Missioner",
+      "rubrik": "NASA sender tre helikoptere til Mars",
+      "resume_da": "NASA planlægger at sende tre helikoptere til Mars i 2028. De skal indsamle data om planetens undergrund og overflade.",
+      "sektioner": [
+        {
+          "overskrift": "Missionens formål",
+          "tekst": "De tre helikoptere skal undersøge Mars' undergrund med radar og overfladen med infrarøde kameraer. De skal følge efter den succesfulde Ingenuity-helikopter, som fløj 72 gange på tre år."
+        },
+        {
+          "overskrift": "Opsendelse og samarbejde",
+          "tekst": "Opsendelsen er planlagt til slutningen af 2028. NASA's Jet Propulsion Laboratory styrer projektet, og AeroVironment, som byggede Ingenuity, hjælper med at designe og bygge de nye helikoptere."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "72",
+          "label": "Ingenuitys flyvninger"
+        },
+        {
+          "tal": "3",
+          "label": "Antal nye helikoptere"
+        },
+        {
+          "tal": "2028",
+          "label": "Opsendelsesår"
+        }
+      ],
+      "detaljer": [
+        "Helikopterne har hver fire instrumenter.",
+        "De indsamler radardata om undergrunden.",
+        "De indsamler også infrarøde data om overfladen.",
+        "Ingenuity beviste, at flyvning er mulig i Mars' tynde atmosfære."
+      ],
+      "betydning": "Missionen kan give ny viden om Mars' historie og ressourcer, hvilket er vigtigt for fremtidige missioner og eventuel bemandet udforskning.",
+      "pointer": [
+        "Tre helikoptere sendes til Mars i 2028.",
+        "De skal kortlægge undergrund og overflade.",
+        "Bygger på Ingenuitys succes.",
+        "Samarbejde mellem NASA og AeroVironment."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Antenna Testing for NASA’s SkyFall Mission",
+      "link": "https://science.nasa.gov/photojournal/antenna-testing-for-nasas-skyfall-mission/",
+      "dato": "2026-08-06T17:56:12+00:00",
+      "kilde": "NASA",
+      "resume": "Description SkyFall ground-penetrating radar engineer Maya Román connects a coaxial cable to a test antenna in the Environmental Test Lab’s electromagnetic interference testing chamber at NASA’s Jet Propulsion Laboratory in Southern California. The antenna was pointed up during test to minimize reflections and interferences with the antenna pattern during the measurement. Equipped with four instru",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26759/PIA26759.jpg?w=8256&#038;h=5504&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A gloved person in striped shirt and glasses attaches a blue cable to a device with a metallic base and a translucent-appearing pane. The background is a chamber lined with grey and blue geometric foa",
+      "kategori": "Missioner",
+      "rubrik": "NASA tester antenner til SkyFall-missionen",
+      "resume_da": "NASA tester antenner til SkyFall-missionen, hvor tre fly skal udforske Mars. Missionen bygger på Ingenuity-helikopterens succes.",
+      "sektioner": [
+        {
+          "overskrift": "Antennetest hos NASA",
+          "tekst": "Ingeniøren Maya Román forbinder et kabel til en testantenne i et testkammer hos NASA JPL. Antennen blev peget opad for at undgå interferens under målingen."
+        },
+        {
+          "overskrift": "SkyFall-missionen",
+          "tekst": "Tre SkyFall-fly skal hver have fire instrumenter. De følger efter Ingenuity-helikopteren, som fløj **72** gange på næsten **tre år** og beviste, at flyvning er mulig i Mars' tynde atmosfære."
+        },
+        {
+          "overskrift": "Opsendelse og nytte",
+          "tekst": "SkyFall forventes at lette ombord på NASA's Space Reactor-1 Freedom i slutningen af **2028**. Flyene skal hjælpe med at planlægge ruter og vælge steder til videnskabelige undersøgelser."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "72",
+          "label": "Antal flyvninger for Ingenuity"
+        },
+        {
+          "tal": "3 år",
+          "label": "Tid Ingenuity fløj"
+        },
+        {
+          "tal": "2028",
+          "label": "Forventet opsendelsesår"
+        }
+      ],
+      "detaljer": [
+        "Testen fandt sted i et elektromagnetisk testkammer på JPL.",
+        "Antennen blev peget opad for at minimere refleksioner og forstyrrelser.",
+        "SkyFall bygger på Ingenuity-helikopterens erfaringer.",
+        "Ingenuity hjalp Perseverance-roveren med at planlægge ruter og vælge steder til forskning."
+      ],
+      "betydning": "Missionen kan give os bedre luftfotos af Mars, hvilket kan forbedre vores viden om planeten og hjælpe fremtidige missioner med at finde de bedste steder at undersøge.",
+      "pointer": [
+        "NASA tester antenner til SkyFall-missionen.",
+        "Tre fly med fire instrumenter skal til Mars.",
+        "Missionen bygger på Ingenuity-helikopterens succes.",
+        "Opsendelse forventes i slutningen af 2028."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "I Am Artemis: Tom Percy",
+      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tom-percy/",
+      "dato": "2026-08-06T16:35:51+00:00",
+      "kilde": "NASA",
+      "resume": "As NASA sets its sights on long-term exploration of the Moon and Mars, the agency is increasing the cadence of its Artemis missions. Helping bring these plans to fruition is Tom Percy, manager of systems engineering and integration for NASA’s Human Landing System Program. Percy serves as a focal point in working with providers SpaceX [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/ceb-8192.jpg?w=1536",
+      "billede_alt": "Tom Percy, manager of systems engineering and integration for NASA’s Human Landing Systems Program, stands in front of an Apollo Program lander exhibit at the U.S. Space and Rocket Center in Huntsvill",
+      "kategori": "Missioner",
+      "rubrik": "NASA-ingeniør styrer månelandere",
+      "resume_da": "Tom Percy er leder for integrationen af de månelandere, som SpaceX og Blue Origin bygger til NASA's Artemis-program. Han sikrer, at de opfylder kravene til at lande astronauter på Månen igen.",
+      "sektioner": [
+        {
+          "overskrift": "Rollen som integrationsleder",
+          "tekst": "Tom Percy er ansvarlig for, at SpaceX og Blue Origin's månelandere fungerer sammen med resten af NASA's udstyr. Han koordinerer alt fra design og produktion til test og certificering. "
+        },
+        {
+          "overskrift": "Baggrund og rejse til NASA",
+          "tekst": "Percy voksede op i Massachusetts og studerede maskinteknik. Hans interesse for NASA startede med en studenterkonkurrence, hvor han byggede en månebuggy. Siden har han taget kandidat- og doktorgrad og har arbejdet hos NASA siden **2003**."
+        },
+        {
+          "overskrift": "Fremtiden for Artemis-missionerne",
+          "tekst": "Efter succesen med Artemis II ser NASA frem til flere missioner. Artemis skal skabe en varig tilstedeværelse på Månen og forberede turen til Mars."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2003",
+          "label": "År Percy startede hos NASA"
+        }
+      ],
+      "detaljer": [
+        "Percy er leder for systemteknisk integration for Human Landing System-programmet.",
+        "Han arbejder tæt sammen med SpaceX og Blue Origin.",
+        "Han har en ph.d. i luftfartssystemteknik.",
+        "Artemis-missionerne har til formål at udforske Månen og bane vejen for Mars."
+      ],
+      "betydning": "Denne historie viser, at mange dygtige ingeniører arbejder bag kulisserne på at gøre rejser til Månen og Mars mulige. Det er relevant, fordi det er danske skattepenge, der er med til at finansiere NASA's arbejde via internationale aftaler.",
+      "pointer": [
+        "Tom Percy koordinerer månelandere.",
+        "SpaceX og Blue Origin bygger dem.",
+        "Målet er at lande på Månen igen.",
+        "Det forbereder også rejsen til Mars."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "'Strange New Worlds' latest 'Hangover'-inspired episode is a reminder that 'Star Trek' vacations are never a good idea",
+      "link": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-hangover-inspired-episode-is-a-reminder-that-star-trek-vacations-are-never-a-good-idea",
+      "dato": "2026-08-06T16:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "Seeking rest or relaxation? You're unlikely to find either on a \"Star Trek\" holiday",
+      "billede": "https://cdn.mos.cms.futurecdn.net/dHdCokKx6vmaXJ6KmX4JNo-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Star Trek-ferie ender altid galt",
+      "resume_da": "Artiklen omtaler afsnittet af 'Star Trek: Strange New Worlds', der er inspireret af 'Hangover', og påpeger, at ferier i Star Trek-universet sjældent er en god ide.",
+      "sektioner": [
+        {
+          "overskrift": "Forfatterens baggrund",
+          "tekst": "Richard er rum- og sci-fi-entusiast. Han har skrevet for flere store magasiner. Han har mødt mange skuespillere fra forskellige serier."
+        },
+        {
+          "overskrift": "Episode-tema",
+          "tekst": "Afsnittet er inspireret af filmen 'Hangover'. Det viser, at ferier i Star Trek-universet aldrig er ukomplicerede. Det er en sjov påmindelse om, at selv i fremtiden går ting galt."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "4 år",
+          "label": "Richard var redaktør i 12 år"
+        },
+        {
+          "tal": "12 år",
+          "label": "Richard arbejdede på SFX"
+        },
+        {
+          "tal": "5 Doctorer",
+          "label": "Richard har mødt fem Doctorer"
+        }
+      ],
+      "detaljer": [
+        "Richard blev fascineret af rumfart som 4-årig efter at se Star Wars.",
+        "Han studerede fysik på universitetet.",
+        "Han har mødt to Starfleet-kaptajner og én Luke Skywalker.",
+        "Han har siddet i cockpittet på 'Red Dwarf's Starbug."
+      ],
+      "betydning": "For en almindelig dansker viser artiklen, at selv i science fiction er ferier ikke altid fredelige - det er en sjov vinkel på populærkultur, som mange kan relatere til.",
+      "pointer": [
+        "Afsnittet er Hangover-inspireret.",
+        "Star Trek-ferier går aldrig som planlagt.",
+        "Artiklen fokuserer på forfatterens oplevelser."
+      ],
+      "prio": 2
+    },
     {
       "titel": "Webb opens a Treasure Chest filled with stars",
       "link": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
@@ -3941,510 +4475,6 @@
         "Støtter Artemis-missioner og fremtidig rumfart."
       ],
       "prio": 5
-    },
-    {
-      "titel": "Curiosity Blog, Sols 4961-4967: Approaching a break in the rock record?",
-      "link": "https://phys.org/news/2026-07-curiosity-blog-sols-approaching.html",
-      "dato": "2026-07-31T16:20:05+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Curiosity spent the week continuing to climb her way through the layers of Mount Sharp, exploring the sedimentary rock strip chart of Martian history. The rover has reached a layer where the science team had spotted a possible \"erosional supersurface\" by analyzing orbital data alongside images of the layers in the buttes above us.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/curiosity-blog-sols-49-2.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Curiosity nærmer sig pote i Mars' klippehistorie",
-      "resume_da": "Curiosity-roveren klatrer gennem lag på Mars og nærmer sig en mulig 'erosionsflade', der kan afsløre hul i klipperegistret.",
-      "sektioner": [
-        {
-          "overskrift": "Rejsen op ad Mount Sharp",
-          "tekst": "Curiosity har i denne uge fortsat sin klatretur gennem lagene på Mount Sharp. Roveren undersøger Mars' geologiske historie lag for lag. Forskerne håber at finde spor af fortidens miljø."
-        },
-        {
-          "overskrift": "Fund af erosionsflade",
-          "tekst": "Forskerne har opdaget en mulig 'erosional supersurface' i data fra kredsløb. Det er et område, hvor der kan mangle en del af klipperegistret. Det kan give et indblik i Mars' geologiske fortid."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Roveren har set den mulige erosionsflade ved at analysere billeder af lagene i buttes over roveren.",
-        "Opdagelsen blev gjort ved at kombinere data fra kredsløb og billeder fra overfladen.",
-        "Det er en del af udforskningen af Mount Sharp's sedimentære lag."
-      ],
-      "betydning": "Ny viden om Mars' geologi kan hjælpe os med at forstå planetens historie og mulighed for liv. Det giver et indblik i, hvordan Mars er blevet til det golde landskab i dag.",
-      "pointer": [
-        "Curiosity klatrer op ad Mount Sharp.",
-        "Forskerholdet spottede en mulig erosionsflade.",
-        "Den kan markere et hul i klipperegistret.",
-        "Det giver ny indsigt i Mars' fortid."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Spain commits up to $2.3 billion for national military communications for IRIS²",
-      "link": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/",
-      "dato": "2026-07-31T15:57:52+00:00",
-      "kilde": "SpaceNews",
-      "resume": "WARSAW, Poland — The Spanish government announced it will allocate between 1.6 billion and 2 billion euros ($1.8 to $2.3 billion) to develop a national military satellite communications constellation that [&#8230;] The post Spain commits up to $2.3 billion for national military communications for IRIS² appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/IRIS2-image.jpg?fit=1024%2C819&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Spanien bruger milliarder på militær satkom",
-      "resume_da": "Spanien vil bruge op til 2,3 milliarder dollars på et nationalt militært satellitkommunikationssystem, som skal støtte IRIS²-programmet.",
-      "sektioner": [
-        {
-          "overskrift": "Store investeringer",
-          "tekst": "Spanien har meddelt, at de vil afsætte mellem **1,6 milliarder** og **2 milliarder euro** til udvikling af et nationalt militært satellitkommunikationssystem. Det svarer til mellem **1,8 milliarder** og **2,3 milliarder dollars**."
-        },
-        {
-          "overskrift": "Støtte til IRIS²",
-          "tekst": "Pengene skal bruges til at bygge en konstellation af militære kommunikationssatellitter. Systemet skal støtte IRIS²-programmet, som er et EU-initiativ for sikker satellitkommunikation."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2,3 milliarder dollars",
-          "label": "Maksimalt investeret beløb"
-        },
-        {
-          "tal": "1,6 milliarder euro",
-          "label": "Mindste investering"
-        }
-      ],
-      "detaljer": [
-        "Meddelelsen blev givet på et arrangement i Polen.",
-        "IRIS² er et europæisk program."
-      ],
-      "betydning": "Det viser, at Europa satser på uafhængige satellitkommunikationssystemer for militæret, hvilket kan øge sikkerheden og mindske afhængigheden af andre lande.",
-      "pointer": [
-        "Spanien investerer op til 2,3 mia. dollars.",
-        "Pengene går til militære satellitter.",
-        "Styrker IRIS²-programmet."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/",
-      "dato": "2026-07-31T14:41:02+00:00",
-      "kilde": "NASA",
-      "resume": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, July 24, 2026 Curiosity spent the week continuing to climb her way up through the layers of Mount Sharp, exploring the sedimentary rock strip chart of Martian history. The rover has reached a layer where the science […]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/july/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04963_opgs_edr_ncam_NLB_838089704EDR_F1232544NCAM00266M_.jpg?w=1024&#038;h=1024&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A black and white image taken from the deck of the Curiosity rover on Mars, looking out over a desolate, rocky landscape. In the foreground, parts of the rover",
-      "kategori": "Missioner",
-      "rubrik": "Curiosity når historisk klippehul på Mars",
-      "resume_da": "Curiosity har fundet et muligt hul i Mars' stenlag, hvor lag er eroderet væk. Det kan afsløre nyt om planetens fortid.",
-      "sektioner": [
-        {
-          "overskrift": "Et hul i historien",
-          "tekst": "NASA's rover Curiosity er ved at undersøge en såkaldt 'erosional supersurface' på Mount Sharp. Det er et sted, hvor ældre lag blev fjernet af vind eller vand, før nye lag blev lagt ovenpå. Det markerer en pause i den geologiske historie."
-        },
-        {
-          "overskrift": "Tæt på målet",
-          "tekst": "Forskerne har ventet i flere måneder på at komme tæt på. Nu har roveren taget billeder og målt klippernes sammensætning med sine instrumenter. Næste skridt er at køre hen over overfladen for at undersøge den nærmere."
-        },
-        {
-          "overskrift": "Store billeder og målinger",
-          "tekst": "Teamet bag roveren har taget store panoramabilleder med Mastcam og brugt ChemCam til at måle kemien på afstand. De har også undersøgt sten ved bunden af overfladen med andre instrumenter. Kørslen er planlagt til at undgå sand og stejle skråninger."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "4963",
-          "label": "Mars-dag for billedet"
-        },
-        {
-          "tal": "2026",
-          "label": "År for opdagelsen"
-        }
-      ],
-      "detaljer": [
-        "Billedet blev taget med Left Navigation Camera.",
-        "Målinger blev gjort med MAHLI, APXS og ChemCam.",
-        "Der er sand og stejle skråninger i området."
-      ],
-      "betydning": "For almindelige danskere er det en påmindelse om, at Mars har en kompleks geologisk historie, som kan hjælpe os med at forstå planetens klima og muligheden for liv. Forskningen kan også inspirere til nye generationer af udforskere.",
-      "pointer": [
-        "Curiosity undersøger et hul i Mars' stenlag.",
-        "Hullet kan skyldes erodering fra vind eller vand.",
-        "Holdet har taget billeder og målt klipperne.",
-        "Næste skridt er at køre hen over overfladen."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "First AI-driven telescope goes stargazing",
-      "link": "https://phys.org/news/2026-07-ai-driven-telescope-stargazing.html",
-      "dato": "2026-07-31T14:40:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Every night, astronomers must carefully assess changing weather, the intensity of moonlight and shifting atmospheric conditions before deciding where to point a telescope. It's a constant balancing act designed to squeeze as much science as possible from every precious hour beneath dark skies. Now, Northwestern University, University of Chicago and Fermilab scientists have developed a new artifici",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-ai-driven-telesc.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "AI-styret teleskop vælger selv observationsmål",
-      "resume_da": "Forskere har udviklet et AI-værktøj, der automatisk beslutter, hvor et teleskop skal pege hen, så astronomer kan udnytte mørke timer bedst muligt.",
-      "sektioner": [
-        {
-          "overskrift": "Nyt AI-værktøj",
-          "tekst": "Tre forskningsinstitutioner har sammen udviklet et AI-program, der selv vurderer vejr, måneskin og atmosfæriske forhold. Programmet kan dermed træffe beslutningen om, hvor teleskopet skal rettes, uden menneskelig indblanding."
-        },
-        {
-          "overskrift": "Bedre udnyttelse af tiden",
-          "tekst": "Tidligere skulle astronomer manuelt overveje mange faktorer for at vælge observationsmål. Med AI bliver processen automatisk og hurtigere, hvilket kan øge mængden af brugbar data fra hver klar nat."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "3",
-          "label": "Antal institutioner bag"
-        }
-      ],
-      "detaljer": [
-        "AI-værktøjet er udviklet af forskere fra Northwestern University, University of Chicago og Fermilab.",
-        "Systemet analyserer vejr, måneskin og atmosfæriske forhold.",
-        "Formålet er at optimere brugen af observationstid."
-      ],
-      "betydning": "For almindelige mennesker betyder det, at rumforskning kan blive mere effektiv og dermed levere flere opdagelser om universet.",
-      "pointer": [
-        "AI vælger selv observationsmål.",
-        "Baseret på vejr og lysforhold.",
-        "Skal øge mængden af data."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Surprising boiling behavior in liquids could advance future space missions",
-      "link": "https://phys.org/news/2026-07-behavior-liquids-advance-future-space.html",
-      "dato": "2026-07-31T14:40:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "When astronauts travel deeper into space, every drop of fuel becomes critical, and keeping those fuels stable for months or even years is one of the biggest engineering challenges facing future missions. Now, University of Florida researchers have uncovered a surprising behavior in boiling liquids that could help solve that challenge.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/spacecraft.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Overraskende kogeadfærd kan hjælpe fremtidens rummissioner",
-      "resume_da": "Forskere fra University of Florida har opdaget en uventet opførsel i kogende væsker, som kan være nøglen til at stabilisere brændstof i lange rumrejser.",
-      "sektioner": [
-        {
-          "overskrift": "Brændstof er afgørende",
-          "tekst": "Når astronauter rejser længere ud i rummet, er hver dråbe brændstof kritisk. At holde brændstoffet stabilt i måneder eller år er en stor udfordring."
-        },
-        {
-          "overskrift": "Ny opdagelse",
-          "tekst": "Forskere fra University of Florida har fundet en overraskende adfærd i kogende væsker. Denne opdagelse kan hjælpe med at løse udfordringen med brændstofstabilitet."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Forskere fra University of Florida står bag opdagelsen.",
-        "Opdagelsen handler om kogende væskers opførsel.",
-        "Den kan hjælpe med at stabilisere brændstof til fremtidige rummissioner."
-      ],
-      "betydning": "For almindelige mennesker betyder det, at fremtidens rumrejser kan blive mere pålidelige og effektive, hvilket kan bane vejen for længere missioner og ny viden om rummet.",
-      "pointer": [
-        "Opdagelse om kogende væsker.",
-        "Kan stabilisere brændstof i rummet.",
-        "Vigtig for fremtidige rummissioner."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space",
-      "link": "https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/",
-      "dato": "2026-07-31T14:11:34+00:00",
-      "kilde": "NASA",
-      "resume": "On July 27, technicians at NASA’s Kennedy Space Center in Florida installed a memory card containing 1,350,144 names as part of a commemorative plaque on the Nancy Grace Roman Space Telescope. The names were submitted by people globally, including astronauts from Artemis II and Artemis III. The memory card will travel with the Roman observatory [&#8230;]",
-      "billede": "https://images-assets.nasa.gov/image/KSC-20260727-PH-JMT01_0001/KSC-20260727-PH-JMT01_0001~large.jpg?w=1438&amp;h=1920&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-      "billede_alt": "People in blue protective suits and a red cherry picker work in an industrial high bay.",
-      "kategori": "Missioner",
-      "rubrik": "1,35 mio. navne skal med på NASA's nye rumteleskop",
-      "resume_da": "NASA har installeret et mindeplade med 1,35 millioner navne på Nancy Grace Roman-rumteleskopet. Teleskopet opsendes i august og skal observere universet fra et punkt en million miles fra Jorden.",
-      "sektioner": [
-        {
-          "overskrift": "Navne på vej til rummet",
-          "tekst": "Den 27. juli installerede teknikere et hukommelseskort med **1.350.144** navne på rumteleskopet. Navnene kommer fra mennesker over hele verden, inklusive astronauter fra Artemis II og III."
-        },
-        {
-          "overskrift": "Rejsen til L2",
-          "tekst": "Hukommelseskortet skal med teleskopet til punktet L2, omkring **1,6 millioner kilometer** fra Jorden. Her balancerer Solens og Jordens tyngdekraft, så teleskopet kan observere universet uforstyrret."
-        },
-        {
-          "overskrift": "Om teleskopet",
-          "tekst": "Teleskopet er opkaldt efter Dr. Nancy Grace Roman, NASA's første chef-astronom. Hun kæmpede for rumobservatorier, der kunne studere universet over Jordens slørende atmosfære og dele data bredt."
-        },
-        {
-          "overskrift": "Opsendelse i august",
-          "tekst": "NASA og SpaceX planlægger at sende teleskopet op tidligst den **30. august** med en Falcon Heavy-raket fra Kennedy Space Center i Florida. Det bliver en stor begivenhed for rumforskningen."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1.350.144",
-          "label": "Navne på hukommelseskortet"
-        },
-        {
-          "tal": "1,6 mio. km",
-          "label": "Afstand til L2-punktet"
-        },
-        {
-          "tal": "30. aug.",
-          "label": "Planlagt opsendelsesdato"
-        }
-      ],
-      "detaljer": [
-        "Installationen fandt sted 27. juli 2025 ved Kennedy Space Center.",
-        "Mindesmærket er en plade med hukommelseskort.",
-        "Navnene blev indsendt af mennesker globalt.",
-        "Artemis II og III astronauter har også bidraget med navne.",
-        "L2 er et tyngdepunkt, hvor Solens og Jordens kræfter balancerer.",
-        "Roman er opkaldt efter Nancy Grace Roman, NASA's første chef-astronom."
-      ],
-      "betydning": "Teleskopet skal undersøge fjerne galakser og exoplaneter, hvilket kan øge vores forståelse af universet. Det er relevant, fordi det kan give ny viden om vores plads i kosmos – og måske inspirere nye generationer til at interessere sig for rumfart.",
-      "pointer": [
-        "Teleskopet medbringer 1,35 mio. navne fra jordens borgere.",
-        "Det skal til L2-punktet, 1,6 mio. km væk.",
-        "Opsendelse er planlagt til 30. august 2025.",
-        "Teleskopet er opkaldt efter en kvindelig astronom."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "How to safely watch a solar eclipse",
-      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse",
-      "dato": "2026-07-31T14:00:00+00:00",
-      "kilde": "ESA",
-      "resume": "Video: 00:01:34 [English]: A solar eclipse is an unforgettable sight, but only if you watch it safely! ESA reserve astronaut Sara García Alonso shows you how to enjoy this incredible cosmic event using certified eclipse glasses and explains why ordinary sunglasses are not enough. Learn what happens during the different stages of an eclipse, when it is safe to look up, and how to experience one of ",
-      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/07/how_to_safely_watch_a_solar_eclipse/27395405-1-eng-GB/How_to_safely_watch_a_solar_eclipse_card_full.png",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Sådan ser du solformørkelse sikkert",
-      "resume_da": "ESA's reserveastronaut Sara García Alonso viser, hvordan man sikkert kan se en solformørkelse med certificerede formørkelsesbriller og hvorfor almindelige solbriller ikke er nok.",
-      "sektioner": [
-        {
-          "overskrift": "Hvorfor almindelige solbriller ikke er nok",
-          "tekst": "Almindelige solbriller beskytter ikke øjnene mod solens skadelige stråler under en formørkelse. Der skal specielle, certificerede formørkelsesbriller til."
-        },
-        {
-          "overskrift": "Sådan observerer du sikkert",
-          "tekst": "Brug kun briller med certificeret sikkerhedsstandard. Sara García Alonso viser i videoen, hvornår det er sikkert at kigge op, og hvordan du undgår at skade øjnene."
-        },
-        {
-          "overskrift": "Oplevelsen af formørkelsen",
-          "tekst": "En solformørkelse er en uforglemmelig begivenhed. Med de rigtige briller kan du trygt nyde et af de største shows i vores solsystem."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Videoen er på engelsk og spansk.",
-        "Sara García Alonso er reserveastronaut hos ESA.",
-        "Formørkelsesbriller skal være certificerede."
-      ],
-      "betydning": "Solformørkelser er fascinerende, men kan være farlige for øjnene. Denne guide hjælper almindelige mennesker med at opleve begivenheden sikkert uden at tage chancer med synet.",
-      "pointer": [
-        "Brug certificerede briller.",
-        "Almindelige solbriller er ikke nok.",
-        "Vær opmærksom på sikkerhed.",
-        "Få en uforglemmelig oplevelse sikkert."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Inside the effort to show Congress what war in space looks like",
-      "link": "https://spacenews.com/inside-the-effort-to-show-congress-what-war-in-space-looks-like/",
-      "dato": "2026-07-31T13:30:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "The Space Force Association’s National Spacepower Center is building an unclassified environment for demonstrating threats to satellites and their consequences on Earth The post Inside the effort to show Congress what war in space looks like appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/National-Spacepower-Center-Pilot-Demo-July-21-2026-46-1-scaled.jpg?fit=1024%2C683&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Ny mission: vise kongresfolk krig i rummet",
-      "resume_da": "Et nyt center vil vise politikere, hvordan trusler mod satellitter rammer Jorden. Målet er at få støtte til forsvaret af rummet.",
-      "sektioner": [
-        {
-          "overskrift": "Center til kampdemonstration",
-          "tekst": "Space Force Association bygger et center, der kan vise trusler mod satellitter og deres konsekvenser på Jorden. Det er hemmeligt, så alle kan se det."
-        },
-        {
-          "overskrift": "Politikere skal forstå",
-          "tekst": "Centret skal hjælpe kongresmedlemmer med at forstå, hvordan rumkrig påvirker hverdagen. Det kan få betydning for bevillinger."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Centret hedder National Spacepower Center.",
-        "Det er bygget af Space Force Association.",
-        "Det er et åbent miljø for demonstrationer."
-      ],
-      "betydning": "For almindelige danskere er det vigtigt, fordi rummet bliver mere strategisk. Hvis satellitter trues, kan det ramme kommunikation og GPS.",
-      "pointer": [
-        "Center skal vise trusler mod satellitter.",
-        "Målet er at uddanne politikere.",
-        "Kan påvirke forsvarsbudgetter.",
-        "Rummet bliver vigtigere for hverdagen."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Astronomers finally measure the full size of the largest known galaxy",
-      "link": "https://phys.org/news/2026-07-astronomers-full-size-largest-galaxy.html",
-      "dato": "2026-07-31T12:40:07+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Researchers have obtained the deepest images ever taken of IC 1101, allowing them to identify the galaxy's outer edge for the first time. The observations confirm it as the largest known galaxy, spanning roughly 520 kiloparsecs, or about 1.7 million light-years, and containing an estimated 3.4 trillion solar masses in stars. The paper was posted to the arXiv preprint server on July 16.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-finally-me.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Astronomer måler kæmpegalaksens fulde størrelse",
-      "resume_da": "Forskere har for første gang målt den fulde størrelse af IC 1101, den størst kendte galakse. Den strækker sig omkring 1,7 millioner lysår og indeholder 3,4 billioner solmasser i stjerner.",
-      "sektioner": [
-        {
-          "overskrift": "De dybeste billeder nogensinde",
-          "tekst": "Forskere har taget de dybeste billeder nogensinde af galaksen IC 1101. Det gjorde det muligt at se dens ydre kant for første gang. Observationerne bekræfter, at det er den størst kendte galakse."
-        },
-        {
-          "overskrift": "Enorme dimensioner",
-          "tekst": "Galaksen strækker sig over omkring **1,7 millioner lysår** i diameter. Den indeholder anslået **3,4 billioner** solmasser i form af stjerner. Det gør den til en af de mest massive galakser, vi kender."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1,7 mio. lysår",
-          "label": "Galaksens diameter"
-        },
-        {
-          "tal": "3,4 billioner solmasser",
-          "label": "Masse i stjerner"
-        }
-      ],
-      "detaljer": [
-        "IC 1101 er den størst kendte galakse.",
-        "Målingerne er baseret på de dybeste observationer nogensinde.",
-        "Resultaterne blev lagt på arXiv den 16. juli."
-      ],
-      "betydning": "Det giver os ny viden om universets største strukturer. Det hjælper os med at forstå, hvordan galakser vokser og udvikler sig.",
-      "pointer": [
-        "Største galakse målt fuldt ud.",
-        "Diameter på 1,7 mio. lysår.",
-        "3,4 billioner solmasser i stjerner.",
-        "Dybeste billeder nogensinde."
-      ],
-      "prio": 3
-    },
-    {
-      "titel": "Blue Origin continues rebuilding LC-36, prepares testing alternatives for New Glenn second stage",
-      "link": "https://www.nasaspaceflight.com/2026/07/blue-origin-update-july26/",
-      "dato": "2026-07-31T12:14:27+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "Two months after losing a New Glenn rocket to a pad explosion during a static&#8230; The post Blue Origin continues rebuilding LC-36, prepares testing alternatives for New Glenn second stage appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/MG_7150-scaled.jpg",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Blue Origin bygger om efter raketeksplosion",
-      "resume_da": "Blue Origin genopbygger sin raketrampe i Florida efter en eksplosion i maj. Planen er at vende tilbage til flyvning inden udgangen af 2026.",
-      "sektioner": [
-        {
-          "overskrift": "Opbygning efter eksplosion",
-          "tekst": "To måneder efter at en New Glenn-raket eksploderede på rampen under en test, arbejder Blue Origin på at gøre rampen klar igen. Virksomheden har fjernet de øverste dele af tårnet for at installere nye systemer. De har også installeret store døre på integrationsbygningen."
-        },
-        {
-          "overskrift": "Ny opsendelsesmetode",
-          "tekst": "I stedet for at bygge den ødelagte transporter op, vil Blue Origin bruge en ny metode. Raketten samles vandret i bygningen, flyttes til rampen, og løftes derefter op med en kran. Det sparer tid, siger direktøren."
-        },
-        {
-          "overskrift": "Test hos NASA",
-          "tekst": "Mens rampen er under genopbygning, skal New Glenns anden trin testes på NASAs Stennis Space Center. Det skal ske på samme teststand, som engang testede Saturn V-raketter til Månen. Testen forventes at starte til efteråret."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "27 m",
-          "label": "højde på dørpaneler"
-        },
-        {
-          "tal": "18.143 kg",
-          "label": "vægt per dørpanel"
-        },
-        {
-          "tal": "60 m",
-          "label": "bredde på døråbning"
-        }
-      ],
-      "detaljer": [
-        "Eksplosionen skete den 28. maj under en test. ",
-        "Raketten og rampen blev kraftigt beskadiget.",
-        "Tankfarmen og integrationsbygningen overlevede.",
-        "Blue Origin har selv sat mål om at flyve igen inden udgangen af 2026.",
-        "Årsagen til eksplosionen er endnu ikke fastlagt."
-      ],
-      "betydning": "Det er vigtigt, fordi Blue Origin er en af de store spillere inden for rumfart. Deres genopbygning og test viser, hvordan private virksomheder arbejder sammen med NASA. Det kan betyde flere opsendelser i fremtiden.",
-      "pointer": [
-        "Rampen genopbygges med ny teknologi.",
-        "NASA hjælper med test af andet trin.",
-        "Målet er at flyve igen i 2026.",
-        "Årsag til eksplosion er stadig ukendt."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "NASA still assessing Starliner-1 flight opportunities",
-      "link": "https://spacenews.com/nasa-still-assessing-starliner-1-flight-opportunities/",
-      "dato": "2026-07-31T12:13:25+00:00",
-      "kilde": "SpaceNews",
-      "resume": "A NASA official says that work with Boeing on the company’s CST-100 Starliner vehicle is making “good progress” but declined to offer a date when the spacecraft could fly again. The post NASA still assessing Starliner-1 flight opportunities appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/53988402529_bec93e5a26_k.jpg?fit=1024%2C683&amp;ssl=1",
-      "billede_alt": "Starliner undocking",
-      "kategori": "Missioner",
-      "rubrik": "NASA venter på ny Starliner-dato",
-      "resume_da": "NASA siger, at arbejdet med Boeings Starliner går godt, men vil ikke give en ny dato for næste flyvning.",
-      "sektioner": [
-        {
-          "overskrift": "God fremgang, ingen dato",
-          "tekst": "En NASA-chef siger, at arbejdet med Boeings Starliner gør 'gode fremskridt'. Men han vil ikke sige, hvornår rumskibet kan flyve igen. Det er endnu uklart, hvornår Starliner-1 missionen kan finde sted."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "NASA vurderer stadig mulighederne for Starliner-1-flyvningen.",
-        "Boeing er involveret i arbejdet med CST-100 Starliner."
-      ],
-      "betydning": "For almindelige danskere betyder det, at usikkerheden om Starliners fremtid fortsætter, hvilket kan påvirke NASA's planer om at sende astronauter til rummet.",
-      "pointer": [
-        "Ingen ny dato for Starliner-flyvning.",
-        "NASA siger, arbejdet skrider godt frem.",
-        "Starliner-1 er stadig under vurdering."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "The new space wars: lessons from Ukraine and the Middle East",
-      "link": "https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east/",
-      "dato": "2026-07-31T12:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "In March 2021, while serving as a senior fellow at the Brookings Institution, I hosted a discussion with General Chance Saltzman, now Chief of Space Operations for the United States [&#8230;] The post The new space wars: lessons from Ukraine and the Middle East appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/Belaya-Air-Base-Strike_Irkutsk-Oblast-Russia_20250604_014408_ssc4_geo_rgb_detail_50cm_4826px.jpg?fit=1024%2C576&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Nye rumkrige: Lær fra Ukraine og Mellemøsten",
-      "resume_da": "En artikel om, hvordan krigen i Ukraine og konflikter i Mellemøsten viser, at rummet bliver et nyt slagmark for stormagterne.",
-      "sektioner": [
-        {
-          "overskrift": "Rummets nye rolle i krig",
-          "tekst": "Rummet er ikke længere kun et sted for fredelig udforskning. Det er blevet et vigtigt område i moderne krigsførelse. Erfaringer fra Ukraine og Mellemøsten viser, at satellitter bruges til både spionage og kommunikation."
-        },
-        {
-          "overskrift": "USA's syn på rummet",
-          "tekst": "General Chance Saltzman, der er chef for USA's rumoperationer, har holdt møder om disse emner. Artiklen bygger på en diskussion fra 2021. Det viser, at USA tager trusler fra rummet alvorligt."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Artiklen er fra SpaceNews.",
-        "General Chance Saltzman er nævnt som leder af USA's rumoperationer."
-      ],
-      "betydning": "Det er vigtigt for os almindelige danskere at forstå, at rummet bliver en del af internationale konflikter. Det kan påvirke sikkerheden og teknologien, vi bruger i hverdagen.",
-      "pointer": [
-        "Rummet er nyt slagmark for stormagterne.",
-        "Erfaringer fra Ukraine og Mellemøsten er centrale.",
-        "USA's rumchef er involveret i diskussionen.",
-        "Rummet får større betydning i krig"
-      ],
-      "prio": 6
     }
   ]
 }
