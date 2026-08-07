@@ -1,7 +1,63 @@
 {
-  "opdateret": "2026-08-07T20:05:10.421459+00:00",
+  "opdateret": "2026-08-07T23:49:55.833694+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Relativity Space engine integration milestone for Terran-R first stage",
+      "link": "https://www.nasaspaceflight.com/2026/08/relativity-engine-integration-milestone-terran-r/",
+      "dato": "2026-08-07T21:04:43+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "Relativity Space has marked another significant step forward in the development of its reusable Terran&#8230; The post Relativity Space engine integration milestone for Terran-R first stage appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-07-21-46-19-317.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Relativity begynder motorintegration på Terran R",
+      "resume_da": "Relativity Space har installeret de første Aeon R-motorer på Terran R's første trin. Rakettens tank har bestået styrketest, og andet trin testes.",
+      "sektioner": [
+        {
+          "overskrift": "Motorer på plads",
+          "tekst": "De første Aeon R-motorer er nu installeret på Terran R's thrust structure. Hver motor yder 269.000 lbf ved havoverfladen, og i alt giver de 13 motorer en samlet løftekraft på 3,497,000 lbf. Alle motorer var testet før installation."
+        },
+        {
+          "overskrift": "Styrketest bestået",
+          "tekst": "Den dedikerede testartikel for første trin gennemgik 420 trykcyklusser og 62 belastningstilfælde. Testene kulminerede med en aksial kompression på 4,3 millioner lbf. Dette validerer tankens evne til at modstå belastninger under flyvning."
+        },
+        {
+          "overskrift": "Andet trin testes",
+          "tekst": "Andre trin gennemgår kryogene test ved NASA Stennis Space Center. Det har bestået kryoproof og test af COPV-manifolder. Næste skridt er installation af Aeon V-motoren og en hot-fire test."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "13",
+          "label": "antal Aeon R-motorer på første trin"
+        },
+        {
+          "tal": "420",
+          "label": "trykcyklusser i styrketest"
+        },
+        {
+          "tal": "4,3 millioner lbf",
+          "label": "maksimal aksial kompression i test"
+        }
+      ],
+      "detaljer": [
+        "Thrust structure kan rumme 13 Aeon R-motorer.",
+        "Hver motor yder 269.000 lbf ved havoverfladen.",
+        "Samlet løftekraft er 3.497.000 lbf.",
+        "Testartiklen gennemgik 420 trykcyklusser og 62 belastningstilfælde.",
+        "Andet trin gennemgår kryogene test ved NASA Stennis.",
+        "Næste skridt er hot-fire test af begge trin."
+      ],
+      "betydning": "Terran R kan blive en vigtig spiller i den tunge løfteklasse, hvilket kan øge konkurrencen og sænke priserne på rumopsendelser. Det kan betyde flere muligheder for danske forskere og virksomheder.",
+      "pointer": [
+        "Motorintegration er begyndt på Terran R's første trin.",
+        "Styrketest af første trin er gennemført.",
+        "Andet trin testes ved NASA Stennis.",
+        "Raketten kan flyve tidligst i slutningen af 2026."
+      ],
+      "prio": 7
+    },
     {
       "titel": "2026 IGARSS Hyperwall Schedule",
       "link": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/",
@@ -4312,42 +4368,6 @@
         "Samarbejde med Adidas om undervisningsvideo"
       ],
       "prio": 5
-    },
-    {
-      "titel": "Airbus and Thales win order for SpainSat replacement",
-      "link": "https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/",
-      "dato": "2026-08-03T12:15:34+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Airbus Defence and Space and Thales Alenia Space will build a replacement military communications satellite for Spain as they, along with Leonardo, continue efforts on a space joint venture. The post Airbus and Thales win order for SpainSat replacement appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/spainsat-ng3.jpeg?fit=1024%2C745&amp;ssl=1",
-      "billede_alt": "SpainSat NG 3",
-      "kategori": "Politik & penge",
-      "rubrik": "Airbus og Thales skal bygge ny spansk militærsatellit",
-      "resume_da": "Airbus og Thales Alenia Space vinder ordre på en ny spansk militærkommunikationssatellit, der skal erstatte SpainSat. Det er et led i deres planer om et rumfarts-fællesskab med Leonardo.",
-      "sektioner": [
-        {
-          "overskrift": "Ny satellit til Spanien",
-          "tekst": "Airbus Defence and Space og Thales Alenia Space skal bygge en ny militær kommunikationssatellit for Spanien. Den nye satellit skal erstatte den eksisterende SpainSat. Ordren kommer samtidig med, at de to selskaber sammen med Leonardo arbejder på et fælles rumfartssamarbejde."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1",
-          "label": "ny satellit"
-        }
-      ],
-      "detaljer": [
-        "Airbus og Thales vinder ordre på SpainSat-erstatning",
-        "Ordren er til en militær kommunikationssatellit",
-        "Samarbejde med Leonardo om rumfart"
-      ],
-      "betydning": "For en almindelig dansker viser det, at Europa satser på militær rumteknologi, hvilket kan have betydning for sikkerhed og forsvar i hele EU, herunder Danmark.",
-      "pointer": [
-        "Airbus og Thales bygger ny spansk militærsatellit",
-        "Satellitten skal erstatte SpainSat",
-        "De arbejder også på fælles satsning med Leonardo"
-      ],
-      "prio": 4
     }
   ]
 }
