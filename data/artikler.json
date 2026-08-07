@@ -1,7 +1,77 @@
 {
-  "opdateret": "2026-08-07T09:37:39.081008+00:00",
+  "opdateret": "2026-08-07T12:30:48.928966+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "An ultramassive white dwarf half Earth's size may hold a rare oxygen-neon core",
+      "link": "https://phys.org/news/2026-08-ultramassive-white-dwarf-earth-size.html",
+      "dato": "2026-08-07T12:00:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Astronomers have found evidence that one of the most massive white dwarfs known has an oxygen-neon core instead of the more common carbon-oxygen core. The finding is important because the composition of a white dwarf's core determines how it will evolve. A paper outlining this discovery was published in The Astrophysical Journal.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-probe-the-1.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Kæmpe dværgstjerne med ilt-neon kerne fundet",
+      "resume_da": "Astronomer har fundet en usædvanlig massiv hvid dværg, der måske har en kerne af ilt og neon i stedet for den normale kulstof-ilt kerne.",
+      "sektioner": [
+        {
+          "overskrift": "Usædvanlig hvid dværg",
+          "tekst": "En hvid dværg er resterne af en stjerne som Solen. De fleste hvide dværge har en kerne af kulstof og ilt. Men denne nye opdagelse tyder på, at en af de mest massive hvide dværge har en kerne af ilt og neon."
+        },
+        {
+          "overskrift": "Vigtig for stjerners udvikling",
+          "tekst": "Kernens sammensætning er afgørende for, hvordan den hvide dværg udvikler sig. Forskningen blev offentliggjort i The Astrophysical Journal."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Den hvide dværg er halvt så stor som Jorden.",
+        "Den er en af de mest massive hvide dværge, man kender.",
+        "Observationen blev offentliggjort i The Astrophysical Journal."
+      ],
+      "betydning": "Opdagelsen hjælper forskere med at forstå, hvordan stjerner udvikler sig, og kan ændre vores viden om universets udvikling.",
+      "pointer": [
+        "Usædvanlig hvid dværg fundet.",
+        "Kernen består måske af ilt og neon.",
+        "Kan ændre forståelsen af stjerners liv."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Europe increases size and cost of IRIS² constellation",
+      "link": "https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation/",
+      "dato": "2026-08-07T11:51:44+00:00",
+      "kilde": "SpaceNews",
+      "resume": "The European Commission has reached an agreement with an industrial consortium to proceed with a secure connectivity constellation, increasing the number of satellites as well as its cost. The post Europe increases size and cost of IRIS² constellation appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/iris2.jpeg?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "IRIS2",
+      "kategori": "Politik & penge",
+      "rubrik": "Europas nye satellitnet bliver større og dyrere",
+      "resume_da": "EU har aftalt med industrien at opgradere IRIS²-konstellationen med flere satellitter, hvilket øger omkostningerne.",
+      "sektioner": [
+        {
+          "overskrift": "Større konstellation",
+          "tekst": "Den europæiske kommission har indgået en aftale med et industrielt konsortium om at fortsætte med at bygge et sikkert kommunikationsnetværk. Antallet af satellitter bliver nu øget, hvilket også øger prisen på projektet."
+        },
+        {
+          "overskrift": "Prisen stiger",
+          "tekst": "De samlede omkostninger for hele projektet er steget. Det er ikke specificeret, hvor meget det stiger med, men projektet er nu større end oprindeligt planlagt."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Den europæiske kommission har aftalt med et konsortium at fortsætte med et sikkert kommunikationsnetværk.",
+        "Konstellationen vil få flere satellitter end oprindeligt planlagt.",
+        "Omkostningerne for projektet vil stige."
+      ],
+      "betydning": "For almindelige danskere betyder det, at EU satser på mere sikker kommunikation, hvilket kan påvirke fremtidige tjenester som mobilnet og internet i hele Europa.",
+      "pointer": [
+        "Flere satellitter i rummet",
+        "Dyrt projekt for EU",
+        "Sikker kommunikation i fokus"
+      ],
+      "prio": 6
+    },
     {
       "titel": "NASA’s Lunar Development and Test Facility Prepares Artemis Hardware for Moon",
       "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/",
@@ -1019,6 +1089,40 @@
       "prio": 5
     },
     {
+      "titel": "Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket",
+      "link": "https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket/",
+      "dato": "2026-08-06T10:48:03+00:00",
+      "kilde": "SpaceNews",
+      "resume": "HELSINKI — Commercial launch company Orienspace has kicked off preparations for an IPO coaching process while closing a funding round for accelerating its reusable Gravity-2 rocket. The Shandong-based company, formally [&#8230;] The post Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/01/Gravity-1-launch-prep-Defu-15002-11jan2024-orienspace-1.jpg?fit=1024%2C764&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Opsendelser",
+      "rubrik": "Kinesisk raketfirma mod penge til genbrugsraket",
+      "resume_da": "Orienspace fra Kina har fået ny finansiering og forbereder en børsnotering for at udvikle den genanvendelige Gravity-2-raket.",
+      "sektioner": [
+        {
+          "overskrift": "Finansiering og børsplaner",
+          "tekst": "Orienspace har afsluttet en finansieringsrunde og er begyndt forberedelserne til en børsnotering. Pengene skal gå til udvikling af Gravity-2-raketten."
+        },
+        {
+          "overskrift": "Genbrugelig raket",
+          "tekst": "Gravity-2 er en raket, der skal kunne genbruges. Det gør opsendelser billigere og hurtigere for virksomheden."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Virksomheden er baseret i Shandong-provinsen i Kina.",
+        "Målet er at fremme udviklingen af den genanvendelige Gravity-2-raket."
+      ],
+      "betydning": "Historien viser, at Kina satser på genanvendelige raketter, hvilket kan gøre rumfart billigere for alle i fremtiden.",
+      "pointer": [
+        "Orienspace får ny kapital.",
+        "Børsnotering er på vej.",
+        "Raketten Gravity-2 skal genbruges."
+      ],
+      "prio": 5
+    },
+    {
       "titel": "Webb opens a Treasure Chest filled with stars",
       "link": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
       "dato": "2026-08-06T08:00:00+00:00",
@@ -1122,6 +1226,65 @@
         "Kan forklare opvarmning af solkoronaen."
       ],
       "prio": 6
+    },
+    {
+      "titel": "How the Tide Turns at the Mouth of the Elbe",
+      "link": "https://science.nasa.gov/earth/earth-observatory/how-the-tide-turns-at-the-mouth-of-the-elbe/",
+      "dato": "2026-08-06T04:01:00+00:00",
+      "kilde": "NASA",
+      "resume": "The ocean’s ebbs and flows reveal dynamic tidal flats and a well-traveled shipping route along the coast of Germany.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/how-the-tide-turns-at-the-mouth-of-the-elbe/germanytide_oli2_20250815.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Elbens flodmunding former af tidevandet",
+      "resume_da": "Nye satellitbilleder viser, hvordan tidevandet ændrer Elbens munding. Området er hjem for rige naturområder og en vigtig skibsrute.",
+      "sektioner": [
+        {
+          "overskrift": "Tidevandet former området",
+          "tekst": "Ved Elbens udløb ændrer landskabet sig med tidevandet. Vandstanden svinger normalt **2,9 meter**. Det er et såkaldt mesotidal område, hvilket betyder, at tidevandet er medium højt."
+        },
+        {
+          "overskrift": "Rige naturområder",
+          "tekst": "Ved lavvande kommer store mudderflader og sandbanker frem. De er en del af Vadehavet, som strækker sig fra Holland til Syddanmark. Mere end **10 millioner** trækfugle bruger området hvert år."
+        },
+        {
+          "overskrift": "Vigtig for skibsfart",
+          "tekst": "Floden er en vigtig rute for skibe til Hamborg, som er EU's tredjestørste containerhavn. Der skal graves for at holde sejlrenden åben, og nogle skibe kan kun passere ved højvande."
+        },
+        {
+          "overskrift": "Fremtidige risici",
+          "tekst": "Stormfloder kan være farlige, og i **1976** blev der målt **5,1 meter** over normal vandstand. Havniveauet stiger med **2,12 millimeter** om året, og nye satellitter som SWOT og NISAR skal hjælpe med at overvåge vandstandene."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2,9 meter",
+          "label": "Gennemsnitlig tidevandsforskel"
+        },
+        {
+          "tal": "10 millioner",
+          "label": "Trækfugle om året"
+        },
+        {
+          "tal": "0,70 fod pr. århundrede",
+          "label": "Havniveaustigning"
+        }
+      ],
+      "detaljer": [
+        "Billederne er taget af Landsat 9-satellitten.",
+        "Elben er over 1.000 kilometer lang.",
+        "Vadehavet er verdens største sammenhængende område med tidevandssand og mudder.",
+        "Neuwerk er en ø med den ældste bygning på den tyske kyst.",
+        "Kiel-kanalen forbinder Nordsøen og Østersøen."
+      ],
+      "betydning": "For almindelige danskere viser historien, hvordan naturen og skibsfart er forbundet, og at klimaforandringer påvirker kystområder. Det kan have betydning for danske kyster og økonomi.",
+      "pointer": [
+        "Tidevandet ændrer Elbens munding markant.",
+        "Området er vigtigt for både natur og skibsfart.",
+        "Stormfloder og stigende havniveau er en risiko.",
+        "Satellitter overvåger ændringerne."
+      ],
+      "prio": 5
     },
     {
       "titel": "Diffuse inter-filament gas is likely a key fuel source for massive star formation",
@@ -4213,162 +4376,6 @@
         "Der er travlt med pladser ved rumstationen."
       ],
       "prio": 6
-    },
-    {
-      "titel": "China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat",
-      "link": "https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/",
-      "dato": "2026-08-01T13:38:42+00:00",
-      "kilde": "SpaceNews",
-      "resume": "HELSINKI — China sent a new pair of secretive satellites into a programmatically new orbit Wednesday, while also upgrading its on-orbit communications relay capabilities. A Long March 6A rocket lifted [&#8230;] The post China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/TJS27A-B_CZ6A_TSLC-30july2026-OS.jpg?fit=1024%2C679&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Opsendelser",
-      "rubrik": "Kina sender nye hemmelige satellitter i kredsløb",
-      "resume_da": "Kina har sendt et par nye hemmelige satellitter i en ny type bane og opgraderet sit kommunikationsrelæ-system i rummet.",
-      "sektioner": [
-        {
-          "overskrift": "Ny opsendelse",
-          "tekst": "En Long March 6A-raket blev sendt op onsdag. Den medbragte et par hemmelige satellitter kaldet TJS-27. De er i en ny slags bane, som ikke er set før."
-        },
-        {
-          "overskrift": "Nyt relæsatellitsystem",
-          "tekst": "Samtidig har Kina sendt en ny generation af Tianlian-relæsatellitter i kredsløb. De skal forbedre kommunikationen mellem jorden og rumfartøjer. Det er en vigtig opgradering af Kinas rumkapacitet."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "Long March 6A",
-          "label": "Rakettype brugt til opsendelsen"
-        }
-      ],
-      "detaljer": [
-        "De nye satellitter er hemmelige.",
-        "Opsendelsen skete onsdag.",
-        "De er i en programmatisk ny bane.",
-        "Tianlian er et relæsatellitsystem."
-      ],
-      "betydning": "Kinas rumaktiviteter kan have konsekvenser for den globale rumfartsbalance og teknologiske udvikling.",
-      "pointer": [
-        "Kina har sendt hemmelige satellitter op.",
-        "En ny rakettype blev brugt.",
-        "Kommunikationssystemet er opgraderet.",
-        "Det viser Kinas rumambitioner."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "'Flight of the Navigator' at 40: the Disney space movie that messed with time dilation long before 'Interstellar'",
-      "link": "https://www.space.com/entertainment/space-movies-shows/flight-of-the-navigator-at-40-the-disney-space-movie-that-messed-with-time-dilation-long-before-interstellar",
-      "dato": "2026-08-01T12:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "40 years later, 'Flight of the Navigator' remains an ambitious cult classic that refuses to speak down to its target audience.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/JKHSi2hhQ4G4EXB9FAG48-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "40 år med 'Flight of the Navigator'",
-      "resume_da": "Disney-filmen 'Flight of the Navigator' fylder 40 år. Den legede med tidsforvrængning længe før 'Interstellar'.",
-      "sektioner": [
-        {
-          "overskrift": "Før sin tid",
-          "tekst": "Filmen handlede om en dreng, der blev sendt ud i rummet og vendte tilbage til en fremtid, hvor han ikke var blevet ældre. Dette koncept med tidsforvrængning er blevet brugt i mange andre film, men 'Flight of the Navigator' gjorde det allerede for 40 år siden."
-        },
-        {
-          "overskrift": "Kultstatus i dag",
-          "tekst": "Selvom filmen ikke var et kæmpehit dengang, har den opnået kultstatus. Den huskes for sin unikke blanding af familiefilm og science fiction, og den har inspireret mange filmskabere."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "40 år",
-          "label": "Filmens alder i 2026"
-        }
-      ],
-      "detaljer": [
-        "Filmen 'Flight of the Navigator' blev udgivet af Disney.",
-        "Den omhandler tid og rum på en måde, der var usædvanlig for tiden.",
-        "Historien er om en dreng, der oplever tidsforvrængning."
-      ],
-      "betydning": "Filmen er et eksempel på, hvordan science fiction kan udforske komplekse videnskabelige begreber på en forståelig måde. Det kan vække interesse for rumfart og fysik hos almindelige mennesker.",
-      "pointer": [
-        "Filmen fylder 40 år.",
-        "Tidsforvrængning var tidligt tema.",
-        "Den har opnået kultstatus.",
-        "Inspirerede andre film."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Solar wind stirs Mars' upper atmosphere, boosting ion loss to space",
-      "link": "https://phys.org/news/2026-07-solar-mars-upper-atmosphere-boosting.html",
-      "dato": "2026-08-01T10:20:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Our sun constantly releases a stream of high-speed charged particles, known as the solar wind. Unlike Earth, Mars does not have a strong global magnetic field to shield its atmosphere from this flow. As a result, the solar wind can interact directly with Mars' upper atmosphere and gradually strip atmospheric particles into space.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-sun-is-strippi.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Solvind øger tab af ioner fra Mars' atmosfære",
-      "resume_da": "Forskning viser, at solvinden pisker den øverste del af Mars' atmosfære op og dermed øger tabet af ioner til rummet. Uden beskyttende magnetfelt mister Mars langsomt sin atmosfære.",
-      "sektioner": [
-        {
-          "overskrift": "Solvindens påvirkning",
-          "tekst": "Solen udsender konstant strømme af højhastighedspartikler kaldet solvind. Jorden er beskyttet af et stærkt magnetfelt, men Mars har ingen sådan skjold."
-        },
-        {
-          "overskrift": "Tabet af ioner",
-          "tekst": "Derfor rammer solvinden direkte Mars' øvre atmosfære. Den kan gradvist rive partikler løs og sende dem ud i rummet."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Solvinden består af ladede partikler med høj hastighed.",
-        "Mars mangler et globalt magnetfelt.",
-        "Solvinden interagerer direkte med atmosfæren.",
-        "Tab af atmosfæriske partikler sker løbende."
-      ],
-      "betydning": "Det hjælper os med at forstå, hvordan Mars mister sin atmosfære, hvilket er vigtigt for fremtidige missioner og søgen efter liv.",
-      "pointer": [
-        "Mars mister atmosfære til rummet.",
-        "Årsagen er manglende magnetfelt.",
-        "Solvinden øger tabet."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "August Podcast: Three Big Events!",
-      "link": "https://skyandtelescope.org/stargazing-and-observing/astronomy-podcasts/sky-tour-podcast-august-2026/",
-      "dato": "2026-08-01T06:00:00+00:00",
-      "kilde": "Sky & Telescope",
-      "resume": "This month we’ve got three big celestial events to cover: eclipses of the Sun and Moon, and especially good prospects for the Perseid meteor shower. Plus we’ll track down a few planets, and gaze at the center of our galaxy. So load up on the bug juice, and come along on this month’s Sky Tour. The post August Podcast: Three Big Events! appeared first on Sky &amp; Telescope .",
-      "billede": null,
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "August byder på sol- og måneformørkelse og Perseider",
-      "resume_da": "August har tre store himmelbegivenheder: sol- og måneformørkelse samt et godt Perseid-meteorregn. Der er også planeter og Mælkevejens centrum at se.",
-      "sektioner": [
-        {
-          "overskrift": "Månedens tre begivenheder",
-          "tekst": "I august er der både sol- og måneformørkelse. Der er også ekstra gode chancer for at se Perseidernes meteorregn. Det skriver Sky & Telescope."
-        },
-        {
-          "overskrift": "Andre himmelseværdigheder",
-          "tekst": "Ud over formørkelser og meteorer kan man også se et par planeter. Samtidig kan man kigge mod centrum af vores galakse, Mælkevejen."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Podcasten 'Sky Tour' gennemgår månedens begivenheder.",
-        "Sollys og måneformørkelse nævnes som særlige begivenheder.",
-        "Perseiderne forventes at være ekstra gode i august.",
-        "Planeter og Mælkevejens centrum er også på programmet."
-      ],
-      "betydning": "For almindelige danskere er det en guide til at opleve spændende astronomiske begivenheder med det blotte øje eller en kikkert.",
-      "pointer": [
-        "Tre store himmelbegivenheder i august.",
-        "Formørkelser og meteorregn.",
-        "Planeter og Mælkevejen.",
-        "Lyt til podcasten for detaljer."
-      ],
-      "prio": 7
     }
   ]
 }
