@@ -1,7 +1,150 @@
 {
-  "opdateret": "2026-08-07T16:38:08.129459+00:00",
+  "opdateret": "2026-08-07T20:05:10.421459+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "2026 IGARSS Hyperwall Schedule",
+      "link": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/",
+      "dato": "2026-08-07T18:57:34+00:00",
+      "kilde": "NASA",
+      "resume": "IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3:00 PM Technology Enabling the Future of Earth ScienceMike Seablom3:15 PM Discovery Earth: New Missions &#038; Technical Innovation Advancing Earth System InsightsKaren St. Germain TUESDAY, AUGUST 11 10:00 AMSTELLA: Open-Source Multisenor Platforms For ",
+      "billede": null,
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "NASA Hyperwall-program på IGARSS 2026 offentliggjort",
+      "resume_da": "NASA har udgivet programmet for deres Hyperwall-præsentationer på konferencen IGARSS 2026. Her vil eksperter fortælle om jordobservation, nye missioner og teknologier.",
+      "sektioner": [
+        {
+          "overskrift": "Mandag: Jordvidenskab og teknologi",
+          "tekst": "Mandag den 10. august kl. 15.00 fortæller Mike Seablom om teknologi til jordvidenskab. Kl. 15.15 præsenterer Karen St. Germain nye missioner og innovationer inden for jordsystemforskning."
+        },
+        {
+          "overskrift": "Tirsdag: Miljøovervågning og oceaner",
+          "tekst": "Tirsdag den 11. august kl. 10.00 handler det om STELLA, en open-source platform til miljøovervågning. Kl. 15.00 fortæller Robert O. Green om at finde mineralressourcer med NASA's billedspektroskopi. Paul Chang taler om havobservationer fra satellitter."
+        },
+        {
+          "overskrift": "Onsdag: Data og satelitter",
+          "tekst": "Onsdag den 12. august kl. 10.00 præsenterer Joel Scott, hvordan jordvidenskabelige data kan gavne samfundet. Kl. 15.00 opdaterer Paul Rosen og Marco Lavalle om NISAR-satellitten et år efter opsendelsen."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "NASA's Hyperwall-præsentationer finder sted i udstillingshallen (stand nr. 100) på IGARSS 2026.",
+        "Konferencen løber fra 10. til 12. august 2026.",
+        "Alle præsentationer er med NASA-eksperter.",
+        "Der er to præsentationer hver dag kl. 10.00 og 15.00."
+      ],
+      "betydning": "For almindelige danskere kan dette program give indsigt i, hvordan NASA overvåger Jorden, hvilket kan have betydning for klimaforståelse og teknologiske fremskridt. Det kan også inspirere til interesse for rumfart og forskning.",
+      "pointer": [
+        "NASA offentliggør program for IGARSS 2026.",
+        "Ni præsentationer om jordobservation og teknologi.",
+        "Fokus på NISAR-satellit og nye missioner.",
+        "Relevant for klima- og miljøforskning."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "FCC Space Bureau deputy takes the reins amid licensing overhaul",
+      "link": "https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul/",
+      "dato": "2026-08-07T17:54:30+00:00",
+      "kilde": "SpaceNews",
+      "resume": "The FCC is turning to Space Bureau deputy chief Jennifer Gilsenan to keep its satellite regulatory overhaul moving as Jay Schwarz prepares to retire as its chief later this month. The post FCC Space Bureau deputy takes the reins amid licensing overhaul appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/20250407_SpaceSymposium40_StudioCopan_003-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Jay Schwarz træder tilbage som chef for FCC's rumkontor",
+      "resume_da": "Jay Schwarz forlader posten som chef for FCC's rumkontor. Jennifer Gilsenan overtager ansvaret, mens satellitlicenssystemet er under omlægning.",
+      "sektioner": [
+        {
+          "overskrift": "Personaleændring hos FCC",
+          "tekst": "Jay Schwarz stopper som chef for FCC's rumkontor i slutningen af måneden. Jennifer Gilsenan, som er vicechef, overtager ledelsen. Det sker, mens kontoret står midt i en stor opgave med at modernisere satellitlicenseringen."
+        },
+        {
+          "overskrift": "Store ændringer på vej",
+          "tekst": "FCC arbejder på at opdatere sine regler for satellitter, blandt andet for at håndtere den voksende mængde af satellitter i omløb. Det er en stor opgave, som kræver kontinuitet og erfaring."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Jay Schwarz trækker sig tilbage som chef for FCC's Space Bureau.",
+        "Jennifer Gilsenan er vicechef og overtager midlertidigt.",
+        "Skiftet sker, mens FCC er i gang med at ændre sine satellitregler."
+      ],
+      "betydning": "Det er vigtigt at følge med i, hvem der styrer rumreguleringen i USA, fordi det påvirker, hvordan fremtidens satellitter og rumaktiviteter bliver godkendt – også for danske virksomheder og myndigheder.",
+      "pointer": [
+        "Jay Schwarz stopper som chef for FCC's rumkontor.",
+        "Jennifer Gilsenan tager over.",
+        "Satellitreglerne er under forandring."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "Galactic spins carry fingerprints of the primordial universe",
+      "link": "https://phys.org/news/2026-08-galactic-fingerprints-primordial-universe.html",
+      "dato": "2026-08-07T17:20:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "The origin of spin in spiral and elliptical galaxies has posed a long-standing puzzle for astronomers. One idea, known as tidal torque theory, proposes that galaxies' spins are an imprinted record of the early universe, imparted by gravity long before galaxies first formed and still detectable in galaxies today.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/galactic-rotations-car.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Galaksers spin afslører det tidlige univers",
+      "resume_da": "Forskere foreslår, at spin i galakser kan være et aftryk fra det tidlige univers, skabt af gravitation før galakserne blev dannet.",
+      "sektioner": [
+        {
+          "overskrift": "Gåden om galaksers spin",
+          "tekst": "Astronomer har længe undret sig over, hvorfor galakser roterer. En teori, kaldet tidal torque-teorien, peger på, at spin blev påvirket af gravitation i det tidlige univers. Dette aftryk skulle stadig kunne ses i nutidens galakser."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Tidal torque-teorien: spin i galakser er et aftryk fra det tidlige univers, skabt af gravitation før galakserne blev dannet.",
+        "Gælder både spiral- og elliptiske galakser."
+      ],
+      "betydning": "Ny viden om galaksers oprindelse kan hjælpe os med at forstå universets historie og de fysiske love, der formede det.",
+      "pointer": [
+        "Galakser roterer, og årsagen er et mysterium.",
+        "Tidal torque-teorien: spin er et aftryk fra det tidlige univers.",
+        "Gravitation påvirkede spin før galakserne blev dannet.",
+        "Aftrykket er stadig synligt i dag."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "How to safely observe eclipses and the solar surface with a smart telescope",
+      "link": "https://www.space.com/stargazing/skywatching-kit/how-to-safely-observe-eclipses-and-the-solar-surface-with-a-smart-telescope",
+      "dato": "2026-08-07T17:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "Solar observation is easy with a smart telescope like the Unistellar eQuinox 2 and the matching filter, meaning you can capture it with no stress on big events like the Aug. 12 total solar eclipse.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/F4K6mWFSYianWE8h3bMjbT-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Sådan ser du solformørkelser sikkert",
+      "resume_da": "En guide til at observere solen og formørkelser med et smart teleskop. Vigtige sikkerhedsregler for at beskytte øjnene.",
+      "sektioner": [
+        {
+          "overskrift": "Sikkerhed først",
+          "tekst": "Det er farligt at se direkte på solen uden beskyttelse. Brug altid godkendte solfiltre eller specielle solbriller. Et smart teleskop kan gøre det lettere, men kræver stadig forsigtighed."
+        },
+        {
+          "overskrift": "Sådan gør du",
+          "tekst": "Find et solfilter, der passer til dit teleskop. Sæt det på, før du kigger gennem teleskopet. Tjek at det er sikkert fastgjort. Følg altid producentens anvisninger."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Brug altid godkendte solfiltre",
+        "Sørg for at solfilteret er korrekt monteret",
+        "Følg producentens anvisninger"
+      ],
+      "betydning": "For almindelige danskere, der er nysgerrige på solformørkelser, giver artiklen vigtig viden om, hvordan man observerer solen sikkert, så man undgår øjenskader.",
+      "pointer": [
+        "Beskyttelse er nødvendig",
+        "Filtre skal være godkendt",
+        "Følg vejledningen",
+        "Vær forsigtig"
+      ],
+      "prio": 5
+    },
     {
       "titel": "Uranus's unusual rotation makes its bow shock expand and contract each day",
       "link": "https://phys.org/news/2026-08-uranus-unusual-rotation-day.html",
@@ -4203,176 +4346,6 @@
         "Airbus og Thales bygger ny spansk militærsatellit",
         "Satellitten skal erstatte SpainSat",
         "De arbejder også på fælles satsning med Leonardo"
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "A 21-hour dip could help explain Tabby's star's decade-long dimming mystery",
-      "link": "https://phys.org/news/2026-07-hour-dip-tabby-star-decade.html",
-      "dato": "2026-08-03T12:00:05+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Since 2016, an ordinary-looking F-type star called KIC 8462852, nicknamed Tabby's star, has behaved anything but ordinarily. In a new study published in the Monthly Notices of the Royal Astronomical Society on July 6, researchers revisited this star to find out what is really causing its irregular dimming.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-companion-may-e-2.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Nyt spor i mysteriet om Tabby's stjernes mærkelige dæmpning",
-      "resume_da": "Forskere har fundet en 21-timers dæmpning i Tabby's stjerne, hvilket kan hjælpe med at forklare dens mystiske lysvariationer over ti år. Studien offentliggjort 6. juli giver nye ledetråde.",
-      "sektioner": [
-        {
-          "overskrift": "Et nyt spor",
-          "tekst": "Siden 2016 har stjernen KIC 8462852, også kaldet Tabby's stjerne, opført sig mærkeligt med uregelmæssige dæmpninger. I en ny undersøgelse har forskerne genbesøgt stjernen og fundet en specifik dæmpning, der varer **21 timer**. Det kan være med til at forklare de længerevarende ændringer i lyset."
-        },
-        {
-          "overskrift": "Hvad sker der?",
-          "tekst": "Tidligere forklaringer har blandt andet været kometstøv eller endda en fremmed megastruktur. Den nye opdagelse giver vigtige data om, hvordan stjernens lys varierer over tid. Forskerne har præsenteret resultaterne i tidsskriftet Monthly Notices of the Royal Astronomical Society."
-        },
-        {
-          "overskrift": "Uregelmæssig dæmpning",
-          "tekst": "Den nye undersøgelse fokuserer på den korte dæmpning, der kan give fingerpeg om, hvad der forårsager de længerevarende fald i lysstyrke. Selvom der stadig er mange ubesvarede spørgsmål, bidrager studiet med nye observationer, der kan hjælpe med at afdække stjernens hemmeligheder."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "21 timer",
-          "label": "varighed af den nye dæmpning"
-        },
-        {
-          "tal": "2016",
-          "label": "år, hvor stjernen begyndte at opføre sig mærkeligt"
-        }
-      ],
-      "detaljer": [
-        "Stjernen hedder KIC 8462852",
-        "Den er en F-type stjerne",
-        "Dæmpningen blev præsenteret i Monthly Notices of the Royal Astronomical Society",
-        "Studiet blev offentliggjort 6. juli"
-      ],
-      "betydning": "Mange danskere har hørt om Tabby's stjerne, og mysteriet har været med til at vække interesse for astronomi. Ny viden om stjernens adfærd kan give os en bedre forståelse af stjerner og universet, og måske inspirere til flere opdagelser.",
-      "pointer": [
-        "Tabby's stjerne har dæmpet uregelmæssigt i årevis",
-        "Ny forskning peger på en 21-timers hændelse",
-        "Resultaterne er offentliggjort i et anerkendt tidsskrift",
-        "Mysteriet er ikke fuldt opklaret"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "What happens to a moon when its planet is stolen?",
-      "link": "https://phys.org/news/2026-08-moon-planet-stolen.html",
-      "dato": "2026-08-03T12:00:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "We have known for a while that the Milky Way is full of homeless worlds. Rogue planets, free-floating planets—call them what you like—but they are planets formed in orderly systems around ordinary stars and then thrown out, either by a gravitational shove from a sibling planet or by a star that strayed too close. What has been much less clear is what happens to any moons they were carrying at the ",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-happens-to-a-moon-3.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Måner overlever planetens udsættelse",
-      "resume_da": "Nye forskere har undersøgt, hvad der sker med måner, når deres planet smides ud af stjernesystemet. Resultatet: De fleste måner overlever.",
-      "sektioner": [
-        {
-          "overskrift": "Hjemløse planeter",
-          "tekst": "Mælkevejen er fuld af 'hjemløse' planeter. De er dannet i systemer omkring stjerner, men er blevet slynget ud. Det sker ved gravitationel påvirkning fra søsterplaneter eller forbipasserende stjerner."
-        },
-        {
-          "overskrift": "Månernes skæbne",
-          "tekst": "Man har troet, at udsættelsen er så voldelig, at månerne ville gå tabt. Men nye undersøgelser viser, at de fleste måner faktisk overlever. Det er overraskende."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Rogue planets er planeter, der er slynget ud af deres oprindelige system.",
-        "Udsættelsen sker ved gravitationel påvirkning fra søsterplaneter eller nærgående stjerner.",
-        "Måner følger normalt med planeten."
-      ],
-      "betydning": "Det er vigtigt at forstå, hvordan planeter og måner dannes og udvikler sig i galaksen. Det kan også have betydning for, hvor mange måner der findes uden for solsystemet.",
-      "pointer": [
-        "Mælkevejen er fuld af hjemløse planeter.",
-        "Udsættelse er voldelig.",
-        "Måner overlever ofte.",
-        "Det er overraskende."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "AI is ready to run spacecraft. Is the space industry ready for it? (op-ed)",
-      "link": "https://www.space.com/space-exploration/satellites/ai-is-ready-to-run-spacecraft-is-the-space-industry-ready-for-it",
-      "dato": "2026-08-03T10:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "Satellite constellations are getting bigger and increasingly difficult for human operators to manage. Artificial intelligence will soon be able to help, but will the space industry let it happen?",
-      "billede": "https://cdn.mos.cms.futurecdn.net/JXGbZUjDtvyJjx2pjx9Qr9-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "AI parat til at styre rumfartøjer – er industrien klar?",
-      "resume_da": "AI-teknologi kan nu styre satellitter og rumfartøjer, men rumindustrien er endnu ikke helt klar til at tage den i brug. Der er både muligheder og udfordringer.",
-      "sektioner": [
-        {
-          "overskrift": "AI's potentiale i rummet",
-          "tekst": "AI kan gøre rumfartøjer selvkørende og reducere behovet for menneskelig indblanding. Det kan føre til mere effektive og fleksible missioner, siger Martin Halliwell fra NewSpace Capital."
-        },
-        {
-          "overskrift": "Industriens barrierer",
-          "tekst": "Rumindustrien er konservativ og kræver grundig godkendelse af ny teknologi. Der er bekymring for pålidelighed og sikkerhed, hvilket gør indførelsen af AI langsommere."
-        },
-        {
-          "overskrift": "Finansiering og investeringer",
-          "tekst": "Private investorer som NewSpace Capital ser et stort potentiale i AI til rumfart. Men der er behov for klare rammer og beviser for, at teknologien virker i praksis, før de investerer stort."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Martin Halliwell er partner i NewSpace Capital, en privat investeringsfond for rumteknologi.",
-        "Han var tidligere teknologichef hos SES og rådgiver for CEO.",
-        "Artiklen er en op-ed, hvilket betyder, at den er et debatindlæg."
-      ],
-      "betydning": "For almindelige danskere betyder det, at satellitter og rumfart kan blive billigere og mere effektive med AI, hvilket kan forbedre alt fra vejrudsigter til internetdækning.",
-      "pointer": [
-        "AI-til rumfart er teknisk klar",
-        "Industrien er tilbageholdende",
-        "Investorer venter på beviser",
-        "AI kan revolutionere rumfart"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/",
-      "dato": "2026-08-03T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APODScienceAPODAPOD: 2026 August 3 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Vaporizing Meteor Photobombs the Lacerta Nebula Explanation: What’s happening to th",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/MeteorGecko_Burnett_4944.jpg?w=4944&#038;h=3284&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A dark starfield has a faint red nebula near  the center. A bright streak crosses the image  horizontally from the lower left, filled with faint evaporating wisps in many colors.  Please see the expla",
-      "kategori": "Astronomi",
-      "rubrik": "Meteor fotobomber Lacerta-tågen",
-      "resume_da": "En lys meteor blev fanget på billede foran Lacerta-tågen. Meteoren fordamper og efterlader spor, der afslører dens sammensætning.",
-      "sektioner": [
-        {
-          "overskrift": "Billedet og meteoren",
-          "tekst": "Et langtidseksponeret billede viser en lys meteor, der kortvarigt optrådte foran Lacerta-tågen. Tågen ses svagt rødligt i midten. Meteoren kom sandsynligvis fra en lille sten."
-        },
-        {
-          "overskrift": "Hvordan meteoren lyser",
-          "tekst": "Meteoren lyser, fordi den varmer og exciterer luften i Jordens atmosfære. Den fordamper selv og efterlader gas og støv, hvis farver afslører dens sammensætning."
-        },
-        {
-          "overskrift": "Meteorsværme og Perseiderne",
-          "tekst": "I øjeblikket er der tre meteorsværme i gang, men de er svære at se på grund af en lys måne. Perseiderne vil være mest aktive om cirka ti dage, når månen er svagere."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "10 dage",
-          "label": "Tid til Perseidernes top"
-        }
-      ],
-      "detaljer": [
-        "Billedet er taget fra Death Valley Observatories i Nevada, USA.",
-        "Perseidernes top falder sammen med en ny måne og en total solformørkelse fra nogle steder."
-      ],
-      "betydning": "Det viser, hvordan amatører kan fange smukke rumfænomener, og at der er gode chancer for at se meteorer snart.",
-      "pointer": [
-        "Meteor fotobomber tågen.",
-        "Meteoren fordamper.",
-        "Perseiderne topper snart.",
-        "Månen generer lige nu."
       ],
       "prio": 4
     }
