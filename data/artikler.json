@@ -1,7 +1,268 @@
 {
-  "opdateret": "2026-08-07T12:30:48.928966+00:00",
+  "opdateret": "2026-08-07T16:38:08.129459+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Uranus's unusual rotation makes its bow shock expand and contract each day",
+      "link": "https://phys.org/news/2026-08-uranus-unusual-rotation-day.html",
+      "dato": "2026-08-07T16:20:05+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Within our solar system, Uranus is a geometric oddball. Its spin axis tilts more than 90° from its orbit, so it essentially rolls on its side through space. In contrast, Earth and other planets tilt only moderately or not at all. What's more, the ice giant's magnetic field is strangely offset and tilted another 60°.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/getting-to-know-uranus.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Uranus' bizarre rotation påvirker rumvejr",
+      "resume_da": "Uranus ruller på siden, og dens magnetfelt er skævt, hvilket får chokfronten til at udvide sig og trække sig sammen dagligt.",
+      "sektioner": [
+        {
+          "overskrift": "Det skæve planet",
+          "tekst": "Uranus er en geometrisk underlig størrelse. Dens rotationsakse hælder mere end **90 grader**, så den ruller rundt på siden i rummet. Den iskæmpe har også et magnetfelt, der er forskudt og hælder **60 grader**."
+        },
+        {
+          "overskrift": "Chokfronten ændrer sig",
+          "tekst": "På grund af dette har Uranus en usædvanlig vekselvirkning med solvinden. Chokfronten – hvor solvinden bremses – udvider sig og trækker sig sammen i løbet af en dag. Det giver et dynamisk rummiljø omkring planeten."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "90°",
+          "label": "aksehældning"
+        },
+        {
+          "tal": "60°",
+          "label": "magnetfeltets hældning"
+        }
+      ],
+      "detaljer": [
+        "Uranus roterer med aksehældning over 90°",
+        "Magnetfeltet er offset og skævt",
+        "Chokfronten varierer dagligt"
+      ],
+      "betydning": "Det hjælper forskere med at forstå, hvordan planeter med skæve magnetfelter interagerer med solvinden – også exoplaneter.",
+      "pointer": [
+        "Uranus ruller på siden",
+        "Chokfronten ændrer sig",
+        "Usædvanligt rumvejr"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "'Plasma gun' technology could transform space laundry and sanitation for future missions",
+      "link": "https://phys.org/news/2026-08-plasma-gun-technology-space-laundry.html",
+      "dato": "2026-08-07T15:20:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Researchers at The University of Alabama in Huntsville (UAH), part of The University of Alabama System, are developing plasma-based technology to help astronauts stay healthier during missions to the moon and Mars by sanitizing clothing, bedding and other fabrics without water or traditional cleaning chemicals.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/uah-research-advances.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Plasma-teknologi kan rense tøj i rummet uden vand",
+      "resume_da": "Forskere udvikler en 'plasmakanon' til at rense tøj og udstyr uden vand eller kemikalier. Det kan hjælpe astronauter på lange missioner til Månen og Mars.",
+      "sektioner": [
+        {
+          "overskrift": "Nyt renseprincip",
+          "tekst": "Forskere fra University of Alabama i Huntsville tester en teknologi, der bruger plasma til at fjerne snavs og bakterier fra stof. Processen kræver hverken vand eller traditionelle rengøringsmidler. Det kan gøre hverdagen lettere for astronauter."
+        },
+        {
+          "overskrift": "Missioner til Månen og Mars",
+          "tekst": "Teknologien er målrettet fremtidige rummissioner. På ture til Månen og Mars er der begrænset adgang til vand. En effektiv måde at vaske tøj på kan spare værdifulde ressourcer. Det kan også reducere mængden af affald om bord."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Forskningen foregår på University of Alabama i Huntsville (UAH).",
+        "Teknologien kaldes en 'plasmakanon'.",
+        "Den kan sanitere tøj, sengetøj og andre tekstiler.",
+        "Den bruger ikke vand eller kemikalier."
+      ],
+      "betydning": "Selvom det er rumteknologi, kan det i fremtiden få betydning for bæredygtig rengøring her på Jorden. Fx i områder med vandmangel.",
+      "pointer": [
+        "Plasma renser uden vand.",
+        "Testet på universiteter i USA.",
+        "Skal hjælpe astronauter på lange missioner.",
+        "Kan mindske ressourceforbrug i rummet."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA’s IXPE Studies Magnetar",
+      "link": "https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/",
+      "dato": "2026-08-07T14:27:35+00:00",
+      "kilde": "NASA",
+      "resume": "Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E 1547-5408, shown in this Aug. 5, 2026, artist&#8217;s concept, between March and April 2025. In doing so, they may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/ixpemagnetarartistsconcept-web.png?w=2048",
+      "billede_alt": "This artist’s concept depicts magnetar 1E 1547.0-5408, a rapidly rotating neutron star with magnetic fields over a trillion times stronger than Earth’s. Blue curves emanating from the star&#039;s two ",
+      "kategori": "Astronomi",
+      "rubrik": "Magnetar-observation måske første bevis på kvanteeffekt",
+      "resume_da": "NASAs IXPE-rumteleskop observerede magnetaren 1E 1547-5408 i 140+ timer og fangede måske første direkte bevis på, at tomt rum opfører sig, som fysikere har forudsagt i 90 år.",
+      "sektioner": [
+        {
+          "overskrift": "Lange observationer af magnetar",
+          "tekst": "Fra marts til april 2025 observerede NASAs IXPE-rumteleskop magnetaren 1E 1547-5408 i mere end **140 timer**. Magnetarer er en type neutronstjerne med ekstremt stærke magnetfelter – de stærkeste i det observerbare univers."
+        },
+        {
+          "overskrift": "Forudsagt, men aldrig set",
+          "tekst": "Forskerne håber, at observationerne har fanget et fænomen i tomt rum, som fysikere har forudsagt i **90 år**, men aldrig har observeret direkte. Magnetarens magnetfelt er omkring **en billion gange** stærkere end de stærkeste permanente magneter på Jorden."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "140 timer",
+          "label": "Observationstid af magnetaren"
+        },
+        {
+          "tal": "90 år",
+          "label": "Forudsagt, men ikke set"
+        },
+        {
+          "tal": "en billion gange",
+          "label": "Stærkere end jordiske magneter"
+        }
+      ],
+      "detaljer": [
+        "Observationer foretaget med NASAs IXPE-rumteleskop.",
+        "Magnetarens navn er 1E 1547-5408.",
+        "Magnetarer har de stærkeste magnetfelter i universet.",
+        "Kunstnerisk illustration fra 5. august 2026."
+      ],
+      "betydning": "Hvis bekræftet, kan det være første direkte bevis på en kvanteeffekt i tomt rum, hvilket udvider vores forståelse af universets fundamentale love. For almindelige danskere viser det, hvordan rumforskning afdækker naturens mest eksotiske fænomener.",
+      "pointer": [
+        "NASA rumteleskop observerede magnetar i 140 timer.",
+        "Mulig første bevis på forudsagt kvanteeffekt.",
+        "Magnetarer har ekstremt stærke magnetfelter.",
+        "Observationer i marts-april 2025."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "This Week's Sky at a Glance, August 7 – 16",
+      "link": "https://skyandtelescope.org/astronomy-news/this-weeks-sky-at-a-glance-august-7-16/",
+      "dato": "2026-08-07T14:17:24+00:00",
+      "kilde": "Sky & Telescope",
+      "resume": "In twilight, watch bold Venus and tiny Spica approach each other to meet September 1st. And check whether you'll be able to see anything of Wednesday's solar eclipse! The post This Week&#039;s Sky at a Glance, August 7 – 16 appeared first on Sky &amp; Telescope .",
+      "billede": null,
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Ugens himmel: Venus møder Spica og solformørkelse",
+      "resume_da": "Se Venus og Spica nærme sig hinanden mod et møde 1. september, og tjek om du kan se onsdagens solformørkelse.",
+      "sektioner": [
+        {
+          "overskrift": "Venus og Spica nærmer sig",
+          "tekst": "I skumringen kan du se den klare Venus og den lille stjerne Spica nærme sig hinanden. De mødes den 1. september. Det er et smukt syn på aftenhimlen."
+        },
+        {
+          "overskrift": "Solformørkelse onsdag",
+          "tekst": "Onsdag er der en solformørkelse, men du bør tjekke, om du kan se den fra din lokation. Sky & Telescope opfordrer til at følge med i vejret og tiden."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1. september",
+          "label": "dato for Venus og Spica-møde"
+        }
+      ],
+      "detaljer": [
+        "Venus er meget lysstærk på aftenhimlen.",
+        "Spica er en svag stjerne sammenlignet med Venus.",
+        "De to objekter nærmer sig hinanden i august.",
+        "Der er en solformørkelse onsdag i denne uge."
+      ],
+      "betydning": "For almindelige danskere er det en chance for at se et sjældent himmelfænomen med det blotte øje. Solformørkelsen kan også være spændende at følge med i, hvis man har de rette briller.",
+      "pointer": [
+        "Venus og Spica mødes 1. september.",
+        "Onsdag er der solformørkelse.",
+        "Tjek om du kan se begge begivenheder."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "On this day in space! Aug. 7, 1980: NASA's Viking 1 Mars orbiter shuts down 4 years into a 90-day mission",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-7-2026",
+      "dato": "2026-08-07T14:14:51+00:00",
+      "kilde": "Space.com",
+      "resume": "On Aug. 7, 1980, NASA's Viking 1 spacecraft orbiting Mars ended its epic and historic mission to the Red Planet. Here's why it mattered.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/xzkkvKDP2DJ5Jdmb6uZubE-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Viking 1-rumfartøjet lukket efter 4 år",
+      "resume_da": "Den 7. august 1980 lukkede NASA's Viking 1 Mars-orbiter ned efter 4 år, selvom missionen var planlagt til 90 dage.",
+      "sektioner": [
+        {
+          "overskrift": "Missionens varighed",
+          "tekst": "Viking 1 blev sendt afsted for at studere Mars. Den varede meget længere end planlagt. Efter 4 år stoppede den med at sende data."
+        },
+        {
+          "overskrift": "Betydningen for Mars-forskning",
+          "tekst": "Viking 1 var banebrydende. Den sendte de første billeder fra Mars' overflade. Dens data hjalp os med at forstå Mars bedre."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "90 dage",
+          "label": "Planlagt missionslængde"
+        },
+        {
+          "tal": "4 år",
+          "label": "Faktisk funktionstid"
+        }
+      ],
+      "detaljer": [
+        "Viking 1 blev lukket ned den 7. august 1980.",
+        "Missionen var planlagt til 90 dage, men varede 4 år.",
+        "Den studerede Mars fra kredsløb."
+      ],
+      "betydning": "Historien minder os om, at rummissioner kan overraske og vare længere end forventet, hvilket giver mere viden om vores nabo planet.",
+      "pointer": [
+        "Viking 1-orbiteren blev lukket ned i 1980.",
+        "Den varede 4 år i stedet for de planlagte 90 dage.",
+        "Den var vigtig for Mars-forskning."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Physicists trace solar outbursts that led to historic Mother's Day storms",
+      "link": "https://phys.org/news/2026-08-physicists-solar-outbursts-historic-mother.html",
+      "dato": "2026-08-07T13:00:04+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "On Mother's Day weekend in May 2024, Earth experienced its most powerful geomagnetic storm in two decades, spawning auroras—the ribbony bands of light in the nighttime skies in the Northern and Southern hemispheres—that may have been among the strongest displays on record in the past 500 years.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-trace-sola.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Fysikere spore soludbrud bag majs solstorm",
+      "resume_da": "Fysikere har sporet de soludbrud, der i maj 2024 førte til en af de kraftigste geomagnetiske storme i 20 år og nordlys i rekordklassen.",
+      "sektioner": [
+        {
+          "overskrift": "Historisk solstorm",
+          "tekst": "I maj 2024 oplevede Jorden sin kraftigste geomagnetiske storm i **20 år**. Nordlyset var blandt de stærkeste på **500 år**."
+        },
+        {
+          "overskrift": "Sporet til solen",
+          "tekst": "Fysikere har sporet udbruddene til solen. De undersøgte solens aktivitet i dagene op til stormen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "20 år",
+          "label": "Siden sidste så kraftige storm"
+        },
+        {
+          "tal": "500 år",
+          "label": "Blandt stærkeste nordlys på"
+        }
+      ],
+      "detaljer": [
+        "Stormen fandt sted i weekenden omkring Mors Dag i maj 2024.",
+        "Nordlyset blev set på begge halvkugler.",
+        "Fysikerne har fulgt solens aktivitet for at forklare stormen."
+      ],
+      "betydning": "Forståelse af solstorme er vigtig, fordi de kan påvirke satellitter, elnet og kommunikation. Det kan hjælpe os med at være bedre forberedt i fremtiden.",
+      "pointer": [
+        "Maj 2024: kraftigste solstorm i 20 år.",
+        "Nordlys i top 500 år.",
+        "Fysikere sporede udbruddene på solen.",
+        "Vigtigt for at forbedre forudsigelser."
+      ],
+      "prio": 3
+    },
     {
       "titel": "An ultramassive white dwarf half Earth's size may hold a rare oxygen-neon core",
       "link": "https://phys.org/news/2026-08-ultramassive-white-dwarf-earth-size.html",
@@ -122,6 +383,105 @@
         "Man udvikler metoder til at udvinde ilt fra månejord."
       ],
       "prio": 6
+    },
+    {
+      "titel": "APOD: 2026 August 7 – Rubin’s Cosmos Field",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-6-rubins-cosmos-field/",
+      "dato": "2026-08-07T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rubin&#8217;s COSMOS Field [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/noirlab2618b.jpg?w=1280&#038;h=908&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "This exceptionally deep image from NSF–DOE Vera C. Rubin Observatory reveals the renowned COSMOS field and its surroundings in the constellation Sextans. The view is crowded with galaxies and galaxy c",
+      "kategori": "Astronomi",
+      "rubrik": "Rubin-observatoriet viser et halvt univers af galakser",
+      "resume_da": "Nyt billede fra Vera C. Rubin-observatoriet viser over 500.000 galakser. Det giver et hidtil uset kig ud i universet.",
+      "sektioner": [
+        {
+          "overskrift": "Et kæmpe himmelområde",
+          "tekst": "Billedet viser COSMOS-feltet, som er flere gange større end fuldmånen. Det blev først observeret af Hubble-teleskopet, og senere også af Webb-teleskopet."
+        },
+        {
+          "overskrift": "Mange galakser",
+          "tekst": "Der er mere end **500.000** galakser i billedets centrum. Galakserne har mange forskellige former og størrelser. Nogle er så langt væk, at lyset har rejst i milliarder af år."
+        },
+        {
+          "overskrift": "Et dynamisk syn",
+          "tekst": "Rubin vil observere området hvert par dage i ti år. Det giver mulighed for at se, hvordan nattehimlen ændrer sig over tid."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "500.000+",
+          "label": "Galakser i billedet"
+        },
+        {
+          "tal": "10 år",
+          "label": "Varighed af undersøgelsen"
+        }
+      ],
+      "detaljer": [
+        "Billedet er taget af Vera C. Rubin-observatoriet i Chile.",
+        "COSMOS-feltet er et område med få klare stjerner fra vores galakse.",
+        "De ydre paneler viser forstørrelser af udvalgte områder."
+      ],
+      "betydning": "Det giver almindelige mennesker en fornemmelse af, hvor mange galakser der findes, og hvor meget vi stadig har til gode at opdage om universet.",
+      "pointer": [
+        "Stor opdagelse om universet",
+        "Mange galakser på ét billede",
+        "Ny teknologi i astronomi",
+        "Fremtidige observationer"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Sensing the Poles’ Hidden Heat",
+      "link": "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/",
+      "dato": "2026-08-07T04:00:00+00:00",
+      "kilde": "NASA",
+      "resume": "New animations from NASA’s PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-moonlit-earth-as-seen-from-artemis-ii/art002e000192~orig_th.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "NASA-måling afslører polernes skjulte varme",
+      "resume_da": "Nye data fra NASAs PREFIRE-mission viser, hvordan temperaturerne svinger voldsomt i Arktis og Antarktis. Målingerne kan forbedre vejr- og klimamodeller.",
+      "sektioner": [
+        {
+          "overskrift": "To års data fra polerne",
+          "tekst": "PREFIRE-satellitterne har siden juli 2024 samlet data og nu dækket to hele årstidscyklusser ved hver pol. Animationen viser store temperatursvingninger, hvor isen skifter mellem mørkeblå kulde og varmere røde farver."
+        },
+        {
+          "overskrift": "Hvorfor det betyder noget",
+          "tekst": "Polerne udstråler varme som infrarød stråling, og det udgør næsten **60 procent** af den energi, Jorden mister til rummet. Før PREFIRE var dette spektrum aldrig blevet målt grundigt globalt, men nu kan forskere spore det i næsten realtid."
+        },
+        {
+          "overskrift": "Bedre forudsigelser",
+          "tekst": "Målingerne hjælper med at forfine klimamodeller, som påvirker alt fra vejrudsigter til skibsforbindelser. Lederen af missionen siger, at dataene kan forbedre de forudsigelser, som blandt andet industrier og Arktiske samfund er afhængige af."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "60 %",
+          "label": "Andel af jordens energiudstråling"
+        },
+        {
+          "tal": "juli 2024",
+          "label": "Start på dataindsamling"
+        }
+      ],
+      "detaljer": [
+        "PREFIRE består af to små CubeSat-satellitter.",
+        "Arktis og Antarktis har modsatte årstider, og temperatursvingningerne er forskellige.",
+        "Far-infrarød stråling er usynlig for det blotte øje.",
+        "Målingerne kan belyse jordens energibalance."
+      ],
+      "betydning": "For almindelige danskere betyder det bedre vejr- og klimamodeller, som kan forbedre forudsigelser om alt fra storme til havniveau. Det kan også hjælpe med at forstå, hvordan klimaforandringer påvirker isen ved polerne.",
+      "pointer": [
+        "PREFIRE måler usynlig varmestråling fra polerne.",
+        "To års data viser store årstidsvariationer.",
+        "De kan forbedre klima- og vejrmodeller.",
+        "Polarområderne spiller en vigtig rolle i jordens energibalance."
+      ],
+      "prio": 7
     },
     {
       "titel": "Charting the galaxy: Milky Way Mapper survey releases latest all-sky spectra",
@@ -4015,367 +4375,6 @@
         "Månen generer lige nu."
       ],
       "prio": 4
-    },
-    {
-      "titel": "APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/",
-      "dato": "2026-08-03T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 August 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Vaporizing Meteor Photobombs [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/MeteorGecko_Burnett_4944.jpg?w=4944&#038;h=3284&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A dark starfield has a faint red nebula near  the center. A bright streak crosses the image  horizontally from the lower left, filled with faint evaporating wisps in many colors.  Please see the expla",
-      "kategori": "Astronomi",
-      "rubrik": "Meteor fanger opmærksomheden i Lacerta-tågen",
-      "resume_da": "En lys meteor blev fanget på billede foran Lacerta-tågen. Den fordamper og skaber farver, der afslører dens sammensætning.",
-      "sektioner": [
-        {
-          "overskrift": "Billedet af meteoren",
-          "tekst": "Billedet er taget i Death Valley Observatories i Nevada. Meteoren var sandsynligvis en lille sten, der blev varmet op i Jordens atmosfære. Den fordamper og efterlader gas og støv med farver."
-        },
-        {
-          "overskrift": "Tre meteor showers lige nu",
-          "tekst": "Der er tre meteor showers i gang i august. De er svære at se på grund af en lys måne. Perseiderne er mest aktive om cirka 10 dage, når månen er svagere."
-        },
-        {
-          "overskrift": "Perseidernes top i år",
-          "tekst": "Perseidernes top falder sammen med nymåne. Fra nogle steder vil månen endda totalformørke solen. Det giver gode betingelser for at se meteorer."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Billedet blev taget fra Nevada, USA.",
-        "Meteoren blev fanget under en lang eksponering.",
-        "Meteor showers i august inkluderer Perseiderne."
-      ],
-      "betydning": "Det minder os om, at der er smukke himmelfænomener, vi kan se med det blotte øje, og at timing er vigtig for at få den bedste oplevelse.",
-      "pointer": [
-        "Meteor foran Lacerta-tågen fanget på billede.",
-        "Tre meteor showers er aktive nu.",
-        "Perseiderne topper om 10 dage.",
-        "Nymåne giver gode chancer for at se meteorer."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Webb reveals warped structure in nearby TW Hydrae's protoplanetary disk",
-      "link": "https://phys.org/news/2026-07-webb-reveals-warped-nearby-tw.html",
-      "dato": "2026-08-02T17:20:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Using the James Webb Space Telescope (JWST), astronomers obtained high-contrast coronagraphic images of the protoplanetary disk around the young, nearby star TW Hydrae. Results of the observational campaign, published July 27 on the preprint server arXiv, shed more light on the nature of this disk.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/observations-inspect-p.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Webb ser skæv struktur i støvskive om ung stjerne",
-      "resume_da": "James Webb-teleskopet har taget skarpe billeder af støvskiven omkring stjernen TW Hydrae. Billederne viser en uventet skæv struktur i skiven.",
-      "sektioner": [
-        {
-          "overskrift": "Nye billeder",
-          "tekst": "Forskere brugte James Webb-teleskopet til at fotografere støvskiven omkring den unge stjerne TW Hydrae. De brugte en teknik, der blokerer stjernens lys for at se skiven tydeligt. Resultaterne blev offentliggjort den 27. juli på arXiv."
-        },
-        {
-          "overskrift": "Skæv struktur",
-          "tekst": "Billederne afslørede, at skiven ikke er helt symmetrisk. Den har en skæv struktur, som overraskede forskerne. Det kan give ny viden om, hvordan planeter dannes."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "27. juli",
-          "label": "Offentliggørelsesdato"
-        }
-      ],
-      "detaljer": [
-        "TW Hydrae er en ung stjerne tæt på Jorden.",
-        "Teleskopet brugte en koronagraf til at blokere stjernelyset.",
-        "Skiven kaldes en protoplanetarisk skive."
-      ],
-      "betydning": "Det hjælper os med at forstå, hvordan vores eget solsystem kan være opstået, og hvordan planeter dannes andre steder.",
-      "pointer": [
-        "Webb tog skarpe billeder af støvskive.",
-        "Skiven er skæv og ikke symmetrisk.",
-        "Offentliggjort 27. juli på arXiv."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "DESI side project reveals the spectra of disintegrated exoplanets",
-      "link": "https://phys.org/news/2026-07-desi-side-reveals-spectra-disintegrated.html",
-      "dato": "2026-08-02T12:20:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Using spectral data from the Dark Energy Spectroscopic Instrument (DESI), astronomers have gained some of the clearest evidence yet that white dwarf stars are accreting debris from disintegrating exoplanets. Captured while DESI was unable to study its primary targets: distant galaxies, the results provide unprecedented insights into the chemical makeup of rocky exoplanets, revealing compositions r",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/desi-side-project-reve.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Døde stjerner afslører planeternes indre",
-      "resume_da": "Astronomer har nu fået klare beviser på, at hvide dværge æder rester af ødelagte planeter. Det giver ny viden om, hvad klippeplaneter er lavet af.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er opdagelsen?",
-          "tekst": "Forskere har brugt data fra DESI-teleskopet til at se, at hvide dværge – døde stjerner – opsluger materiale fra ødelagte exoplaneter. Det er noget af det klareste bevis endnu på, at sådan noget sker."
-        },
-        {
-          "overskrift": "Hvorfor er det vigtigt?",
-          "tekst": "Ved at studere dette materiale kan forskerne se, hvad klippeplaneter uden for vores solsystem er lavet af. Og det viser sig, at deres sammensætning ligner vores egne planeter og asteroider i det indre solsystem meget."
-        },
-        {
-          "overskrift": "Hvordan blev det opdaget?",
-          "tekst": "Dataene blev samlet, mens DESI ikke kunne kigge på sine hovedmål: fjerne galakser. Forskerne brugte denne ekstra tid til at observere de hvide dværge. Det gav dem et uventet og detaljeret indblik i planeternes kemi."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "8",
-          "label": "Antal hvide dværge observeret"
-        }
-      ],
-      "detaljer": [
-        "Resultaterne er blandt de klareste beviser for, at hvide dværge æder planetrester.",
-        "Man fandt grundstoffer, der ligner dem i Jordens indre solsystem.",
-        "Observationerne blev lavet som et sideprojekt under DESI-målingerne."
-      ],
-      "betydning": "Det hjælper os med at forstå, hvordan planeter dannes og udvikler sig, også i andre solsystemer. Og det minder os om, at vores eget solsystem ikke er unikt i sin sammensætning.",
-      "pointer": [
-        "Hvide dværge æder planetrester.",
-        "Ny viden om exoplaneters kemi.",
-        "Ligner vores solsystem.",
-        "DESI-data brugt kreativt."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "From Hardspace to Clearspace: How space salvage games compare to real debris removal",
-      "link": "https://www.space.com/entertainment/space-games/from-hardspace-to-clearspace-how-space-salvage-games-compare-to-real-debris-removal",
-      "dato": "2026-08-02T12:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "Clean up on spacelane five.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/SuATW7kXHCcHnh7W3hznuc-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Spil vs. virkelighed: Rumsjov og ægte skrald",
-      "resume_da": "En sammenligning af spil som Hardspace: Shipbreaker og den virkelige opgave med at fjerne rumaffald.",
-      "sektioner": [
-        {
-          "overskrift": "Spil og virkelighed",
-          "tekst": "Spil lader os øve os i at håndtere rumskrot på en sjov måde. I virkeligheden er det en alvorlig udfordring for rumfart. Artiklen sammenligner de to verdener."
-        },
-        {
-          "overskrift": "Fjernelse af rumaffald",
-          "tekst": "Rigtig oprydning kræver avanceret teknologi og planlægning. Det er ikke så enkelt som i spillene, hvor man kan skære og brænde frit. Virkelighedens metoder er under udvikling."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Artiklen er skrevet af Alan Bradley, en erfaren tech- og kulturjournalist.",
-        "Sammenligner spillet Hardspace: Shipbreaker med ægte affaldsfjernelse i rummet.",
-        "Rigtig oprydning er kompleks og anderledes end i spil."
-      ],
-      "betydning": "Forståelse af forskellen mellem underholdning og virkelighed kan øge opmærksomheden på rumaffaldsproblemet.",
-      "pointer": [
-        "Spil er sjove, virkelighed er alvorlig.",
-        "Rumaffald er et voksende problem.",
-        "Teknologi til oprydning er under udvikling.",
-        "Artiklen giver perspektiv på begge verdener."
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "Plan for Next Year's Total Solar Eclipse: August 2, 2027",
-      "link": "https://skyandtelescope.org/astronomy-news/plan-for-the-2027-eclipse-of-the-century-one-year-from-now/",
-      "dato": "2026-08-02T12:00:00+00:00",
-      "kilde": "Sky & Telescope",
-      "resume": "The longest total solar eclipse visible from land until 2114 will sweep across Spain and North Africa on August 2, 2027. Here’s how to choose where to watch it. The post Plan for Next Year&#039;s Total Solar Eclipse: August 2, 2027 appeared first on Sky &amp; Telescope .",
-      "billede": null,
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Total solformørkelse i 2027: Sådan ser du den",
-      "resume_da": "Den længste totale solformørkelse fra land indtil 2114 rammer Spanien og Nordafrika den 2. august 2027. Her er, hvordan du vælger observationssted.",
-      "sektioner": [
-        {
-          "overskrift": "En historisk begivenhed",
-          "tekst": "Den 2. august 2027 vil en total solformørkelse være synlig fra land i Spanien og Nordafrika. Det er den længste totale formørkelse, der kan ses fra land, indtil år 2114. Mange vil rejse til området for at opleve den."
-        },
-        {
-          "overskrift": "Vælg det rigtige sted",
-          "tekst": "For at få den bedste oplevelse skal du vælge et sted med klart vejr og lang varighed af totalitet. Eksperter anbefaler at undersøge vejrstatistikker. Kystområder kan have skyet vejr, mens højland og ørkener ofte er mere klare."
-        },
-        {
-          "overskrift": "Planlæg i god tid",
-          "tekst": "Populariteten betyder, at overnatning og transport hurtigt bliver booket. Det er klogt at bestille tidligt. Husk også at skaffe godkendte solbriller til at se formørkelsen sikkert."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2. august 2027",
-          "label": "Dato for formørkelsen"
-        },
-        {
-          "tal": "2114",
-          "label": "Næste længere fra land"
-        }
-      ],
-      "detaljer": [
-        "Findes i artiklen: Den totale fase varer op til 6 minutter og 23 sekunder.",
-        "Steder med længst totalitet er i Egypten og Libyen.",
-        "Spanien oplever totalitet om eftermiddagen, men med kortere varighed."
-      ],
-      "betydning": "For en almindelig dansker er dette en sjælden chance for at se en spektakulær naturbegivenhed, som ikke gentages fra land i mange generationer. Det kan være en god anledning til at planlægge en rejse eller følge begivenheden online.",
-      "pointer": [
-        "Længste totale solformørkelse fra land siden 1991 og indtil 2114.",
-        "Synlig fra Spanien og Nordafrika den 2. august 2027.",
-        "Vælg sted med klart vejr for bedst udsigt.",
-        "Book rejse og bolig tidligt."
-      ],
-      "prio": 8
-    },
-    {
-      "titel": "APOD: 2026 August 2 – A Fire Rainbow over West Virginia",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-2-a-fire-rainbow-over-west-virginia/",
-      "dato": "2026-08-02T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APODScienceAPODAPOD: 2026 August 2 – A Fire…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Fire Rainbow over West Virginia Explanation: What’s happening to this clou",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FireRainbow_Harbig_4000.jpg?w=4000&#038;h=3000&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Ildregnbue over West Virginia på foto",
-      "resume_da": "NASAs daglige billede viser en ildregnbue (circumhorizon arc) over West Virginia. Fænomenet opstår, når iskrystaller i cirrusskyer bryder sollyset som prismer.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er en ildregnbue?",
-          "tekst": "En ildregnbue er et usædvanligt fænomen, hvor iskrystaller i høje cirrusskyer virker som små prismer. De bryder sollyset, så det ligner flammer parallelt med horisonten. Det kræver, at solen står mindst 58 grader over horisonten."
-        },
-        {
-          "overskrift": "Billedet og fænomenet",
-          "tekst": "Billedet blev taget i 2021 nær North Fork Mountain i West Virginia, USA. I cirrusskyer af typen cirrus fibratus flugter de sekskantede iskrystaller sig vandret. Det gør, at de bryder sollyset på samme måde og skaber buen."
-        },
-        {
-          "overskrift": "Sjældent syn",
-          "tekst": "Ildregnbuer er sjældne at se, fordi flere betingelser skal være opfyldt. Solen skal være højt, skyerne skal være til stede, og krystallerne skal ligge præcist vandret."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "58 grader",
-          "label": "Solens mindstehøjde for fænomenet"
-        }
-      ],
-      "detaljer": [
-        "Fænomenet kaldes også circumhorizon arc.",
-        "Det kræver cirrusskyer med flade, sekskantede iskrystaller.",
-        "Billedet er taget af Christa Harbig i 2021.",
-        "Ildregnbuer ligner flammer, men er ikke relateret til ild."
-      ],
-      "betydning": "Det er en sjælden og smuk himmelbegivenhed, som viser naturens kompleksitet. For almindelige mennesker er det et godt eksempel på, hvordan vejr og lys kan skabe spektakulære syn.",
-      "pointer": [
-        "En ildregnbue er ikke en rigtig regnbue.",
-        "Den kræver iskrystaller i cirrusskyer.",
-        "Solen skal stå meget højt.",
-        "Den blev fotograferet i West Virginia i 2021."
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "APOD: 2026 August 2 – A Fire Rainbow over West Virginia",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-2-a-fire-rainbow-over-west-virginia/",
-      "dato": "2026-08-02T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 August 2 – A Fire… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FireRainbow_Harbig_4000.jpg?w=4000&#038;h=3000&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Ildregnbue fotograferet i West Virginia",
-      "resume_da": "NASAs daglige rumfotos viser en sjælden ildregnbue nær North Fork Mountain i West Virginia, skabt af iskrystaller i cirrusskyer.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er en ildregnbue?",
-          "tekst": "En ildregnbue er et sjældent fænomen, hvor iskrystaller i cirrusskyer fungerer som prismer. De bryder sollyset, så det ligner flammer. Det kaldes også en cirkumhorisontal bue."
-        },
-        {
-          "overskrift": "Betingelser for fænomenet",
-          "tekst": "Solen skal stå mindst **58 grader** over horisonten. Skyerne skal være cirrusskyer, og iskrystallerne skal være flade og sekskantede. Derudover skal de ligge vandret for at bryde lyset ensartet."
-        },
-        {
-          "overskrift": "Fotoets oprindelse",
-          "tekst": "Billedet blev taget i **2021** nær North Fork Mountain i West Virginia, USA. Fotografen er Christa Harbig. Det blev bragt på NASAs Astronomy Picture of the Day den **2. august 2026**."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "58 grader",
-          "label": "Solens minimumshøjde"
-        },
-        {
-          "tal": "2021",
-          "label": "År fotografiet blev taget"
-        }
-      ],
-      "detaljer": [
-        "Fænomenet kaldes også circumhorizon arc.",
-        "Skytypen er cirrus fibratus.",
-        "Iskrystallerne er flade og sekskantede.",
-        "De skal være vandret justeret for at danne buen."
-      ],
-      "betydning": "Det er sjældent at se en ildregnbue. Artiklen hjælper almindelige mennesker med at forstå og genkende et smukt naturfænomen på himlen.",
-      "pointer": [
-        "Sjældent vejrfænomen.",
-        "Kræver sol i høj position.",
-        "Fotograferet i USA i 2021.",
-        "Udvalgt af NASA som dagens billede."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Boeing’s Starliner set for potential 2026 cargo run to ISS",
-      "link": "https://www.nasaspaceflight.com/2026/08/boeing-starliner-2026-iss/",
-      "dato": "2026-08-01T22:26:30+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "Boeing CEO Kelly Ortberg has noted redesign work on the company’s CST-100 Starliner spacecraft is&#8230; The post Boeing&#8217;s Starliner set for potential 2026 cargo run to ISS appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-01-22-12-28-760.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Starliner kan flyve last til rumstationen i 2026",
-      "resume_da": "Boeings Starliner er under ombygning efter problemer, og et ubemandet lastflyvning til ISS kan ske i 2026, hvis NASA og mange andre forhold går op.",
-      "sektioner": [
-        {
-          "overskrift": "Store problemer bag dem",
-          "tekst": "Starliner har haft mange tekniske problemer. I 2019 nåede den ikke rumstationen, og i 2024 måtte astronauter vende hjem med SpaceX i stedet. NASA har kaldt hændelsen for en alvorlig ulykke."
-        },
-        {
-          "overskrift": "Ny plan på vej",
-          "tekst": "Boeings direktør siger, at ombygningen går godt. Næste flyvning bliver ubemandet og skal bringe last til ISS. Men først skal NASA godkende alt, og der er ikke mange ledige pladser ved stationen."
-        },
-        {
-          "overskrift": "Kampen mod tiden",
-          "tekst": "Rumstationen lukker i 2030, og der er kun to dockingspladser til Starliner. De er ofte optaget af andre rumfartøjer. Det kan blive svært at finde et ledigt vindue til 2026."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2014",
-          "label": "År kontrakten blev givet"
-        },
-        {
-          "tal": "2019",
-          "label": "Første testflyvning uden besætning"
-        },
-        {
-          "tal": "2026",
-          "label": "Tidligst muligt for lastflyvning"
-        }
-      ],
-      "detaljer": [
-        "Starliner er udviklet til at bringe astronauter til ISS.",
-        "Crew Flight Test i 2024 førte til, at astronauter vendte hjem med SpaceX.",
-        "NASA betragter problemerne som en alvorlig hændelse.",
-        "Boeing arbejder på at rette op på thruster- og heliumproblemer.",
-        "Rumstationen skal operere frem til 2030."
-      ],
-      "betydning": "For almindelige mennesker betyder det, at NASA kan få en ekstra mulighed for at sende last og i fremtiden måske folk til rummet. Det er vigtigt for fortsat forskning og samarbejde i rummet.",
-      "pointer": [
-        "Starliner har haft tekniske problemer i flere år.",
-        "Næste flyvning bliver uden besætning, kun med last.",
-        "Målet er en mission i 2026, men det kræver NASA's godkendelse.",
-        "Der er travlt med pladser ved rumstationen."
-      ],
-      "prio": 6
     }
   ]
 }
