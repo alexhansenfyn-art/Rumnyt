@@ -1,7 +1,58 @@
 {
-  "opdateret": "2026-08-07T04:35:41.684229+00:00",
+  "opdateret": "2026-08-07T09:37:39.081008+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "NASA’s Lunar Development and Test Facility Prepares Artemis Hardware for Moon",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/",
+      "dato": "2026-08-07T06:25:27+00:00",
+      "kilde": "NASA",
+      "resume": "Before astronauts return to the Moon’s surface&#160;through NASA’s&#160;Artemis program, the hardware they depend on must first prove it can survive the unforgiving lunar environment. At NASA’s Johnson Space Center in Houston, engineers&#160;at the&#160;Lunar Development and Test Facility&#160;are tackling one of exploration’s biggest challenges:&#160;Moon dust.&#160; Unlike sand on Earth, lunar d",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2024e072072.jpg?w=1536",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "NASA tester Artemis-udstyr mod Månestøv",
+      "resume_da": "NASA's Lunar Development and Test Facility i Houston tester rumdragter og udstyr under simulerede måneforhold. Månestøv er en stor udfordring, og faciliteten skal sikre, at hardware kan modstå det.",
+      "sektioner": [
+        {
+          "overskrift": "Udfordringen med Månestøv",
+          "tekst": "Månestøv er skarpt og slidende og klæber til alt. Det kan ødelægge udstyr og udgøre en sundhedsrisiko for astronauter. Derfor er det vigtigt at teste udstyr, før det sendes til Månen."
+        },
+        {
+          "overskrift": "Facilitetens testmetoder",
+          "tekst": "Faciliteten har vakuumkamre, hvor man bruger månelignende støv (regolit-simulant). Man tester rumdragter, rumfartøjer og mekaniske dele under realistiske forhold. Kamrene bruger et lukket kvælstoftsystem til at skabe månelignende miljø."
+        },
+        {
+          "overskrift": "Fremtidige teknologier",
+          "tekst": "Forskere udvikler også teknikker til at udvinde ressourcer fra månestøv, såsom ilt til astronauter og flydende ilt til raketbrændstof. Faciliteten har en 3D-virtuel tur, så alle kan se, hvordan testene foregår."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "3-foot",
+          "label": "Størrelse på lille vakuumkammer"
+        },
+        {
+          "tal": "15-foot",
+          "label": "Størrelse på stort vakuumkammer"
+        }
+      ],
+      "detaljer": [
+        "Faciliteten ligger ved Johnson Space Center i Houston.",
+        "Månestøv kan skade udstyr og udgøre sundhedsrisiko.",
+        "Testene bruger månelignende regolit-simulant.",
+        "Et vægmaleri blev færdiggjort i 2024 af kunstneren Sebastian Boileau.",
+        "Der findes en 3D-virtuel tur til faciliteten."
+      ],
+      "betydning": "For almindelige danskere er det relevant, fordi det viser, hvordan NASA forbereder sig på at sende mennesker til Månen igen. Det kan føre til nye teknologier og viden, som også kan bruges på Jorden.",
+      "pointer": [
+        "NASA tester Artemis-udstyr mod Månestøv.",
+        "Månestøv er farligt for udstyr og helbred.",
+        "Faciliteten bruger vakuumkamre og simuleret månejord.",
+        "Man udvikler metoder til at udvinde ilt fra månejord."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Charting the galaxy: Milky Way Mapper survey releases latest all-sky spectra",
       "link": "https://phys.org/news/2026-08-galaxy-milky-mapper-survey-latest.html",
@@ -535,6 +586,437 @@
         "Artiklen fokuserer på forfatterens oplevelser."
       ],
       "prio": 2
+    },
+    {
+      "titel": "How should Europe’s militaries respond to space threats",
+      "link": "https://spacenews.com/how-should-europes-militaries-respond-to-space-threats/",
+      "dato": "2026-08-06T15:31:26+00:00",
+      "kilde": "SpaceNews",
+      "resume": "In this episode, SpaceNews’ Emma Gatti leads a panel of experts to discuss Europe’s defense posture and the reaction to space threats. This session was recorded in May at SpaceNews’ [&#8230;] The post How should Europe’s militaries respond to space threats appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/space-minds-podcast-sse-astroscale-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Europa skal forberede sig på trusler i rummet",
+      "resume_da": "En paneldebat om Europas forsvar og reaktion på trusler i rummet. Eksperter diskuterer, hvordan Europa kan beskytte sig mod trusler fra rummet.",
+      "sektioner": [
+        {
+          "overskrift": "Debat om rumforsvar",
+          "tekst": "SpaceNews har afholdt en paneldebat om Europas forsvarsposition og reaktion på trusler i rummet. Debatten blev optaget i maj og samlede eksperter på området."
+        },
+        {
+          "overskrift": "Trusler og reaktioner",
+          "tekst": "Panelet diskuterede, hvordan Europas militære skal håndtere trusler i rummet. Det er vigtigt at forberede sig på nye udfordringer og finde fælles løsninger."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Debatten blev optaget i maj.",
+        "Deltagerne var eksperter på området.",
+        "Diskussionen handlede om Europas forsvarsposition."
+      ],
+      "betydning": "Det er relevant for almindelige danskere, fordi det handler om sikkerhed og forsvar, som påvirker hele Europa.",
+      "pointer": [
+        "Europa debatterer rumforsvar.",
+        "Trusler i rummet er et emne.",
+        "Eksperter diskuterer løsninger.",
+        "Debatten blev optaget i maj."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Taking Flight to Prepare for Space",
+      "link": "https://www.nasa.gov/image-article/taking-flight-to-prepare-for-space/",
+      "dato": "2026-08-06T15:15:37+00:00",
+      "kilde": "NASA",
+      "resume": "NASA astronaut Adam Fuhrmann (right, in yellow) prepares for a training flight aboard NASA’s WB-57 aircraft in this July 16, 2026, photo. These high-altitude flights train the crew to work in a tight environment and operate aircraft systems while in a pressure suit, preparing them for future missions to the International Space Station, Moon, or [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/55412014375-711b8f02f7-o.jpg?w=2048",
+      "billede_alt": "Two people in slim yellow spacesuits and white helmets climb into an airplane as technicians work around them.",
+      "kategori": "Missioner",
+      "rubrik": "NASA-astronaut træner i højhøjdeflyvning",
+      "resume_da": "NASA-astronauter træner i et WB-57-fly for at blive klar til missioner til den Internationale Rumstation og Månen.",
+      "sektioner": [
+        {
+          "overskrift": "Træning i luften",
+          "tekst": "NASA-astronauter træner i et WB-57-fly. Flyet flyver i stor højde. Træningen forbereder dem til missioner i rummet."
+        },
+        {
+          "overskrift": "Hvorfor WB-57?",
+          "tekst": "Flyet giver astronauterne mulighed for at arbejde i et trangt miljø. De lærer at betjene flyets systemer, mens de har trykdragt på. Det svarer til forholdene i et rumfartøj."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Fotoet er fra 16. juli 2026.",
+        "Astronauten på billedet hedder Adam Fuhrmann.",
+        "Flyet er NASA's WB-57."
+      ],
+      "betydning": "Det viser, hvordan NASA forbereder astronauter til fremtidige missioner, også til Månen.",
+      "pointer": [
+        "Astronauter træner i WB-57-fly.",
+        "Træningen foregår i trykdragt.",
+        "Målet er missioner til rumstationen og Månen."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Lessons for the future of NASA Mars exploration from a 1970s mission",
+      "link": "https://spacenews.com/lessons-for-the-future-of-nasa-mars-exploration-from-a-1970s-mission/",
+      "dato": "2026-08-06T15:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "July 20 marked the 50th anniversary of one of the biggest robotic spaceflight achievements in NASA’s history: the landing of the Viking 1 spacecraft on Mars. It was the first [&#8230;] The post Lessons for the future of NASA Mars exploration from a 1970s mission appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2020/07/PHOTO-3-VIKING.jpg?fit=1000%2C806&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Viking 1-landing: 50 år og stadig relevant",
+      "resume_da": "Jubilæet for Viking 1-landingen på Mars giver indsigt i fremtidens Mars-missioner.",
+      "sektioner": [
+        {
+          "overskrift": "Historisk bedrift",
+          "tekst": "Den 20. juli markerede 50-året for Viking 1-landingen på Mars. Det var en af NASA's største bedrifter inden for robotudforskning."
+        },
+        {
+          "overskrift": "Læringer til fremtiden",
+          "tekst": "Artiklen trækker paralleller til moderne Mars-missioner. De erfaringer, man gjorde dengang, kan hjælpe med at planlægge fremtidige ture til Mars."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "50 år",
+          "label": "Jubilæum"
+        },
+        {
+          "tal": "20. juli",
+          "label": "Landingsdato"
+        }
+      ],
+      "detaljer": [
+        "Viking 1 var den første vellykkede Mars-landing.",
+        "Artiklen fokuserer på overførslen af viden til nutidige missioner."
+      ],
+      "betydning": "Viking-missionerne banede vejen for al den Mars-forskning, vi har i dag. For danskere betyder det, at vi kan forstå, hvordan fortiden former vores viden om Mars.",
+      "pointer": [
+        "50-året for Viking 1",
+        "Læringer til nutid",
+        "Betydning for fremtid"
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Rare ultra-magnetic star may be key to solving 90-year old quantum cold case",
+      "link": "https://phys.org/news/2026-08-rare-ultra-magnetic-star-key.html",
+      "dato": "2026-08-06T14:20:06+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Astronomers may have just confirmed one of the quirkiest aspects of quantum mechanics: that seemingly empty space can alter the behavior of light. This phenomenon, called \"vacuum birefringence,\" was first predicted nearly 90 years ago by Werner Heisenberg, one of the founding fathers of quantum mechanics. He suggested that even a perfect vacuum should be teeming with \"virtual particles\" that rapid",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/rare-ultra-magnetic-st.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Ultra-magnetisk stjerne kan løse 90 år gammelt kvantemysterium",
+      "resume_da": "Astronomer har muligvis bekræftet, at tomt rum kan ændre lysets opførsel – et fænomen kaldet vacuum dobbeltbrydning. Dette kan ske takket være en sjælden, ekstremt magnetisk stjerne.",
+      "sektioner": [
+        {
+          "overskrift": "Kvanteeffekt observeret",
+          "tekst": "Forskere mener nu at have observeret, at tomt rum kan påvirke lys. Denne effekt kaldes vacuum dobbeltbrydning. Den blev forudsagt af Werner Heisenberg for næsten 90 år siden."
+        },
+        {
+          "overskrift": "Stjernen der gør det muligt",
+          "tekst": "En ekstremt magnetisk stjerne, også kaldet en magnetar, er nøglen til observationen. Den har et enormt magnetfelt, som får tomt rum til at ændre lysets polarisering. Dette bekræfter kvantemekanikkens forudsigelser."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "90 år",
+          "label": "Siden forudsigelsen"
+        }
+      ],
+      "detaljer": [
+        "Fænomenet kaldes vacuum dobbeltbrydning.",
+        "Werner Heisenberg forudsagde det.",
+        "Tomt rum er fyldt med virtuelle partikler.",
+        "En magnetar er en ultra-magnetisk stjerne."
+      ],
+      "betydning": "Dette bekræfter en grundlæggende del af kvantemekanikken, som vi bruger i mange moderne teknologier. Det viser, at selv tomt rum ikke er helt tomt – noget der kan påvirke vores forståelse af universet.",
+      "pointer": [
+        "Bekræftelse af kvanteeffekt",
+        "Sjælden magnetar observeret",
+        "Tomt rum ændrer lys",
+        "90 år gammel teori styrket"
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Redwire to fly dedicated Starfall mission for microgravity research",
+      "link": "https://spacenews.com/redwire-to-fly-dedicated-starfall-mission-for-microgravity-research/",
+      "dato": "2026-08-06T14:18:19+00:00",
+      "kilde": "SpaceNews",
+      "resume": "A Redwire subsidiary working on space biotech and pharmaceutical applications has signed an agreement to fly microgravity research payloads on SpaceX’s Starfall reentry vehicle. The post Redwire to fly dedicated Starfall mission for microgravity research appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/starfall-reentry-scaled.jpeg?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "Starfall reentry",
+      "kategori": "Forskning",
+      "rubrik": "Redwire sender forskning til rummet med SpaceX",
+      "resume_da": "Redwire vil sende mikrotyngdekraftsforskning på SpaceX's Starfall-kapsel for at udvikle bioteknologi og lægemidler i rummet.",
+      "sektioner": [
+        {
+          "overskrift": "Aftale om rumforskning",
+          "tekst": "Redwire's datterselskab har underskrevet en aftale om at flyve mikrotyngdekraftsforsøg på SpaceX's Starfall-genindtrædelsesfartøj. Det skal bruges til bioteknologi og farmaceutiske anvendelser."
+        },
+        {
+          "overskrift": "Starfall-missionen",
+          "tekst": "Starfall er et genanvendeligt fartøj, der kan bringe eksperimenter tilbage til Jorden. Missionen giver mulighed for at teste materialer og processer i vægtløs tilstand."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Aftalen er mellem Redwire's datterselskab og SpaceX.",
+        "Fokus er på mikrotyngdekraftsforskning.",
+        "Anvendelser inkluderer bioteknologi og lægemidler."
+      ],
+      "betydning": "Forskning i rummet kan føre til nye lægemidler og bedre bioteknologi, som kan komme patienter til gode på Jorden. Det viser også, at private virksomheder samarbejder om avanceret videnskab.",
+      "pointer": [
+        "Redwire sender forskning med SpaceX.",
+        "Mikrotyngdekraft kan forbedre medicin.",
+        "Starfall bringer eksperimenter tilbage.",
+        "Samarbejde mellem rumfirmaer vokser."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "On this day in space! Aug. 6, 2012: NASA lands huge Curiosity rover on Mars with a rocket-powered sky crane",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-6-2026",
+      "dato": "2026-08-06T14:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "On Aug. 6, 2012, NASA's Curiosity rover successfully touched down on the Martian surface in a way never attempted before: a rocket-powered sky crane. Here's why it mattered.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/xDe5VhDVboNSqS9DFUN7FZ-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Første billede fra James Webb-teleskopet er nu offentliggjort",
+      "resume_da": "Astronomer har frigivet det første farvebillede fra James Webb-rumteleskopet. Det viser tusindvis af galakser i hidtil uset detalje.",
+      "sektioner": [
+        {
+          "overskrift": "Et historisk øjeblik",
+          "tekst": "NASA og deres partnere har præsenteret det første farvebillede fra James Webb-rumteleskopet. Billedet viser en galaksehob kaldet SMACS 0723. Det er det dybeste og skarpeste infrarøde billede af universet nogensinde."
+        },
+        {
+          "overskrift": "Hvad billedet viser",
+          "tekst": "Billedet er fyldt med tusindvis af galakser. Nogle af dem er over **13 milliarder** år gamle. Det giver forskerne et unikt indblik i universets tidlige historie."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "13 milliarder år",
+          "label": "Alder på de ældste galakser"
+        }
+      ],
+      "detaljer": [
+        "James Webb-rumteleskopet er det største og mest kraftfulde rumteleskop, der nogensinde er sendt i kredsløb.",
+        "Billedet er taget med teleskopets hovedkamera, NIRCam.",
+        "Galaksehoben SMACS 0723 ligger omkring 4,6 milliarder lysår fra Jorden.",
+        "Billedet viser lys fra galakser, der har rejst i over 13 milliarder år."
+      ],
+      "betydning": "Dette billede er startskuddet til en ny æra inden for astronomi. Det kan hjælpe os med at forstå, hvordan de første stjerner og galakser blev dannet.",
+      "pointer": [
+        "Første farvebillede fra James Webb-teleskopet.",
+        "Viser galaksehoben SMACS 0723.",
+        "Indeholder galakser over 13 milliarder år gamle.",
+        "Det dybeste infrarøde billede af universet."
+      ],
+      "prio": 9
+    },
+    {
+      "titel": "Space kit for future 'away missions' tested in Scotland",
+      "link": "https://phys.org/news/2026-08-space-kit-future-missions-scotland.html",
+      "dato": "2026-08-06T13:40:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Researchers from the University of Leicester and the University of Aberdeen have carried out a series of field demonstrations in Portsoy to test cutting-edge handheld analytical instruments. Designed for use by astronauts on the moon and, eventually, Mars, these instruments would support astronauts working as field scientists while exploring these worlds.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/space-kit-for-future-a.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Test af rumudstyr til fremtidige måne- og Marsmissioner",
+      "resume_da": "Forskere har testet avancerede håndholdte instrumenter i Skotland, som astronauter skal bruge som feltforskere på Månen og Mars.",
+      "sektioner": [
+        {
+          "overskrift": "Test i Skotland",
+          "tekst": "Forskere fra universiteterne i Leicester og Aberdeen har afprøvet moderne håndholdte analyseredskaber i Portsoy. Instrumenterne er designet til at hjælpe astronauter med at undersøge geologi og andre videnskabelige opgaver på fremtidige missioner."
+        },
+        {
+          "overskrift": "Formål med instrumenterne",
+          "tekst": "De håndholdte instrumenter skal bruges af astronauter, der arbejder som feltforskere på Månen og Mars. De skal gøre det muligt at foretage hurtige analyser direkte på stedet, uden at skulle sende prøver tilbage til Jorden."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "Leicester",
+          "label": "Universitet, der deltager"
+        },
+        {
+          "tal": "Aberdeen",
+          "label": "Universitet, der deltager"
+        }
+      ],
+      "detaljer": [
+        "Testene blev udført i Portsoy, Skotland.",
+        "Instrumenterne er håndholdte og analytiske.",
+        "De er beregnet til brug på Månen og Mars."
+      ],
+      "betydning": "For almindelige danskere kan denne teknologi bidrage til at gøre fremtidige rummissioner mere effektive og videnskabeligt produktive, hvilket kan føre til nye opdagelser om vores solsystem.",
+      "pointer": [
+        "Test af instrumenter i Skotland",
+        "Forskere fra to universiteter",
+        "Instrumenter til Månen og Mars",
+        "Støtte til astronautforskere"
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Spacecraft observations may conceal how particles really move through near-Earth space",
+      "link": "https://phys.org/news/2026-08-spacecraft-conceal-particles-earth-space.html",
+      "dato": "2026-08-06T13:20:06+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "High-energy particles in Earth's radiation belt can appear to spread out randomly, even when they are moving in a \"predictable\" way. This is because spacecraft observations naturally blur the fine-scale structure of the particle population, a new study reveals.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/near-earth-orbit.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Rumsonder skjuler sand bevægelse af partikler",
+      "resume_da": "Nye målinger viser, at rumsonder kan få partikler i Jordens strålingsbælte til at se tilfældige ud, selvom de bevæger sig forudsigeligt.",
+      "sektioner": [
+        {
+          "overskrift": "Partikler i strålingsbæltet",
+          "tekst": "Jordens strålingsbælte indeholder højenergi-partikler. De kan se ud til at sprede sig tilfældigt. Men det er en illusion fra rumsondernes målinger."
+        },
+        {
+          "overskrift": "Målinger slører detaljer",
+          "tekst": "Rumsonder observerer partiklerne, men de kan ikke se den fine struktur. Derfor kan partiklerne virke uforudsigelige, selvom de bevæger sig på en regelmæssig måde."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "høj energi (ikke specificeret)",
+          "label": "partikel energi"
+        }
+      ],
+      "detaljer": [
+        "Nyt studie viser, at observationer fra rumsonder kan skjule den virkelige bevægelse af partikler i Jordens strålingsbælte.",
+        "Partikler kan se ud til at sprede sig tilfældigt, men de bevæger sig måske forudsigeligt.",
+        "Sløringen skyldes, at målingerne ikke kan se den fine struktur i partikelbefolkningen."
+      ],
+      "betydning": "Forståelse af partiklernes bevægelse er vigtig for at beskytte satellitter og astronauter mod skadelig stråling. Resultaterne kan hjælpe forskere med at fortolke rumdata mere præcist.",
+      "pointer": [
+        "Partikler i strålingsbæltet kan virke tilfældige.",
+        "Rumsonder slører den fine struktur.",
+        "Bevægelsen er måske forudsigelig.",
+        "Vigtigt for satellitsikkerhed."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA's Perseverance captures Phobos and Earth",
+      "link": "https://phys.org/news/2026-08-nasa-perseverance-captures-phobos-earth.html",
+      "dato": "2026-08-06T13:20:05+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "This composite of seven images from the Mastcam-Z instrument aboard NASA's Perseverance Mars rover shows Earth, visible as a small bright dot moving from upper left to lower right, passing behind the Martian moon Phobos on July 2, 2026, the 1,907th Martian day, or sol, of the mission.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasas-perseverance-cap-5.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Perseverance fotograferer Phobos og Jorden",
+      "resume_da": "NASAs Mars-rover Perseverance har taget billeder af Jordens passage bag Mars-månen Phobos. Det skete den 2. juli 2026, på missionens 1.907. soldag på Mars.",
+      "sektioner": [
+        {
+          "overskrift": "Et sjældent øjeblik fra Mars",
+          "tekst": "Roverens Mastcam-Z-instrument tog syv billeder, som blev sat sammen til et kompositbillede. På billedet ses Jorden som en lille lys prik, der bevæger sig bag Phobos."
+        },
+        {
+          "overskrift": "Hvad billedet viser",
+          "tekst": "Billedet viser Mars-månen Phobos i forgrunden. Bagved ses Jorden som en prik. Det er et usædvanligt syn fra Mars' overflade."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Billedet er taget med Mastcam-Z instrumentet om bord på Perseverance.",
+        "Jorden ses som en lille lys prik i bevægelse fra øverst venstre til nederst højre.",
+        "Det skete den 2. juli 2026, på sol 1907."
+      ],
+      "betydning": "Det minder os om, at Jorden kun er en lille prik i rummet. Det viser også, hvordan rumfartøjer kan observere Jorden fra andre planeter.",
+      "pointer": [
+        "Perseverance tog billeder af Phobos og Jorden.",
+        "Billedet er et komposit af syv optagelser.",
+        "Jorden ses forsvinde bag Phobos.",
+        "Det skete den 2. juli 2026."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Liquid nitrogen may have recently flowed across Pluto's heart-shaped glacier",
+      "link": "https://phys.org/news/2026-08-liquid-nitrogen-pluto-heart-glacier.html",
+      "dato": "2026-08-06T13:00:05+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "A new study led by Southwest Research Institute (SwRI) provides evidence that liquid nitrogen is rising to Pluto's surface through cracks at the northern edge of Sputnik Planitia, part of the massive heart-shaped glacier on the dwarf planet's surface. This is the first evidence of liquid flow occurring recently on Pluto. The study is based on data from NASA's New Horizons spacecraft and led by SwR",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-finds-evidence-o.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Flydende kvælstof har måske strømmet på Pluto",
+      "resume_da": "Nye data fra New Horizons tyder på, at flydende kvælstof er trængt op gennem sprækker i Plutos hjerteformede gletsjer. Det er første tegn på nylig væskestrøm på dværgplaneten.",
+      "sektioner": [
+        {
+          "overskrift": "Første bevis på væske",
+          "tekst": "Forskere fra Southwest Research Institute (SwRI) har fundet tegn på, at flydende kvælstof er steget op til Plutos overflade gennem sprækker i den nordlige kant af Sputnik Planitia. Det er første gang, man har set bevis for, at væske har strømmet på Pluto for nylig."
+        },
+        {
+          "overskrift": "Data fra New Horizons",
+          "tekst": "Undersøgelsen er baseret på data fra NASAs rumsonde New Horizons. Den ledes af Dr. Alan Stern, som også er leder af New Horizons-missionen. Resultaterne er publiceret i et tidsskrift."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Fundet er gjort ved Sputnik Planitia, en del af Plutos hjerteformede gletsjer.",
+        "Forskerne mener, at kvælstoffet er trængt op gennem sprækker.",
+        "Det er første bevis på nylig væskestrøm på Pluto."
+      ],
+      "betydning": "Det giver ny viden om, at der er geologisk aktivitet på Pluto, selvom den er lille og kold. Det kan ændre vores forståelse af dværgplaneter.",
+      "pointer": [
+        "Flydende kvælstof er fundet på Plutos overflade.",
+        "Fundet er gjort ved den hjerteformede gletsjer.",
+        "Det er første bevis på nylig væskestrøm på Pluto."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "Three companies building the tech to grow crops on the moon",
+      "link": "https://spacenews.com/three-companies-building-the-tech-to-grow-crops-on-the-moon/",
+      "dato": "2026-08-06T12:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Rockets, rovers and landers have dominated the attention of the commercial space industry as the United States focuses on sending humans back to the moon, but a handful of companies [&#8230;] The post Three companies building the tech to grow crops on the moon appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/QAT-ORION-Plant-Inspection-updated-scaled.png?fit=943%2C1024&amp;ssl=1",
+      "billede_alt": "SafetySpect is developing a handheld device for real-time plant health monitoring in space. Credit: SafetySpect Inc.",
+      "kategori": "Forskning",
+      "rubrik": "Tre firmaer udvikler teknologi til månelandbrug",
+      "resume_da": "Tre kommercielle firmaer arbejder på teknologi, der kan gøre det muligt at dyrke afgrøder på Månen. Det kan blive vigtigt for fremtidige månebaser.",
+      "sektioner": [
+        {
+          "overskrift": "Nyt fokus på landbrug",
+          "tekst": "Raketter, rovere og landere har domineret kommerciel rumfart, men nu er der også firmaer, der fokuserer på at dyrke planter på Månen. Tre firmaer er i gang med at udvikle teknologien."
+        },
+        {
+          "overskrift": "Tre firmaer i spil",
+          "tekst": "Artiklen nævner, at tre firmaer arbejder på teknologien. De vil gøre det muligt at dyrke afgrøder på Månens overflade. Det er endnu uvist, hvilke firmaer der er tale om, da artiklen ikke nævner dem ved navn."
+        },
+        {
+          "overskrift": "Vigtigt for månebaser",
+          "tekst": "Teknologien kan blive afgørende for fremtidige bemandede missioner til Månen. Hvis astronauter kan dyrke deres egen mad, bliver de mindre afhængige af forsyninger fra Jorden."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Tre virksomheder arbejder på teknologi til at dyrke afgrøder på Månen.",
+        "Raketter, rovere og landere har hidtil domineret den kommercielle rumfartsindustri.",
+        "Målet er at støtte fremtidige bemandede månebaser."
+      ],
+      "betydning": "For almindelige mennesker kan denne teknologi bane vejen for længerevarende ophold på Månen og i fremtiden måske også Mars. Det kan føre til nye landbrugsløsninger på Jorden, der er mere bæredygtige.",
+      "pointer": [
+        "Tre firmaer udvikler teknologi til månelandbrug.",
+        "Tidligere fokus har været på raketter og rovere.",
+        "Teknologien skal støtte månebaser.",
+        "Kan reducere afhængigheden af jordiske forsyninger."
+      ],
+      "prio": 5
     },
     {
       "titel": "Webb opens a Treasure Chest filled with stars",
@@ -3887,594 +4369,6 @@
         "Lyt til podcasten for detaljer."
       ],
       "prio": 7
-    },
-    {
-      "titel": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-1-buck-moon-and-belt-of-venus/",
-      "dato": "2026-08-01T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Buck Moon [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FullMoon28-7-2026BrankoNadj.jpg?w=3150&#038;h=2096&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Buck Moon og Bæltet af Venus over Kroatien",
-      "resume_da": "APOD viser et smukt billede af fuldmånen i juli, kaldet Buck Moon, der stiger op over Kroatien sammen med Jordens skygge og det lyserøde Bæltet af Venus. Billedet blev taget den 28. juli fra Krk Island.",
-      "sektioner": [
-        {
-          "overskrift": "Buck Moon og Bæltet af Venus",
-          "tekst": "Buck Moon er et traditionelt navn for fuldmånen i juli. Billedet er taget den 28. juli fra Krk Island ved Adriaterhavet i Kroatien. Månen stiger op over fjerne bjerge ved solnedgang."
-        },
-        {
-          "overskrift": "Jordens skygge og atmosfæriske fænomener",
-          "tekst": "Ved måneopgang stiger Jordens skygge også op i tusmørket som et diffust gråt bånd over horisonten. Over skyggen er det lyserøde Bæltet af Venus, som er sollys spredt tilbage i atmosfæren."
-        },
-        {
-          "overskrift": "Kommende solformørkelse",
-          "tekst": "Den nye måne den 12. august vil kaste sin egen skygge på Jorden under en total solformørkelse. Billedet sætter scenen for denne begivenhed."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "28. juli",
-          "label": "Dato billedet blev taget"
-        },
-        {
-          "tal": "12. august",
-          "label": "Dato for total solformørkelse"
-        }
-      ],
-      "detaljer": [
-        "Billedet er fra NASAs Astronomy Picture of the Day (APOD) den 1. august 2026.",
-        "Fotografen er Branko Nadj.",
-        "Bæltet af Venus er en lyserød bue over Jordens skygge."
-      ],
-      "betydning": "For almindelige danskere er billedet en smuk påmindelse om de naturlige fænomener på himlen, og det kan vække interesse for astronomi og kommende begivenheder som solformørkelsen.",
-      "pointer": [
-        "Fuldmånen i juli kaldes Buck Moon.",
-        "Bæltet af Venus er et atmosfærisk fænomen.",
-        "Jordens skygge er synlig ved måneopgang.",
-        "Der er en total solformørkelse den 12. august."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/",
-      "dato": "2026-08-01T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Buck Moon [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FullMoon28-7-2026BrankoNadj.jpg?w=3150&#038;h=2096&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Buck Moon og Belt of Venus over Kroatien",
-      "resume_da": "Et smukt billede fra Kroatien viser fuldmånen (Buck Moon) stige op sammen med Jordens skygge og det lyserøde bælte kaldet Belt of Venus. Billedet blev taget den 28. juli, og optakten til en total solformørkelse den 12. august.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er Buck Moon?",
-          "tekst": "Buck Moon er et traditionelt navn for fuldmånen i juli. Billedet viser den stige op over bjergene fra øen Krk i Kroatien. Fuldmånen står op, når solen går ned."
-        },
-        {
-          "overskrift": "Jordens skygge og Belt of Venus",
-          "tekst": "På billedet kan man også se Jordens skygge som et gråt bælte over horisonten. Ovenover er der et lyserødt bælte kaldet Belt of Venus. Det opstår, når sollys spredes i atmosfæren."
-        },
-        {
-          "overskrift": "Optakt til solformørkelse",
-          "tekst": "Den 12. august vil en ny måne kaste sin skygge på Jorden i en total solformørkelse. Billedet viser fuldmånen, der står over for den kommende nymåne."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "28. juli",
-          "label": "Dato for billedet"
-        },
-        {
-          "tal": "12. august",
-          "label": "Dato for solformørkelsen"
-        }
-      ],
-      "detaljer": [
-        "Billedet er taget fra Krk Island i Kroatien.",
-        "Det viser Buck Moon over Adriaterhavet.",
-        "Belt of Venus er et lyserødt bælte over Jordens skygge.",
-        "Den kommende solformørkelse er total."
-      ],
-      "betydning": "Det minder os om, at himlen byder på smukke naturfænomener, som vi kan opleve og se frem til – som den kommende solformørkelse.",
-      "pointer": [
-        "Buck Moon er fuldmånen i juli.",
-        "Belt of Venus er et lyserødt bælte.",
-        "Billedet er fra Kroatien.",
-        "Der kommer en solformørkelse i august."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "What’s Up: August 2026 Skywatching Tips from NASA",
-      "link": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/",
-      "dato": "2026-07-31T22:35:36+00:00",
-      "kilde": "NASA",
-      "resume": "A solar eclipse, the Perseids, bright Venus after sunset, and a deep partial lunar eclipse highlight August’s skywatching. Skywatching Highlights Transcript A solar eclipse, one of the year’s best meteor showers, Venus at its brightest in the evening sky, and a lunar eclipse to close out the month. That’s “What’s Up” for August. On Aug. […]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/august/20260717%20Whats%20Up%20August%202026%20WHATSUp_2.jpg?w=1920&#038;h=1080&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A stylized flat map of the Earth indicating the viewing areas for a solar eclipse, with text on the left reading ",
-      "kategori": "Astronomi",
-      "rubrik": "August byder på solformørkelse og Perseider",
-      "resume_da": "I august kan du opleve en total solformørkelse, Perseidernes meteorsværm, den klare planet Venus og en delvis måneformørkelse. Se her, hvornår og hvordan du ser dem.",
-      "sektioner": [
-        {
-          "overskrift": "Total solformørkelse",
-          "tekst": "Den 12. august vil en total solformørkelse kunne ses i det nordlige Rusland, Grønland, Island og det nordlige Spanien. I USA vil den kun være delvis. Det er vigtigt at bruge godkendte formørkelsesbriller for at se sikkert på solen."
-        },
-        {
-          "overskrift": "Perseidernes meteorsværm",
-          "tekst": "Natten efter formørkelsen, den 12.-13. august, topper meteorsværmen Perseiderne. Da der er nymåne, bliver himlen ekstra mørk, hvilket giver perfekte forhold. Kig mod nordøst, og giv øjnene 30 minutter til at vænne sig til mørket."
-        },
-        {
-          "overskrift": "Venus og måneformørkelsen",
-          "tekst": "Fra 14. til 16. august står Venus i østlig elongation og er klart synlig lavt i vest efter solnedgang, hvor den skinner klarere end alle stjerner. Den 27.-28. august kan en delvis måneformørkelse ses fra store dele af Amerika, Europa og Afrika. Månen bliver delvist dækket af Jordens skygge, hvilket er sikkert at se med det blotte øje."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "12. august",
-          "label": "dato for solformørkelse"
-        },
-        {
-          "tal": "12.-13. august",
-          "label": "top for meteorsværmen"
-        },
-        {
-          "tal": "14.-16. august",
-          "label": "Venus klarest synlig"
-        }
-      ],
-      "detaljer": [
-        "Den totale solformørkelse kan ses i Rusland, Grønland, Island, Spanien og en lille del af Portugal.",
-        "Meteorsværmen Perseiderne stammer fra kometen Swift-Tuttle.",
-        "Venus står i østlig elongation og viser sig halvt oplyst gennem teleskop.",
-        "Ved maksimum af måneformørkelsen er ca. 93% af månens diameter i jordens skygge."
-      ],
-      "betydning": "For almindelige danskere er det en god anledning til at komme ud og kigge på nattehimlen, særligt fordi der er flere spektakulære begivenheder i samme måned. Du kan let følge med uden særligt udstyr for meteorsværmen og måneformørkelsen.",
-      "pointer": [
-        "Total solformørkelse den 12. august",
-        "Perseiderne topper 12.-13. august",
-        "Venus kan ses efter solnedgang midt på måneden",
-        "Delvis måneformørkelse den 27.-28. august"
-      ],
-      "prio": 8
-    },
-    {
-      "titel": "Laying odds on the potential for Martian water near future landing zones",
-      "link": "https://phys.org/news/2026-07-laying-odds-potential-martian-future.html",
-      "dato": "2026-07-31T21:20:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "We know Mars has water ice in its polar regions, but astronauts (and their solar-powered equipment!) would much rather experience life closer to Mars' equator. As NASA looks toward landing humans on the red planet, the Planetary Science Institute (PSI) is mapping where water should and shouldn't be found and using statistics to quantify its certainty. Two new papers, led by PSI's Hanna Sizemore an",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2022/mars.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Nye kort viser vandis på Mars",
-      "resume_da": "Forskere har lavet kort over vandis under Mars' overflade. De bruger statistik til at vurdere, hvor sikre de er på, at isen findes.",
-      "sektioner": [
-        {
-          "overskrift": "Kortlægning af vandis",
-          "tekst": "Vi ved, at Mars har vandis ved polerne. Men fremtidige astronauter vil helst bo nær ækvator. Nu har forskere fra Planetary Science Institute (PSI) lavet kort over vandis under overfladen."
-        },
-        {
-          "overskrift": "Usikkerhed i kortene",
-          "tekst": "Forskerne bruger statistik til at vise, hvor sikre de er på, at isen findes. To nye artikler beskriver kortene og hvilke missioner og værktøjer, der kan gøre dem mere præcise."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Kortene er globale kort over underjordisk vandis.",
-        "Forskerne bag er Hanna Sizemore og Samuel Courville fra PSI."
-      ],
-      "betydning": "For at kunne sende mennesker til Mars er det vigtigt at vide, hvor der er vand. Det kan gøre missioner mere sikre og give mulighed for at bruge vandet.",
-      "pointer": [
-        "Nye kort viser vandis på Mars.",
-        "Forskerne bruger statistik.",
-        "Mål: at finde vand nær ækvator.",
-        "Flere missioner kan forbedre kortene."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Starbase Pad 1 Retrofits Progress as Block 3 Flights Start",
-      "link": "https://www.nasaspaceflight.com/2026/07/pad-1-retrofits-block-3-flights/",
-      "dato": "2026-07-31T21:14:22+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "While SpaceX has now flown two flights out of the newly designed Pad 2, crews&#8230; The post Starbase Pad 1 Retrofits Progress as Block 3 Flights Start appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/DSC01537-wmarked-scaled.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "SpaceX opgraderer Starship-rampe i Texas",
-      "resume_da": "SpaceX er i fuld gang med at opgradere Pad 1 ved Starbase i Texas, så den matcher den nyere Pad 2. Flamgraven er gravet, og man er begyndt at bygge selve affyringsrampen. Også tankfarmen udvides med ekstra nitrogenlagre.",
-      "sektioner": [
-        {
-          "overskrift": "Flamgrav og fundament",
-          "tekst": "Arbejdet med flamgraven skrider frem. Det meste af jorden er gravet væk, og beton er støbt på dele af bunden. Næste skridt er at støbe vægge og installere store stålsektioner, som løftes på plads med en kæmpe kran."
-        },
-        {
-          "overskrift": "Affyringsbordet tager form",
-          "tekst": "Affyringsbordet er forsinket, fordi hjørnerne først lige er ankommet. Når de er på plads, kan bordet forventes færdigt om fem til seks måneder. Servicebunkeren er allerede løftet på plads og bliver nu udstyret med alt det tekniske udstyr."
-        },
-        {
-          "overskrift": "Tårn og tanke",
-          "tekst": "Det gamle brændstofkobling er fjernet fra tårnet, og nye dele er under forberedelse. To nye kvælstoftanke er blevet tilføjet til tankfarmen, og der er plads til flere. Dette øger kapaciteten til flydende ilt og methan."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "13.740 tons",
-          "label": "LOX-lagerkapacitet"
-        },
-        {
-          "tal": "6.136 tons",
-          "label": "LN2-lagerkapacitet"
-        },
-        {
-          "tal": "3.268 tons",
-          "label": "LCH4-lagerkapacitet"
-        }
-      ],
-      "detaljer": [
-        "Flamgraven forventes at få præfabrikerede vægge, som svejses på plads.",
-        "Affyringsbordet skal understøtte Starship-raketten under opsendelse.",
-        "Servicebunkeren indeholder elektriske, hydrauliske og kryogene systemer.",
-        "Tankfarmen udvides for at understøtte flere opsendelser af Block 3.",
-        "Gigabay-bygningen er næsten færdig i stål, og taget mangler."
-      ],
-      "betydning": "Opgraderingen af Pad 1 er vigtig, fordi den giver SpaceX mulighed for at øge antallet af Starship-opsendelser. Det kan føre til billigere og hyppigere rummissioner, hvilket måske senere kan gøre rumrejser mere tilgængelige for almindelige mennesker.",
-      "pointer": [
-        "Pad 1 opgraderes til ny standard.",
-        "Flamgrav og affyringsbord er i gang.",
-        "Tankfarmen får mere kapacitet.",
-        "Gigabay-bygningen skrider frem."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "NASA to Host Florida Event Celebrating American Air, Space Leadership",
-      "link": "https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/",
-      "dato": "2026-07-31T21:08:10+00:00",
-      "kilde": "NASA",
-      "resume": "NASA will hold a news conference at 2:30 p.m. EDT, Friday, Aug. 14, live from the agency’s Kennedy Space Center in Florida, and media and digital creators are invited to attend in person. The announcement, held in the XLV Hangar at the Shuttle Landing Facility, will preview a new event at NASA Kennedy later this [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/1america250.jpg?w=2048",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "NASA inviterer til pressekonference om jubilæumsfejring",
-      "resume_da": "NASA holder pressekonference den 14. august for at fortælle om et nyt arrangement i anledning af USA's 250-års jubilæum. Det skal fejre lederskab inden for luft- og rumfart.",
-      "sektioner": [
-        {
-          "overskrift": "Pressekonference om jubilæum",
-          "tekst": "NASA afholder en pressekonference fredag den 14. august klokken 20:30 dansk tid fra Kennedy Space Center i Florida. Her vil de præsentere et nyt arrangement senere på året, som fejrer USA's 250-års jubilæum."
-        },
-        {
-          "overskrift": "Deltagere og formål",
-          "tekst": "NASA's administrator Jared Isaacman, andre NASA-ledere og medlemmer af Kongressen deltager. Arrangementet skal samle offentligheden, industri-ledere og kommende opdagere for at fejre lederskab inden for luftfart og rumfart."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "250 år",
-          "label": "USA's jubilæum"
-        },
-        {
-          "tal": "14. august",
-          "label": "Dato for pressekonference"
-        }
-      ],
-      "detaljer": [
-        "Pressekonferencen finder sted i XLV Hangar ved Shuttle Landing Facility.",
-        "Medier og digitale skabere kan deltage fysisk.",
-        "Tilmelding skal ske senest 6. august klokken 12.00 (amerikansk tid).",
-        "Konferencen streames live på NASA's hjemmeside."
-      ],
-      "betydning": "For almindelige danskere viser det, hvordan USA markerer sit jubilæum og understreger rumfartens fortsatte betydning. Det kan inspirere til interesse for rumfart og teknologi.",
-      "pointer": [
-        "Pressekonference den 14. august.",
-        "Fejring af USA's 250-års jubilæum.",
-        "Nyt arrangement senere på året.",
-        "Offentligheden kan følge med online."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
-      "link": "https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/",
-      "dato": "2026-07-31T20:53:43+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Converting an engineering model of a Mars rover into an actual lunar rover could cost NASA more than $1 billion, an estimate strongly rejected by the agency’s administrator. The post Sending repurposed Mars rover to the moon could cost more than $1 billion appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/optimism.jpeg?fit=1024%2C716&amp;ssl=1",
-      "billede_alt": "OPTIMISM",
-      "kategori": "Missioner",
-      "rubrik": "Mars-rover til Månen kan koste over 1 mia. dollar",
-      "resume_da": "En ombygget Mars-rover til Månen kan koste NASA over 1 mia. dollar, men NASA-chefen afviser estimatet.",
-      "sektioner": [
-        {
-          "overskrift": "Omkostningsoverslag",
-          "tekst": "Ifølge en vurdering kan det koste over **1 mia. dollar** at ombygge en ingeniørmodel af en Mars-rover til en måne-rover. NASA's administrator afviser dog dette tal."
-        },
-        {
-          "overskrift": "NASA's reaktion",
-          "tekst": "NASA's leder mener, at omkostningerne er overdrevne. Han ser en fordel i at genbruge eksisterende udstyr til månen."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1 mia. dollar",
-          "label": "Anslået pris for ombygning"
-        }
-      ],
-      "detaljer": [
-        "En ingeniørmodel af Mars-roveren kan ombygges til en måne-rover.",
-        "NASA's administrator afviser det høje prisestimat."
-      ],
-      "betydning": "Det er relevant, fordi det viser, hvordan NASA's budget og beslutninger påvirker fremtidige rummissioner, og om man kan spare penge ved at genbruge udstyr.",
-      "pointer": [
-        "Ombygning koster måske over 1 mia. dollar.",
-        "NASA-chefen er uenig i prisen.",
-        "Genbrug af teknologi er et tema."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "NASA’s Newest Wind Tunnel Opens at NASA Langley",
-      "link": "https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/",
-      "dato": "2026-07-31T20:19:37+00:00",
-      "kilde": "NASA",
-      "resume": "On Friday, July 31, 2026, NASA leadership and Virginia government officials opened NASA&#8217;s first major new wind tunnel in more than 40 years, the Flight Dynamics Research Facility at NASA’s Langley Research Center in Hampton, Virginia. The state-of-the-art facility will support research and technology development that will advance the agency’s aeronautics, exploration, and science goals, [&#8",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/55433508350-2d4abff2f1-o.jpg?w=2048",
-      "billede_alt": "A group of people in suits stand in front of a massive square building that has two big square openings in it that go all the way through. The people all hold big pairs of scissors, as they wait to cu",
-      "kategori": "Forskning",
-      "rubrik": "NASA åbner ny vindtunnel efter 40 år",
-      "resume_da": "NASA har åbnet sin første store vindtunnel i over 40 år. Den skal støtte forskning og udvikling, bl.a. til månebasen.",
-      "sektioner": [
-        {
-          "overskrift": "Ny vindtunnel åbnet",
-          "tekst": "Den 31. juli 2026 åbnede NASA officielt sin nye vindtunnel, Flight Dynamics Research Facility, i Hampton, Virginia. Det er NASAs første store vindtunnel i mere end 40 år. Ledere fra NASA og Virginia deltog i åbningen."
-        },
-        {
-          "overskrift": "Formål med tunnelen",
-          "tekst": "Vindtunnelen skal støtte forskning og udvikling inden for luftfart og rumfart. Den skal blandt andet hjælpe med at etablere en fast tilstedeværelse på Månen og udvikle en månebase. Det er en del af Artemis-programmet."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "> 40 år",
-          "label": "Siden sidste store vindtunnel"
-        }
-      ],
-      "detaljer": [
-        "Vindtunnelen blev åbnet 31. juli 2026.",
-        "Den er placeret på NASAs Langley Research Center i Hampton, Virginia.",
-        "Åbningen inkluderede en båndklipning med NASA-ledere og lokale politikere.",
-        "Den skal støtte forskning til både luftfart og rumfart."
-      ],
-      "betydning": "For almindelige danskere er det relevant, fordi ny forskning kan føre til mere effektiv flyvning og fremtidig rumrejser, som kan have afledte effekter på teknologier vi bruger i hverdagen.",
-      "pointer": [
-        "NASA åbnede ny vindtunnel i juli 2026.",
-        "Det er den første store vindtunnel i over 40 år.",
-        "Den skal støtte Artemis-programmet og månebase.",
-        "Beliggende i Virginia, USA."
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "ELT's spectrograph could 'sniff out' biosignatures on other worlds",
-      "link": "https://phys.org/news/2026-07-elt-spectrograph-biosignatures-worlds.html",
-      "dato": "2026-07-31T20:00:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Before any major telescope commissioning, there are dozens of papers that attempt to define what we can expect from it. We're starting to see some come through for the Extremely Large Telescope (ELT), which hopefully will get a more imaginative name when the 39 m (128-foot) behemoth is officially commissioned in Chile in the 2030s.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-elts-spectrograph.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "ELT kan finde liv på andre planeter",
-      "resume_da": "Forskere regner med, at kæmpeteleskopet ELT kan opdage livstegn (biosignaturer) på fjerne planeter, når det står klar i 2030'erne.",
-      "sektioner": [
-        {
-          "overskrift": "Kæmpeteleskopet ELT",
-          "tekst": "ELT står for Extremely Large Telescope. Det får et spejl på **39 meter** i diameter. Teleskopet bygges i Chile og forventes at være i brug i **2030'erne**. Forskere arbejder allerede på at forudsige, hvad teleskopet kan vise."
-        },
-        {
-          "overskrift": "Spektrograf skal finde liv",
-          "tekst": "ELT skal have et instrument kaldet ANDES. Det er en spektrograf, der kan analysere lys fra fjerne planeter. På den måde kan forskerne se, om der er livstegn i atmosfæren. Livstegn kaldes også biosignaturer."
-        },
-        {
-          "overskrift": "Nye studier",
-          "tekst": "Der er allerede kommet flere forskningsartikler om, hvad ELT kan. Forskere undersøger, hvor godt teleskopet kan finde tegn på liv. De tester også, hvordan man bedst bruger instrumentet."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "39 m",
-          "label": "Spejlets diameter"
-        },
-        {
-          "tal": "2030'erne",
-          "label": "Forventet start"
-        }
-      ],
-      "detaljer": [
-        "ELT får et spejl på 39 meter i diameter.",
-        "Teleskopet bliver bygget i Chile.",
-        "ANDES er en spektrograf på ELT.",
-        "Spektrografen kan finde biosignaturer.",
-        "Forskere har lavet flere forudsigelser."
-      ],
-      "betydning": "For almindelige danskere er det spændende, fordi det kan betyde, at vi endelig finder ud af, om der er liv uden for Jorden. Det er et af de største spørgsmål i videnskaben.",
-      "pointer": [
-        "ELT bliver kæmpestort.",
-        "Det kan finde livstegn.",
-        "Klart i 2030'erne.",
-        "Forskere er forventningsfulde."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
-      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
-      "dato": "2026-07-31T19:05:25+00:00",
-      "kilde": "NASA",
-      "resume": "Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions. Testing demonstrated that a webbing composed of 60% Kevlar®/40% polybenzimidazole (PBI) from Sturges Manufacturing Company, Inc., specifically the natural version, passed flammability testing",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2015/04/prepost-flammability-test-photo-of-natural-webbing.png",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "NASA tester brandsikre bånd til Månen og Mars",
-      "resume_da": "NASA har testet kommercielle bånd, der kan modstå iltrige miljøer på fremtidige måne- og marsmissioner. Et bånd bestående af 60% Kevlar og 40% PBI bestod testen.",
-      "sektioner": [
-        {
-          "overskrift": "Baggrund for testen",
-          "tekst": "Fremtidige missioner til Månen og Mars vil bruge et iltrigt miljø for at reducere tiden før rumvandringer. Dette øger brandfaren, så der er behov for brandsikre materialer."
-        },
-        {
-          "overskrift": "Testresultater for båndet",
-          "tekst": "Et bånd af 60% Kevlar og 40% PBI fra Sturges Manufacturing bestod NASA's flammetest ved **37% ilt** og **8,2 psia**. Det naturlige, guldfarvede bånd klarede testen, mens det sorte bånd kun klarede **35% ilt**."
-        },
-        {
-          "overskrift": "Brug og begrænsninger",
-          "tekst": "De testede bånd bruges i eksempelvis håndtag og opbevaringsnet. Testene er dog kun på selve båndet, ikke på det færdige produkt, så yderligere test er nødvendige."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "37% ilt",
-          "label": "Maks. iltkoncentration for naturligt bånd"
-        },
-        {
-          "tal": "8,2 psia",
-          "label": "Tryk under testen"
-        },
-        {
-          "tal": "35% ilt",
-          "label": "Maks. iltkoncentration for sort bånd"
-        }
-      ],
-      "detaljer": [
-        "Testen blev udført ved NASA's White Sands Test Facility.",
-        "Testen fulgte NASA-STD-6001B Test 1.",
-        "Båndet fås i bredder fra ¼ til 8 tommer.",
-        "Slid og ælde blev ikke vurderet i testen."
-      ],
-      "betydning": "De nye brandsikre bånd kan gøre fremtidige rummissioner sikrere og er et skridt mod at gøre rejser til Månen og Mars mere pålidelige.",
-      "pointer": [
-        "Brandsikre materialer er nødvendige i iltrige rummiljøer.",
-        "Kevlar/PBI-båndet klarede NASA's test.",
-        "Kun naturlige, ikke sorte, bånd bestod alle krav.",
-        "Yderligere test er nødvendige før brug."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket",
-      "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
-      "dato": "2026-07-31T18:39:47+00:00",
-      "kilde": "NASA",
-      "resume": "NASA and its industry partners are preparing for next year’s Artemis III demonstration mission by completing new wind tunnel tests on SpaceX’s Super Heavy Version 3 rocket booster. The tests, conducted at NASA’s Ames Research Center in California’s Silicon Valley, focused on better understanding the extreme aerodynamic forces the rocket can experience during re-entry. The [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/acd25-0156-012.jpg?w=1536",
-      "billede_alt": "Engineers at NASA Ames conduct transonic and supersonic wind testing on a 1.2% scale model of the Super Heavy Version 3 rocket that will launch the Starship human landing system.",
-      "kategori": "Missioner",
-      "rubrik": "Nye vindtunneltests til SpaceX' Starship-raket",
-      "resume_da": "NASA og SpaceX har testet en model af den nye Super Heavy-raket i vindtunneller for at forstå de kræfter, raketten udsættes for under genindtræden i atmosfæren. Det skal forberede den kommende Artemis III-mission til Månen.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad testene handler om",
-          "tekst": "NASA og SpaceX har afsluttet nye vindtunneltests på en **1,2%**-skalamodel af Super Heavy Version 3-raketten. Testene blev lavet i NASAs vindtunneller ved Ames Research Center i Californien. Formålet var at måle de aerodynamiske kræfter, som raketten vil opleve, når den kommer tilbage gennem atmosfæren."
-        },
-        {
-          "overskrift": "Hvorfor det er vigtigt",
-          "tekst": "Super Heavy er den store førstetrin-raket, der skal sende Starship-månemodulet afsted. Version 3 har mange ændringer, blandt andet nye motorer og kun tre finner i stedet for fire. Derfor vil ingeniørerne vide, hvordan raketten reagerer på lufttryk og vibrationer under genindtræden."
-        },
-        {
-          "overskrift": "Hvad NASA bidrager med",
-          "tekst": "NASA bidrager med ekspertise fra tidligere test af rumfærgen og SLS-raketten. Manish Mehta fra NASA siger, at erfaringerne fra Artemis II hjalp dem med at sætte testene op. Testene foregik i både en transonisk og en supersonisk vindtunnel."
-        },
-        {
-          "overskrift": "Næste skridt",
-          "tekst": "Dataene fra testene skal hjælpe med at forudsige, hvordan raketten opfører sig i luften, så flyvesoftwaren kan styre den korrekt. Det er et led i forberedelserne til Artemis III, som efter planen skal sende astronauter til Månen i **2027**, og en senere månelanding i **2028**."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1,2%",
-          "label": "Størrelse af skalamodel"
-        },
-        {
-          "tal": "Mach 0,2-1,4",
-          "label": "Hastighed i transonisk tunnel"
-        },
-        {
-          "tal": "Mach 1,55-2,5",
-          "label": "Hastighed i supersonisk tunnel"
-        }
-      ],
-      "detaljer": [
-        "Version 3 af Super Heavy har nye Raptor 3-motorer.",
-        "Raketten har kun tre finner, som er 50% større end før.",
-        "Der er ingen motorsektionskørtel, individuelle motorhylstre eller stort base-varmeskjold.",
-        "Den integrerede varme scene erstatter den tidligere engangs-interstage.",
-        "Testene blev udført i slutningen af 2025."
-      ],
-      "betydning": "Artemis-missionerne skal bringe mennesker tilbage til Månen og bane vejen for en fremtidig rejse til Mars. For almindelige danskere er det et skridt mod mere rumforskning og ny teknologi, som også kan få betydning på Jorden.",
-      "pointer": [
-        "Testene skal forstå kræfter under genindtræden.",
-        "Foregik på en 1,2% skalamodel.",
-        "Version 3 har nye motorer og færre finner.",
-        "Data hjælper med at styre raketten under flyvning."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "NASA Opens New Flight Dynamics Research Facility in Virginia",
-      "link": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
-      "dato": "2026-07-31T17:11:14+00:00",
-      "kilde": "NASA",
-      "resume": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generations of aircraft, rockets, and space exploration vehicles. Located at NASA&#8217;s Langley Research Center in Hampton, Virginia, the Flight Dynamics Research Facility will support advances [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyjuly31.jpg?w=1920",
-      "billede_alt": "Image of NASA Langley&#039;s Flight Dynamics Research Facility",
-      "kategori": "Forskning",
-      "rubrik": "NASA indvier ny vindtunnel til fly- og rumfartstest",
-      "resume_da": "NASA har åbnet sin første store vindtunnel i over 40 år. Den skal teste fremtidens fly, raketter og rumfartøjer.",
-      "sektioner": [
-        {
-          "overskrift": "Ny vindtunnel åbnet",
-          "tekst": "NASA har indviet en ny vindtunnel kaldet Flight Dynamics Research Facility ved Langley Research Center i Virginia. Det er NASAs første store vindtunnel i mere end 40 år. Anlægget skal teste sikkerheden og ydeevnen for fremtidige fly, raketter og rumfartøjer."
-        },
-        {
-          "overskrift": "Testmuligheder og teknologi",
-          "tekst": "Vindtunnelen kan teste modeller af fly og rumkapsler i frit fald eller monteret. Den har et testkammer på **20 fod** i diameter og kan blæse med op til **117 miles i timen**, hvilket er dobbelt så hurtigt som de gamle anlæg. Den bruger fire motorer på hver **750 hestekræfter** med ventilatorblade i kulfiber."
-        },
-        {
-          "overskrift": "Betydning for rumfart",
-          "tekst": "Faciliteten skal støtte udviklingen af droner, kommercielle fly og X-fly. Den skal også hjælpe med at teste landingssystemer til Månemissioner under Artemis-programmet. Forskere kan bruge den til at designe fly til Mars og andre steder med atmosfære."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "117 mph",
-          "label": "Maksimal vindhastighed"
-        },
-        {
-          "tal": "20 fod",
-          "label": "Diameter på testkammer"
-        },
-        {
-          "tal": "750 hk",
-          "label": "Motoreffekt per motor"
-        }
-      ],
-      "detaljer": [
-        "Vindtunnelen er 25.000 kvadratfod stor.",
-        "Den erstatter to ældre vindtunneler fra NASA Langley.",
-        "Bygningen er energieffektiv og reducerer vedligeholdsomkostninger.",
-        "Testkammeret er større end de gamle, hvilket giver bedre data."
-      ],
-      "betydning": "For almindelige danskere betyder det, at fremtidens flyrejser kan blive sikrere og mere effektive, og at rumfartøjer kan blive bedre testet, før de sendes afsted.",
-      "pointer": [
-        "NASA's første store vindtunnel i 40 år.",
-        "Skal teste fly, raketter og rumfartøjer.",
-        "Hurtigere og større end tidligere tunneler.",
-        "Støtter Artemis-missioner og fremtidig rumfart."
-      ],
-      "prio": 5
     }
   ]
 }
