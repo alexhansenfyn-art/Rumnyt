@@ -1,7 +1,57 @@
 {
-  "opdateret": "2026-08-08T04:17:54.579428+00:00",
+  "opdateret": "2026-08-08T08:06:37.976515+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/",
+      "dato": "2026-08-08T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 8 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Messier [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/10P_Tempel2_Globular_M30_20260729_DEBartlett.jpg?w=3239&#038;h=1739&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "Greenish cometary coma of 10P/Tempel 2 and globular star cluster M30",
+      "kategori": "Astronomi",
+      "rubrik": "Komet og stjernehob i samme billede",
+      "resume_da": "NASAs daglige rumfoto viser kometen Tempel 2 tæt på stjernehoben M30. Et sjældent syn.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad billedet viser",
+          "tekst": "Billedet er taget den 29. juli. Det viser kometen Tempel 2 og stjernehoben Messier 30. De er meget tæt på hinanden på himlen."
+        },
+        {
+          "overskrift": "Hvorfor det er specielt",
+          "tekst": "Tempel 2 er en periodisk komet. Den svævede kortvarigt tæt forbi M30. Kometen var kun **3,5 lysminutter** væk, mens M30 er **28.000 lysår** væk."
+        },
+        {
+          "overskrift": "Messiers berømte liste",
+          "tekst": "Astronomen Charles Messier lavede en katalog over objekter, der ikke var kometer. M30 er nummer 30 i den liste. Han lavede den for at undgå at forveksle dem med kometer."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "3,5 lysminutter",
+          "label": "Afstand til kometen"
+        },
+        {
+          "tal": "28.000 lysår",
+          "label": "Afstand til stjernehoben"
+        }
+      ],
+      "detaljer": [
+        "Kometen hedder 10P/Tempel 2.",
+        "Stjernehoben kaldes også M30.",
+        "Billedet blev taget den 29. juli.",
+        "Kometen har en diffus grønlig koma."
+      ],
+      "betydning": "Det er fascinerende at se, hvordan et lille objekt i vores solsystem kan stå tæt på et fjernt stjernehob. Det minder os om, hvor stor og mangfoldig universet er.",
+      "pointer": [
+        "Komet og stjernehob på samme foto.",
+        "Kometen er meget tættere på os.",
+        "Messiers katalog var for at undgå forveksling.",
+        "Billedet er fra NASAs daglige rumfoto."
+      ],
+      "prio": 5
+    },
     {
       "titel": "Relativity Space engine integration milestone for Terran-R first stage",
       "link": "https://www.nasaspaceflight.com/2026/08/relativity-engine-integration-milestone-terran-r/",
@@ -4314,60 +4364,6 @@
         "Han er med til at træne astronauter og missionseksperter."
       ],
       "prio": 6
-    },
-    {
-      "titel": "NASA Brings Space Exploration to the FIFA World Cup",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-brings-space-exploration-to-the-fifa-world-cup/",
-      "dato": "2026-08-03T13:55:32+00:00",
-      "kilde": "NASA",
-      "resume": "From June 11 through July 19,&#160;NASA’s&#160;free interactive exhibit at FIFA Fan Festival™ brought space exploration to soccer fans in East Downtown Houston.&#160;&#160; More than 500,000 visitors explored&#160;the&#160;exhibit during the tournament, learning how the agency’s missions, research, and technology benefit life on Earth.&#160;&#160; The exhibit introduced a global audience to the&#1",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/jsc2026e401979.jpg?w=1536",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "NASA inviterede VM-fans til rumfartsudstilling",
-      "resume_da": "NASA havde en interaktiv udstilling ved FIFA Fan Festival i Houston i juni og juli 2026. Over 500.000 besøgende fik indblik i rumfart og mødte astronauter.",
-      "sektioner": [
-        {
-          "overskrift": "Udstillingen trak mange besøgende",
-          "tekst": "Fra 11. juni til 19. juli 2026 viste NASA en gratis udstilling ved FIFA Fan Festival i Houston. Mere end **500.000** besøgende oplevede udstillingen, som handlede om, hvordan NASA's missioner og forskning gavner livet på Jorden."
-        },
-        {
-          "overskrift": "Astronauter som æresgæster",
-          "tekst": "Den 20. juni 2026 deltog Artemis II-kommandør Reid Wiseman og pilot Victor Glover i VM-aktiviteter som stadionkaptajner forud for kampen mellem Holland og Sverige. De fik stående ovationer fra over **67.000** fans på NRG Stadium."
-        },
-        {
-          "overskrift": "Rumfart og fodbold forbindes",
-          "tekst": "NASA lavede en undervisningsvideo sammen med Adidas om, hvordan fysik i rummet og på banen hænger sammen. Ekspedition 74 sendte hilsner fra rumstationen, og ESA-astronauten Sophie Adenot optog en særlig rækkeøvelse i rummet."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "500.000+",
-          "label": "Besøgende på udstillingen"
-        },
-        {
-          "tal": "67.000",
-          "label": "Fans ved kampen med astronauter"
-        },
-        {
-          "tal": "40 dage",
-          "label": "Varighed af festivalen"
-        }
-      ],
-      "detaljer": [
-        "Udstillingen omfattede en Orion-rumfartøjsmodel, en model af Den Internationale Rumstation og en måne-rover-simulator.",
-        "Besøgende kunne se NASA's astronautdragter og astromaterialer samt billeder fra Hubble-teleskopet.",
-        "Der var også en udstilling om, hvordan astronauter kan bo og arbejde på Månen under fremtidige Artemis-missioner.",
-        "Fans kunne prøve at køre en simuleret måne-rover på en virtuel måneoverflade."
-      ],
-      "betydning": "Udstillingen viste almindelige mennesker, hvordan rumforskning kan inspirere og have betydning for hverdagen. Den knyttede forbindelse mellem sport og videnskab på en måde, der kan øge interessen for rumfart.",
-      "pointer": [
-        "NASA udstilling ved VM i fodbold i Houston",
-        "Mere end 500.000 besøgende",
-        "Artemis-astronauter deltog og fik stående ovationer",
-        "Samarbejde med Adidas om undervisningsvideo"
-      ],
-      "prio": 5
     }
   ]
 }
