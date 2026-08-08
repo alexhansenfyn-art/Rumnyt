@@ -1,7 +1,58 @@
 {
-  "opdateret": "2026-08-08T21:04:56.579814+00:00",
+  "opdateret": "2026-08-08T23:03:51.588414+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Blue Origin working engine resolutions and dual pad future",
+      "link": "https://www.nasaspaceflight.com/2026/08/blue-origin-engine-resolutions-dual-pad/",
+      "dato": "2026-08-08T21:13:55+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "Blue Origin is nearing the end of its investigation into the catastrophic explosion of a&#8230; The post Blue Origin working engine resolutions and dual pad future appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-08-22-08-15-961.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Blue Origin tæt på løsning efter New Glenn-ulykke",
+      "resume_da": "To måneder efter en eksplosion på New Glenn-raketten har Blue Origin fundet årsagen: en iltventil i en af motorene. Raketten skal flyve igen inden udgangen af 2026.",
+      "sektioner": [
+        {
+          "overskrift": "Eksplosionens årsag",
+          "tekst": "Eksplosionen skete under en test i maj 2026 og ødelagde raketten og rampeinfrastruktur. Undersøgelser peger på hovediltventilen i en BE-4-motor. Dele af hardwaren er fundet og inspiceret, hvilket bekræfter fejlen."
+        },
+        {
+          "overskrift": "Mindre ændringer nødvendige",
+          "tekst": "Kun små justeringer af ventilen kræves, og de kan installeres på eksisterende motorer. Nye ventiler er allerede i produktion og klar i slutningen af august. Blue Origin håber at flyve igen inden årets udgang."
+        },
+        {
+          "overskrift": "Affyringsrampen genopbygges",
+          "tekst": "Rampen bygges om med en ny metode: Raken delene samles vandret og løftes op på rampen. Den ødelagte transporter er erstattet af en kran. Der bygges også en ny rampe (36B) til en større version af raketten."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "7",
+          "label": "Antal motorer på forste trin"
+        },
+        {
+          "tal": "120 meter",
+          "label": "Højde på fremtidig raket"
+        }
+      ],
+      "detaljer": [
+        "Ulykken skete 28. maj 2026 under en statisk test.",
+        "Eksplosionen væltede lynafledertårnet og ødelagde transportøren.",
+        "Det er Blue Origins eneste opsendelsesrampe for New Glenn.",
+        "BE-4-motoren bruges også i ULA's Vulcan-raket.",
+        "Tre tidligere New Glenn-missioner var gennemført."
+      ],
+      "betydning": "For en almindelig dansker viser sagen, at selv erfarne rumfartsselskaber kan fejle, og at sikkerhedsarbejde tager tid. Det påvirker kommercielle opsendelser og fremtidens rumtransport.",
+      "pointer": [
+        "Iltventil skyld i eksplosion.",
+        "Raket kan flyve igen i 2026.",
+        "Rampen genopbygges med ny metode.",
+        "Ny større raket på vej."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
       "link": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/",
@@ -4302,41 +4353,6 @@
         "NASA overvåger ændringerne fra rummet."
       ],
       "prio": 4
-    },
-    {
-      "titel": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
-      "link": "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/",
-      "dato": "2026-08-03T16:06:47+00:00",
-      "kilde": "SpaceNews",
-      "resume": "EchoStar’s Hughes geostationary satellite broadband business has filed for bankruptcy in the United States after years of mounting competition from SpaceX’s Starlink constellation. The post Hughes files for bankruptcy after GEO business loses ground to Starlink appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/01/J-3-satellite--scaled.jpg?fit=1024%2C763&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Hughes konkurs efter Starlink-konkurrence",
-      "resume_da": "EchoStars satellitbredbåndsfirma Hughes er gået konkurs i USA efter pres fra SpaceX' Starlink.",
-      "sektioner": [
-        {
-          "overskrift": "Konkurs efter konkurrence",
-          "tekst": "Hughes, der ejes af EchoStar, har indgivet konkursbegæring i USA. Firmaet har tabt terræn til SpaceX' Starlink gennem flere år. Starlink har tilbudt hurtigere og mere pålideligt internet."
-        },
-        {
-          "overskrift": "Starlink vinder frem",
-          "tekst": "Starlink har tiltrukket mange kunder, der før brugte Hughes. Hughes' geostationære satellitter har høj latency og lavere hastighed. Det har gjort produktet mindre attraktivt."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Hughes er en del af EchoStar.",
-        "Firmaet har filial i USA.",
-        "Konkurrencen fra Starlink er årsagen."
-      ],
-      "betydning": "For almindelige danskere betyder det, at markedet for satellitinternet ændrer sig – Starlink vinder frem, og ældre udbydere som Hughes får sværere ved at klare sig.",
-      "pointer": [
-        "Hughes konkurs.",
-        "Starlink pres.",
-        "Ændret marked."
-      ],
-      "prio": 5
     }
   ]
 }
