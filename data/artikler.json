@@ -1,7 +1,49 @@
 {
-  "opdateret": "2026-08-08T14:06:00.377092+00:00",
+  "opdateret": "2026-08-08T17:17:05.947986+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "'Transformers: The Movie' at 40: the cartoon spin-off that traumatized a generation of kids",
+      "link": "https://www.space.com/entertainment/space-movies-shows/transformers-the-movie-at-40-the-cartoon-spin-off-that-traumatized-a-generation-of-kids",
+      "dato": "2026-08-08T16:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "With many fan-favorite Autobots and Decepticons bumped off in the opening act, this was not the big-screen romp '80s kids were expecting.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/ZdWUe7RzPddexEVA8UvHvf-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Transformers-filmen fylder 40 år",
+      "resume_da": "Animationen 'Transformers: The Movie' runder 40 år. Den var kendt for at chokere børn i 80'erne med dramatiske scener.",
+      "sektioner": [
+        {
+          "overskrift": "Filmen og dens rygte",
+          "tekst": "Filmen udkom i 1986 og blev berygtet for at være barsk mod sine unge seere. Mange børn blev traumatiserede af handlingen, hvor populære karakterer døde. Den har fået kultstatus gennem årene."
+        },
+        {
+          "overskrift": "Forfatteren bag artiklen",
+          "tekst": "Artiklen er skrevet af Richard Edwards, en rumjournalist med baggrund i fysik. Han har skrevet om science fiction i mange år for forskellige magasiner."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "40 år",
+          "label": "Så gammel er filmen"
+        }
+      ],
+      "detaljer": [
+        "Filmen blev udgivet i 1986.",
+        "Den var kendt for at have dramatiske scener med dødsfald blandt figurerne.",
+        "Richard Edwards har mødt fem Doctorer fra Doctor Who.",
+        "Han har siddet i cockpittet på Starbug fra Red Dwarf."
+      ],
+      "betydning": "For danskere, der voksede op i 80'erne, vækker filmen minder om en tid, hvor tegnefilm kunne være overraskende alvorlige. Den viser, hvordan popkultur kan påvirke os følelsesmæssigt.",
+      "pointer": [
+        "Filmen er 40 år gammel.",
+        "Den var kontroversiel for sin tid.",
+        "Artiklen er skrevet af en kendt rumjournalist.",
+        "Den har en særlig plads i populærkulturen."
+      ],
+      "prio": 3
+    },
     {
       "titel": "Reduced gravity pushes people toward simpler movement patterns, experiments suggest",
       "link": "https://phys.org/news/2026-08-gravity-people-simpler-movement-patterns.html",
@@ -666,6 +708,57 @@
         "Månestøv er farligt for udstyr og helbred.",
         "Faciliteten bruger vakuumkamre og simuleret månejord.",
         "Man udvikler metoder til at udvinde ilt fra månejord."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "APOD: 2026 August 7 – Rubin’s Cosmos Field",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-6-rubins-cosmos-field/",
+      "dato": "2026-08-07T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rubin&#8217;s COSMOS Field [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/noirlab2618b.jpg?w=1280&#038;h=908&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "This exceptionally deep image from NSF–DOE Vera C. Rubin Observatory reveals the renowned COSMOS field and its surroundings in the constellation Sextans. The view is crowded with galaxies and galaxy c",
+      "kategori": "Astronomi",
+      "rubrik": "Rubin-observatoriet fotograferer en halv million galakser",
+      "resume_da": "Et nyt billede fra Rubin-observatoriet viser over 500.000 galakser i COSMOS-feltet. Området er blevet observeret af Hubble og Webb, og Rubin vil følge det i ti år.",
+      "sektioner": [
+        {
+          "overskrift": "Et felt fuld af galakser",
+          "tekst": "Billedet viser mere end en halv million galakser i COSMOS-feltet. Dette område er flere gange større end fuldmånen og har få lyse stjerner fra vores egen galakse. Derfor er det nemt at se andre galakser."
+        },
+        {
+          "overskrift": "Baggrundsgalakser og fremtid",
+          "tekst": "Nogle galakser er så langt væk, at lyset har rejst i milliarder af år. Rubin-observatoriet vil besøge feltet hvert par dage i ti år. Det skal vise, hvordan himlen ændrer sig over tid."
+        },
+        {
+          "overskrift": "Et udsnit af universet",
+          "tekst": "De ydre paneler viser forstørrelser af områder i det centrale billede. Galaksernes former og størrelser er meget forskellige. Billedet giver et indblik i universets mangfoldighed."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "500.000",
+          "label": "galakser i billedet"
+        },
+        {
+          "tal": "10 år",
+          "label": "varighed af undersøgelsen"
+        }
+      ],
+      "detaljer": [
+        "Billedet er fra NSF-DOE Vera C. Rubin Observatory i Chile.",
+        "COSMOS-feltet er flere gange større end fuldmånen.",
+        "Området blev først observeret af Hubble-teleskopet.",
+        "Rubin-observatoriet vil følge feltet hvert par dage.",
+        "Undersøgelsen hedder Legacy Survey of Space and Time."
+      ],
+      "betydning": "Billedet viser os en lille bid af universet og hjælper forskere med at forstå, hvordan galakser ændrer sig. For almindelige mennesker er det en påmindelse om, hvor stort og mangfoldigt universet er.",
+      "pointer": [
+        "Rubin-observatoriet tager billede af mange galakser.",
+        "COSMOS-feltet er godt til at se andre galakser.",
+        "Billedet viser galakser i mange former og størrelser.",
+        "Rubin vil følge feltet i ti år."
       ],
       "prio": 6
     },
@@ -4249,107 +4342,6 @@
         "Understøtter langsigtet beboelse af månen."
       ],
       "prio": 5
-    },
-    {
-      "titel": "Pluto's hazy atmosphere may be collapsing as it moves farther from the sun",
-      "link": "https://phys.org/news/2026-08-pluto-hazy-atmosphere-collapsing-sun.html",
-      "dato": "2026-08-03T14:40:04+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Pluto is on an icy march away from the sun. In 2114, it will turn back, but until then, its elliptical orbit will carry it to colder and darker parts of the outer solar system. This is Pluto's first time entering the outer solar system since its 1930 discovery, and along this journey, its atmosphere could slowly freeze out.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/plutos-atmosphere-hazy.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Plutos disede atmosfære kan kollapse",
-      "resume_da": "Pluto bevæger sig længere væk fra Solen, og dens atmosfære kan fryse fast. Det sker, når dværgplaneten når de yderste egne af solsystemet.",
-      "sektioner": [
-        {
-          "overskrift": "Plutos lange rejse",
-          "tekst": "Pluto er på vej væk fra Solen på sin elliptiske bane. I år 2114 vender den tilbage, men indtil da bliver det koldere og mørkere. Det er første gang siden opdagelsen i 1930, at Pluto er så langt ude."
-        },
-        {
-          "overskrift": "Atmosfæren kan fryse",
-          "tekst": "På rejsen ud i solsystemet kan Plutos atmosfære langsomt fryse til. Det sker, fordi den får mindre sollys og varme."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2114",
-          "label": "År, hvor Pluto vender tilbage"
-        },
-        {
-          "tal": "1930",
-          "label": "År, hvor Pluto blev opdaget"
-        }
-      ],
-      "detaljer": [
-        "Pluto er på vej væk fra Solen.",
-        "I 2114 vender den tilbage mod Solen.",
-        "Plutos bane er elliptisk.",
-        "Det er første gang, Pluto er i de ydre egne siden 1930.",
-        "Atmosfæren kan fryse ud."
-      ],
-      "betydning": "Det viser, at selv fjerne himmellegemer ændrer sig over tid, og at rumforskning kan fortælle os om solsystemets udvikling.",
-      "pointer": [
-        "Pluto bevæger sig længere væk fra Solen.",
-        "I 2114 vender den tilbage.",
-        "Atmosfæren kan fryse fast.",
-        "Siden 1930 har den ikke været så langt ude."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "NASA Delivers Navigation System for Commercial Lunar Relay",
-      "link": "https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/",
-      "dato": "2026-08-03T14:20:26+00:00",
-      "kilde": "NASA",
-      "resume": "NASA delivered the NavCube3-mini payload&#160;on&#160;July 13&#160;to Intuitive Machines for integration into&#160;Altus-1,&#160;the company’s&#160;first&#160;lunar relay&#160;satellite, marking an important milestone in the development of future&#160;lunar&#160;communications and navigation services.&#160;The lunar relays are designed to enable communications&#160;and navigation&#160;for astronau",
-      "billede": "https://www.youtube.com/embed/uqK395zx0H8",
-      "billede_alt": "The Moon&#039;s rugged surface is on display in this image. Most of the Moon is visible, with the bottom of the sphere disappearing into the darkness. This line between light and dark is called the te",
-      "kategori": "Missioner",
-      "rubrik": "NASA leverer navigationsudstyr til månerelæ",
-      "resume_da": "NASA har leveret et kompakt navigationssystem til Intuitive Machines' første månerelæsatellit. Systemet skal teste GPS-navigation på Månen.",
-      "sektioner": [
-        {
-          "overskrift": "Lille enhed, stor betydning",
-          "tekst": "NavCube3-mini er på størrelse med en skotøjsæske og vejer kun **3,5 pund**. Den bruger under **20 watt**, som en laptop, og kan bestemme rumfartøjers præcise position langt fra Jorden."
-        },
-        {
-          "overskrift": "Testet til rummet",
-          "tekst": "Enheden blev testet grundigt hos NASA, inklusive vibrationstest, vakuumtest og elektromagnetisk kompatibilitetstest. Den skal nu integreres i Altus-1, den første i et netværk af månerelæsatellitter."
-        },
-        {
-          "overskrift": "Fremtidens månekommunikation",
-          "tekst": "Relæsatellitterne skal sikre kommunikation og navigation for fremtidige missioner, især ved Månens sydpol, hvor astronauter skal lande i 2028. Målet er at støtte en varig menneskelig tilstedeværelse på Månen."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "3,5 pund",
-          "label": "Vægt af NavCube3-mini"
-        },
-        {
-          "tal": "20 watt",
-          "label": "Strømforbrug"
-        },
-        {
-          "tal": "2028",
-          "label": "År for månelanding"
-        }
-      ],
-      "detaljer": [
-        "NavCube3-mini er en navigationsmodtager, der bruger GPS- og Galileo-signaler fra Jorden.",
-        "Altus-1 er Intuitive Machines' første månerelæsatellit.",
-        "Relæsatellitter skal forbedre kommunikation og navigation for astronauter og robotter på Månen.",
-        "Systemet er et teknologidemonstrationsprojekt for fremtidig månenavigation."
-      ],
-      "betydning": "For almindelige danskere betyder denne teknologi, at fremtidige månefarter kan blive sikrere og mere effektive. Det baner vejen for mere rumforskning og kommercielle aktiviteter i rummet.",
-      "pointer": [
-        "NASA leverer kompakt navigationsenhed til månemission.",
-        "Enheden er på størrelse med en skotøjsæske og vejer 3,5 pund.",
-        "Den skal testes på Altus-1, en månerelæsatellit.",
-        "Målet er at støtte astronauter ved Månens sydpol i 2028."
-      ],
-      "prio": 6
     }
   ]
 }
