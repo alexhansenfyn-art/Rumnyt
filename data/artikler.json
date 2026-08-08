@@ -1,7 +1,42 @@
 {
-  "opdateret": "2026-08-08T17:17:05.947986+00:00",
+  "opdateret": "2026-08-08T19:19:12.084328+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
+      "link": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/",
+      "dato": "2026-08-08T17:45:40+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Northrop Grumman and the Canadian Space Agency will adapt what they had been working on for NASA’s lunar Gateway into applications for a planned lunar base, albeit with few specifics. The post Northrop Grumman, Canadian Space Agency repurpose their Gateway projects appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/northrop-lid.jpeg?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "Northrop LID",
+      "kategori": "Politik & penge",
+      "rubrik": "Gateway-projekter omstilles til månebase",
+      "resume_da": "Northrop Grumman og den canadiske rumfartsorganisation ændrer deres Gateway-projekter til at støtte en kommende månebase.",
+      "sektioner": [
+        {
+          "overskrift": "Projekter omstilles",
+          "tekst": "Northrop Grumman og den canadiske rumfartsorganisation har besluttet at tilpasse deres arbejde med NASA's rumstation Gateway. I stedet vil de bruge deres teknologi til en planlagt månebase. Der er dog ikke mange konkrete detaljer endnu."
+        },
+        {
+          "overskrift": "Få konkrete detaljer",
+          "tekst": "Selvom omstillingen er annonceret, er der endnu ikke mange oplysninger om, hvordan teknologien konkret skal bruges på månebasen. Det vides ikke, hvilke specifikke komponenter eller tidsplaner der er tale om."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Northrop Grumman og CSA ændrer deres Gateway-projekter.",
+        "Projekterne skal nu bruges til en planlagt månebase.",
+        "Der er få konkrete oplysninger om ændringerne."
+      ],
+      "betydning": "For almindelige danskere viser det, at rumfartsprojekter ændrer sig over tid, og at internationale samarbejder tilpasser sig nye mål som en permanent månebase.",
+      "pointer": [
+        "Omstilling fra Gateway til månebase",
+        "Få detaljer endnu",
+        "Northrop og Canada involveret"
+      ],
+      "prio": 5
+    },
     {
       "titel": "'Transformers: The Movie' at 40: the cartoon spin-off that traumatized a generation of kids",
       "link": "https://www.space.com/entertainment/space-movies-shows/transformers-the-movie-at-40-the-cartoon-spin-off-that-traumatized-a-generation-of-kids",
@@ -4300,46 +4335,6 @@
         "Hughes konkurs.",
         "Starlink pres.",
         "Ændret marked."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Study lays groundwork for classifying lunar soil",
-      "link": "https://phys.org/news/2026-08-lays-groundwork-lunar-soil.html",
-      "dato": "2026-08-03T14:40:06+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "As we move closer to supporting a sustainable human presence on the moon, researchers are investigating how its soils can provide valuable resources and even grow food. An article in the Soil Science Society of America Journal proposes a classification framework to help scientists better understand lunar soils. This emerging science of \"planetary pedology,\" the study and classification of soils be",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-lays-groundwork.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Ny metode til at klassificere månejord",
-      "resume_da": "Forskere foreslår et klassifikationssystem for månejord for at hjælpe fremtidige missioner med at finde de bedste steder til byggeri, udvinding og dyrkning.",
-      "sektioner": [
-        {
-          "overskrift": "Månejord som ressource",
-          "tekst": "Forskere arbejder på at forstå månejordens egenskaber, så den kan bruges til at støtte en fast tilstedeværelse på månen. Jord fra månen kan give værdifulde materialer og måske endda bruges til at dyrke planter."
-        },
-        {
-          "overskrift": "Nyt klassifikationssystem",
-          "tekst": "Artiklen foreslår en ramme til at klassificere månejord. Det kaldes 'planetarisk pedologi' – studiet af jord uden for Jorden. Systemet kan hjælpe missioner med at vælge de bedste steder til byggeri og udvinding."
-        },
-        {
-          "overskrift": "Støtte til månebase",
-          "tekst": "En bedre forståelse af månejord kan gøre det lettere at etablere en permanent base på månen. Det kan også hjælpe med at sikre, at ressourcerne bruges optimalt."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Artiklen er publiceret i Soil Science Society of America Journal.",
-        "Månejord kan måske bruges til at dyrke mad.",
-        "Forskere kalder feltet for 'planetarisk pedologi'."
-      ],
-      "betydning": "For almindelige danskere kan dette betyde, at fremtidige rummissioner bliver mere bæredygtige, hvilket kan føre til ny viden og teknologi, der også kan komme os til gode på Jorden.",
-      "pointer": [
-        "Ny metode til at klassificere månejord.",
-        "Månejord kan blive en ressource for fremtidige månebaser.",
-        "Forskere vil finde de bedste steder til byggeri og landbrug på månen.",
-        "Understøtter langsigtet beboelse af månen."
       ],
       "prio": 5
     }
