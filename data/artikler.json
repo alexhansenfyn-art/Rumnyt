@@ -1,7 +1,43 @@
 {
-  "opdateret": "2026-08-08T11:06:10.108967+00:00",
+  "opdateret": "2026-08-08T14:06:00.377092+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Reduced gravity pushes people toward simpler movement patterns, experiments suggest",
+      "link": "https://phys.org/news/2026-08-gravity-people-simpler-movement-patterns.html",
+      "dato": "2026-08-08T13:20:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "From reaching for a cup of coffee to tying your shoelaces, gravity shapes nearly all human movement. So how do our bodies react when that familiar force begins to change? Texas A&amp;M University researchers are exploring the answer through a multiphase project supported by NASA.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-explore-ho-3.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Lav tyngdekraft giver enklere bevægelser",
+      "resume_da": "Forskere fra Texas A&M undersøger, hvordan mennesker bevæger sig med lav tyngdekraft. Resultater tyder på, at vi forenkler vores bevægelsesmønstre.",
+      "sektioner": [
+        {
+          "overskrift": "Gravity påvirker bevægelse",
+          "tekst": "Tyngdekraften former næsten al menneskelig bevægelse, fra at tage en kop kaffe til at binde snørebånd. Forskere vil forstå, hvordan kroppen reagerer, når tyngdekraften ændrer sig. Projektet er støttet af NASA."
+        },
+        {
+          "overskrift": "Enklere bevægelser ved lav tyngdekraft",
+          "tekst": "Forsøgene antyder, at mennesker med lav tyngdekraft vælger mere simple bevægelsesmønstre. Det kan have betydning for fremtidige rummissioner, hvor astronauter skal arbejde på Månen eller Mars."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Forskere fra Texas A&M University leder projektet.",
+        "Projektet er en del af en flerfaset undersøgelse.",
+        "NASA støtter forskningen."
+      ],
+      "betydning": "Forståelse af bevægelse i lav tyngdekraft er vigtig for at designe træning og udstyr til astronauter, men også for at forstå, hvordan kroppen tilpasser sig ekstreme miljøer.",
+      "pointer": [
+        "Tyngdekraft påvirker al bevægelse.",
+        "Lav tyngdekraft giver simple bevægelser.",
+        "NASA støtter forskningen.",
+        "Vigtigt for fremtidige rummissioner."
+      ],
+      "prio": 6
+    },
     {
       "titel": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
       "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/",
@@ -4312,56 +4348,6 @@
         "Enheden er på størrelse med en skotøjsæske og vejer 3,5 pund.",
         "Den skal testes på Altus-1, en månerelæsatellit.",
         "Målet er at støtte astronauter ved Månens sydpol i 2028."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Ike Theriot Helps Prepare Astronauts to Work on the Moon",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/ike-theriot-helps-prepare-astronauts-to-work-on-the-moon/",
-      "dato": "2026-08-03T14:00:00+00:00",
-      "kilde": "NASA",
-      "resume": "From serving in the U.S. Army to helping prepare astronauts to explore the lunar surface, Ike Theriot built a path to NASA&#160;through discipline and determination.&#160; Theriot serves as the&#160;Flight Operations Surface Testing&#160;lead in the&#160;Exploration Extravehicular Activity&#160;Operations Branch within the EVA, Robotics, and Crew Operations Division at NASA’s Johnson Space Center ",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/07/dsc-4954-copy.jpg?w=1536",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Han gør klar til månevandring",
-      "resume_da": "Mød Ike Theriot, som øver månevandringer i pools og kraterlandskaber, så astronauterne er klar til at gå på Månen.",
-      "sektioner": [
-        {
-          "overskrift": "Træning i pool og krater",
-          "tekst": "Ike Theriot laver test og øvelser, der minder om Månen. Han bruger en kæmpe pool til at simulere vægtløshed og et krater i Canada, der ligner Månens overflade. Han træner også med astronauter fra Artemis II-missionen."
-        },
-        {
-          "overskrift": "Fra soldat til NASA",
-          "tekst": "Theriot startede i hæren og blev interesseret i rumfart, da han arbejdede med satellitter i Irak. Han tog ingeniøruddannelse og kom til NASA i 2016 som praktikant. I 2019 fik han fast job, lige da NASA genoptog planerne om at sende folk til Månen."
-        },
-        {
-          "overskrift": "Rumdragter og lys",
-          "tekst": "Han har testet rumdragter og lysforhold, der skal bruges på Månen. Testene hjælper med at lave procedurer, så astronauterne kan arbejde sikkert. Han er også med til at træne fremtidens eksperter i overfladeoperationer."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "40-fod dyb pool",
-          "label": "Poolens dybde til træning"
-        },
-        {
-          "tal": "36 millioner år",
-          "label": "Kraterets alder"
-        }
-      ],
-      "detaljer": [
-        "Theriot er leder for overfladetest i NASAs afdeling for EVA, robotter og besætningsoperationer.",
-        "Han har udviklet Lunar Grid Reference System til navigation på Månen.",
-        "Han er certificeret flyveleder og blev for nylig udvalgt som capcom (stemmen mellem kontrolcenter og astronauter).",
-        "Han trænede med Artemis II-besætningen ved Kamestastin-krateret i Canada."
-      ],
-      "betydning": "Historien viser, hvordan NASA forbereder astronauter til at bo og arbejde på Månen, hvilket er vigtigt for fremtidige månefærd og dansk interesse i rumfart.",
-      "pointer": [
-        "Theriot øver månevandringer i pool og i kraterlandskab.",
-        "Han kom til NASA efter en karriere i hæren.",
-        "Han tester rumdragter og udstyr til Månen.",
-        "Han er med til at træne astronauter og missionseksperter."
       ],
       "prio": 6
     }
