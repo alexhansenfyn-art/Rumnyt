@@ -1,7 +1,42 @@
 {
-  "opdateret": "2026-08-09T08:09:35.863365+00:00",
+  "opdateret": "2026-08-09T11:15:36.576360+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "The asteroid that may be three worlds",
+      "link": "https://phys.org/news/2026-08-asteroid-worlds.html",
+      "dato": "2026-08-09T10:40:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "What shape is an asteroid? For (44) Nysa, the honest answer until now has been that nobody knew. It is one of the brightest and largest E-type asteroids in the main belt, a class with a surface rich in enstatite, and its oddness has made it a favorite target for well over a hundred years. Successive observations hinted that it was elongated, perhaps even two lumps stuck together, but the picture s",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-asteroid-that-may.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Asteroide Nysa kan være tre verdener",
+      "resume_da": "Asteroide Nysa, en af de klareste og største E-type asteroider, er længere end hidtil antaget. Den kan være tre klumper samlet.",
+      "sektioner": [
+        {
+          "overskrift": "Ukendt form",
+          "tekst": "I over hundrede år har astronomer ikke vidst, hvordan asteroiden Nysa ser ud. Observationer har vist, at den er aflang, måske to klumper, men ikke klart."
+        },
+        {
+          "overskrift": "Tre klumper",
+          "tekst": "Nu tyder nye data på, at Nysa kan være tre verdener, der hænger sammen. Det gør den helt speciel blandt asteroider."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Nysa er en E-type asteroide med overflade rig på enstatit.",
+        "Den er en af de klareste og største i sit slag.",
+        "Observationer i over hundrede år har ikke kunnet afgøre formen."
+      ],
+      "betydning": "For almindelige mennesker viser det, at universet stadig rummer overraskelser. Selv kendte objekter som asteroider kan have uventede former.",
+      "pointer": [
+        "Nysa kan være tre klumper.",
+        "Det har været ukendt i 100+ år.",
+        "Overfladen er rig på enstatit."
+      ],
+      "prio": 5
+    },
     {
       "titel": "Blue Origin working engine resolutions and dual pad future",
       "link": "https://www.nasaspaceflight.com/2026/08/blue-origin-engine-resolutions-dual-pad/",
@@ -4307,52 +4342,6 @@
         "Missioner er under planlægning"
       ],
       "prio": 7
-    },
-    {
-      "titel": "Guinea-Bissau Tidal Waters",
-      "link": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/",
-      "dato": "2026-08-03T17:15:39+00:00",
-      "kilde": "NASA",
-      "resume": "Twice each day, tides ebb and flow through a maze of sandy channels, mudflats, and mangrove forests that flank the 88 islands and islets of Guinea-Bissau&#8217;s&#160;Bijagós Archipelago&#160;(Arquipélago dos Bijagós in Portuguese). Seen from above in this image from Nov. 28, 2025, the process leads to stark changes to the landscape: around low tide,&#160;intertidal&#160;mudflats and sandflats [&#",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/bijagosarchipelago-oli-20251128-lrg.jpg?w=2048",
-      "billede_alt": "A satellite image shows a cluster of green islands surrounded by beige sand flats and networks of channels full of dark blue water.",
-      "kategori": "Forskning",
-      "rubrik": "Guinea-Bissaus tidevand skaber foranderlige øer",
-      "resume_da": "Nye NASA-billeder viser, hvordan tidevandet dramatisk ændrer øerne i Bijagós-arkipelaget i Guinea-Bissau, hvor mudderflader kommer frem ved lavvande.",
-      "sektioner": [
-        {
-          "overskrift": "Tidevandets dans",
-          "tekst": "To gange dagligt skifter tidevandet i et område med sandkanaler, mudderflader og mangroveskove omkring de 88 øer i Bijagós-arkipelaget. Billedet fra 28. november 2025 viser de store forandringer, der sker ved lavvande, hvor store mudder- og sandflader kommer frem."
-        },
-        {
-          "overskrift": "Øer vokser og skrumper",
-          "tekst": "Ved lavvande vokser øerne markant, fordi de ellers oversvømmede flader bliver synlige. Timer senere forsvinder de igen, når tidevandet stiger. Dette fænomen er med til at forme landskabet og livet i området."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "88",
-          "label": "Antal øer i arkipelaget"
-        },
-        {
-          "tal": "28. november 2025",
-          "label": "Dato for billedet"
-        }
-      ],
-      "detaljer": [
-        "Billedet er taget af NASA og USGS.",
-        "Området har både sandkanaler, mudderflader og mangroveskove.",
-        "Ved lavvande bliver øerne større.",
-        "Tidevandet skifter to gange dagligt."
-      ],
-      "betydning": "Billederne hjælper forskere med at forstå, hvordan tidevand påvirker kystområder og økosystemer, hvilket er vigtigt for at forudsige ændringer i andre lignende områder.",
-      "pointer": [
-        "Tidevand ændrer øernes udseende dramatisk.",
-        "Mudderflader kommer frem ved lavvande.",
-        "Området har 88 øer og islets.",
-        "NASA overvåger ændringerne fra rummet."
-      ],
-      "prio": 4
     }
   ]
 }
