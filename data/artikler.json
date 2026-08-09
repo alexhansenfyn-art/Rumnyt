@@ -1,7 +1,141 @@
 {
-  "opdateret": "2026-08-09T14:07:28.708543+00:00",
+  "opdateret": "2026-08-09T17:18:40.266362+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Cosmic filaments help set first limits on dark matter's decay into gravitons",
+      "link": "https://phys.org/news/2026-08-cosmic-filaments-limits-dark-decay.html",
+      "dato": "2026-08-09T16:00:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Composing some 85% of the universe's total mass, dark matter betrays its presence only through gravity, unlike ordinary matter. Yet through new research published in Physical Review D, a team led by David Dunsky of New York University has proposed a new way to hunt for the elusive substance. Their approach involves searching for the decay of dark matter particles into gravitons: the hypothetical p",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-limits-placed-on.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Nyt spor i jagten på mørkt stof",
+      "resume_da": "Forskere har fundet en ny metode til at opspore mørkt stofs henfald til gravitoner ved at studere kosmiske filamenter.",
+      "sektioner": [
+        {
+          "overskrift": "Mørkt stofs mysterium",
+          "tekst": "Mørkt stof udgør omkring **85%** af universets masse, men vi kan kun se dets tyngdekraft. Det består af ukendte partikler, som forskerne nu forsøger at forstå."
+        },
+        {
+          "overskrift": "Ny jagtmetode",
+          "tekst": "Et forskerhold ledet af David Dunsky fra New York University har udviklet en ny måde at søge efter mørkt stof. Metoden går ud på at se efter henfald af mørkt stof til gravitoner, som er partikler, der menes at bære tyngdekraften."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "85%",
+          "label": "af universets masse er mørkt stof"
+        }
+      ],
+      "detaljer": [
+        "Forskningen er publiceret i tidsskriftet Physical Review D.",
+        "Holdet ledes af David Dunsky fra New York University.",
+        "Gravitoner er hypotetiske partikler, der formodes at formidle tyngdekraften."
+      ],
+      "betydning": "Forståelse af mørkt stof kan ændre vores billede af universet. Det kan også føre til ny fysik ud over den nuværende viden.",
+      "pointer": [
+        "Mørkt stof er usynligt, men påvirker via tyngdekraft.",
+        "Ny metode kan spore henfald til gravitoner.",
+        "Resultaterne er publiceret i et videnskabeligt tidsskrift."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Artemis progress building lunar return roadmap",
+      "link": "https://www.nasaspaceflight.com/2026/08/artemis-progress-lunar-return-roadmap/",
+      "dato": "2026-08-09T14:44:50+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "NASA has released a series of updates on the Artemis program, spanning commercial robotic lunar&#8230; The post Artemis progress building lunar return roadmap appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-09-15-21-11-686.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "NASA's Artemis-program skrider frem mod månen",
+      "resume_da": "NASA har frigivet opdateringer om Artemis-programmet, herunder kommercielle månelandere, teknologidemonstrationer og fremskridt på raket- og rumfartøjskomponenter til Artemis III og frem.",
+      "sektioner": [
+        {
+          "overskrift": "Kommercielle månelandere",
+          "tekst": "Fire virksomheder arbejder på månelandere under NASAs CLPS-initiativ. Blue Origin's første lander, Endurance, er planlagt til opsendelse i første kvartal af **2027**. Firefly's anden Blue Ghost-mission sigter mod at lande på Månens bagside – det ville være første gang for en amerikansk lander."
+        },
+        {
+          "overskrift": "Artemis III hardware",
+          "tekst": "Orion-kapslen er nu forbundet med sin europæiske servicemodul. NASA genbruger også komponenter fra Artemis II for at fremskynde byggeriet. En spacer, der skal erstatte ICPS på Artemis III, er blevet svejset ved Marshall Space Flight Center."
+        },
+        {
+          "overskrift": "Genbrug og fremdrift",
+          "tekst": "NASA genbruger mere end **250** komponenter fra Artemis II Orion til Artemis IV og V. Det reducerer produktionstid og omkostninger. På Michoud-faciliteten er begge hovedtanke til Artemis IV's kernefase færdige og testes i øjeblikket."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2027",
+          "label": "Planlagt opsendelse af Blue Moon lander"
+        },
+        {
+          "tal": "250",
+          "label": "Komponenter genbruges fra Artemis II"
+        }
+      ],
+      "detaljer": [
+        "Blue Origin's Endurance har gennemgået miljøtest og kommunikationstest.",
+        "Firefly's Blue Ghost skal lande på Månens bagside.",
+        "Intuitive Machines tester motor på deres næste lander, Trinity.",
+        "Voyager's Griffin-1 lander testes hos JPL og skal opsendes med Falcon Heavy.",
+        "NASA og Northrop Grumman flyver tre teknologidemonstrationsmissioner til Månen.",
+        "SLS-kernen og løfteraketter behandles parallelt for Artemis III."
+      ],
+      "betydning": "Artemis-programmet baner vejen for menneskelig tilstedeværelse på Månen, hvilket kan skabe nye teknologier og inspirere kommende generationer. For danskere kan det betyde øget interesse for rumfart og videnskab.",
+      "pointer": [
+        "NASA opdaterer om Artemis-programmet.",
+        "Fiere landere er under udvikling.",
+        "Genbrug af dele fremskynder tidsplanen.",
+        "Artemis III rykker tættere på opsendelse."
+      ],
+      "prio": 8
+    },
+    {
+      "titel": "Rare Mars meteorite preserves 1.27-billion-year-old clues to planet's deep interior",
+      "link": "https://phys.org/news/2026-08-rare-mars-meteorite-billion-year.html",
+      "dato": "2026-08-09T14:20:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Boston College scientists have determined that a newly discovered meteorite from Mars is 1.27 billion years old and derived from a previously unsampled, pristine source on the Red Planet. The study is published in the journal Geochimica et Cosmochimica Acta.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2016/mars.png",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Sjælden Mars-meteorit afslører hemmeligheder fra planetens indre",
+      "resume_da": "En nyopdaget meteorit fra Mars er 1,27 milliarder år gammel og kommer fra en hidtil ukendt, ren kilde på planeten. Fundet kan give ny viden om Mars' indre.",
+      "sektioner": [
+        {
+          "overskrift": "Meteorittens alder og oprindelse",
+          "tekst": "Forskere fra Boston College har fastslået, at en nyopdaget meteorit fra Mars er **1,27 milliarder** år gammel. Den stammer fra en kilde på Mars, som man ikke har prøver fra før. Det er en sjælden og vigtig opdagelse."
+        },
+        {
+          "overskrift": "Hvad betyder det?",
+          "tekst": "Meteoritten giver et unikt indblik i Mars' dybe indre. Den kan hjælpe forskere med at forstå planetens geologiske historie. Studiet er offentliggjort i tidsskriftet Geochimica et Cosmochimica Acta."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1,27 milliarder år",
+          "label": "Meteorittens alder"
+        }
+      ],
+      "detaljer": [
+        "Meteoritten er fra Mars og er en af de sjældne.",
+        "Den kommer fra en hidtil usamplet kilde på planeten.",
+        "Forskere fra Boston College har analyseret den.",
+        "Resultaterne er offentliggjort i et videnskabeligt tidsskrift."
+      ],
+      "betydning": "For almindelige danskere er det spændende, fordi det øger vores viden om Mars og solsystemets historie. Det kan også inspirere til fremtidige rummissioner.",
+      "pointer": [
+        "Sjælden Mars-meteorit fundet.",
+        "Den er 1,27 milliarder år gammel.",
+        "Stammer fra ukendt kilde.",
+        "Giver ny viden om Mars' indre."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Exploring 'very low Earth orbit': The world's 1st air-breathing satellite thruster could soon get a test run",
       "link": "https://www.space.com/space-exploration/satellites/exploring-very-low-earth-orbit-the-worlds-1st-air-breathing-satellite-thruster-could-soon-get-a-test-run",
@@ -4211,141 +4345,6 @@
         "Galaksen dør om 100 billioner år."
       ],
       "prio": 3
-    },
-    {
-      "titel": "Zodiacal dust in exoplanetary systems could hinder our search for life on other worlds",
-      "link": "https://phys.org/news/2026-08-zodiacal-exoplanetary-hinder-life-worlds.html",
-      "dato": "2026-08-03T20:40:02+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "If you've ever been under a dark sky in the early morning before dawn, you may have seen a faint glow, almost like a column of light rising from the east. It's sometimes known as the false dawn because it appears before true dawn. It can also appear in the west after sunset, though it typically isn't as noticeable. The glow is caused by dust in the inner solar system. It is a diffuse plane of tiny",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/zodiacal-dust-in-exopl-1.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Zodiacallys kan skjule liv på andre planeter",
-      "resume_da": "Støv fra kometer og asteroider kan dæmpe lyset fra beboelige planeter, hvilket kan gøre det sværere at finde liv i universet.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er zodiacallys?",
-          "tekst": "Zodiacallys er et svagt lys på nattehimlen, som kommer fra støv i vores solsystem. Støvet ligger i samme plan som planeterne og kan ses som en lyssøjle før solopgang eller efter solnedgang."
-        },
-        {
-          "overskrift": "Problemet med støv",
-          "tekst": "Forskere mener, at lignende støv omkring andre stjerner kan dæmpe lyset fra planeter, der minder om Jorden. Det gør det sværere for teleskoper at se dem, og vi kan måske overse tegn på liv."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Zodiacallys kaldes også for 'falsk daggry'.",
-        "Det skyldes støvpartikler i det indre solsystem.",
-        "Støvet ligger i samme plan som de indre planeter."
-      ],
-      "betydning": "Hvis støv skjuler beboelige planeter, kan vi gå glip af at opdage liv andre steder. Det påvirker vores søgen efter eksoplaneter og liv i universet.",
-      "pointer": [
-        "Zodiacallys er støv i solsystemet.",
-        "Lignende støv findes om andre stjerner.",
-        "Det kan skjule planeter som Jorden.",
-        "Søgen efter liv kan blive sværere."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Louisiana Students Loft Payloads from NASA Balloon Facility in Texas",
-      "link": "https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/",
-      "dato": "2026-08-03T19:22:43+00:00",
-      "kilde": "NASA",
-      "resume": "Every spring in Palestine, Texas, the wide-open fields around NASA’s Columbia Scientific Balloon Facility fill with students and faculty from across Louisiana. They arrive carrying sensors, laptops, and carefully engineered payloads they have spent months preparing. &#160;The goal is to send their experiments to the edge of space and return with meaningful data, while reflecting [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/balloons-la-students-summer-2026.jpg?w=2048",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Louisiana-studerende sender forsøg til kanten af rummet",
-      "resume_da": "Studerende fra Louisiana har sendt deres egne måleinstrumenter op med NASA-balloner i Texas. De ni universitets- og et gymnasiehold fik data fra kanten af rummet.",
-      "sektioner": [
-        {
-          "overskrift": "Ballonopsendelse i Texas",
-          "tekst": "Den 19. maj lettede studenter-byggede instrumenter fra NASA's ballonfacilitet i Palestine, Texas. Det var programmets 74. og 75. opsendelse. Ballonerne kunne bære 7-9 punds nyttelast og steg op til nær-rum-højder."
-        },
-        {
-          "overskrift": "Forsøg og resultater",
-          "tekst": "De 11 nyttelaster testede blandt andet atmosfærevidenskab, kosmisk stråling og solcelleydelse. Efter opsendelsen blev de hentet omkring 60 miles nord for startstedet. Studerende analyserede derefter deres data og fremlagde resultaterne."
-        },
-        {
-          "overskrift": "Programmets betydning",
-          "tekst": "LaACES-programmet giver studerende praktisk erfaring med rumfart. Det er støttet af NASA og har hidtil involveret over 500 studerende. Målet er at uddanne fremtidens forskere og ingeniører."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "74. og 75.",
-          "label": "Opsendelsesnummer i programmet"
-        },
-        {
-          "tal": "11",
-          "label": "Antal nyttelaster i 2026"
-        },
-        {
-          "tal": "500+",
-          "label": "Antal studerende siden starten"
-        }
-      ],
-      "detaljer": [
-        "Opsendelsen skete den 19. maj fra NASA's Columbia Scientific Balloon Facility i Texas.",
-        "Deltagerne kom fra seks universiteter og et gymnasium i Louisiana.",
-        "Forsøgene omfattede måling af kosmisk stråling, UV-stråling og vind i stratosfæren.",
-        "Ballonerne blev genfundet nær Ben Wheeler, Texas.",
-        "Programmet er finansieret af NASA's rumfartslegat."
-      ],
-      "betydning": "Historien viser, hvordan NASA engagerer unge i rumforskning, hvilket kan inspirere til STEM-uddannelser. Det minder os om, at rumfart ikke kun er for professionelle, men også for studerende.",
-      "pointer": [
-        "Studerende sender selvbyggede instrumenter op med NASA-balloner.",
-        "De testede fx kosmisk stråling og solceller.",
-        "Opsendelsen fandt sted i Texas i maj.",
-        "Programmet har støttet over 500 studerende."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Astrobiologist uses Apollo lunar samples as mirror onto early Earth",
-      "link": "https://phys.org/news/2026-08-astrobiologist-apollo-lunar-samples-mirror.html",
-      "dato": "2026-08-03T19:00:07+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Roll back the tape of Earth's history, and geologists and astrobiologists remain perplexed about the environmental conditions on early Earth. That's because conventional pathways for understanding Earth's history have been lost to time owing to the planet's active geology and atmospheric weathering.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astrobiologist-uses-ap.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Apollo-prøver kan afsløre Jordens fortid",
-      "resume_da": "Astrobiologer bruger måneprøver fra Apollo-missionerne til at forstå de tidlige forhold på Jorden, da Jordens egen historie er blevet udvisket af geologi og vejr.",
-      "sektioner": [
-        {
-          "overskrift": "Månens hemmeligheder",
-          "tekst": "Jordens tidlige historie er svær at undersøge, fordi geologiske processer og atmosfærisk vejr har ændret overfladen. Forskere har derfor kigget mod Månen, hvor Apollo-missionerne hentede prøver i 1960'erne og 1970'erne."
-        },
-        {
-          "overskrift": "Prøver som tidskapsel",
-          "tekst": "Måneprøverne er velbevarede, fordi Månen ikke har samme aktive geologi som Jorden. De kan indeholde spor fra tidlige solsystem-forhold, som kan bruges som et spejl på den tidlige Jord."
-        },
-        {
-          "overskrift": "Astrobiologiens perspektiv",
-          "tekst": "Astrobiologer håber at finde svar på, hvordan livet opstod på Jorden. Ved at studere månens prøver kan de få viden om de miljømæssige forhold, der herskede for milliarder af år siden."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1960'erne og 1970'erne",
-          "label": "Da Apollo-missionerne fandt sted"
-        }
-      ],
-      "detaljer": [
-        "Jordens geologi og vejr har slettet spor fra tidlig historie.",
-        "Månen har ikke samme aktive geologi, så prøverne er bedre bevaret.",
-        "Forskerne bruger måneprøver som et spejl til at forstå den tidlige Jord."
-      ],
-      "betydning": "Denne forskning kan hjælpe os med at forstå, hvordan livet opstod på Jorden, og hvor sandsynligt det er, at liv findes andre steder i universet.",
-      "pointer": [
-        "Jordens historie er udvisket.",
-        "Månen har bevaret spor.",
-        "Prøver kan opklare livets oprindelse."
-      ],
-      "prio": 5
     }
   ]
 }
