@@ -1,7 +1,47 @@
 {
-  "opdateret": "2026-08-09T11:15:36.576360+00:00",
+  "opdateret": "2026-08-09T14:07:28.708543+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Exploring 'very low Earth orbit': The world's 1st air-breathing satellite thruster could soon get a test run",
+      "link": "https://www.space.com/space-exploration/satellites/exploring-very-low-earth-orbit-the-worlds-1st-air-breathing-satellite-thruster-could-soon-get-a-test-run",
+      "dato": "2026-08-09T14:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "Air-breathing electric propulsion could help satellites explore a new frontier, one that lies quite close to our planet.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/PUW3aUWia8x3zjxJE3dJef-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Verden første luftåndende thruster kan testes snart",
+      "resume_da": "En ny type thruster, der bruger luft fra jordens atmosfære som brændstof, kan snart testes i meget lavt kredsløb om Jorden.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er en luftåndende thruster?",
+          "tekst": "En luftåndende thruster er en motor, der samler luftmolekyler fra den meget tynde atmosfære i lavt kredsløb. Den bruger dem som brændstof i stedet for at medbringe brændstof fra Jorden. Det kan gøre satellitter lettere og billigere at sende op."
+        },
+        {
+          "overskrift": "Test i meget lavt kredsløb",
+          "tekst": "Den første thruster af denne type kan snart blive testet i såkaldt 'very low Earth orbit'. Det er et område i 250-450 kilometers højde. Her er der nok luft til thrusteren, men også mere modstand fra atmosfæren."
+        },
+        {
+          "overskrift": "Hvorfor er det vigtigt?",
+          "tekst": "Hvis teknologien virker, kan satellitter i lavt kredsløb blive ved med at justere deres bane uden at skulle medbringe meget brændstof. Det kan forlænge deres levetid og give bedre billeder fra Jorden, fordi de er tættere på."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Thrusteren bruger luft fra atmosfæren som brændstof.",
+        "Den er designet til meget lavt kredsløb om Jorden.",
+        "Teknologien kan gøre satellitter lettere og billigere."
+      ],
+      "betydning": "For almindelige mennesker kan det betyde bedre og billigere satellitter, der fx giver skarpere billeder af Jorden og forbedrer vejrudsigter.",
+      "pointer": [
+        "En ny type thruster bruger luft som brændstof.",
+        "Den skal testes i meget lavt kredsløb.",
+        "Kan gøre satellitter lettere og billigere.",
+        "Kan forlænge satellitters levetid."
+      ],
+      "prio": 5
+    },
     {
       "titel": "The asteroid that may be three worlds",
       "link": "https://phys.org/news/2026-08-asteroid-worlds.html",
@@ -4306,42 +4346,6 @@
         "Prøver kan opklare livets oprindelse."
       ],
       "prio": 5
-    },
-    {
-      "titel": "Jupiter's moon Europa may have signs of life in its buried ocean — but can we get to them?",
-      "link": "https://www.space.com/space-exploration/search-for-life/jupiters-moon-europa-may-have-signs-of-life-in-its-buried-ocean-but-can-we-get-to-them",
-      "dato": "2026-08-03T18:12:21+00:00",
-      "kilde": "Space.com",
-      "resume": "\"This helps future missions interpret what they find and better understand where to look for signs of habitability.\"",
-      "billede": "https://cdn.mos.cms.futurecdn.net/mMKyq5QhRCoRDN5mMA7aUM-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Jupiters måne Europa kan skjule liv i sit ocean",
-      "resume_da": "Forskere mener, at Jupiters måne Europa har et underjordisk ocean, der kan rumme liv. Men spørgsmålet er, om vi nogensinde kan nå det.",
-      "sektioner": [
-        {
-          "overskrift": "Potentiale for liv",
-          "tekst": "Europa har et ocean under sin iskappe, som kan indeholde de rette betingelser for liv. Forskere er spændte på, hvad der gemmer sig der."
-        },
-        {
-          "overskrift": "Udfordringer med adgang",
-          "tekst": "At bore gennem isen og udforske oceanet er en teknologisk udfordring. Vi har endnu ikke udstyret til at gøre det sikkert."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Europa er en af Jupiters måner.",
-        "Oceanet ligger under isen.",
-        "Forskere undersøger muligheden for liv."
-      ],
-      "betydning": "Hvis der findes liv på Europa, vil det ændre vores forståelse af, hvor liv kan opstå i universet. Det kan også påvirke, hvordan vi leder efter liv andre steder.",
-      "pointer": [
-        "Europa har et underjordisk ocean",
-        "Oceanet kan rumme liv",
-        "Teknologien er endnu ikke klar",
-        "Missioner er under planlægning"
-      ],
-      "prio": 7
     }
   ]
 }
