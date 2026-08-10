@@ -1,7 +1,133 @@
 {
-  "opdateret": "2026-08-10T18:37:10.209426+00:00",
+  "opdateret": "2026-08-10T22:08:01.724512+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Mars could have carried liquid water more recently than we thought",
+      "link": "https://phys.org/news/2026-08-mars-liquid-thought.html",
+      "dato": "2026-08-10T21:00:13+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "For decades, astronomers have assumed that the Martian surface froze solid around 3 billion years ago and has stayed that way ever since. If this were really the case, any liquid water would have long since either been locked away underground or lost to space.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/mars-could-have-carrie.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Mars kan have haft flydende vand for nylig",
+      "resume_da": "Ny forskning tyder på, at Mars kan have haft flydende vand for nylig, modsat hidtidig antagelse om, at overfladen frøs for 3 milliarder år siden. Det ændrer vores forståelse af planeten.",
+      "sektioner": [
+        {
+          "overskrift": "Ny forskning udfordrer gammel antagelse",
+          "tekst": "I årtier troede forskere, at Mars' overflade frøs for omkring **3 milliarder år siden** og har været frosset siden. Hvis det var tilfældet, ville flydende vand enten være låst i undergrunden eller forsvundet ud i rummet."
+        },
+        {
+          "overskrift": "Vand kan have været til stede",
+          "tekst": "Ny forskning antyder, at flydende vand kan have eksisteret på Mars for nylig. Det betyder, at planeten ikke nødvendigvis har været så gold, som vi troede."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "3 milliarder år",
+          "label": "Tid siden overfladen antages frosset"
+        }
+      ],
+      "detaljer": [
+        "Astronomer har antaget, at Mars overflade frøs for 3 milliarder år siden.",
+        "Flydende vand ville enten være låst under jorden eller gået tabt til rummet."
+      ],
+      "betydning": "For danskere kan det vække nysgerrighed om rumforskning og give håb om, at Mars engang kunne have haft liv.",
+      "pointer": [
+        "Mars kan have haft flydende vand for nylig.",
+        "Antagelsen om frossen overflade udfordres.",
+        "Vand kunne have været til stede.",
+        "Relevant for forståelse af Mars' historie."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Kepler books Neutron for 2028 optical relay launch",
+      "link": "https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch/",
+      "dato": "2026-08-10T20:25:23+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Kepler Communications plans to deploy next-generation optical relay satellites on Rocket Lab’s upcoming Neutron rocket in one of several launches the Canadian operator has slated for 2028. The post Kepler books Neutron for 2028 optical relay launch appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/HO6iYUea4AAYYav.jpeg?fit=1024%2C904&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Opsendelser",
+      "rubrik": "Kepler sender optiske relæsatellitter op med Rocket Lab i 2028",
+      "resume_da": "Den canadiske operatør Kepler Communications har booket plads på Rocket Labs kommende Neutron-raket for at opsende sine nye optiske relæsatellitter i 2028.",
+      "sektioner": [
+        {
+          "overskrift": "Aftale med Rocket Lab",
+          "tekst": "Kepler Communications har planer om at opsende sine næste generations optiske relæsatellitter på Rocket Labs kommende Neutron-raket. Det er en del af flere opsendelser, som den canadiske operatør har planlagt til 2028."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2028",
+          "label": "Planlagt opsendelsesår"
+        }
+      ],
+      "detaljer": [
+        "Kepler Communications er en canadisk satellitoperatør.",
+        "De nye satellitter er optiske relæsatellitter.",
+        "Opsendelsen bliver på Rocket Labs Neutron-raket."
+      ],
+      "betydning": "Nyheden viser, at kommercielle rumfartsselskaber som Rocket Lab får flere kunder, hvilket kan gøre rumopsendelser billigere og mere tilgængelige. For almindelige mennesker betyder det bedre og hurtigere kommunikation i fremtiden.",
+      "pointer": [
+        "Kepler sender optiske relæsatellitter op med Neutron.",
+        "Opsendelsen er planlagt til 2028.",
+        "Det er en af flere opsendelser for Kepler."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Community College Instructors Bring Astronomy Textbook Into 21st Century",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/community-college-instructors-bring-astronomy-textbook-into-21st-century/",
+      "dato": "2026-08-10T18:08:56+00:00",
+      "kilde": "NASA",
+      "resume": "Teaching the beautiful and inspirational science of astronomy using only the conceptual framework offered by a traditional textbook – without incorporating the wealth of incredible resources, images and activities from NASA – falls short of the more modern, active learning experience that could better serve students evolving learning strategies. Three project teams from the NASA […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/Community_College_Instructors_Bring_Astronomy_Textbook_Into_21st_Century.jpg?w=979&#038;h=748&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "Classroom with seven students sitting at desks. They have their laptops open showing images of the celestial sphere. On the desks between the students are Earth globes and model celestial spheres.",
+      "kategori": "Forskning",
+      "rubrik": "NASA opgraderer astronomibog med interaktive lektioner",
+      "resume_da": "Tre NASA-projekter har omskrevet en klassisk lærebog til et interaktivt forløb. Det skal gøre astronomi mere engagerende for studerende på community colleges.",
+      "sektioner": [
+        {
+          "overskrift": "Projektets formål",
+          "tekst": "Tre NASA-projekter gik sammen om at modernisere lærebogen OpenStax Astronomy 101. Målet var at gøre den mere aktiv og relevant med NASAs egne ressourcer og billeder. De fem første kapitler blev opgraderet som et pilotprojekt."
+        },
+        {
+          "overskrift": "Workshoppen og deltagerne",
+          "tekst": "I juni 2026 mødtes forskere og fem instruktører fra forskellige community colleges virtuelt. De arbejdede i to uger på at tilføje interaktive moduler. Resultaterne blev præsenteret i juli og skal testes i klasseværelser i efteråret 2026."
+        },
+        {
+          "overskrift": "Næste skridt",
+          "tekst": "Workshoppen viste, at det er muligt at lave en eksisterende bog om til et aktivt læringsredskab. Planen er at udvide arbejdet til hele bogen og dermed hele universet. Det åbner også for nye måder at udbrede NASAs undervisningsmaterialer på."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "5",
+          "label": "Første kapitler opgraderet"
+        },
+        {
+          "tal": "2026",
+          "label": "Test i klasser i efteråret"
+        }
+      ],
+      "detaljer": [
+        "Projektet er en del af NASA Science Activation-programmet.",
+        "Deltagerne arbejdede virtuelt i juni 2026.",
+        "Målet er at skabe Relevant Engaging Active Learning (REAL) kurser.",
+        "Instruktørerne kom fra fem forskellige community colleges."
+      ],
+      "betydning": "Studerende på community colleges får en mere engagerende undervisning, der kan øge interessen for naturvidenskab. Det kan også inspirere andre uddannelsessteder til at bruge NASAs åbne ressourcer.",
+      "pointer": [
+        "Modernisering af astronomi-undervisning.",
+        "Inddragelse af NASA-ressourcer.",
+        "Test i klasseværelser i efteråret 2026.",
+        "Mulig udvidelse til hele lærebogen."
+      ],
+      "prio": 6
+    },
     {
       "titel": "DESI releases biggest 2D map of the universe",
       "link": "https://phys.org/news/2026-08-desi-biggest-2d-universe.html",
@@ -4204,134 +4330,6 @@
         "Kan forbedre satellitbaner og sikkerhed"
       ],
       "prio": 6
-    },
-    {
-      "titel": "NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test",
-      "link": "https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/",
-      "dato": "2026-08-04T18:02:55+00:00",
-      "kilde": "NASA",
-      "resume": "Using continuous imagery from NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, scientists predicted the near-Earth arrival of a solar eruption to within 30 minutes in an initial proof of concept test. The results, presented Tuesday at the Committee on Space Research Scientific Meeting and under review at the journal Space Weather, could […]",
-      "billede": null,
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "NASA's PUNCH forbedrer varsling af solstorme markant",
-      "resume_da": "NASA's PUNCH-mission kan forudsige ankomsten af solstorme til Jorden med en præcision på 30 minutter - 10 gange bedre end tidligere metoder.",
-      "sektioner": [
-        {
-          "overskrift": "Imponerende første test",
-          "tekst": "Forskere brugte data fra en solstorm den 31. maj 2025 til at teste PUNCH's evner. Modellen forudsagde, at stormen ville nå Jorden otte timer efter afgang. Den faktiske ankomst var kun en halv time fra forudsigelsen. Det er **10 gange** bedre end de nuværende metoder, som kun giver et vindue på **5 timer**."
-        },
-        {
-          "overskrift": "Kontinuerlig overvågning er nøglen",
-          "tekst": "PUNCH består af fire rumfartøjer i lavt kredsløb om Jorden. De tager billeder af solen hvert fjerde minut og kan følge soludbrud næsten hele vejen til Jorden. Tidligere kunne man kun følge dem en femtedel af vejen, hvilket gjorde forudsigelser usikre. Med de nye data kan forskerne se, hvordan udbruddene udvikler sig og er klumpede."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "30 minutter",
-          "label": "Præcision i forudsigelse"
-        },
-        {
-          "tal": "10 gange",
-          "label": "Forbedring i forhold til før"
-        },
-        {
-          "tal": "5 timer",
-          "label": "Nuværende usikkerhed"
-        }
-      ],
-      "detaljer": [
-        "PUNCH blev sendt op i 2025.",
-        "Fire rumfartøjer laver 3D-observationer af det indre solsystem.",
-        "Forskerne så nye strukturer i soludbrud, der er klumpede og ændrer sig.",
-        "Resultaterne er præsenteret på en videnskabelig konference og er ved at blive publiceret."
-      ],
-      "betydning": "Bedre varsling af solstorme kan beskytte strømforsyning, satellitter og astronauter mod skadelige påvirkninger, hvilket er vigtigt for vores teknologiske samfund.",
-      "pointer": [
-        "PUNCH forbedrer forudsigelser af solstorme markant.",
-        "Første test viser 30 minutters præcision.",
-        "Kontinuerlig overvågning er afgørende.",
-        "Kan beskytte infrastruktur og astronauter."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Ames Science Stars of the Month – August 2026",
-      "link": "https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/",
-      "dato": "2026-08-04T17:08:04+00:00",
-      "kilde": "NASA",
-      "resume": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Danielle Lopez, Jennifer Claudio, and Duncan Mifsud. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star of the Month: Danielle Lopez Danielle Lopez is the [&",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/slide1.jpeg?w=1920",
-      "billede_alt": "Image of the profile photos of the Ames stars of the month for August 2026. Pictured from left to right is Danielle Lopez, Jennifer Claudio, and Duncan Misfud.",
-      "kategori": "Forskning",
-      "rubrik": "NASA Ames hædrer tre medarbejdere",
-      "resume_da": "NASA Ames har udnævnt tre medarbejdere til 'månedens stjerner' for deres bidrag til rumforskning og uddannelse.",
-      "sektioner": [
-        {
-          "overskrift": "Danielle Lopez: Open Science",
-          "tekst": "Danielle Lopez er leder af Open Science Data Repository. Hun roses for at holde projekter på sporet i svære tider og for at fremme samarbejde på tværs af NASA. Hendes indsats har været afgørende for Open Science."
-        },
-        {
-          "overskrift": "Jennifer Claudio: GL4HS-program",
-          "tekst": "Jennifer Claudio støtter GeneLab for High School sommerprogrammet. Hun er anerkendt for sin effektivitet og for hurtigt at løse et sikkerhedsbrud på læringsplatformen. Det viser hendes handlekraft og engagement."
-        },
-        {
-          "overskrift": "Duncan Mifsud: Asteroideforskning",
-          "tekst": "Duncan Mifsud er forsker i astrofysik. Han har analyseret infrarøde data fra laboratorieprøver og materiale fra asteroiden Bennu. Det er en del af OSIRIS-REx-missionen, og arbejdet er vigtigt for at forstå organiske molekyler i rummet."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "De tre er udvalgt for deres ekstraordinære bidrag til NASA’s mission.",
-        "Danielle Lopez er assisterende projektleder hos Amentum.",
-        "Jennifer Claudio arbejder for Blue Marble Space.",
-        "Duncan Mifsud er postdoc hos BAERI.",
-        "Mifsud har arbejdet med prøver fra asteroiden Bennu."
-      ],
-      "betydning": "Historien viser, hvordan dedikerede forskere og ledere bidrager til rumforskning. Det kan inspirere og skabe tillid til, at NASA's arbejde udføres af kompetente folk, hvilket er relevant for skatteborgernes investering i rumfart.",
-      "pointer": [
-        "Tre medarbejdere hædres ved NASA Ames.",
-        "Lopez styrker Open Science og samarbejde.",
-        "Claudio reddede sommerprogram efter cyberangreb.",
-        "Mifsud analyserer prøver fra asteroide Bennu."
-      ],
-      "prio": 3
-    },
-    {
-      "titel": "Mapping monsters: Data release unveils all-sky views of supermassive black holes",
-      "link": "https://phys.org/news/2026-08-monsters-unveils-sky-views-supermassive.html",
-      "dato": "2026-08-04T17:00:05+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Data released by the Sloan Digital Sky Survey (SDSS) marks a landmark expansion in the study of accreting supermassive black holes (SMBHs). As part of the fifth generation of the survey (SDSS-V), the Black Hole Mapper (BHM) program is providing unprecedented insights into the masses, growth and physics of quasars and active galactic nuclei (AGN) across cosmic time.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/mapping-monsters-sdss.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Nyt kort viser supermassive sorte huller",
-      "resume_da": "Sloan Digital Sky Survey har frigivet data om sorte huller, der giver ny viden om deres vækst og fysik.",
-      "sektioner": [
-        {
-          "overskrift": "Data frigivet",
-          "tekst": "Sloan Digital Sky Survey (SDSS) har frigivet data fra sit femte program. Det er en stor udvidelse i studiet af supermassive sorte huller. Programmet hedder Black Hole Mapper."
-        },
-        {
-          "overskrift": "Ny viden",
-          "tekst": "Dataene giver hidtil uset indsigt i massen og væksten af kvasarer og aktive galaksekerner. Det hjælper forskere med at forstå, hvordan sorte huller udvikler sig over tid."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Data frigivet af Sloan Digital Sky Survey",
-        "Femte generation af undersøgelsen (SDSS-V)",
-        "Programmet hedder Black Hole Mapper (BHM)",
-        "Fokuserer på supermassive sorte huller, kvasarer og aktive galaksekerner"
-      ],
-      "betydning": "For almindelige danskere er dette relevant, fordi forskning i sorte huller udvider vores forståelse af universet og dets udvikling.",
-      "pointer": [
-        "Stor datafrigivelse om sorte huller",
-        "Ny indsigt i masse og vækst",
-        "Fra SDSS' femte program"
-      ],
-      "prio": 5
     }
   ]
 }
