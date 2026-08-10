@@ -1,7 +1,99 @@
 {
-  "opdateret": "2026-08-10T15:33:32.614450+00:00",
+  "opdateret": "2026-08-10T18:37:10.209426+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "DESI releases biggest 2D map of the universe",
+      "link": "https://phys.org/news/2026-08-desi-biggest-2d-universe.html",
+      "dato": "2026-08-10T17:00:05+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Hold on to your telescopes: The DESI Legacy Imaging Surveys team has released the largest-ever 2D color map of the universe. The 5.6-trillion-pixel map contains nearly 4 billion celestial objects, primarily stars and galaxies. The data is available for all to use and publicly view through the Legacy Survey Sky Viewer.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-release-big.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Kæmpe 2D-kort over universet frigivet",
+      "resume_da": "Forskere har offentliggjort det største 2D-kort over universet med 5,6 billioner pixels og næsten 4 milliarder objekter. Kortet er frit tilgængeligt for alle.",
+      "sektioner": [
+        {
+          "overskrift": "Et kæmpe kort",
+          "tekst": "Forskere har lavet det største 2D-kort over universet. Det består af **5,6 billioner pixels** og viser næsten **4 milliarder objekter** – mest stjerner og galakser."
+        },
+        {
+          "overskrift": "Frit tilgængeligt",
+          "tekst": "Kortet er offentligt og kan ses af alle. Man kan se det via Legacy Survey Sky Viewer på internettet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "5,6 billioner pixels",
+          "label": "Kortets opløsning"
+        },
+        {
+          "tal": "4 milliarder objekter",
+          "label": "Antal stjerner og galakser"
+        }
+      ],
+      "detaljer": [
+        "Kortet er det største 2D-farvekort over universet.",
+        "Dataene er offentligt tilgængelige.",
+        "Kortet kan ses via Legacy Survey Sky Viewer."
+      ],
+      "betydning": "Det giver almindelige mennesker mulighed for at udforske universet selv og se de samme data, som forskerne bruger.",
+      "pointer": [
+        "Største 2D-kort nogensinde",
+        "Næsten 4 milliarder objekter",
+        "Frit tilgængeligt for alle",
+        "Kan ses online"
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "NASA+ Debuts on discovery+, Coming Soon to HBO Max",
+      "link": "https://www.nasa.gov/news-release/nasa-debuts-on-discovery-coming-soon-to-hbo-max/",
+      "dato": "2026-08-10T16:30:13+00:00",
+      "kilde": "NASA",
+      "resume": "As NASA+ continues its expansion across multiple streaming platforms to bring space closer to home, NASA announced Monday programming is next heading to discovery+ and HBO Max. A continuous live feed of NASA+ programming is streaming on discovery+ live channels, while HBO Max will stream NASA’s special events, including the Artemis III mission in 2027. [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/nasa-promo-image-horizontal.png?w=2048",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "NASA+ kommer til discovery+ og HBO Max",
+      "resume_da": "NASA udvider sit streamingtilbud. Fra nu kan du se NASA+-indhold på discovery+ og HBO Max, herunder Artemis III-missionen i 2027.",
+      "sektioner": [
+        {
+          "overskrift": "Nye streamingplatforme",
+          "tekst": "NASA har indgået aftaler med discovery+ og HBO Max. Discovery+ viser en kontinuerlig live-udsendelse af NASA+-programmer. HBO Max streamer NASA's særlige begivenheder, herunder Artemis III-missionen i 2027."
+        },
+        {
+          "overskrift": "Bedre billedkvalitet",
+          "tekst": "Seerne kan opleve NASA+-indhold i Dolby Vision på understøttede enheder. Det giver mere levende farver og skarpere billeder. Det gør rumfartsdækningen mere oplevelsesrig."
+        },
+        {
+          "overskrift": "Fremtidige programmer",
+          "tekst": "Fremover kan der komme programmer om videnskabelige missioner, testflyvninger, robot-måneleverancer og den første bemandede måneflyvning under Artemis. NASA+ forbliver gratis og uden reklamer på NASA's app og hjemmeside."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2027",
+          "label": "Artemis III-missionen sendes"
+        }
+      ],
+      "detaljer": [
+        "NASA+ udvides til discovery+ og HBO Max.",
+        "HBO Max streamer NASA's særlige begivenheder, herunder Artemis III i 2027.",
+        "Indholdet kan streames i Dolby Vision på understøttede enheder.",
+        "NASA+ forbliver gratis og uden reklamer på NASA's app og hjemmeside.",
+        "NASA henviser til loven fra 1958 om at dele rumfartshistorier med bredest muligt publikum."
+      ],
+      "betydning": "For almindelige danskere betyder det, at rumfartsindhold bliver nemmere at tilgå på populære streamingtjenester. Det kan øge interessen for og forståelsen af rumfart.",
+      "pointer": [
+        "NASA+ kommer til discovery+ og HBO Max.",
+        "Artemis III-missionen i 2027 streames på HBO Max.",
+        "Dolby Vision giver bedre billedkvalitet.",
+        "NASA+ er stadig gratis på NASA's app og hjemmeside."
+      ],
+      "prio": 7
+    },
     {
       "titel": "Slow spin could explain why planets become hellish",
       "link": "https://phys.org/news/2026-08-planets-hellish.html",
@@ -4240,88 +4332,6 @@
         "Fra SDSS' femte program"
       ],
       "prio": 5
-    },
-    {
-      "titel": "Designing memory-centric chips for future space telescopes",
-      "link": "https://phys.org/news/2026-08-memory-centric-chips-future-space.html",
-      "dato": "2026-08-04T16:40:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Two proposed computer chip designs could efficiently process data on future space telescopes while they search for Earth–like exoplanets, according to a University of Michigan Engineering study that will be presented at the IEEE Space Computing Conference in August.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/designing-memory-centr.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Nye chipdesigns til fremtidens rumteleskoper",
-      "resume_da": "To nye chipdesigns kan gøre databehandling mere effektiv på fremtidige rumteleskoper, der leder efter jordlignende exoplaneter. Designene præsenteres i august på en IEEE-konference.",
-      "sektioner": [
-        {
-          "overskrift": "Effektiv databehandling",
-          "tekst": "To foreslåede chipdesigns kan behandle data effektivt på fremtidige rumteleskoper. De er udviklet til teleskoper, der søger efter jordlignende exoplaneter. Studiet er fra University of Michigan Engineering."
-        },
-        {
-          "overskrift": "Præsentation på konference",
-          "tekst": "Designene præsenteres på IEEE Space Computing Conference i august. Konferencen fokuserer på rumfartsteknologi. Det er et vigtigt skridt mod bedre rumteleskoper."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2",
-          "label": "Antal chipdesigns"
-        }
-      ],
-      "detaljer": [
-        "Designene er målrettet fremtidige rumteleskoper, der søger efter exoplaneter.",
-        "Studiet kommer fra University of Michigan Engineering.",
-        "Præsentationen finder sted på IEEE Space Computing Conference i august."
-      ],
-      "betydning": "Bedre chips kan gøre det muligt for rumteleskoper at finde jordlignende planeter, hvilket kan bringe os tættere på at opdage liv uden for vores solsystem.",
-      "pointer": [
-        "To chipdesigns til rumteleskoper",
-        "Skal finde jordlignende exoplaneter",
-        "Præsenteres i august",
-        "Fra University of Michigan"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "August 2026 Satellite Puzzler",
-      "link": "https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/",
-      "dato": "2026-08-04T16:31:46+00:00",
-      "kilde": "NASA",
-      "resume": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/satellite-puzzler/2026_augustpuzzler.jpg?w=720&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A landform displays various shades of green interspersed with several especially dark channels toward the right and light brown patches toward the left.",
-      "kategori": "Forskning",
-      "rubrik": "NASA's månedlige satellitbillede-gåde",
-      "resume_da": "NASA Earth Observatory udfordrer dig til at gætte, hvor et mystisk satellitbillede er taget. Indsend dit bud og vind æren.",
-      "sektioner": [
-        {
-          "overskrift": "Månedlig udfordring",
-          "tekst": "Hver måned udgiver NASA Earth Observatory et forvirrende satellitbillede. I august 2026 er det din tur til at gætte placeringen. Del dine observationer og begrundelser."
-        },
-        {
-          "overskrift": "Sådan deltager du",
-          "tekst": "Send dit svar via formularen på hjemmesiden og vælg 'Puzzler Answer'. Du kan gætte stedet, nævne satellit og instrument, spektrale bånd eller detaljer om geologi og historie."
-        },
-        {
-          "overskrift": "Præmien",
-          "tekst": "Der er ingen pengepræmie, men du får æren og måske blive fremhævet. Omkring en uge efter offentliggøres svaret og historien bag billedet."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Billedet er fra august 2026.",
-        "Man kan vinde 'bragging rights' for at gætte rigtigt.",
-        "Man kan også nævne detaljer om billedet.",
-        "Svaret offentliggøres cirka en uge senere."
-      ],
-      "betydning": "Det er en sjov måde at lære om jordobservation fra satellitter på, og det engagerer offentligheden i rumforskning.",
-      "pointer": [
-        "Månedlig billedgåde fra NASA.",
-        "Gæt placeringen på satellitbilledet.",
-        "Indsend svar via onlineformular.",
-        "Præmie: ære og anerkendelse."
-      ],
-      "prio": 3
     }
   ]
 }
