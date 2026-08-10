@@ -1,5 +1,5 @@
 {
-  "opdateret": "2026-08-10T05:11:18.102187+00:00",
+  "opdateret": "2026-08-10T10:40:28.716421+00:00",
   "antal": 100,
   "artikler": [
     {
@@ -920,6 +920,56 @@
         "Den var vigtig for Mars-forskning."
       ],
       "prio": 5
+    },
+    {
+      "titel": "Join us live and enjoy the total solar eclipse!",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Join_us_live_and_enjoy_the_total_solar_eclipse",
+      "dato": "2026-08-07T14:00:00+00:00",
+      "kilde": "ESA",
+      "resume": "Video: 00:01:44 [English] On 12 August 2026, Europe will witness one of nature’s most spectacular events: a total solar eclipse starting at 19:30 CEST. As the Moon’s shadow sweeps across Spain, join the European Space Agency live from Observatorio Astrofísico de Javalambre where Dame Dr. Maggie Aderin and ESA scientists will fill you in on everything you need to know about the eclipse and reveal t",
+      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/join_us_live_and_enjoy_the_total_solar_eclipse/27409189-1-eng-GB/Join_us_live_and_enjoy_the_total_solar_eclipse_card_full.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Europas totale solformørkelse: Følg den live med ESA",
+      "resume_da": "Den 12. august 2026 oplever Europa en total solformørkelse. ESA sender live fra Spanien og byder på aktiviteter og sikker formørkelses-kiggeri.",
+      "sektioner": [
+        {
+          "overskrift": "Hvornår og hvor",
+          "tekst": "Den 12. august 2026 kl. **19:30 CEST** starter den totale solformørkelse. Månens skygge bevæger sig hen over Spanien, og resten af Europa kan se en delvis formørkelse."
+        },
+        {
+          "overskrift": "ESA's live-sending",
+          "tekst": "ESA sender direkte fra Observatorio Astrofísico de Javalambre i Spanien. Dame Dr. Maggie Aderin og ESA-forskere forklarer videnskaben bag formørkelsen og giver status undervejs."
+        },
+        {
+          "overskrift": "Aktiviteter i León",
+          "tekst": "Hvis man er i Spanien, kan man tage til León og deltage i et begivenhedsprogram på Palacio de Congresos y Exposiciones de León. Der er videnskabelige aktiviteter, sjove ting for hele familien og mulighed for at se formørkelsen sikkert."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. august 2026",
+          "label": "Dato for formørkelsen"
+        },
+        {
+          "tal": "19:30 CEST",
+          "label": "Starttidspunkt"
+        }
+      ],
+      "detaljer": [
+        "Den totale fase kan kun ses fra visse steder i Spanien, mens andre dele af Europa ser en delvis formørkelse.",
+        "ESA sender live på deres YouTube-kanal og på watch.esa.int.",
+        "I León er der arrangementer for både børn og voksne, herunder praktiske aktiviteter og mulighed for at se formørkelsen sikkert.",
+        "Man skal aldrig se direkte på solen uden beskyttelse – ESA har tips til sikker observation."
+      ],
+      "betydning": "En total solformørkelse er en sjælden og spektakulær begivenhed, som mange danskere vil opleve. ESA's live-sending giver alle mulighed for at følge med, uanset hvor man befinder sig, og lære mere om astronomi.",
+      "pointer": [
+        "Europas totale solformørkelse finder sted 12. august 2026 kl. 19:30 CEST.",
+        "ESA sender live fra Spanien med eksperter, der forklarer videnskaben.",
+        "I León er der gratis aktiviteter og sikker kiggeri.",
+        "Husk at beskytte øjnene, hvis du ser direkte på solen."
+      ],
+      "prio": 7
     },
     {
       "titel": "Physicists trace solar outbursts that led to historic Mother's Day storms",
@@ -4285,42 +4335,6 @@
         "Tørke har gjort området brandfarligt."
       ],
       "prio": 5
-    },
-    {
-      "titel": "NASA, SpaceX studying how to prevent future upper stage lunar collisions",
-      "link": "https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/",
-      "dato": "2026-08-04T02:03:57+00:00",
-      "kilde": "SpaceNews",
-      "resume": "With a Falcon 9 upper stage set to hit the moon this week, SpaceX says it is working with NASA on ways to prevent similar collisions in the future. The post NASA, SpaceX studying how to prevent future upper stage lunar collisions appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/f9-fireflyispace.jpg?fit=1024%2C682&amp;ssl=1",
-      "billede_alt": "F9 launch Firefly ispace",
-      "kategori": "Missioner",
-      "rubrik": "SpaceX og NASA vil undgå nye månekollisioner",
-      "resume_da": "En Falcon 9-raketdel rammer månen i denne uge. SpaceX og NASA undersøger nu, hvordan de kan undgå lignende kollisioner i fremtiden.",
-      "sektioner": [
-        {
-          "overskrift": "Raketdel rammer månen",
-          "tekst": "En del af en Falcon 9-raket er på vej mod månen og rammer den i denne uge. Det er et uønsket sammenstød, som forskere gerne vil undgå i fremtiden."
-        },
-        {
-          "overskrift": "Samarbejde om løsninger",
-          "tekst": "SpaceX oplyser, at de arbejder sammen med NASA. De ser på, hvordan man kan forhindre lignende kollisioner. Det kræver nye metoder og planer."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Raketdelen er fra en Falcon 9-raket.",
-        "Sammenstødet sker i denne uge.",
-        "SpaceX og NASA samarbejder om at undgå lignende hændelser."
-      ],
-      "betydning": "Det viser, at rumaffald også kan ramme månen. Det kan få betydning for fremtidige månefærd og forskning.",
-      "pointer": [
-        "Falcon 9-raketdel rammer månen.",
-        "SpaceX og NASA samarbejder om løsninger.",
-        "De vil undgå nye kollisioner.",
-        "Sker i denne uge."
-      ],
-      "prio": 6
     }
   ]
 }
