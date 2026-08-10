@@ -1,7 +1,440 @@
 {
-  "opdateret": "2026-08-10T10:40:28.716421+00:00",
+  "opdateret": "2026-08-10T15:33:32.614450+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Slow spin could explain why planets become hellish",
+      "link": "https://phys.org/news/2026-08-planets-hellish.html",
+      "dato": "2026-08-10T14:00:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Hundreds of Venus-like planets could soon help determine why some worlds become sweltering greenhouse hellscapes while others remain capable of supporting life. But before answering that question, scientists first need to know how fast those planets are spinning.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/slow-spin-could-explai.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Langsom rotation kan gøre planeter til helvede",
+      "resume_da": "Forskere mener, at langsom rotation kan forklare, hvorfor nogle planeter bliver til drivhushelvede, mens andre kan rumme liv. Snart kan hundredvis af Venus-lignende planeter hjælpe med at afklare dette.",
+      "sektioner": [
+        {
+          "overskrift": "Venus-lignende planeter",
+          "tekst": "Der findes hundredvis af planeter, der ligner Venus. De kan hjælpe forskere med at forstå, hvorfor nogle planeter bliver til drivhushelvede. Andre planeter kan stadig understøtte liv."
+        },
+        {
+          "overskrift": "Spørgsmålet om rotation",
+          "tekst": "Inden forskerne kan svare på, hvorfor planeter udvikler sig forskelligt, skal de vide, hvor hurtigt disse planeter roterer. Rotationen kan være en vigtig faktor."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Hundredvis af Venus-lignende planeter kan snart blive undersøgt.",
+        "Målet er at finde ud af, hvorfor nogle planeter bliver til drivhushelvede.",
+        "Forskere skal først måle rotationen af disse planeter."
+      ],
+      "betydning": "Denne forskning kan hjælpe os med at forstå, hvilke planeter der kan rumme liv, og hvordan Jorden selv undgår at ende som et drivhushelvede.",
+      "pointer": [
+        "Venus-lignende planeter kan afsløre planetudvikling.",
+        "Rotation er en nøglefaktor.",
+        "Forskning kan lede til opdagelse af beboelige planeter."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Lion Nebula Roars to Life With NASA’s Webb",
+      "link": "https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/",
+      "dato": "2026-08-10T14:00:00+00:00",
+      "kilde": "NASA",
+      "resume": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. NASA’s Hubble Space Telescope previously viewed this planetary nebula in 2000, imaging the lion face-shaped target in visible light and revealing features such as the “mane” of hazy, comet-shaped objects. Now Webb […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png?w=3505&#038;h=3505&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "JWST’s Near Infrared Camera and Mid Infrared Instrument combined image of planetary nebula NGC 2392, the Lion Nebula, against the black background of space. The nebula is at center, circular in shape,",
+      "kategori": "Astronomi",
+      "rubrik": "Løvenebulen viser nyt liv i infrarødt",
+      "resume_da": "James Webb-teleskopet har taget detaljerede billeder af Løvenebulen, en planetarisk tåge, og viser nye strukturer af støv og gas.",
+      "sektioner": [
+        {
+          "overskrift": "Nye detaljer fra Webb",
+          "tekst": "James Webb-teleskopet har fotograferet Løvenebulen (NGC 2392). Billederne er skarpere end Hubbles ældre optagelser. De viser klumper af støv og en tåge af ioniseret gas."
+        },
+        {
+          "overskrift": "En døende stjerne",
+          "tekst": "Tågens form skyldes en døende stjerne i midten. Stjernen har kastet sine ydre lag af sig og er nu en varm hvid dværg. Den stråling og energi, der kommer fra stjernen, driver tågens strukturer."
+        },
+        {
+          "overskrift": "Fremtidig udvikling",
+          "tekst": "Tågen ændrer sig hele tiden, mens gas og støv bevæger sig væk fra stjernen. Astronomer tror, at Løvenebulen vil sprede sig helt om cirka 10.000 år."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "10.000 år",
+          "label": "Tid til tågen forsvinder"
+        }
+      ],
+      "detaljer": [
+        "Billederne er taget med NIRCam og MIRI-instrumenterne.",
+        "Tågen har fået kaldenavnet Løvenebulen på grund af udseendet som en løve med en manke.",
+        "Manken består af støv og gas, der bliver belyst af den hvide dværg.",
+        "Der dannes kompakte støvklumper, som ligner haler fra kometer."
+      ],
+      "betydning": "Det er en påmindelse om, at også vores sol en dag vil blive til en planetarisk tåge. Forskning i sådanne tåger hjælper os med at forstå stjerners livscyklus.",
+      "pointer": [
+        "Webb-teleskopet har taget nye billeder af Løvenebulen.",
+        "Tågen er skabt af en døende stjerne.",
+        "Den centrale stjerne er nu en hvid dværg.",
+        "Tågen vil forsvinde om 10.000 år."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Lion Nebula roars to life for Webb",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Lion_Nebula_roars_to_life_for_Webb",
+      "dato": "2026-08-10T14:00:00+00:00",
+      "kilde": "ESA",
+      "resume": "Image: Observing across the starry “plains” of space, the NASA/ESA/CSA James Webb Space Telescope has taken images of NGC 2392, nicknamed the Lion Nebula. The NASA/ESA Hubble Space Telescope previously viewed this planetary nebula in 2000, imaging the lion face-shaped target in visible light and revealing features such as the “mane” of hazy, comet-shaped objects. Now Webb has captured a clearer, m",
+      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/lion_nebula_roars_to_life_for_webb/27409830-1-eng-GB/Lion_Nebula_roars_to_life_for_Webb_card_full.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Webb-teleskopet zoomer ind på Løvenebulosen",
+      "resume_da": "James Webb-teleskopet har taget nye, skarpe billeder af Løvenebulosen, der viser detaljer, som ikke kunne ses før. Billederne afslører støv og gas, der formes af en døende stjerne.",
+      "sektioner": [
+        {
+          "overskrift": "Et nyt kig på Løvenebulosen",
+          "tekst": "James Webb-teleskopet har fotograferet Løvenebulosen, også kendt som NGC 2392. Tidligere har Hubble-teleskopet set den i synligt lys, men Webb's infrarøde øjne viser nye detaljer som kompakte støvklumper og tåget ioniseret gas."
+        },
+        {
+          "overskrift": "Den døende stjernes rolle",
+          "tekst": "I midten af nebulosen ligger en hvid dværgstjerne, der ligner løvens næse. Den sender energi ud, som skaber de indviklede strukturer. Boblen af ioniseret gas udvider sig og ødelægger støvet i sin vej, hvilket forklarer de ringe og skaller, man ser."
+        },
+        {
+          "overskrift": "Nebulosens skæbne",
+          "tekst": "Løvenebulosen ændrer sig konstant, og astronomer forventer, at den vil forsvinde om cirka 10.000 år. Det er kort tid i astronomisk målestok, men Webbs billeder fryser øjeblikket og giver forskerne mulighed for at studere processen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "10.000 år",
+          "label": "Tid til nebulosen forsvinder"
+        }
+      ],
+      "detaljer": [
+        "Webb tog billeder med både NIRCam og MIRI-instrumenterne.",
+        "Hubble så nebulosen første gang i 2000 i synligt lys.",
+        "Løvenebulosen er en planetarisk tåge, der består af gas og støv fra en døende stjerne.",
+        "De hårlignende totter er kompakte støvklumper, der beskytter materiale bagved."
+      ],
+      "betydning": "Det er vigtigt, fordi det viser, hvordan stjerner som vores Sol kan ende deres liv. Det hjælper forskere med at forstå universets udvikling og vores egen planets oprindelse.",
+      "pointer": [
+        "Webb har taget skarpe billeder af Løvenebulosen.",
+        "Nebulosen er skabt af en døende stjerne.",
+        "Den vil forsvinde om 10.000 år.",
+        "Billederne giver ny viden om stjerners død."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Launch Into a New School Year With NASA",
+      "link": "https://www.nasa.gov/learning-resources/launch-into-a-new-school-year-with-nasa/",
+      "dato": "2026-08-10T13:59:28+00:00",
+      "kilde": "NASA",
+      "resume": "A new school year brings fresh opportunities to get involved with NASA. Whether you’re curious about space or eager to build real STEM skills, NASA offers a world of experiences putting you close to the action. As we enter a new golden age of exploration, there’s no better time to jump in, try something bold, [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/bts-2026-express-2.jpg?w=846",
+      "billede_alt": "An illustration of two astronauts inside a spacecraft, looking at a screen that says &quot;Back to School with NASA&quot;",
+      "kategori": "Forskning",
+      "rubrik": "Nyt skoleår: NASA åbner døren for studerende",
+      "resume_da": "NASA byder studerende indenfor med praktikpladser, udfordringer og karriereveje. Der er også mulighed for at være citizen scientist og følge kommende missioner.",
+      "sektioner": [
+        {
+          "overskrift": "Praktik og udfordringer",
+          "tekst": "Studerende kan søge praktik hos NASA og arbejde på rigtige projekter med mentorer. Der er også udfordringer, hvor teams løser tekniske problemer og tester deres designs."
+        },
+        {
+          "overskrift": "Karriereveje og events",
+          "tekst": "NASA arrangerer events for at vise tekniske karrierer. Studerende kan møde medarbejdere og lære om deres job og uddannelse. Der er både fysiske og virtuelle møder."
+        },
+        {
+          "overskrift": "Citizen science og missioner",
+          "tekst": "Alle kan deltage i NASA's citizen science-projekter og hjælpe med at finde kometer og asteroider. Desuden kan man følge kommende opsendelser som Nancy Grace Roman-teleskopet og SpaceX Crew-13, samt forberedelserne til Artemis III."
+        },
+        {
+          "overskrift": "Engagement og læring",
+          "tekst": "Skoler og grupper kan få astronauter til at svare på spørgsmål live fra rumstationen. Der er også mulighed for at få NASA-eksperter til at besøge og fortælle om missioner."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "Aug. 30",
+          "label": "Opsendelse af Roman-teleskopet"
+        },
+        {
+          "tal": "100 gange",
+          "label": "Større synsfelt end Hubble"
+        },
+        {
+          "tal": "2027",
+          "label": "Artemis III opsendelse"
+        }
+      ],
+      "detaljer": [
+        "Praktikophold giver erfaring med rigtige NASA-projekter.",
+        "Studenterkonkurrencer dækker tekniske udfordringer.",
+        "Karriereevents er for high school og tekniske uddannelser.",
+        "Citizen science-projekter bruger ægte missionsdata.",
+        "Nancy Grace Roman-teleskopet får et kæmpe synsfelt.",
+        "SpaceX Crew-13 sendes til ISS i september."
+      ],
+      "betydning": "For almindelige danskere giver det mulighed for at deltage i rumforskning og følge med i spændende missioner. Det kan inspirere unge til at forfølge STEM-karrierer og styrke interessen for videnskab.",
+      "pointer": [
+        "NASA søger studerende til praktik.",
+        "Udfordringer og konkurrencer er åbne.",
+        "Alle kan bidrage som citizen scientist.",
+        "Nye missioner kan følges online."
+      ],
+      "prio": 8
+    },
+    {
+      "titel": "Chinese Long March 7A rocket explodes shortly after liftoff",
+      "link": "https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/",
+      "dato": "2026-08-10T13:24:02+00:00",
+      "kilde": "SpaceNews",
+      "resume": "HELSINKI — China appears to have lost an unknown payload after a Long March 7A rocket exploded less than 90 seconds into flight, according to amateur footage. The Long March [&#8230;] The post Chinese Long March 7A rocket explodes shortly after liftoff appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Shijian28-CZ7A-WSLSC-30nov2025-CASC.jpg?fit=1024%2C686&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Opsendelser",
+      "rubrik": "Kinesisk raket eksploderer efter affyring",
+      "resume_da": "En kinesisk Long March 7A-raket eksploderede under 90 sekunder efter start. Videooptagelser viser raketten gå til grunde.",
+      "sektioner": [
+        {
+          "overskrift": "Eksplosion under opstigning",
+          "tekst": "En kinesisk Long March 7A-raket eksploderede mindre end 90 sekunder efter affyring. Amatørvideoer viser raketten gå til grunde. Lasten er ukendt."
+        },
+        {
+          "overskrift": "Tabt last",
+          "tekst": "Det vides ikke, hvad raketten skulle have sendt i kredsløb. Hændelsen skete kort efter start. Kina har ikke officielt kommenteret."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "90 sekunder",
+          "label": "Tid til eksplosion"
+        }
+      ],
+      "detaljer": [
+        "Rakettypen er Long March 7A",
+        "Eksplosionen skete mindre end 90 sekunder efter affyring",
+        "Videooptagelser fra amatører viser hændelsen",
+        "Lasten er ukendt"
+      ],
+      "betydning": "Raketopsendelser er komplekse, og fejl kan ske. Denne hændelse viser, at selv store rumprogrammer kan opleve tilbageslag.",
+      "pointer": [
+        "Kinesisk raket eksploderede",
+        "Sker kort efter start",
+        "Lasten er ukendt",
+        "Video optaget af amatør"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "National security doesn’t need more maps or imagery; it needs measurement",
+      "link": "https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/",
+      "dato": "2026-08-10T13:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "A decade ago, a United States carrier strike group departing San Diego could cross the Pacific with only intermittent detection. China might catch a glimpse — a satellite pass here, [&#8230;] The post National security doesn&#8217;t need more maps or imagery; it needs measurement appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/EDC-california-scaled.png?fit=1024%2C562&amp;ssl=1",
+      "billede_alt": "Energy infrastructure in Imperial Valley, California, June 16, 2026. Daily, science-grade observation can help governments monitor critical infrastructure and detect change at scale. Credit: EarthDail",
+      "kategori": "Politik & penge",
+      "rubrik": "Sikkerhed har brug for målinger, ikke kun billeder",
+      "resume_da": "Ny analyse peger på, at national sikkerhed kræver præcise måledata, ikke kun kort og billeder. Det skriver SpaceNews i en ny artikel.",
+      "sektioner": [
+        {
+          "overskrift": "Baggrund",
+          "tekst": "For ti år siden kunne en amerikansk hangarskibsgruppe sejle over Stillehavet med kun sporadisk overvågning. Kina kunne få et glimt af den ved en satellitpassage."
+        },
+        {
+          "overskrift": "Behovet",
+          "tekst": "Artiklen argumenterer for, at forsvaret har brug for målinger frem for kun billeder. Målinger kan give mere præcise data om fjendtlige aktiviteter."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "For ti år siden var en hangarskibsgruppe svær at følge over Stillehavet.",
+        "Kina kunne kun få korte glimt af skibene via satellit.",
+        "Der er et øget behov for måledata i national sikkerhed."
+      ],
+      "betydning": "For almindelige danskere viser det, hvordan rumteknologi bruges til forsvar og sikkerhed. Det kan påvirke globale magtforhold og dermed også Danmark.",
+      "pointer": [
+        "Målinger er vigtigere end billeder for sikkerhed.",
+        "Overvågning af havområder er udfordret.",
+        "Rumdata er afgørende for forsvar.",
+        "Analysen fokuserer på USA og Kina."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Launch Preview: Chinese failure opens busy international launch salvo",
+      "link": "https://www.nasaspaceflight.com/2026/08/launch-preview-081026/",
+      "dato": "2026-08-10T12:49:20+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "The week of Aug. 10 opened with an extraordinary Monday, four launches across three countries&#8230; The post Launch Preview: Chinese failure opens busy international launch salvo appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2024/12/h3.jpg",
+      "billede_alt": "",
+      "kategori": "Opsendelser",
+      "rubrik": "Kinesisk raketeksplosion indleder travl uge med syv opsendelser",
+      "resume_da": "En kinesisk Chang Zheng 7A-raket eksploderede mandag, mens fire andre opsendelser fra flere lande fulgte. I alt er syv opsendelser planlagt i denne uge.",
+      "sektioner": [
+        {
+          "overskrift": "Kinesisk raket fejler",
+          "tekst": "En Chang Zheng 7A-raket eksploderede under første trins flyvning mandag. Raketten skulle have sendt en ukendt last i kredsløb, men missionen mislykkedes. Det var raketttens 18. mission i alt."
+        },
+        {
+          "overskrift": "Japansk navigation fuldføres",
+          "tekst": "Japans H3-raket sender den syvende Michibiki-satellit op. Dermed er det japanske navigationssystem QZSS komplet. Systemet kan nu fungere uafhængigt af GPS og bruges blandt andet til præcisionsnavigation."
+        },
+        {
+          "overskrift": "Kinesisk privat raket genopsendes",
+          "tekst": "LandSpace's ZhuQue-3-raket flyver sin anden mission. Første forsøg mislykkedes ved landingen, da raketten eksploderede tæt på landingspladsen. Nu forsøger de igen med software-opdateringer."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "7.000 kg",
+          "label": "Kapacitet for Chang Zheng 7A i GTO"
+        },
+        {
+          "tal": "4.900 kg",
+          "label": "Vægt af Michibiki No. 7"
+        },
+        {
+          "tal": "7",
+          "label": "Antal satellitter i QZSS-konstellationen"
+        }
+      ],
+      "detaljer": [
+        "Chang Zheng 7A eksploderede under Max Q-fasen af førstetrinsflyvningen.",
+        "Falcon 9 sender Starlink-satellitter op fra Florida med booster B1085.",
+        "Michibiki No. 7 er bygget af Mitsubishi Electric og vejer 4.900 kg.",
+        "ZhuQue-3 er 66 meter høj og drevet af metan.",
+        "H3-opsendelsen sker fra Tanegashima i Japan."
+      ],
+      "betydning": "Opsendelser og raketfejl påvirker satellitkommunikation og navigation, som mange danskere bruger dagligt. Japan's færdige navigationssystem kan øge pålideligheden af GPS-lignende tjenester i hele regionen.",
+      "pointer": [
+        "Kinesisk raketeksplosion",
+        "Japansk navigation færdig",
+        "Privat kinesisk raket forsøger landing",
+        "Syv opsendelser på en uge"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite",
+      "link": "https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite/",
+      "dato": "2026-08-10T12:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "WARSAW, Poland — The Lithuanian space laser communications company Astrolight has signed a memorandum of understanding with ATMOS Space Cargo, to demonstrate in-flight optical communications link between a reentry spacecraft [&#8230;] The post Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Photo-by-ATMOS-Space-Cargo.png?fit=1024%2C512&amp;ssl=1",
+      "billede_alt": "Illustration of an optical link between a satellite and ATMOS Space Cargo&#039;s reentry vehicle. Credit: ATMOS Space Cargo",
+      "kategori": "Missioner",
+      "rubrik": "Laserlink mellem rumkapsel og satellit testes",
+      "resume_da": "Astrolight og ATMOS vil demonstrere en laserforbindelse mellem en genindtrædelses-kapsel og en satellit under flyvning. Det er første gang.",
+      "sektioner": [
+        {
+          "overskrift": "Nyt partnerskab",
+          "tekst": "Det litauiske firma Astrolight har underskrevet en aftale med ATMOS Space Cargo. De vil teste en laserforbindelse mellem en genindtrædelses-kapsel og en satellit under flyvning. Det skulle være første gang nogensinde."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Astrolight er et litauisk firma, der laver laserkommunikation til rumfart.",
+        "ATMOS Space Cargo er et andet rumfartsfirma.",
+        "Aftalen er et memorandum of understanding."
+      ],
+      "betydning": "Laserkommunikation kan give hurtigere og mere sikker dataoverførsel i rummet. Det er vigtigt for fremtidige missioner.",
+      "pointer": [
+        "Astrolight og ATMOS tester laserforbindelse.",
+        "Det sker mellem en kapsel og en satellit.",
+        "Det er første gang i flyvning.",
+        "Aftalen er underskrevet."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "How ESA mimics and models the 2026 total solar eclipse",
+      "link": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse",
+      "dato": "2026-08-10T11:59:00+00:00",
+      "kilde": "ESA",
+      "resume": "On 12 August 2026 , parts of Europe will experience a total solar eclipse . With the Sun's bright disc covered, its surrounding atmosphere – the solar corona – will become visible to the naked eye. Unfortunately, total solar eclipses are rare and last at most a few minutes, giving scientists little time to study the Sun’s enigmatic halo. This is why ESA developed missions that create eclipses arti",
+      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/proba-3_mimics_the_2026_total_solar_eclipse/27410604-1-eng-GB/Proba-3_mimics_the_2026_total_solar_eclipse_card_full.png",
+      "billede_alt": "Artificial solar eclipse by Proba-3 mission",
+      "kategori": "Forskning",
+      "rubrik": "ESA forbereder sig til solformørkelse i 2026",
+      "resume_da": "Den 12. august 2026 kan dele af Europa opleve en total solformørkelse. ESA bruger modeller og missioner til at studere solens korona.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad sker der i 2026?",
+          "tekst": "Den 12. august 2026 vil en total solformørkelse ramme dele af Europa. Når solskiven er dækket, bliver solens atmosfære, koronaen, synlig. Denne begivenhed giver forskere en kort chance for at studere solen."
+        },
+        {
+          "overskrift": "Hvorfor er det vigtigt?",
+          "tekst": "Totale solformørkelser er sjældne og varer kun få minutter. Derfor har ESA udviklet missioner, der skaber kunstige formørkelser. Eksperter bruger også computermodeller til at simulere og forstå koronaen bedre."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. august 2026",
+          "label": "Dato for solformørkelsen"
+        }
+      ],
+      "detaljer": [
+        "Under en total solformørkelse bliver koronaen synlig for det blotte øje.",
+        "ESA har missioner, der kunstigt skaber formørkelser.",
+        "Computermodeller bruges til at lave digitale simuleringer."
+      ],
+      "betydning": "For almindelige danskere kan solformørkelsen i 2026 være en spektakulær oplevelse. Forskningen bag hjælper os med at forstå solen, som påvirker vores vejr og teknologi.",
+      "pointer": [
+        "Total solformørkelse i Europa i 2026.",
+        "Koronaen bliver synlig i få minutter.",
+        "ESA laver kunstige formørkelser.",
+        "Computermodeller hjælper med forskning."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Astronomers find a new object from the early universe using Webb data",
+      "link": "https://phys.org/news/2026-08-astronomers-early-universe-webb.html",
+      "dato": "2026-08-10T11:40:02+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Since it became operational in 2022, the James Webb Space Telescope (JWST) has released some truly breathtaking views of the cosmos. These images highlight how advancements since the days of the venerable Hubble Space Telescope are now providing the deepest and clearest views of the cosmos to date. The work is published on the arXiv preprint server.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-find-a-new.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "James Webb teleskop finder nyt objekt fra det tidlige univers",
+      "resume_da": "Astronomer har opdaget et nyt objekt fra det tidlige univers ved hjælp af James Webb-rumteleskopet. Opdagelsen giver et endnu dybere indblik i kosmos' barndom.",
+      "sektioner": [
+        {
+          "overskrift": "Ny opdagelse",
+          "tekst": "Astronomer har fundet et nyt objekt fra det tidlige univers. De brugte data fra James Webb-rumteleskopet. Objektet er fra en tid, hvor universet var meget ungt."
+        },
+        {
+          "overskrift": "James Webb's fordele",
+          "tekst": "James Webb-teleskopet har været i drift siden **2022**. Det giver de dybeste og klareste billeder af kosmos nogensinde. Det er en stor forbedring i forhold til Hubble-rumteleskopet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2022",
+          "label": "År for JWST start"
+        }
+      ],
+      "detaljer": [
+        "Opdagelsen er publiceret på arXiv preprint-server.",
+        "James Webb efterfølger Hubble-teleskopet."
+      ],
+      "betydning": "Det hjælper forskere med at forstå, hvordan universet så ud lige efter Big Bang. For almindelige danskere er det fascinerende, at vi nu kan se så langt tilbage i tiden.",
+      "pointer": [
+        "Nyt objekt fundet med Webb-data",
+        "Fra det tidlige univers",
+        "Webb har været aktiv siden 2022",
+        "Giver dybere indsigt i kosmos"
+      ],
+      "prio": 7
+    },
     {
       "titel": "APOD: 2026 August 10 – Three Galaxy Pairs",
       "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/",
@@ -46,6 +479,56 @@
         "Del af Centaurus-hoben"
       ],
       "prio": 4
+    },
+    {
+      "titel": "El Niño Alters Marine Life in the Pacific",
+      "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-alters-marine-life-in-the-pacific/",
+      "dato": "2026-08-10T04:01:00+00:00",
+      "kilde": "NASA",
+      "resume": "Satellite measurements of chlorophyll at the sea surface signal shifts in the ocean’s nutrient supplies in mid-2026.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño alters-marine-life-in-the-pacific/chlorophyll_pace_202506.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "El Niño ændrer livet i Stillehavet",
+      "resume_da": "El Niño er nu officielt ankommet. Satellitter viser, at mindre fytoplankton i farvandet kan få konsekvenser for hele fødekæden.",
+      "sektioner": [
+        {
+          "overskrift": "El Niño er ankommet",
+          "tekst": "El Niño er et naturligt fænomen, hvor havoverfladen er varmere end normalt i det centrale og østlige Stillehav. Det påvirker vejr og havstrømme over hele kloden. NOAA forventer, at det bliver stærkere og varer til foråret 2027."
+        },
+        {
+          "overskrift": "Mindre fytoplankton",
+          "tekst": "Satellitbilleder viser, at der er markant mindre fytoplankton i det centrale Stillehav i juni 2026 sammenlignet med året før. Fytoplankton er mikroskopiske alger, som er basis for havets fødekæde. Årsagen er, at opvellingen af næringsrigt vand undertrykkes, fordi passatvindene er svagere."
+        },
+        {
+          "overskrift": "Konsekvenser for dyreliv",
+          "tekst": "Mindre fytoplankton betyder mindre mad for dyreplankton, fisk, havfugle og havpattedyr. Peru har suspenderet ansjosfiskeriet flere gange for at beskytte bestanden. Pelikaner er set søge ind til byer for at finde føde."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "97 procent",
+          "label": "Sandsynlighed for at vare til foråret"
+        },
+        {
+          "tal": "juni 2026",
+          "label": "Måned for El Niño-ankomst"
+        }
+      ],
+      "detaljer": [
+        "PACE-satellitten blev opsendt i februar 2024 og giver nu unikke målinger.",
+        "Efter El Niño kan der komme et 'klorofyl-opsving' med mere fytoplankton.",
+        "La Niña kan også øge fytoplanktonkoncentrationen.",
+        "Forskere kan nu observere El Niño med hidtil uset spektral opløsning."
+      ],
+      "betydning": "El Niño har globale konsekvenser for vejret og kan påvirke fødevarepriser og fiskerier. Det kan også medføre ekstreme vejrfænomener, der kan mærkes i Danmark gennem ændrede vejrmønstre og påvirkede økosystemer.",
+      "pointer": [
+        "El Niño er kommet og kan styrkes.",
+        "Mindre fytoplankton rammer havets fødekæde.",
+        "Peru har suspenderet ansjosfiskeri.",
+        "PACE-satellitten giver nye data."
+      ],
+      "prio": 7
     },
     {
       "titel": "Katalyst Space makes progress in restoring control of Swift servicing spacecraft",
@@ -291,6 +774,56 @@
         "Overfladen er rig på enstatit."
       ],
       "prio": 5
+    },
+    {
+      "titel": "APOD: 2026 August 9 – Contemplating the Sun",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-9-contemplating-the-sun/",
+      "dato": "2026-08-09T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Contemplating the Sun [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/sunsilhouettes_gilbert_1024.jpg?w=1024&#038;h=743&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Uge: Delvis solformørkelse og total formørkelse",
+      "resume_da": "NASA's daglige billede viser en solformørkelse fra 2012 og annoncerer en kommende i august 2026, synlig i Nordamerika, Europa og Afrika.",
+      "sektioner": [
+        {
+          "overskrift": "Billede fra 2012",
+          "tekst": "NASA's Astronomy Picture of the Day viser et foto fra 2012. Det blev taget i Glen Canyon, Arizona. Man ser Solen med Månen foran og mennesker, der kigger på."
+        },
+        {
+          "overskrift": "Kommende formørkelse",
+          "tekst": "Der er en ny solformørkelse i denne uge. Den bliver delvis i det nordøstlige Nordamerika, Europa og det nordvestlige Afrika. En tynd stribe fra Grønland til Portugal får en total formørkelse."
+        },
+        {
+          "overskrift": "Perseider i mørke",
+          "tekst": "Det er uvist, om man kan se meteorer fra Perseiderne under totaliteten. Det er et åbent spørgsmål."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2012",
+          "label": "År for billedet"
+        },
+        {
+          "tal": "2026",
+          "label": "År for kommende formørkelse"
+        }
+      ],
+      "detaljer": [
+        "Billedet er taget i Glen Canyon National Recreation Area, Arizona.",
+        "Amatører og astronomer forklarede begivenheden til tilskuere.",
+        "Solpletter er synlige på Solen i billedet.",
+        "Totaliteten er i en smal stribe fra Grønland til Portugal."
+      ],
+      "betydning": "For almindelige mennesker er det en chance for at se et sjældent himmelfænomen og lære om astronomi.",
+      "pointer": [
+        "Solformørkelse i august 2026",
+        "Delvis i Europa og Nordamerika",
+        "Total i Grønland og Portugal",
+        "Perseider kan ses under totaliteten"
+      ],
+      "prio": 6
     },
     {
       "titel": "Blue Origin working engine resolutions and dual pad future",
@@ -3789,552 +4322,6 @@
         "Præmie: ære og anerkendelse."
       ],
       "prio": 3
-    },
-    {
-      "titel": "While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14",
-      "link": "https://www.nasaspaceflight.com/2026/08/spacex-recovers-ship-40-ship-41-flight-14/",
-      "dato": "2026-08-04T16:27:05+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "SpaceX is recovering the intact Ship 40 from the Indian Ocean after its soft landing&#8230; The post While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14 appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-04-16-40-59-442.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "SpaceX henter Ship 40 og forbereder Flight 14",
-      "resume_da": "SpaceX har i en sjælden bedrift bjærget Starship-trinet Ship 40 intakt fra havet. Nu gør de klar til næste testflyvning, Flight 14, som kan ske allerede i august.",
-      "sektioner": [
-        {
-          "overskrift": "Intakt bjærgning i Indiske Ocean",
-          "tekst": "Ship 40 bløde landede i havet efter Flight 13 og forblev intakt, hvilket er nyt. Tidligere gik trinene tabt, når de væltede efter landing. SpaceX har sendt skibe for at hente det, og rejsen til Australien kan tage flere dage."
-        },
-        {
-          "overskrift": "Vigtige data om varmeskjold",
-          "tekst": "Bjærgningen giver ingeniører direkte adgang til varmeskjoldet efter en hel flyvning. Billeder fra rummet viser, at skjoldet er stort set intakt, men nogle fliser mangler bagtil. Det giver vigtig viden til at forbedre designet."
-        },
-        {
-          "overskrift": "Preparations til næste flyvning",
-          "tekst": "Flight 14 kan finde sted den 20. august ifølge planlægningsdokumenter. Booster 21 og Ship 41 gøres klar. Ship 41 skal gennemgå motor test på Massey's, og pad 2 er ved at blive repareret efter den seneste flyvning."
-        },
-        {
-          "overskrift": "Raptor-motorer testes",
-          "tekst": "SpaceX har udført 22 Raptor-tests på to uger, herunder en på 140 sekunder, der svarer til en fuld opstigning. McGregor-faciliteten sikrer, at hver motor er godkendt, før den installeres."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "400 kilometer",
-          "label": "Drift efter landing"
-        },
-        {
-          "tal": "20. august",
-          "label": "Mulig dato for Flight 14"
-        },
-        {
-          "tal": "140 sekunder",
-          "label": "Længste Raptor-test"
-        }
-      ],
-      "detaljer": [
-        "Ship 40 blev ikke skrottet, men bjærges.",
-        "Landingspræcisionen kunne have tilladt et fangst med tårnarmene.",
-        "Satellitbilleder viser manglende fliser på den bagerste del.",
-        "Booster 21 har gennemgået kryogene test og modtager motorer.",
-        "Ship 41 er klar til at rulle til Massey's for motortest."
-      ],
-      "betydning": "Det viser, at SpaceX er tættere på at kunne genbruge hele Starship. Det kan betyde billigere og hyppigere rumrejser i fremtiden, med mulighed for at sende mere nyttelast og i sidste ende mennesker til Månen og Mars.",
-      "pointer": [
-        "SpaceX bjærger Ship 40 intakt for første gang.",
-        "Data om varmeskjoldet er afgørende for forbedringer.",
-        "Flight 14 kan ske i august.",
-        "Raptor-motorerne testes intenst."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations",
-      "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/",
-      "dato": "2026-08-04T16:14:51+00:00",
-      "kilde": "NASA",
-      "resume": "NASA is making progress in building the Moon Base, which will become a resilient outpost near the Moon’s South Pole for science, technology, and eventual human operations. To advance lunar surface infrastructure development, commercial partners such as Blue Origin, Firefly Aerospace, Intuitive Machines, and Voyager Lunar Systems are working toward delivering landers by 2028. These [&#8230;]",
-      "billede": "https://www.youtube.com/embed/Sempwv5MPMQ",
-      "billede_alt": "Graphic of the Moon’s surface with bright points of light and a crescent Earth, labeled “Moon Base – August 2026 Update.",
-      "kategori": "Missioner",
-      "rubrik": "NASA's månebase gør fremskridt med leverancer",
-      "resume_da": "NASA og kommercielle partnere er på vej til at sende landere til Månens sydpol inden 2028. Det er en vigtig del af opbygningen af en base med plads til mennesker.",
-      "sektioner": [
-        {
-          "overskrift": "Månebasen i fase I",
-          "tekst": "NASA bygger på Månens sydpol. Fase I løber fra nu og frem til 2029. Den omfatter mere end **20** robotlandinger. Hver mission skal lære NASA og partnerne mere om, hvordan man kan leve på månen, og opbygge den nødvendige infrastruktur."
-        },
-        {
-          "overskrift": "Blue Origins lander",
-          "tekst": "Blue Origin har bygget landeren Blue Moon MK1. Den har gennemgået test i vakuum og kulde. Næste skridt er at fylde brændstof på. Missionen hedder Endurance. Den skal vise præcis landing og udforske månemiljøet."
-        },
-        {
-          "overskrift": "Firefly til Månens bagside",
-          "tekst": "Fireflys anden mission, Blue Ghost Mission 2, skal lande på Månens bagside. Det bliver første gang for en amerikansk lander. Systemet er tre gange så højt som den første mission. Med på turen er tre NASA-nyttelaster, og de skal blandt andet undersøge mørkets tidsalder i universet."
-        },
-        {
-          "overskrift": "Intuitive Machines' tredje tur",
-          "tekst": "Intuitive Machines sender tredje mission med Nova-C landeren og en datarelay-satellit. Landeren skal lande i et område med magnetisk anomali. Det er første gang, man undersøger overfladen af en såkaldt 'lunar swirl'. Missionen er fyldt med både NASA-udstyr og kommerciel last."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2028",
-          "label": "Leveringer til månebase"
-        },
-        {
-          "tal": "20",
-          "label": "Robotlandinger i fase I"
-        },
-        {
-          "tal": "22 fod",
-          "label": "Højden på Firefly-system"
-        }
-      ],
-      "detaljer": [
-        "Blue Moon MK1 har bestået en vakuumtest ved NASA.",
-        "Fireflies mission lander på Månens bagside.",
-        "Intuitive Machines sender en datarelay-satellit med.",
-        "Månebasen er ved Månens sydpol."
-      ],
-      "betydning": "Danmark kan komme til at spille en rolle i fremtidige missioner, og teknologien kan have afsmittende effekt på danske virksomheder inden for rumfart.",
-      "pointer": [
-        "Månebase ved sydpolen",
-        "Kommercielle partnere involveret",
-        "Øvelser i månemiljø",
-        "Første gang til Månens bagside"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Roman Space Telescope Plaque Install",
-      "link": "https://www.nasa.gov/image-article/roman-space-telescope-plaque-install/",
-      "dato": "2026-08-04T15:50:44+00:00",
-      "kilde": "NASA",
-      "resume": "Technicians installed a commemorative plaque, seen in this July 28, 2026, photo, on NASA&#8217;s Nancy Grace Roman Space Telescope. The plaque honors the legacy of Dr. Nancy Grace Roman, NASA’s first chief astronomer and one of the architects of the agency’s modern science program. It also features a memory card containing a total of 1,350,144 [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260728-ph-jmt01-0003orig.jpg?w=2048",
-      "billede_alt": "A close-up view of NASA&#039;s Nancy Grace Roman Space Telescope shows a commemorative plaque with writing on it, as well as an illustration of Roman, and a memory card.",
-      "kategori": "Missioner",
-      "rubrik": "Plaque med 1,35 mio. navne installeret på rumteleskop",
-      "resume_da": "NASA har installeret en mindeplade med 1.350.144 navne på Nancy Grace Roman-rumteleskopet, som skal opsendes i august 2026.",
-      "sektioner": [
-        {
-          "overskrift": "Mindepladen og navnene",
-          "tekst": "Plaquen hylder Dr. Nancy Grace Roman, NASA's første chef-astronom. Den indeholder et hukommelseskort med **1.350.144** navne fra hele verden, herunder astronauter fra Artemis II og III."
-        },
-        {
-          "overskrift": "Teleskopets mission",
-          "tekst": "Roman-teleskopet skal opsendes **30. august 2026**. Det kan blokere stjernelys for at se exoplaneter direkte og lave en folketælling af planetsystemer i vores galakse."
-        },
-        {
-          "overskrift": "Videnskabelige mål",
-          "tekst": "Teleskopet skal undersøge mørk energi, exoplaneter og infrarød astrofysik. Det skal besvare grundlæggende spørgsmål om universet."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1.350.144",
-          "label": "navne på hukommelseskort"
-        },
-        {
-          "tal": "30. august 2026",
-          "label": "planlagt opsendelsesdato"
-        }
-      ],
-      "detaljer": [
-        "Plaquen blev installeret den 28. juli 2026.",
-        "Dr. Nancy Grace Roman var NASA's første chef-astronom.",
-        "Navnene inkluderer astronauter fra Artemis II og III."
-      ],
-      "betydning": "Historien viser, hvordan almindelige mennesker kan blive en del af rumforskning. Teleskopet kan ændre vores forståelse af universet.",
-      "pointer": [
-        "NASA har installeret en mindeplade.",
-        "Plaquen indeholder 1,35 mio. navne.",
-        "Teleskopet opsendes i august 2026.",
-        "Det skal studere exoplaneter og mørk energi."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Rubicon ASCENT thruster moves from hot-fire testing to production",
-      "link": "https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production/",
-      "dato": "2026-08-04T15:48:20+00:00",
-      "kilde": "SpaceNews",
-      "resume": "SAN FRANCISCO – Rubicon Space Systems completed hot-fire testing of its Velox 5-newton ASCENT monopropellant thruster, paving the way for on-orbit operations in 2027. “The program demonstrated performance beyond our [&#8230;] The post Rubicon ASCENT thruster moves from hot-fire testing to production appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_1thruster_firing_resized.png?fit=879%2C623&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Rubicon fremrykker rumthruster til produktion",
-      "resume_da": "Rubicon Space Systems har afsluttet test af sin Velox 5-newton thruster. Den skal bruges i rummet i 2027.",
-      "sektioner": [
-        {
-          "overskrift": "Testen er færdig",
-          "tekst": "Rubicon Space Systems har gennemført hot-fire test af sin Velox 5-newton ASCENT thruster. Testen viste bedre resultater end forventet. Nu går de videre til produktion."
-        },
-        {
-          "overskrift": "Planlagt opsendelse",
-          "tekst": "Thrusteren skal bruges i rummet i 2027. Den skal bruges til at flytte satellitter i omløb."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "5-newton",
-          "label": "Thrusterens kraft"
-        },
-        {
-          "tal": "2027",
-          "label": "År for brug i rummet"
-        }
-      ],
-      "detaljer": [
-        "Testen blev kaldt hot-fire test, hvilket betyder, at thrusteren blev tændt under rigtige forhold.",
-        "Programmet demonstrerede ydeevne ud over forventningerne."
-      ],
-      "betydning": "For almindelige danskere betyder det, at fremtidige satellitter kan blive mere effektive til at manøvrere i rummet, hvilket kan forbedre kommunikation og vejrudsigt på Jorden.",
-      "pointer": [
-        "Hot-fire test er færdig.",
-        "Produktion er startet.",
-        "Brug i 2027."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Astronomers catch massive star's death from the first explosive moment",
-      "link": "https://phys.org/news/2026-08-astronomers-massive-star-death-explosive.html",
-      "dato": "2026-08-04T15:00:05+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "In March 2026, the Einstein Probe detected a brief flash of soft X-rays emitted from a galaxy about 500 million light-years away. The flash, dubbed EP260321a, immediately triggered a worldwide observing campaign. Within an hour, ground-based telescopes began monitoring the source, revealing a rapidly brightening supernova, later designated SN 2026gzf. Two teams of scientists used several NSF NOIRL",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-catch-mass-1.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Døende stjerne fanget fra første eksplosive øjeblik",
-      "resume_da": "I marts 2026 opdagede Einstein-probe et røntgenblink fra en supernova 500 millioner lysår væk. Et stort teleskopnetværk fulgte begivenheden fra starten.",
-      "sektioner": [
-        {
-          "overskrift": "Et blink i rummet",
-          "tekst": "I marts 2026 fangede Einstein-proben et kort røntgenblink fra en galakse omkring **500 millioner lysår** væk. Blinket fik navnet EP260321a og satte straks gang i en verdensomspændende observationskampagne."
-        },
-        {
-          "overskrift": "Hurtig opfølgning",
-          "tekst": "Inden for en time begyndte teleskoper på Jorden at følge kilden. De så en supernova, som hurtigt blev klarere. Den fik betegnelsen SN 2026gzf. To forskerhold brugte flere NSF NOIRLab-faciliteter til at overvåge begivenheden."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "500 millioner lysår",
-          "label": "Afstand til supernovaen"
-        }
-      ],
-      "detaljer": [
-        "Opdaget af Einstein-probe i marts 2026",
-        "Blinket blev kaldt EP260321a",
-        "Supernovaen fik navnet SN 2026gzf",
-        "To hold forskere observerede med NSF NOIRLab-faciliteter"
-      ],
-      "betydning": "Det viser, hvordan rumteleskoper og jordbaserede teleskoper kan samarbejde om at fange sjældne kosmiske begivenheder helt fra starten – og det kan lære os mere om, hvordan massive stjerner dør.",
-      "pointer": [
-        "Røntgenblink fra døende stjerne opdaget",
-        "Supernova fulgt fra første eksplosion",
-        "Internationalt samarbejde om observation",
-        "Nye indsigter i stjerners død"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Future of Crew Dragon weighs on commercial spaceflight industry",
-      "link": "https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry/",
-      "dato": "2026-08-04T12:14:03+00:00",
-      "kilde": "SpaceNews",
-      "resume": "While SpaceX says there is a “significant” amount of life left in its Crew Dragon fleet, the company has hedged on how long it will continue flying the spacecraft. The post Future of Crew Dragon weighs on commercial spaceflight industry appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/ax4crewdragon.jpeg?fit=1024%2C683&amp;ssl=1",
-      "billede_alt": "Ax-4 Crew Dragon",
-      "kategori": "Missioner",
-      "rubrik": "Crew Dragons fremtid bekymrer rumindustrien",
-      "resume_da": "SpaceX siger, at der er 'betydeligt' liv tilbage i Crew Dragon-rumskibene, men vil ikke love, hvor længe de flyver. Det bekymrer industrien.",
-      "sektioner": [
-        {
-          "overskrift": "SpaceX' forsigtige svar",
-          "tekst": "SpaceX siger, at der er 'betydeligt' liv tilbage i Crew Dragon-flåden. Men de vil ikke sige, hvor længe skibene faktisk vil flyve."
-        },
-        {
-          "overskrift": "Bekymring i industrien",
-          "tekst": "Usikkerheden vejer tungt på den kommercielle rumfartsindustri. Mange parter er afhængige af Crew Dragon til at transportere astronauter."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "SpaceX har ikke givet en konkret udfasningsdato for Crew Dragon.",
-        "Crew Dragon bruges til at sende astronauter til Den Internationale Rumstation."
-      ],
-      "betydning": "Crew Dragon er et af de vigtigste rumskibe lige nu. Hvis det stopper, kan det påvirke fremtidige rummissioner og forskning.",
-      "pointer": [
-        "SpaceX er vag om Crew Dragons levetid.",
-        "Industrien er bekymret.",
-        "Crew Dragon er vigtig for astronauttransport."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Asteroid Nysa's rare three-lobed structure challenges formation models",
-      "link": "https://phys.org/news/2026-08-asteroid-nysa-rare-lobed-formation.html",
-      "dato": "2026-08-04T12:00:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Named for the mythical valley where the god Dionysus was raised in secret by nymphs, the asteroid 44 Nysa inhabits the asteroid belt between Mars and Jupiter. Through observations by the Hubble Space Telescope, astronomers have determined it to be the largest and brightest known member of a rare category of asteroids called \"E-types,\" made of unusually bright, enstatite-rich material similar to so",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/asteroid-reveals-its-r.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Asteroide Nysa: Usædvanlig form udfordrer teorier",
-      "resume_da": "Hubble-teleskopet viser, at asteroiden 44 Nysa har tre lapper. Det udfordrer vores forståelse af, hvordan asteroider dannes.",
-      "sektioner": [
-        {
-          "overskrift": "En sjælden asteroide",
-          "tekst": "Asteroiden 44 Nysa ligger i asteroidebæltet mellem Mars og Jupiter. Den er den største og klareste kendte af en sjælden type kaldet E-type. Den er lavet af usædvanligt lyst materiale, der ligner nogle sjældne meteoritter på Jorden."
-        },
-        {
-          "overskrift": "Tre lapper opdaget",
-          "tekst": "Hubble-observationer viser, at Nysa har en usædvanlig form med tre lapper. Tidligere modeller baseret på lysvariationer antydede en aflang, skæv form. Men den nye opdagelse overrasker forskerne."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Nysa er opkaldt efter en dal i den græske mytologi.",
-        "Den befinder sig i asteroidebæltet.",
-        "Den er den største og klareste kendte E-type asteroide.",
-        "Materialet ligner sjældne meteoritter fundet på Jorden."
-      ],
-      "betydning": "Opdagelsen giver ny viden om asteroider og solsystemets historie. Det kan ændre vores forståelse af, hvordan planeter og asteroider dannes.",
-      "pointer": [
-        "Nysa er en sjælden E-type asteroide.",
-        "Hubble viser tre-lappet struktur.",
-        "Udfordrer dannelsesmodeller.",
-        "Ny viden om solsystemet."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "SpaceX’s new Starfall program offers validation and competition for reentry startups",
-      "link": "https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups/",
-      "dato": "2026-08-04T12:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Demand for microgravity research and manufacturing is brewing — perhaps literally. When SpaceX launched the first test flight of Starfall, its commercial reentry capsule, on June 23, the company did [&#8230;] The post SpaceX’s new Starfall program offers validation and competition for reentry startups appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/varda-w6.jpeg?fit=1024%2C768&amp;ssl=1",
-      "billede_alt": "The capsule from Varda Space Industries’ W-6 mission after landing the Koonibba Test Range in South Australia in May. Credit: Southern Launch",
-      "kategori": "Missioner",
-      "rubrik": "SpaceX's Starfall-kapsel: Ny konkurrent i rumkapløbet",
-      "resume_da": "SpaceX har sendt sin første Starfall-kapsel afsted. Den skal bringe forskning og produkter tilbage fra rummet. Det kan presse andre rumfartsselskaber.",
-      "sektioner": [
-        {
-          "overskrift": "Første Starfall-test",
-          "tekst": "Den 23. juni sendte SpaceX sin første Starfall-kapsel på en testflyvning. Kapslen er designet til at bringe ting tilbage fra rummet, for eksempel forskningseksperimenter. Det er en ny forretning for SpaceX."
-        },
-        {
-          "overskrift": "Konkurrence og anerkendelse",
-          "tekst": "Starfall-programmet giver validering til den kommercielle rumindustri. Men det er også konkurrence for andre selskaber, der laver samme slags kapsler. SpaceX er en stor spiller, så det kan ændre markedet."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "23. juni",
-          "label": "Dato for testflyvningen"
-        }
-      ],
-      "detaljer": [
-        "SpaceX lancerede den første testflyvning af Starfall den 23. juni.",
-        "Starfall er en kommerciel kapsel, der skal bringe materiale tilbage fra rummet.",
-        "Programmet skaber både validering og konkurrence for andre reentry-selskaber."
-      ],
-      "betydning": "For almindelige mennesker betyder det, at vi kan få mere forskning og produkter fra rummet. Konkurrence kan gøre det billigere og hurtigere.",
-      "pointer": [
-        "SpaceX tester ny kapsel.",
-        "Kapslen skal bringe ting tilbage fra rummet.",
-        "Programmet hedder Starfall.",
-        "Det er konkurrence til andre selskaber."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "I bought a $50 telescope on Facebook Marketplace — here's what I learned",
-      "link": "https://www.space.com/stargazing/skywatching-kit/i-bought-a-50-dollar-telescope-on-facebook-marketplace-heres-what-i-learned",
-      "dato": "2026-08-04T09:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "I bought a $50 telescope from Facebook Marketplace",
-      "billede": "https://cdn.mos.cms.futurecdn.net/EHnYiwLBmMAEnzNv2HZWyN-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Billigt køb på Facebook gav overraskende resultat",
-      "resume_da": "En erfaren amatørastronom købte et brugt teleskop for 50 dollars og lærte værdien af tålmodighed og enkelhed i astronomi.",
-      "sektioner": [
-        {
-          "overskrift": "Teleskopet fundet",
-          "tekst": "Astronomen Damian Peach fandt et brugt teleskop til **50 dollars** på Facebook Marketplace. Han besluttede at teste det for at se, hvad man kan få for pengene. Resultatet overraskede ham positivt."
-        },
-        {
-          "overskrift": "Læring fra købet",
-          "tekst": "Peach lærte, at et billigt teleskop kan give fine observationer, hvis man har tålmodighed. Han understreger, at udstyr ikke er det vigtigste – det er øjnene og interessen. Et lille teleskop kan være en god start for nybegyndere."
-        },
-        {
-          "overskrift": "Praktiske råd",
-          "tekst": "Peach råder andre til at købe brugt udstyr og starte småt. Han anbefaler at lære himlen at kende, før man investerer i dyrt grej. Et billigt teleskop kan give mange timers glæde."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "50 dollars",
-          "label": "Prisen på teleskopet"
-        }
-      ],
-      "detaljer": [
-        "Damian Peach er en prisbelønnet amatørastronom med over 30 års erfaring.",
-        "Hans billeder er brugt af NASA og ESA.",
-        "Asteroiden 27632 er opkaldt efter ham."
-      ],
-      "betydning": "Historien viser, at man ikke behøver dyrt udstyr for at dyrke astronomi. Det kan inspirere danskere til at undersøge himlen med et billigt teleskop derhjemme.",
-      "pointer": [
-        "Billigt udstyr kan give gode oplevelser.",
-        "Tålmodighed er vigtigere end dyre linser.",
-        "Brugt køb er en god måde at starte på.",
-        "Ekspert værdsætter enkelhed."
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "APOD: August 4, 2026 – Curious Cometary Knots in the Helix Nebula",
-      "link": "https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/",
-      "dato": "2026-08-04T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: August 4, 2026 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Curious Cometary Knots [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/01/STScI-01KCMAMZ8ZSMRTR9KKD8Y6EMRJ.png?w=11124&#038;h=8064&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A closeup of a small section of the Helix Nebula, an expanding shell of gas and dust. Thousands of orange and gold comet-like pillars stream upward from the bottom, like thin liquid blown up a sheet o",
-      "kategori": "Astronomi",
-      "rubrik": "Mystiske knuder i Helix-tågen fotograferet",
-      "resume_da": "James Webb-teleskopet har taget nye billeder af Helix-tågen. Billederne viser mærkelige knuder af gas og støv, som forskerne endnu ikke helt forstår.",
-      "sektioner": [
-        {
-          "overskrift": "Ny opdagelse gjort",
-          "tekst": "Forskere har opdaget knuder af gas og støv i planetariske tåger. De findes også i andre tåger som Ringtågen og Dumbbell-tågen. Deres oprindelse er stadig et mysterium."
-        },
-        {
-          "overskrift": "Billeder fra James Webb",
-          "tekst": "James Webb-teleskopet har taget et utroligt detaljeret billede af Helix-tågen i infrarødt lys. Knuderne har omtrent samme masse som Jorden, men er flere gange så store som Plutos bane. En teori er, at de er skabt af stjernevinde fra en central stjerne."
-        },
-        {
-          "overskrift": "Hvad er Helix-tågen?",
-          "tekst": "Helix-tågen er en planetarisk tåge, som opstår, når en stjerne som Solen når enden af sit liv. Den befinder sig omkring **650 lysår** væk i stjernebilledet Vandbæreren (Aquarius). Tågen er en af de nærmeste af slagsen."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "650 lysår",
-          "label": "Afstand til Helix-tågen"
-        }
-      ],
-      "detaljer": [
-        "Knuderne kaldes komære knuder på grund af deres form.",
-        "De findes i flere planetariske tåger, ikke kun Helix-tågen.",
-        "Knudernes masse ligner Jordens, men de er meget større.",
-        "Billedet er taget af James Webb-teleskopet i infrarødt lys."
-      ],
-      "betydning": "Det er vigtigt at forstå, hvordan stjerner som Solen ender deres liv. Det kan give os indsigt i vores egen sols fremtid. James Webb-teleskopet hjælper med at løse disse mysterier.",
-      "pointer": [
-        "Helix-tågen er en planetarisk tåge.",
-        "Nye billeder viser mærkelige knuder.",
-        "Knudernes oprindelse er ukendt.",
-        "Teleskopet James Webb tog billederne."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
-      "link": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/",
-      "dato": "2026-08-04T04:01:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "SAN FRANCISCO – Spanish startup Kreios Space announced plans Aug. 4 to conduct the first very low Earth orbit (VLEO) demonstration of its air-breathing electric propulsion (ABEP) in a Kongsberg [&#8230;] The post Kreios Space to fly VLEO demonstration in NanoAvionics bus appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_kreios-sede.jpg?fit=879%2C495&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Spansk firma tester lufttændende motor i lavt kredsløb",
-      "resume_da": "Kreios Space vil teste en ny type elektrisk fremdrift, der bruger luft fra jordens atmosfære som brændstof. Testen skal ske i et lavt kredsløb om Jorden i en satellit fra NanoAvionics.",
-      "sektioner": [
-        {
-          "overskrift": "Planen for testen",
-          "tekst": "Det spanske firma Kreios Space har annonceret, at de vil teste deres såkaldte luftåndende elektriske fremdrift i et meget lavt kredsløb om Jorden. Det sker i en satellit fra producenten NanoAvionics, som er ejet af norske Kongsberg."
-        },
-        {
-          "overskrift": "Teknologien bag",
-          "tekst": "Motoren bruger luft fra den tynde atmosfære i lav højde som brændstof. Det kan gøre satellitter mere effektive, fordi de ikke skal medbringe så meget brændstof. Det er første gang, teknologien skal demonstreres i rummet."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Kreios Space er et spansk firma.",
-        "Testen er planlagt til at finde sted i en meget lav jordkredsløb (VLEO).",
-        "Satellitten, der skal bruges, er fra NanoAvionics.",
-        "NanoAvionics er ejet af det norske firma Kongsberg.",
-        "Det er første demonstration af teknologien i rummet."
-      ],
-      "betydning": "Teknologien kan gøre satellitter lettere og billigere, fordi de ikke skal medbringe så meget brændstof. Det kan betyde bedre og billigere satellitter til fx internet og klimaovervågning.",
-      "pointer": [
-        "Spansk firma tester ny motor.",
-        "Motoren bruger luft som brændstof.",
-        "Testen sker i lavt kredsløb om Jorden.",
-        "Det er første gang i rummet."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Smoke Streams Across Eastern Washington",
-      "link": "https://science.nasa.gov/earth/earth-observatory/smoke-streams-across-eastern-washington/",
-      "dato": "2026-08-04T04:00:00+00:00",
-      "kilde": "NASA",
-      "resume": "Wildland fires in early August 2026 pushed air quality to unhealthy levels, destroyed hundreds of structures, and triggered mandatory evacuations in Spokane.",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-streams-across-eastern-washington/washingtonfires_tmo_20260802.jpg?w=1440&#038;h=960&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A wide plume of brown-gray smoke stretches across a satellite image spanning Washington, Idaho, Montana, and Canada.",
-      "kategori": "Politik & penge",
-      "rubrik": "Røg fra skovbrande kvæler det østlige Washington",
-      "resume_da": "Nye og igangværende skovbrande i det østlige Washington sender store mængder røg mod nordøst. Satellitbilleder viser omfanget, og luftkvaliteten er usund i flere områder.",
-      "sektioner": [
-        {
-          "overskrift": "Brande raser i øst",
-          "tekst": "Den 2. august 2026 optog NASA's Terra-satellit et billede af massive røgfaner fra flere skovbrande i det østlige Washington. Den største brand, Little Giant, havde brændt **38.500 acres** og var ikke under kontrol. Mindre brande nær Spokane havde også spredt sig hurtigt."
-        },
-        {
-          "overskrift": "Dårlig luftkvalitet",
-          "tekst": "Røgen fra brandene gav usund til meget usund luftkvalitet i dele af staten. I områder som Chelan, Leavenworth og Wenatchee blev beboere advaret om sundhedsrisici. Brandene havde også ødelagt eller beskadiget over **600 bygninger**."
-        },
-        {
-          "overskrift": "Rekordmange brande",
-          "tekst": "I 2026 er der brændt over **425.000 acres** i Washington på grund af mere end **1.000 brande**. Det er det højeste antal siden 2021. Tørke og ekstremt vejr har gjort vegetationen letantændelig."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "38.500 acres",
-          "label": "Little Giant brandens størrelse"
-        },
-        {
-          "tal": "600+",
-          "label": "Ødelagte eller beskadigede bygninger"
-        },
-        {
-          "tal": "425.000 acres",
-          "label": "Samlet brændt areal i år"
-        }
-      ],
-      "detaljer": [
-        "Brandene startede efter lynnedslag den 15. juli 2026.",
-        "Spokane-området havde brande, der brændte over 8.000 acres den 3. august.",
-        "National Weather Service udsendte en 'particularly dangerous situation' advarsel for første gang.",
-        "NASA's Disasters Program er aktiveret for at hjælpe med responsen."
-      ],
-      "betydning": "Røgen fra skovbrande kan påvirke vejret og luftkvaliteten i hele regionen. Det er vigtigt at følge med i, hvordan naturbrande ændrer sig i et varmere klima.",
-      "pointer": [
-        "Brande raser i det østlige Washington.",
-        "Røg giver usund luftkvalitet.",
-        "Mange bygninger er ødelagt.",
-        "Tørke har gjort området brandfarligt."
-      ],
-      "prio": 5
     }
   ]
 }
