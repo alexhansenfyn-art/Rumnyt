@@ -1,7 +1,88 @@
 {
-  "opdateret": "2026-08-09T23:05:23.064713+00:00",
+  "opdateret": "2026-08-10T05:11:18.102187+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "APOD: 2026 August 10 – Three Galaxy Pairs",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/",
+      "dato": "2026-08-10T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD APOD: 2026 August 10 – Three Galaxy Pairs Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Three3GalaxyPairs_Sampaio_2784.jpg?w=2784&#038;h=3436&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "Three galaxy pairs are arranged vertically in the same field of view..",
+      "kategori": "Astronomi",
+      "rubrik": "Tre galaksepar fra Centaurus-hoben",
+      "resume_da": "Billedet viser tre par galakser. To af dem kolliderer og vil måske smelte sammen om en milliard år.",
+      "sektioner": [
+        {
+          "overskrift": "Parrene på billedet",
+          "tekst": "På billedet ses tre par galakser fra Centaurus-hoben. Hvert par er forskelligt. Det øverste par er nok ikke i vekselvirkning lige nu."
+        },
+        {
+          "overskrift": "Mærkelig galakse",
+          "tekst": "Den øverste galakse med blå stribe hedder NGC 4650A. Den er en polarringgalakse. Den kan være resultatet af et tidligere kollision."
+        },
+        {
+          "overskrift": "Aktiv kollision",
+          "tekst": "De nederste to galakser, NGC 4622A og NGC 4622B, er aktivt i vekselvirkning. Om cirka en milliard år kan de blive til én galakse."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1 milliard år",
+          "label": "Tid til sammenlægning"
+        }
+      ],
+      "detaljer": [
+        "NGC 4650A er en polarringgalakse.",
+        "NGC 4650 er en spiralgalakse med stærk stangstruktur.",
+        "Alle galakser er sandsynligvis i Centaurus-hoben."
+      ],
+      "betydning": "Billedet viser, hvordan galakser kan vekselvirke og ændre sig. Det hjælper os med at forstå universets udvikling.",
+      "pointer": [
+        "Tre par galakser i billedet",
+        "To galakser interagerer aktivt",
+        "Fremtidig fusion mulig",
+        "Del af Centaurus-hoben"
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Katalyst Space makes progress in restoring control of Swift servicing spacecraft",
+      "link": "https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/",
+      "dato": "2026-08-10T00:55:19+00:00",
+      "kilde": "SpaceNews",
+      "resume": "The company that developed a spacecraft to boost the orbit of a NASA observatory says it is making progress in recovering from its own spacecraft’s problems. The post Katalyst Space makes progress in restoring control of Swift servicing spacecraft appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/link-solarpanel.jpeg?fit=1024%2C670&amp;ssl=1",
+      "billede_alt": "Link solar panel",
+      "kategori": "Missioner",
+      "rubrik": "Katalyst fremskridt med Swift-servicefartøj",
+      "resume_da": "Katalyst Space arbejder på at genvinde kontrollen over sit Swift-servicefartøj efter problemer. Fremskridt meldes.",
+      "sektioner": [
+        {
+          "overskrift": "Problemer med Swift",
+          "tekst": "Katalyst Space udviklede Swift til at løfte en NASA-satellits bane. Nu er der problemer med Swift selv, men man er ved at få kontrol over det igen."
+        },
+        {
+          "overskrift": "Fremgang i arbejdet",
+          "tekst": "Firmaet siger, at de gør fremskridt med at genoprette kontrollen. De arbejder fortsat på at løse udfordringerne."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Katalyst Space har udviklet et rumfartøj kaldet Swift.",
+        "Swift skal booste omløbsbanen for en NASA-satellit.",
+        "Katalyst arbejder på at genoprette kontrollen over Swift."
+      ],
+      "betydning": "For almindelige danskere er det et eksempel på, at rumfart er komplekst, og at selv avancerede rumfartøjer kan have problemer. Det viser også, at service og vedligehold i rummet er en voksende industri.",
+      "pointer": [
+        "Swift er et servicefartøj.",
+        "Der har været problemer med Swift.",
+        "Katalyst gør fremskridt.",
+        "NASA-satellitten venter på hjælp."
+      ],
+      "prio": 4
+    },
     {
       "titel": "Cosmic filaments help set first limits on dark matter's decay into gravitons",
       "link": "https://phys.org/news/2026-08-cosmic-filaments-limits-dark-decay.html",
@@ -4240,111 +4321,6 @@
         "Sker i denne uge."
       ],
       "prio": 6
-    },
-    {
-      "titel": "Launch Preview: Starlink, AST SpaceMobile, and Chinese missions fill launch manifest",
-      "link": "https://www.nasaspaceflight.com/2026/08/launch-preview-080326/",
-      "dato": "2026-08-03T21:24:28+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "The first full week of August is shaping up to be another busy period for&#8230; The post Launch Preview: Starlink, AST SpaceMobile, and Chinese missions fill launch manifest appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/IMG_1145-scaled.jpeg",
-      "billede_alt": "",
-      "kategori": "Opsendelser",
-      "rubrik": "Rumflyvninger i verdensrummet: Seks opsendelser på en uge",
-      "resume_da": "Fra 4. til 9. august er der seks opsendelser af raketter fra USA og Kina. SpaceX sender flere Starlink-satellitter og tre BlueBird-satellitter op.",
-      "sektioner": [
-        {
-          "overskrift": "Tre Falcon 9-opgaver",
-          "tekst": "SpaceX har tre Falcon 9-raketter klar. To af dem skal sætte Starlink-satellitter i kredsløb. Den tredje skal opsende tre BlueBird-satellitter, som kan give mobildækning til almindelige mobiler."
-        },
-        {
-          "overskrift": "Kinesiske raketter med ukendt last",
-          "tekst": "Kina sender tre raketter op: Chang Zheng 8A, Jielong 3 og Chang Zheng 7A. Lasten er ikke officielt bekræftet, men forventes at være satellitter til kinesiske bredbåndsnetværk."
-        },
-        {
-          "overskrift": "BlueBird-satellitter til mobilnet",
-          "tekst": "AST SpaceMobile sender tre BlueBird-satellitter op. De er designet til at forbinde almindelige 4G- og 5G-mobiler direkte med satellitter, så man kan få forbindelse uden for dækningsområdet."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "24",
-          "label": "Starlink-satellitter per opsendelse"
-        },
-        {
-          "tal": "13.500 kg",
-          "label": "Vægt af BlueBird-satellitterne"
-        },
-        {
-          "tal": "50,54 m",
-          "label": "Højde på Chang Zheng 8A"
-        }
-      ],
-      "detaljer": [
-        "SpaceX' Falcon 9-boostere genbruges, og B1063 flyver for 34. gang.",
-        "Jielong 3 er en havopsendt, faststofraket fra det Gule Hav.",
-        "BlueBird-satellitterne har meget store antenner, blandt de største i kommerciel rumfart.",
-        "Alle seks opsendelser sker i den første fulde uge af august."
-      ],
-      "betydning": "Flere opsendelser betyder mere internetdækning via satellit, hvilket kan hjælpe folk i landdistrikter og på havet. Det gør også rummet mere tilgængeligt.",
-      "pointer": [
-        "Seks raketopsendelser om ugen er mange.",
-        "SpaceX og Kina er de mest aktive.",
-        "Satellitter giver bedre internet.",
-        "Mobilforbindelse fra rummet er på vej."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "How to keep the Earth habitable when the sun dies",
-      "link": "https://phys.org/news/2026-08-earth-habitable-sun-dies.html",
-      "dato": "2026-08-03T20:40:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "In a billion years, the sun will start to run out of fuel and expand to become a red giant. Earth's oceans and atmosphere will be burned away, and Earth will likely be engulfed by the sun altogether. The sun will then shrink to a dim white dwarf, and all light and warmth in the solar system will diminish. In a hundred trillion years, the galaxy's ability to produce stars will be exhausted, and eve",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-to-keep-the-earth.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Sådan redder vi Jorden, når Solen dør",
-      "resume_da": "Om en milliard år udvider Solen sig og vil brænde Jorden af. Men med nogle konstruktioner kan vi skjule planeten og beboeligheden.",
-      "sektioner": [
-        {
-          "overskrift": "Solen bliver til rød kæmpe",
-          "tekst": "Om en milliard år begynder Solen at løbe tør for brændstof. Den udvider sig og bliver til en rød kæmpe. Jordens oceaner og atmosfære vil brænde væk. Jorden bliver sandsynligvis opslugt af Solen."
-        },
-        {
-          "overskrift": "Vejen til at overleve",
-          "tekst": "Men der er en måde, hvorpå livet kan undslippe denne skæbne. Vi behøver ikke forlade planeten. Vi skal bare bygge nogle beskyttelsesanordninger."
-        },
-        {
-          "overskrift": "Galaksens mørke slutning",
-          "tekst": "Efter Solen bliver en hvid dværg, bliver alt lys og varme mindre. Om hundrede billioner år kan galaksen ikke længere danne stjerner. Alt bliver mørkt."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1 milliard år",
-          "label": "til Solen udvider sig"
-        },
-        {
-          "tal": "100 billioner år",
-          "label": "til galaksen dør"
-        }
-      ],
-      "detaljer": [
-        "Solen bliver en rød kæmpe om en milliard år.",
-        "Jorden vil blive opslugt eller brændt væk.",
-        "Solen bliver til sidst en hvid dværg.",
-        "Galaksen kan ikke danne stjerner om 100 billioner år.",
-        "Vi kan overleve ved at bygge beskyttelsesanordninger uden at forlade Jorden."
-      ],
-      "betydning": "Det er vigtigt at forstå, at selvom det er meget langt ude i fremtiden, kan menneskeheden finde måder at overleve på. Det minder os om at tænke langsigtet om vores planets skæbne.",
-      "pointer": [
-        "Solen udvider sig om 1 milliard år.",
-        "Jorden brændes væk eller opsluges.",
-        "Løsningen kræver byggeri, ikke afrejse.",
-        "Galaksen dør om 100 billioner år."
-      ],
-      "prio": 3
     }
   ]
 }
