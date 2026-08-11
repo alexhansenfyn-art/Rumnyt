@@ -1,5 +1,5 @@
 {
-  "opdateret": "2026-08-11T17:33:33.765477+00:00",
+  "opdateret": "2026-08-11T20:12:06.282359+00:00",
   "antal": 100,
   "artikler": [
     {
@@ -516,6 +516,128 @@
         "Forskningen skal forberede mennesker til at bo og arbejde på Månen og Mars."
       ],
       "prio": 6
+    },
+    {
+      "titel": "SpaceX wants to put 1 million AI satellites in orbit. What would that do to Earth's climate?",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-put-1-million-ai-satellites-in-orbit-what-would-that-do-to-earths-climate",
+      "dato": "2026-08-11T13:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "Operating a million or more data centers in space would mean a massive increase in air pollution from rocket launches and concentrations of toxic ash from reentering satellites.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/Y2b9XP3PZ2w8rCDW9psmjS-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "SpaceX vil sende 1 million AI-satellitter i kredsløb",
+      "resume_da": "SpaceX har planer om at opsende en million AI-satellitter, hvilket kan påvirke Jordens klima og atmosfære.",
+      "sektioner": [
+        {
+          "overskrift": "Planen om 1 million satellitter",
+          "tekst": "SpaceX har store planer om at sende en million AI-satellitter i kredsløb om Jorden. Det vil være en kæmpe stigning i antallet af satellitter, da der i dag kun er omkring **8.000** aktive satellitter i kredsløb. En sådan udvidelse kan have konsekvenser for Jordens klima."
+        },
+        {
+          "overskrift": "Klimapåvirkning fra opsendelser",
+          "tekst": "Opsendelser af raketter udleder store mængder CO2 og andre stoffer i atmosfæren. Når man sender så mange satellitter op, vil det øge udledningen markant. Desuden kan satellitter, der vender tilbage i atmosfæren, efterlade partikler, der kan påvirke klimasystemet."
+        },
+        {
+          "overskrift": "Bekymringer om atmosfæren",
+          "tekst": "Forskere er bekymrede for, at de mange satellitter kan ændre sammensætningen af atmosfæren. Især kan aluminium fra satellitter, der brænder op, skabe et lag i stratosfæren, der kan have indflydelse på ozonlaget. Det er endnu uvist, hvor stor en effekt det vil have."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1 million",
+          "label": "Antal AI-satellitter, SpaceX ønsker at sende op"
+        },
+        {
+          "tal": "8.000",
+          "label": "Aktive satellitter i kredsløb i dag"
+        }
+      ],
+      "detaljer": [
+        "SpaceX vil opsende en million AI-satellitter.",
+        "Det kan påvirke Jordens klima og atmosfære.",
+        "Opsendelser udleder CO2 og andre stoffer.",
+        "Satellitter, der brænder op, kan efterlade partikler."
+      ],
+      "betydning": "Det er vigtigt at følge med i, fordi det kan have konsekvenser for vores klima og atmosfære, som vi alle er afhængige af.",
+      "pointer": [
+        "SpaceX planlægger en million satellitter.",
+        "Det kan øge udledningen i atmosfæren.",
+        "Satellitter kan påvirke ozonlaget.",
+        "Forskere er bekymrede for konsekvenserne."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Rare Total Solar Eclipse-Perseid Meteor Shower Double-Header August 12th",
+      "link": "https://skyandtelescope.org/astronomy-news/rare-total-solar-eclipse-perseid-meteor-shower-double-header-on-august-12th/",
+      "dato": "2026-08-11T12:40:00+00:00",
+      "kilde": "Sky & Telescope",
+      "resume": "The only total solar eclipse of the year coincides with the Perseid meteor shower. Here's what you need to know to watch the eclipse. The post Rare Total Solar Eclipse-Perseid Meteor Shower Double-Header August 12th appeared first on Sky &amp; Telescope .",
+      "billede": null,
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Total solformørkelse og Perseider samme dag",
+      "resume_da": "Årets eneste totale solformørkelse falder samme dag som Perseidernes meteorsværm. Et sjældent dobbeltfænomen på himlen.",
+      "sektioner": [
+        {
+          "overskrift": "Sjældent dobbeltfænomen",
+          "tekst": "Den 12. august kan man opleve både en total solformørkelse og Perseidernes meteorsværm. Det sker kun sjældent, at de to fænomener falder sammen. Solformørkelsen er årets eneste totale."
+        },
+        {
+          "overskrift": "Sådan ser du med",
+          "tekst": "For at se solformørkelsen skal man have særlige briller. Meteorerne er nemmere at se med det blotte øje. Husk at beskytte øjnene, hvis du kigger mod solen."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Datoen er 12. august.",
+        "Det er årets eneste totale solformørkelse.",
+        "Perseiderne er en årlig meteorsværm."
+      ],
+      "betydning": "Det er en sjælden chance for at opleve to spektakulære himmelfænomener på samme dag. Selvom man måske ikke kan se det fra Danmark, er det en god anledning til at interessere sig for astronomi.",
+      "pointer": [
+        "Dato: 12. august",
+        "Total solformørkelse",
+        "Perseidernes meteorsværm",
+        "Husk øjenbeskyttelse"
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "BlackSky wins seven-figure, multiyear international contract",
+      "link": "https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract/",
+      "dato": "2026-08-11T12:30:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "SAN FRANCISCO &#8212; BlackSky announced Aug. 11 a seven-figure, multiyear contract to provide an international customer with persistent space-based monitoring and assured and on-demand satellite tasking. Prior to the award, [&#8230;] The post BlackSky wins seven-figure, multiyear international contract appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_blacksky_gen-3_farnborough_international_airshow_20260720.png?fit=879%2C494&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Satellitter",
+      "rubrik": "BlackSky får international kontrakt",
+      "resume_da": "BlackSky har fået en flerårig kontrakt i syv cifre på at levere løbende rumovervågning til en international kunde.",
+      "sektioner": [
+        {
+          "overskrift": "Kontraktens indhold",
+          "tekst": "Kontrakten inkluderer løbende overvågning fra rummet samt satellitopgaver, der kan udløses efter behov. Kunden er international, men ikke navngivet."
+        },
+        {
+          "overskrift": "Værdi og varighed",
+          "tekst": "Kontrakten er i syv cifre og løber over flere år. Det er en betydelig aftale for BlackSky, som specialiserer sig i jordobservation."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Kontrakten er flerårig og i syv cifre.",
+        "Kunden er international.",
+        "Tjenesten omfatter løbende overvågning og sikret, on-demand satellitopgaver."
+      ],
+      "betydning": "Det viser, at efterspørgslen på kommerciel rumovervågning vokser og har betydning for forsvar og sikkerhed.",
+      "pointer": [
+        "BlackSky får stor kontrakt.",
+        "International kunde.",
+        "Løbende overvågning fra rummet.",
+        "On-demand satellitopgaver."
+      ],
+      "prio": 5
     },
     {
       "titel": "Why Golden Dome Demands a Reimagined and Revitalized Industrial Base",
@@ -4189,145 +4311,6 @@
         "Det er et nyt værktøj til at forstå universet."
       ],
       "prio": 6
-    },
-    {
-      "titel": "NASA’s IXPE May Have Proven 90-Year-Old Theory",
-      "link": "https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/",
-      "dato": "2026-08-05T18:49:14+00:00",
-      "kilde": "NASA",
-      "resume": "A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature. Fast facts Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E […]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/ixpe/IXPEMagnetarArtistsConcept_Web.png?w=5250&#038;h=4500&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "An illustration of a bright blue, glowing neutron star against a black, starry background. Thin blue rings representing magnetic field lines loop around the star. A bright blue beam shoots diagonally ",
-      "kategori": "Forskning",
-      "rubrik": "NASA-måling kan bevise 90 år gammel teori om tomt rum",
-      "resume_da": "Med rumteleskopet IXPE har forskere målt lys fra en magnetar. Målingerne tyder på, at tomt rum kan ændre lysets retning – en teori fra 1936 er nu tæt på at blive bevist.",
-      "sektioner": [
-        {
-          "overskrift": "En magnetar observeret",
-          "tekst": "Magnetarer er neutronstjerner med ekstremt stærke magnetfelter – trillioner gange stærkere end Jordens. Forskere brugte NASA's IXPE-teleskop i over **140 timer** til at observere magnetaren 1E 1547-5408 fra marts til april 2025."
-        },
-        {
-          "overskrift": "Overraskende polarisering",
-          "tekst": "Lyset fra magnetaren viste en polarisering næsten **tre gange** højere end set i lignende kilder. Det kunne ikke forklares med kendte modeller, så noget andet måtte være på spil."
-        },
-        {
-          "overskrift": "Teorien om vakuum dobbeltbrydning",
-          "tekst": "Teorien, fremsat i 1936, siger at ekstreme magnetfelter kan ændre tomt rums egenskaber, så lys bliver filtreret. Målingerne og computersimulationer understøtter nu, at denne effekt er observeret for første gang."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "140 timer",
-          "label": "Observationstid med IXPE"
-        },
-        {
-          "tal": "2 sekunder",
-          "label": "Rotationstid for magnetaren"
-        },
-        {
-          "tal": "3 gange",
-          "label": "Højere polarisering observeret"
-        }
-      ],
-      "detaljer": [
-        "Målingerne blev lavet med IXPE, NICER og et radioteleskop i Australien.",
-        "Magnetaren 1E 1547-5408 roterer hurtigt og udsender både radio- og røntgenlys.",
-        "Resultaterne er offentliggjort i det videnskabelige tidsskrift Nature.",
-        "Teorien om vakuum dobbeltbrydning er fremsat i 1936 og bygger på kvanteelektrodynamik."
-      ],
-      "betydning": "Forskningen viser, at selv tomt rum ikke er helt tomt, når der er ekstreme kræfter på spil. Det øger vores forståelse af universets grundlæggende fysik og kan have betydning for fremtidige teknologier.",
-      "pointer": [
-        "Stærke magnetfelter kan ændre lysets polarisering.",
-        "Målingerne er fra en magnetar, en type neutronstjerne.",
-        "Teorien er 90 år gammel, men nu er der beviser.",
-        "Forskere skal observere flere magnetarer for at bekræfte resultatet."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Astronomers catch 'Hatchling' quasar breaking out of its dusty cocoon",
-      "link": "https://phys.org/news/2026-08-astronomers-hatchling-quasar-dusty-cocoon.html",
-      "dato": "2026-08-05T18:20:04+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Using observations from multiple powerful telescopes, a team of astronomers studied a red quasar nicknamed \"the Hatchling\" at redshift 3.7. They may have identified one of the clearest examples yet of a quasar caught in transition between a heavily obscured and fully exposed phase.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-catch-a-yo.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Astronomer fanger kvazar i forvandling",
-      "resume_da": "En nyfød kvazar, 'Hatchling', er fanget i overgangen fra at være skjult til at skinne frit. Observationer viser et tydeligt billede af denne sjældne fase.",
-      "sektioner": [
-        {
-          "overskrift": "Genstand for studiet",
-          "tekst": "Forskere brugte flere kraftige teleskoper til at studere en rød kvazar, kaldet 'Hatchling'. Den befinder sig meget langt væk, med en rødforskydning på 3,7. Det betyder, at vi ser den, som den var for milliarder af år siden."
-        },
-        {
-          "overskrift": "En sjælden overgangsfase",
-          "tekst": "Holdet mener, at de har fundet et af de klareste eksempler på en kvazar, der er fanget under overgangen fra at være skjult i støv til at være fuldt synlig. Den type kvazar er meget sjælden at observere."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "3,7",
-          "label": "Rødforskydning, viser afstand"
-        }
-      ],
-      "detaljer": [
-        "Kvazaren kaldes 'Hatchling' på grund af dens unge og transformative fase.",
-        "Observationerne kommer fra flere kraftige teleskoper.",
-        "Den er i overgang fra en støvskjult til en fuldt synlig tilstand."
-      ],
-      "betydning": "At forstå kvazarers udvikling hjælper forskere med at lære om galaksers og universets tidlige historie. Det kan give indsigt i, hvordan sorte huller vokser.",
-      "pointer": [
-        "Nyfødt kvazar observeret i overgangsfase.",
-        "Kaldet 'Hatchling' på grund af dets unge fase.",
-        "Befinder sig ved rødforskydning 3,7.",
-        "Sjældent klart eksempel på denne type overgang."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Artemis III Orion Crew and Service Models Joined",
-      "link": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/",
-      "dato": "2026-08-05T17:27:18+00:00",
-      "kilde": "NASA",
-      "resume": "Technicians joined the Orion crew and service modules together on July 30, 2026, inside the Neil Armstrong Operations and Checkout Building at NASA&#8217;s Kennedy Space Center in Florida. The crew module will carry and sustain NASA astronauts Randy Bresnik, Andre Douglas, and Frank Rubio, and ESA (European Space Agency) astronaut Luca Parmitano, while the service [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260730-ph-as01-6583.webp?w=1536",
-      "billede_alt": "The Orion crew and service modules for Artemis III inside a large building with walkways and safety railings. Written on the floor in the foreground are the words &quot;forklift prohibited.&quot;",
-      "kategori": "Missioner",
-      "rubrik": "Artemis III: Orion-kapsel samlet til Måne-mission",
-      "resume_da": "Technikere har samlet Orion-kapslen og servicemodulet til Artemis III-missionen, som skal teste docking med månelandere.",
-      "sektioner": [
-        {
-          "overskrift": "Kapslen er samlet",
-          "tekst": "Den 30. juli 2026 samlede teknikere Orion-kapslen og servicemodulet i Florida. Kapslen skal transportere astronauter, mens servicemodulet sørger for strøm og fremdrift."
-        },
-        {
-          "overskrift": "Astronauterne om bord",
-          "tekst": "Nasa-astronauterne Randy Bresnik, Andre Douglas og Frank Rubio samt ESA-astronaut Luca Parmitano skal flyve med. De skal blandt andet øve at docke med kommercielle månelandere fra Blue Origin og SpaceX."
-        },
-        {
-          "overskrift": "Vigtig milepæl",
-          "tekst": "Samlingen er en vigtig milepæl for Artemis III-missionen. Den bringer os et skridt nærmere månelanding."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "30. juli 2026",
-          "label": "Dato for samling"
-        }
-      ],
-      "detaljer": [
-        "Samlingen skete i Neil Armstrong Operations and Checkout Building ved Kennedy Space Center i Florida.",
-        "Missionen skal teste rendezvous og docking med testmodeller af landingsfartøjer fra Blue Origin og SpaceX."
-      ],
-      "betydning": "Artemis III er en del af NASAs plan om at bringe mennesker tilbage til Månen. Det kan bane vej for fremtidige opdagelser og teknologisk udvikling.",
-      "pointer": [
-        "Orion-kapsel og servicemodul samlet i Florida.",
-        "Fire astronauter skal med på Artemis III.",
-        "Docking med månelandere skal testes.",
-        "Vigtig milepæl for månelanding."
-      ],
-      "prio": 7
     }
   ]
 }
