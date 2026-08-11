@@ -1,7 +1,522 @@
 {
-  "opdateret": "2026-08-11T12:29:54.581828+00:00",
+  "opdateret": "2026-08-11T17:33:33.765477+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Twisted magnetic field around newborn star confirms decades-old jet theory",
+      "link": "https://phys.org/news/2026-08-magnetic-field-newborn-star-decades.html",
+      "dato": "2026-08-11T17:20:07+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA), of which the U.S. National Science Foundation National Radio Astronomy Observatory (NSF NRAO) is a partner, have captured the first direct, high-resolution images of a magnetic field wrapped tightly around the outflow of gas streaming away from a forming star—evidence that solves a decades-old puzzle about how young stars s",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/twisted-physics-astron.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Ny opdagelse: Magnetfelt styrer stjerners jetstrømme",
+      "resume_da": "Astronomer har for første gang set et magnetfelt snoet omkring den gasstrøm, der dannes omkring en nyfødt stjerne. Det bekræfter en 40 år gammel teori om, hvordan unge stjerner skaber deres jetstrømme.",
+      "sektioner": [
+        {
+          "overskrift": "Første direkte billeder",
+          "tekst": "Ved hjælp af ALMA-teleskopet har forskere for første gang taget direkte, højopløselige billeder af et magnetfelt, der er viklet tæt omkring en gasstrøm fra en stjerne under dannelse. Observationen løser et årtier gammelt mysterium om, hvordan unge stjerner skaber deres kraftige jetstrømme."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Observationerne blev gjort med ALMA-teleskopet i Chile.",
+        "Billederne viser et magnetfelt, der er viklet omkring udstrømningen af gas.",
+        "Det bekræfter en teori, der er ældre end 40 år.",
+        "Forskningen er et samarbejde med NSF NRAO."
+      ],
+      "betydning": "Det hjælper os med at forstå, hvordan stjerner og planeter dannes, og dermed hvordan vores eget solsystem opstod.",
+      "pointer": [
+        "Første direkte billeder af magnetfelt omkring gasstrøm.",
+        "Bekræfter 40-årig teori",
+        "Giver ny viden om stjernedannelse"
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Lion Nebula Roars in Webb’s Sights",
+      "link": "https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights/",
+      "dato": "2026-08-11T17:02:49+00:00",
+      "kilde": "NASA",
+      "resume": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. The nebula&#8217;s &#8220;mane&#8221; is clear and detailed in this image released on Aug. 10, 2026, due to Webb&#8217;s high-resolution imaging. See more images of the Lion Nebula from Webb. Image: NASA, ESA, [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/stsci-01kx6d0xbhsyp7q1em5qtc43rp.png?w=2048",
+      "billede_alt": "JWST’s Near Infrared Camera and Mid Infrared Instrument combined image of planetary nebula NGC 2392, the Lion Nebula, against the black background of space. The nebula is at center, circular in shape,",
+      "kategori": "Astronomi",
+      "rubrik": "James Webb fotograferer Løvenebulosen",
+      "resume_da": "James Webb-teleskopet har taget nye billeder af planetarisk tåge NGC 2392, kaldet Løvenebulosen, viser klare detaljer af dens manke.",
+      "sektioner": [
+        {
+          "overskrift": "Nye billeder af Løvenebulosen",
+          "tekst": "James Webb-teleskopet har taget nye billeder af planetarisk tåge NGC 2392, også kaldet Løvenebulosen. Billedet er taget med instrumenterne NIRCam og MIRI. Det viser tågens struktur i høj opløsning."
+        },
+        {
+          "overskrift": "Stjerneresten skaber strukturen",
+          "tekst": "Den centrale stjernes rester er ansvarlige for tågens struktur. Den har skabt en boble formet som et løveansigt med en manke af gas og støv. Tågen er ioniseret gas og støv."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "Aug. 10, 2026",
+          "label": "dato for offentliggørelse"
+        }
+      ],
+      "detaljer": [
+        "Billedet er taget med NIRCam og MIRI instrumenter.",
+        "Tågen kaldes også NGC 2392.",
+        "Billedet er behandlet af Alyssa Pagan."
+      ],
+      "betydning": "Det viser hvordan stjerner dør og skaber smukke strukturer, og James Webb kan se detaljer, vi ikke har set før.",
+      "pointer": [
+        "James Webb tog billeder i høj opløsning.",
+        "Tågen ligner et løveansigt.",
+        "Billedet blev offentliggjort 10. august.",
+        "Gas og støv danner manke."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Webb reveals oxygen-rich dust and water surviving near Milky Way's central black hole",
+      "link": "https://phys.org/news/2026-08-webb-reveals-oxygen-rich-surviving.html",
+      "dato": "2026-08-11T17:00:02+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers has discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the center of the Milky Way galaxy. The observations reveal that the evolved star IRS 3 continues to enrich its surroundings with newly formed material despite the intense radiation environment around Sa",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/webb-reveals-dust-and-1.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Webb finder støv og vand tæt på Mælkevejens sorte hul",
+      "resume_da": "Med James Webb-teleskopet har forskere opdaget, at støv og vand kan dannes og overleve meget tæt på det supermassive sorte hul i Mælkevejens centrum.",
+      "sektioner": [
+        {
+          "overskrift": "Overraskende fund",
+          "tekst": "Stjernen IRS 3 beriger stadig sine omgivelser med nyt materiale. Det sker trods den intense stråling tæt på Sagittarius A*."
+        },
+        {
+          "overskrift": "Tæt på det sorte hul",
+          "tekst": "Observationerne viser, at støv og vand kan dannes og overleve tættere på det sorte hul end hidtil troet. Det giver ny viden om forholdene i galaksens centrum."
+        },
+        {
+          "overskrift": "Betydning for forståelsen",
+          "tekst": "Fundet kan ændre forskernes forståelse af, hvor og hvordan stjerner og planeter kan opstå. Det viser, at selv ekstreme miljøer kan rumme livets byggesten."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "James Webb Space Telescope er et samarbejde mellem NASA, ESA og CSA.",
+        "Det sorte hul i Mælkevejens centrum kaldes Sagittarius A*.",
+        "Den udviklede stjerne IRS 3 er kilden til det nye støv og vand."
+      ],
+      "betydning": "For almindelige danskere viser det, at rumforskning hele tiden udvider vores viden om universet og livets byggesten, også selv i de mest ekstreme miljøer.",
+      "pointer": [
+        "Webb-teleskopet observerede støv og vand tæt på det sorte hul.",
+        "Stjernen IRS 3 leverer materialet trods hård stråling.",
+        "Fundet overrasker forskerne og ændrer forståelsen.",
+        "Viser at livets byggesten kan opstå mange steder."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "NASA will chase the Aug. 12 total solar eclipse with balloons and a high-altitude jet",
+      "link": "https://www.space.com/stargazing/solar-eclipses/nasa-will-chase-the-aug-12-total-solar-eclipse-with-balloons-and-a-high-altitude-jet",
+      "dato": "2026-08-11T16:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "\"Scientists can study the sun's corona in a way we can't from anywhere else in the solar system.\"",
+      "billede": "https://cdn.mos.cms.futurecdn.net/L7Y9cgR3RY6VU2vsUsqSv7-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "NASA jager solformørkelse med jet og balloner",
+      "resume_da": "Den 12. august vil NASA følge en total solformørkelse med højtflyvende jetfly og balloner for at studere solens atmosfære.",
+      "sektioner": [
+        {
+          "overskrift": "Jetfly og balloner",
+          "tekst": "NASA vil bruge et højtflyvende jetfly og flere balloner til at observere solformørkelsen. Jetflyet flyver højt for at undgå skyer og få et bedre billede. Ballonerne sender billeder ned til jorden i realtid."
+        },
+        {
+          "overskrift": "Hvad skal de studere?",
+          "tekst": "Forskerne vil især studere solens korona, som er solens ydre atmosfære. Den er normalt for lys til at se, men under en formørkelse bliver den synlig. De vil også undersøge, hvordan lyset påvirker jordens atmosfære."
+        },
+        {
+          "overskrift": "Hvordan foregår det?",
+          "tekst": "Jetflyet vil flyve i skyggen af månen for at forlænge observationstiden. Ballonerne slippes fra forskellige steder i USA. Dataene bliver samlet og analyseret bagefter for at lære mere om solen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. august",
+          "label": "Dato for formørkelsen"
+        }
+      ],
+      "detaljer": [
+        "NASA deltager aktivt i at observere formørkelsen.",
+        "Formørkelsen er total, hvilket betyder at månen helt dækker solen.",
+        "Jetflyet flyver i en højde hvor skyer ikke er et problem.",
+        "Ballonerne giver mulighed for at filme formørkelsen fra højden."
+      ],
+      "betydning": "Det giver os ny viden om solen, som er vigtig for at forstå vejr og klima på jorden. Desuden er det flot og spændende at følge med i sådan et astronomisk fænomen.",
+      "pointer": [
+        "NASA sender jetfly op for at følge solformørkelsen.",
+        "Balloner filmer formørkelsen fra stratosfæren.",
+        "Forskningen kan give nye indsigter i solens korona."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula",
+      "link": "https://science.nasa.gov/missions/chandra/nasa-telescopes-create-colorful-craft-from-nearby-nebula/",
+      "dato": "2026-08-11T15:19:15+00:00",
+      "kilde": "NASA",
+      "resume": "Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic “craft” reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula. Located in the Large Magellanic Cloud, a small neighbor galaxy […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/30dor_crop.jpg?w=8249&#038;h=7282&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "This multiwavelength image of the Tarantula Nebula, one of the brightest and largest regions of star formation to Earth, shows X-rays from Chandra that reveal gas that has been blown away in winds fro",
+      "kategori": "Astronomi",
+      "rubrik": "Nye NASA-billeder afslører Tarantula-tågens hemmeligheder",
+      "resume_da": "NASA har kombineret data fra tre rumteleskoper til et farverigt billede af Tarantula-tågen. Det viser, at tågen mister mere energi end forventet.",
+      "sektioner": [
+        {
+          "overskrift": "Et farverigt billede",
+          "tekst": "NASA har lavet et nyt billede af stjernedannelsesområdet 30 Doradus, også kaldet Tarantula-tågen. Billedet kombinerer røntgendata fra Chandra-teleskopet, infrarøde data fra James Webb og optiske data fra Hubble."
+        },
+        {
+          "overskrift": "Tågen mister energi",
+          "tekst": "Forskere blev overraskede over, at der er meget mindre røntgenlysende gas end forventet. De fandt ud af, at tågen mister energi gennem tre mekanismer: varm gas lækker ud, kold og varm gas blandes, og varme ledes væk ved direkte kontakt."
+        },
+        {
+          "overskrift": "Tre teleskoper i samarbejde",
+          "tekst": "Ved at kombinere data fra Chandra, Hubble og Webb kunne forskerne se detaljer, som ingen af teleskoperne kunne vise alene. Det blå i billedet er røntgenstråling, det røde er infrarød stråling, og det grønne er optisk lys."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "160.000 lysår",
+          "label": "Afstand fra Jorden"
+        },
+        {
+          "tal": "3",
+          "label": "Antal teleskoper i billedet"
+        }
+      ],
+      "detaljer": [
+        "Billedet er lavet af data fra Chandra, James Webb og Hubble-teleskoperne.",
+        "Tarantula-tågen ligger i Den Store Magellanske Sky.",
+        "Tågen indeholder tusindvis af unge stjerner.",
+        "Den varme gas kan nå temperaturer på millioner af grader.",
+        "Halvdelen af den varme gas lækker ud gennem skaller af gas og støv."
+      ],
+      "betydning": "Denne opdagelse hjælper forskere med at forstå, hvordan stjerner og galakser udvikler sig. Det viser, hvordan energien fra massive stjerner påvirker deres omgivelser, hvilket er vigtigt for at forstå universets historie.",
+      "pointer": [
+        "NASA har lavet et nyt billede af Tarantula-tågen.",
+        "Billedet kombinerer data fra tre teleskoper.",
+        "Tågen mister mere energi end forventet.",
+        "Forskerne har fundet tre årsager til energitabet."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "What history can teach us about the future of property rights in space (op-ed)",
+      "link": "https://www.space.com/space-exploration/what-history-can-teach-us-about-the-future-of-property-rights-in-space-op-ed",
+      "dato": "2026-08-11T15:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "Without property rights in space, one of the most important economic incentives for the commercial development — and ultimately the settlement — of celestial bodies is missing.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/gSbSdisEFG8AZZ2kTdJGBV-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Kan vi eje ejendom i rummet? Historien giver svar",
+      "resume_da": "En historiker ser på, hvordan ejendomsret har udviklet sig gennem tiden og giver perspektiv på fremtidens regler for ejendom i rummet.",
+      "sektioner": [
+        {
+          "overskrift": "Historie og ejendomsret",
+          "tekst": "Rainer Zitelmann, der er historiker og sociolog, mener, at vi kan lære af fortidens udvikling af ejendomsret. Han har skrevet mange bøger om kapitalisme og fattigdom. Historien viser ifølge ham, hvordan regler for ejerskab har ændret sig."
+        },
+        {
+          "overskrift": "Lektioner til rummet",
+          "tekst": "Zitelmann bruger erfaringer fra jorden til at pege på, hvordan ejendomsret i rummet kan blive til. Han argumenterer for, at klare regler er vigtige for investeringer og udvikling. Uden sikker ejendomsret kan der opstå konflikter."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Artiklen er en kommentar skrevet af Rainer Zitelmann.",
+        "Zitelmann har doktorgrader i historie og sociologi.",
+        "Han har skrevet 32 bøger og bidraget til mange medier."
+      ],
+      "betydning": "For almindelige danskere er debatten om ejendomsret i rummet relevant, fordi den kan påvirke fremtidige investeringer, konkurrence og muligheder i rumindustrien.",
+      "pointer": [
+        "Historien kan hjælpe os med at forstå ejendomsret i rummet.",
+        "Klare regler er nødvendige for at undgå konflikter.",
+        "Ejendomsret er vigtig for investeringer.",
+        "Artiklen er et debatindlæg fra en kendt forfatter."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026",
+      "link": "https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026/",
+      "dato": "2026-08-11T14:58:05+00:00",
+      "kilde": "SpaceNews",
+      "resume": "FOR IMMEDIATE RELEASE ISTO Space Systems MOSA Interface Standards Alliance Announces Industry Webinar: “MOSA Interoperability Standards for Space Systems” August 26, 2026 &#124; 9:00 AM – 1:00 PM PDT / [&#8230;] The post Webinar on MOSA Interoperability Standards for Space Systems &#8211; August 26, 2026 appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/mosa-logo.png?fit=190%2C190&amp;ssl=1",
+      "billede_alt": "MOSA logo square",
+      "kategori": "Forskning",
+      "rubrik": "Webinar om MOSA-standarder for rumfart",
+      "resume_da": "Den 26. august 2026 afholder ISTO Space Systems et webinar om MOSA-interoperabilitetsstandarder for rumfart. Webinaret er gratis.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er MOSA?",
+          "tekst": "MOSA står for Modular Open Systems Approach. Det er en måde at designe systemer på, så dele kan udskiftes og opgraderes nemt. Det gælder også for rumfart."
+        },
+        {
+          "overskrift": "Webinarets indhold",
+          "tekst": "Webinaret hedder “MOSA Interoperability Standards for Space Systems”. Det finder sted den 26. august fra kl. **9:00 til 13:00** (PDT – en tidszone i USA). Det er et industrievent, så det henvender sig til folk i rumfartsbranchen."
+        },
+        {
+          "overskrift": "Praktisk information",
+          "tekst": "Webinaret er arrangeret af ISTO Space Systems. Det er gratis at deltage. Mere information kan findes på SpaceNews."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "26. august 2026",
+          "label": "Startdato for webinar"
+        },
+        {
+          "tal": "9:00-13:00",
+          "label": "Tidsrum (PDT)"
+        }
+      ],
+      "detaljer": [
+        "Arrangør: ISTO Space Systems MOSA Interface Standards Alliance",
+        "Webinar om MOSA-interoperabilitetsstandarder",
+        "Gratis at deltage",
+        "Varighed: 4 timer"
+      ],
+      "betydning": "MOSA-standarder kan gøre rumfart mere fleksibel og billigere. Danske virksomheder og forskere kan få indblik i fremtidens standarder.",
+      "pointer": [
+        "Fokus på åbne standarder",
+        "Kun for branchen",
+        "Gratis webinar",
+        "Kort varighed"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "TechnoMile’s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List",
+      "link": "https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list/",
+      "dato": "2026-08-11T14:53:22+00:00",
+      "kilde": "SpaceNews",
+      "resume": "TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, today announced it has been ranked No. 4,268 on the 2026 Inc. 5000 list, the annual list [&#8230;] The post TechnoMile’s Five-Year Sustained Growth Recognized with Place on the 2026 Inc. 5000 List appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/technomile.png?fit=1024%2C1024&amp;ssl=1",
+      "billede_alt": "technomile loog square",
+      "kategori": "Politik & penge",
+      "rubrik": "Dansk rumfart firma på Inc. 5000-liste",
+      "resume_da": "TechnoMile, et it-firma med AI-løsninger, er blevet nr. 4.268 på Inc. 5000-listen for 2026. Det er første gang, firmaet er med på listen.",
+      "sektioner": [
+        {
+          "overskrift": "Inc. 5000 anerkendelse",
+          "tekst": "TechnoMile er rangeret som nr. 4.268 på Inc. 5000-listen for 2026. Listen anerkender de hurtigst voksende private virksomheder i USA. Ifølge firmaet viser placeringen en vedvarende vækst over fem år."
+        },
+        {
+          "overskrift": "Hvad TechnoMile laver",
+          "tekst": "TechnoMile udvikler en AI-løsning, der samler arbejdsgange for vækst, kontrakter, overholdelse og sikkerhed. Det hjælper virksomheder med at administrere komplekse processer mere effektivt. Firmaet henvender sig blandt andet til rumfartsindustrien."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "4.268",
+          "label": "Placering på Inc. 5000-listen"
+        },
+        {
+          "tal": "5 år",
+          "label": "Vedvarende vækstperiode"
+        }
+      ],
+      "detaljer": [
+        "TechnoMile blev grundlagt for at levere AI-løsninger til virksomheder.",
+        "Det er firmaets første optræden på Inc. 5000-listen.",
+        "Løsningen fokuserer på at forene vækst, kontrakter, compliance og sikkerhed."
+      ],
+      "betydning": "Selvom det er et it-firma, viser det, at rumfartsindustrien trækker på avanceret teknologi. Det kan betyde flere arbejdspladser og innovation, som også kan påvirke danske virksomheder og samarbejdspartnere.",
+      "pointer": [
+        "TechnoMile er nr. 4.268 på Inc. 5000.",
+        "Vokset støt i fem år.",
+        "AI-løsning til kontrakter og sikkerhed.",
+        "Første gang på listen."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "The telescope that points itself",
+      "link": "https://phys.org/news/2026-08-telescope.html",
+      "dato": "2026-08-11T14:40:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "I'll admit to using AI for things it was probably never designed for. When my van threw a fault I couldn't immediately figure out—one that seems notorious for trips back and forth to a repair shop—I ended up in a long (but cheaper) back-and-forth with an AI system, working through the symptoms. The same happened with a run of gutters and with stud framing in my house. It isn't magic, and perhaps m",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-telescope-that-poi.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Teleskop der peger sig selv – banebrydende eller hype?",
+      "resume_da": "Et nyt teleskop kan selv finde og pege mod stjernerne. Det kan gøre astronomi lettere for alle.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad kan teleskopet?",
+          "tekst": "Teleskopet er designet til at pege sig selv mod himlen uden menneskelig hjælp. Det betyder, at selv uerfarne kan bruge det til at observere stjerner og planeter. Teknologien kan gøre astronomi mere tilgængelig."
+        },
+        {
+          "overskrift": "Hvem står bag?",
+          "tekst": "Historien er fra Phys.org, et anerkendt nyhedssite om videnskab. Artiklen er skrevet af en person, der selv bruger AI til at løse hverdagsproblemer. Det giver et interessant perspektiv på den nye teknologi."
+        },
+        {
+          "overskrift": "Hvorfor er det vigtigt?",
+          "tekst": "Hvis teleskopet virker, kan det ændre måden, vi lærer om rummet på. Det kan give flere lyst til at kigge op mod stjernerne. Men vi skal være opmærksomme på, om teknologien er pålidelig."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Teleskopet kan pege sig selv mod nattehimlen.",
+        "Det kan gøre astronomi lettere for begyndere.",
+        "Artiklen nævner, at AI kan bruges til at løse tekniske problemer."
+      ],
+      "betydning": "For almindelige danskere kan det betyde, at man nemmere kan komme i gang med at observere stjernerne derhjemme. Det kan også gøre astronomi mere attraktivt for unge.",
+      "pointer": [
+        "Nyt teleskop med selvstyringsteknologi.",
+        "Målrettet mod begyndere og hobbyfolk.",
+        "Kan øge interessen for astronomi.",
+        "Teknologien skal dog testes grundigt."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "SpaceX increasing footprint in missile defense",
+      "link": "https://spacenews.com/spacex-increasing-footprint-in-missile-defense/",
+      "dato": "2026-08-11T14:34:01+00:00",
+      "kilde": "SpaceNews",
+      "resume": "With multibillion-dollar awards for satellite networks, sensing and launch services, SpaceX is leveraging its vertically integrated manufacturing model to win a share of the Pentagon's missile defense business The post SpaceX increasing footprint in missile defense appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/260716-X-X0813-1001-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "SpaceX vokser i missilforsvar",
+      "resume_da": "SpaceX vinder store Pentagon-kontrakter på satellitter og opsendelser til missilforsvar takket være sin effektive produktion.",
+      "sektioner": [
+        {
+          "overskrift": "Store kontrakter til SpaceX",
+          "tekst": "SpaceX har vundet kontrakter for flere milliarder dollars på satellitnetværk, sensorer og opsendelser. Det sker gennem Pentagon, USA's forsvarsministerium. SpaceX's egen produktion gør det billigere og hurtigere."
+        },
+        {
+          "overskrift": "Raketter og satellitter",
+          "tekst": "Firmaet bruger sine egne raketter til at sende satellitter op. De satellitter skal hjælpe med at opdage og spore missiler. Det styrker USA's forsvar mod angreb."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "flere milliarder dollars",
+          "label": "Kontraktværdi i alt"
+        }
+      ],
+      "detaljer": [
+        "SpaceX vinder opgaver til missilforsvar",
+        "Kontrakter dækker satellitter, sensorer og opsendelser",
+        "Vertikal integration giver fordel"
+      ],
+      "betydning": "Det viser, at private firmaer som SpaceX spiller en større rolle i militær teknologi. Det kan påvirke både rumindustri og sikkerhed.",
+      "pointer": [
+        "SpaceX får milliardkontrakter",
+        "Skal bygge satellitter til missilforsvar",
+        "Egen produktion giver fordel",
+        "Vigtigt for Pentagon"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Building the Moon Base: NASA Stories at the Ion",
+      "link": "https://www.nasa.gov/missions/moon-base/building-the-moon-base-nasa-stories-at-the-ion/",
+      "dato": "2026-08-11T14:16:45+00:00",
+      "kilde": "NASA",
+      "resume": "As NASA&#160;prepares&#160;to return astronauts to the lunar surface&#160;for&#160;longer stays and increasingly complex operations, building&#160;the&#160;Moon Base&#160;will require&#160;new&#160;ideas, advanced technologies, and&#160;expertise&#160;across many fields.&#160; During NASA Stories at the Ion on July 30,&#160;Shatel Bhakta, principal systems engineer for NASA’s Moon Base&#160;Progra",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/dsc03215-e1786419412406.jpg?w=1536",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "NASA: Månebase kræver nye løsninger uden for Apollo-stierne",
+      "resume_da": "NASA vil bygge en base ved Månens sydpol. Ekspert fortæller om udfordringer med støv, mørke og kommunikation – og om at samarbejde bredt.",
+      "sektioner": [
+        {
+          "overskrift": "NASA vil bygge månebase",
+          "tekst": "NASA arbejder på at sende astronauter til Månens sydpol for længere ophold. Programmet hedder Moon Base. Det sker trin for trin med robotmissioner og teknologitests først."
+        },
+        {
+          "overskrift": "Udfordringer ved sydpolen",
+          "tekst": "Sydpolen har stejle skråninger og dybe kratere. Solen står lavt, så skygger ændrer sig og solpaneler mister lys. Der er også områder, der altid er mørke, og hvor der kan være vand-is."
+        },
+        {
+          "overskrift": "Månestøv er et problem",
+          "tekst": "Månestøv er skarpt og klistret. Det kan skade udstyr og være sundhedsskadeligt for astronauter. Månestøv opfører sig forskelligt afhængigt af lys og miljø, og det skal undersøges nærmere."
+        },
+        {
+          "overskrift": "Mange kan bidrage",
+          "tekst": "Byggeriet af månebasen kræver flere end ingeniører og forskere. Kommunikatører, forretningsfolk og andre faggrupper er også nødvendige. Der er åbne muligheder for industri og internationale partnere."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Arrangementet fandt sted i Houston den 30. juli 2026.",
+        "Shatel Bhakta er ledende systemingeniør for NASAs Moon Base-program.",
+        "NASA samarbejder med Rice University og Ion om foredragsrækken.",
+        "NASA har en side med information om åbne udbud: www.nasa.gov/moonbase-solicitations."
+      ],
+      "betydning": "Månebasen kan bane vej for fremtidige missioner til Mars. Og det skaber muligheder for virksomheder og forskere i hele verden, også i Danmark.",
+      "pointer": [
+        "NASA vil bygge base på Månens sydpol.",
+        "Månestøv og mørke er store udfordringer.",
+        "Robotteknologi og tests kommer først.",
+        "Mange faggrupper kan bidrage."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "NASA Shares Station Research Today Supporting Moon, Mars Tomorrow",
+      "link": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/",
+      "dato": "2026-08-11T14:00:00+00:00",
+      "kilde": "NASA",
+      "resume": "The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay the groundwork for missions to the Moon and beyond. NASA’s Artemis II mission in April was the first crewed flight around the Moon in more than 50 years, [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/e4d-timelapse-sophieadenot.mp4",
+      "billede_alt": "Four astronauts (Chris Williams, Jack Hathaway, Sophie Adenot, and Jessica Meir) gather for a selfie inside the International Space Station&#039;s cupola, with Earth visible through the large windows ",
+      "kategori": "Forskning",
+      "rubrik": "ISS-forskning baner vej til Månen og Mars",
+      "resume_da": "I 2026 udfører astronauter på den Internationale Rumstation eksperimenter med motion, medicin, robotter og trivsel. Forskningen skal forberede mennesker på lange rejser til Månen og Mars.",
+      "sektioner": [
+        {
+          "overskrift": "Nye teknologier testes",
+          "tekst": "Astronauter tester et kompakt motionsudstyr kaldet E4D, der kan simulere forskellige gravitationsniveauer. De afprøver også et system til at lave intravenøs væske af vand om bord, fordi væsker har kort holdbarhed. Robotter som TUSK undersøges for at frigøre astronauternes tid."
+        },
+        {
+          "overskrift": "Kroppen i rummet",
+          "tekst": "Forskere studerer ændringer i blodgennemstrømning og hjertets funktion med en smart skjorte. De undersøger også meditation for at modvirke stress og søvnproblemer, når man er isoleret."
+        },
+        {
+          "overskrift": "Forberedelse til fremtiden",
+          "tekst": "Forsøgene om bord på rumstationen skal forbedre design af fremtidige rumfartøjer til dybe rummissioner. Målet er at sikre astronauternes sundhed og sikkerhed på ture til Månen og Mars."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1-1,5 %",
+          "label": "Tab af knoglemasse pr. måned i rummet"
+        },
+        {
+          "tal": "16 måneder",
+          "label": "Holdbarhed for intravenøse væsker"
+        }
+      ],
+      "detaljer": [
+        "Artemis II-missionen i april var første bemandede flyvning om Månen i over 50 år.",
+        "E4D-udstyret kan måske gøre motionsteknologi mere kompakt.",
+        "Blodprop-risiko undersøges i eksperimentet Venous Haemostasis."
+      ],
+      "betydning": "Forskningen på rumstationen hjælper med at udvikle teknologi og viden, der kan bruges til fremtidige måne- og Marsmissioner. Det kan også føre til bedre medicinsk udstyr og motionsteknologi, som kan komme os alle til gode på Jorden.",
+      "pointer": [
+        "E4D-motionsudstyr kan simulere tyngdekraft og er testet på ISS.",
+        "IVGEN Mini laver IV-væske af vand, så man ikke behøver at sende det fra Jorden.",
+        "Meditation undersøges for at hjælpe astronauter med stress og søvn.",
+        "Forskningen skal forberede mennesker til at bo og arbejde på Månen og Mars."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Why Golden Dome Demands a Reimagined and Revitalized Industrial Base",
       "link": "https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/",
@@ -3813,505 +4328,6 @@
         "Vigtig milepæl for månelanding."
       ],
       "prio": 7
-    },
-    {
-      "titel": "Capella, Iceye and Umbra win NRO radar-data contracts",
-      "link": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/",
-      "dato": "2026-08-05T17:05:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "SAN FRANCISCO – The National Reconnaissance Office has awarded contracts to Capella Space, Iceye U.S. and Umbra to expand the U.S. government’s use of commercial synthetic aperture radar (SAR). The [&#8230;] The post Capella, Iceye and Umbra win NRO radar-data contracts appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_gen4_iceye_us.jpg?fit=879%2C623&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "NRO giver kontrakter til tre SAR-firmaer",
-      "resume_da": "Det amerikanske efterretningsagentur NRO har hyret Capella, Iceye og Umbra til at levere radarbilleder fra rummet.",
-      "sektioner": [
-        {
-          "overskrift": "Tre firmaer valgt",
-          "tekst": "NRO har givet kontrakter til Capella Space, Iceye U.S. og Umbra. De skal udvide statens brug af kommerciel radar-satellitteknologi (SAR)."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Kontrakterne kommer fra National Reconnaissance Office (NRO).",
-        "De tre firmaer arbejder med syntetisk blænde-radar (SAR)."
-      ],
-      "betydning": "Det viser, at rumdata bliver vigtigere for efterretningstjenester. Det kan øge kvaliteten af overvågning fra rummet.",
-      "pointer": [
-        "NRO hyrer tre rumfirmaer.",
-        "De skal levere radarbilleder.",
-        "Teknologien kaldes SAR.",
-        "Målet er at styrke statens data."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "SpaceX aims to use rockets to quickly transport cargo across the Earth and into orbit",
-      "link": "https://phys.org/news/2026-08-spacex-aims-rockets-quickly-cargo.html",
-      "dato": "2026-08-05T17:00:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "You might think of rockets as powerful vehicles that blast astronaut crews and robotic missions into space. But what if they could be used to send cargo from one side of Earth to the other in a fraction of the time it would take a plane? The company SpaceX recently announced a project that aims to use its rockets to do just that.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2018/rocket.jpg",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "SpaceX vil bruge raketter til hurtig last på Jorden",
-      "resume_da": "SpaceX vil bruge raketter til at flytte last rundt på Jorden på under en time, og samtidig sende den i kredsløb.",
-      "sektioner": [
-        {
-          "overskrift": "Raketter til jordtransport",
-          "tekst": "SpaceX har annonceret et projekt, der skal bruge raketter til at fragte gods fra et sted på Jorden til et andet på under en time. Det er meget hurtigere end fly, der tager flere timer. Raketterne vil også kunne sende lasten videre ud i kredsløb om Jorden."
-        },
-        {
-          "overskrift": "En vision for fremtiden",
-          "tekst": "Projektet er stadig på idéstadiet, og der er ingen konkrete planer eller tidsplan endnu. Men SpaceX ser et stort potentiale i at kombinere hurtig transport på Jorden med adgang til rummet. Virksomheden har tidligere haft succes med at genbruge raketter, hvilket kan gøre det økonomisk muligt."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "SpaceX har annonceret et projekt, der bruger raketter til at flytte last på Jorden.",
-        "Raketterne skal kunne transportere last på under en time.",
-        "Projektet er stadig på idéstadiet."
-      ],
-      "betydning": "Det kan gøre global transport ekstremt hurtig og åbne nye muligheder for kommerciel udnyttelse af rummet.",
-      "pointer": [
-        "Raketter til jordtransport på under en time.",
-        "Kombinerer jordtransport og kredsløb.",
-        "Projektet er på idéstadiet."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "NASA’s Perseverance Captures Phobos and Earth",
-      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/",
-      "dato": "2026-08-05T15:28:03+00:00",
-      "kilde": "NASA",
-      "resume": "Description This composite of seven images from the Mastcam-Z instrument aboard NASA’s Perseverance Mars rover shows Earth, visible as a small bright dot moving from upper left to lower right, passing behind the Martian moon Phobos on July 2, 2026, 1,907th Martian day, or sol, of the mission. The black background is the result of […]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26758/PIA26758.png?w=1535&#038;h=333&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A grainy black image showing a horizontal sequence of seven faint crescent shapes evenly spaced from left to right. A tiny bright white dot moves diagonally from the upper left to the lower right, app",
-      "kategori": "Forskning",
-      "rubrik": "Perseverance fanger Phobos og Jorden fra Mars",
-      "resume_da": "NASAs Mars-rover Perseverance har fanget Jorden passere bag Mars' måne Phobos i juli 2026. Optagelsen er lavet med Mastcam-Z-kameraet.",
-      "sektioner": [
-        {
-          "overskrift": "Optagelsen",
-          "tekst": "Den 2. juli 2026 tog Perseverance syv billeder med Mastcam-Z-kameraet. De viser Jorden som en lille lys prik, der bevæger sig bag Phobos. Baggrunden er gjort sort for at fremhæve detaljer."
-        },
-        {
-          "overskrift": "Billederne",
-          "tekst": "Figur A er et sammensat billede af ni optagelser fra samme dag. Indsættelsen øverst til højre viser Jorden passere bag Phobos. Billederne blev taget omkring 40 minutter efter solnedgang i Mars' tusmørke."
-        },
-        {
-          "overskrift": "Roverens mission",
-          "tekst": "Perseverance blev bygget af NASAs Jet Propulsion Laboratory og ledes af Caltech. Mastcam-Z-instrumentet drives af Arizona State University i samarbejde med Malin Space Science Systems."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2. juli 2026",
-          "label": "Dato for optagelsen"
-        },
-        {
-          "tal": "1.907",
-          "label": "Marsdag under missionen"
-        },
-        {
-          "tal": "40 minutter",
-          "label": "Efter solnedgang"
-        }
-      ],
-      "detaljer": [
-        "Roveren Perseverance befinder sig på Mars.",
-        "Optagelsen består af syv billeder.",
-        "Figur A viser ni billeder med annoteringer.",
-        "Mastcam-Z er et kamerainstrument."
-      ],
-      "betydning": "Det er sjældent, at vi ser Jorden og en måne fra en anden planet. Det kan hjælpe forskere med at forstå Mars' himmel og vejr.",
-      "pointer": [
-        "Perseverance tog billeder af Jorden bag Phobos.",
-        "Billederne viser Mars' tusmørkehimlen.",
-        "Optagelsen fandt sted i juli 2026."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon",
-      "link": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/",
-      "dato": "2026-08-05T15:25:27+00:00",
-      "kilde": "NASA",
-      "resume": "Earth and the Martian moon Phobos dance together in a series of images recently acquired by NASA’s Perseverance Mars rover. Earth appears as a point of light in the Martian sky, disappearing behind the crescent of Phobos, the larger of Mars’ two moons. This is the first time humanity has captured from the surface of [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/1-pia26758-figure-a-inset-16x9-1.jpg?w=1024",
-      "billede_alt": "A desolate landscape with a dark horizon sits under a hazy, gray-blue sky. A large rectangular inset in the sky, connected by lines to a smaller rectangle, shows a sequence of five faint crescent shap",
-      "kategori": "Missioner",
-      "rubrik": "Rumsonde ser Jorden forsvinde bag Mars-måne",
-      "resume_da": "NASAs Perseverance-rover har for første gang fra Mars' overflade observeret Jorden passere bag Mars-månen Phobos. Optagelserne blev taget den 2. juli 2026.",
-      "sektioner": [
-        {
-          "overskrift": "Enestående observation",
-          "tekst": "Roverens Mastcam-Z-kamera filmede Jorden som en lys prik, der forsvandt bag Phobos' mørke kant. Det er første gang, mennesker har set dette fra en anden planets overflade. Optagelsen krævede planlægning og held."
-        },
-        {
-          "overskrift": "Phobos og Jorden",
-          "tekst": "Phobos er Mars' største måne, omkring **27 kilometer** bred, og kredser kun **7.800 kilometer** over Mars. Jorden var **314 millioner kilometer** væk, da roveren tog billederne."
-        },
-        {
-          "overskrift": "Hvad er en okkultation?",
-          "tekst": "Når et objekt helt skjuler et andet, kalder astronomer det en okkultation. Det er forskelligt fra en solformørkelse, hvor objekter har samme størrelse på himlen. Perseverance har også set Phobos passere foran Solen."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "27 km",
-          "label": "Phobos' bredde"
-        },
-        {
-          "tal": "7.800 km",
-          "label": "Afstand til Mars"
-        },
-        {
-          "tal": "314 mio. km",
-          "label": "Afstand til Jorden"
-        }
-      ],
-      "detaljer": [
-        "Billederne blev taget den 2. juli 2026, på missionens 1907. Mars-dag.",
-        "Optagelserne er en komposit af ni billeder.",
-        "Phobos kredser om Mars tre gange om dagen.",
-        "Roveren står på kanten af Jezero-krateret."
-      ],
-      "betydning": "Det er en historisk milepæl, der viser Jorden fra et andet perspektiv. Det understreger, hvor teknologisk avanceret rumforskning er, og kan inspirere til interesse for Mars og rummet.",
-      "pointer": [
-        "Første observation af Jorden forsvinde bag et objekt fra en anden planet.",
-        "Optaget af Perseverance-roveren på Mars den 2. juli 2026.",
-        "Phobos er en lille, kartoffelformet måne tæt på Mars.",
-        "Jorden var 314 millioner kilometer væk."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Inouye Solar Telescope Sees the Sun Closer Than Ever",
-      "link": "https://skyandtelescope.org/astronomy-news/inouye-solar-telescope-sees-the-sun-closer-than-ever/",
-      "dato": "2026-08-05T15:01:00+00:00",
-      "kilde": "Sky & Telescope",
-      "resume": "Scientists observing the Sun with the Daniel K. Inouye Solar Telescope have caught a wave-like shape that's never been seen on the Sun's visible surface. The post Inouye Solar Telescope Sees the Sun Closer Than Ever appeared first on Sky &amp; Telescope .",
-      "billede": null,
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Nyt teleskop ser ukendt bølgeform på Solen",
-      "resume_da": "Forskere har med det nye Inouye-teleskop observeret en bølgeform på Solens overflade, som aldrig er set før.",
-      "sektioner": [
-        {
-          "overskrift": "Opdagelsen",
-          "tekst": "Med Daniel K. Inouye Solteleskop har forskere set en bølgeform på Solens synlige overflade. Den er aldrig set før. Opdagelsen giver ny viden om Solen."
-        },
-        {
-          "overskrift": "Teleskopets betydning",
-          "tekst": "Teleskopet er det største af sin slags og kan se Solen meget tæt på. Det giver forskerne mulighed for at se detaljer, som tidligere var skjult."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Bølgeformen er observeret på Solens synlige overflade.",
-        "Den er aldrig set før.",
-        "Teleskopet er opkaldt efter Daniel K. Inouye."
-      ],
-      "betydning": "Det giver ny indsigt i Solens aktivitet, som kan påvirke vejr og kommunikation på Jorden.",
-      "pointer": [
-        "Ny bølgeform set på Solen",
-        "Observeret med Inouye-teleskopet",
-        "Aldrig set før",
-        "Giver ny viden om Solen"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Finding room in Starlink’s shadow",
-      "link": "https://spacenews.com/finding-room-in-starlinks-shadow/",
-      "dato": "2026-08-05T15:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Another wave of constellations has staked claims for communications satellites in non-geostationary orbit (NGSO), but what hope do newcomers have alongside the industry’s entrenched, vertically integrated giants? A mix of [&#8230;] The post Finding room in Starlink’s shadow appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Starlink-Mobile.jpg?fit=1024%2C576&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Nye satellitkonstellationer i Starlinks skygge",
-      "resume_da": "Flere virksomheder vil opsende kommunikationssatellitter i lavt kredsløb, men de kæmper mod giganter som Starlink. Kan de finde plads?",
-      "sektioner": [
-        {
-          "overskrift": "Nye aktører på banen",
-          "tekst": "En ny bølge af satellitkonstellationer har meldt sig i kapløbet om plads i lavt kredsløb. De håber at kunne tilbyde kommunikationstjenester fra rummet. Men de står over for store udfordringer."
-        },
-        {
-          "overskrift": "Vilkårene for nytilkomne",
-          "tekst": "De etablerede selskaber har enorme fordele. De har mange satellitter i kredsløb og har fuld kontrol over deres systemer. Det gør det svært for nye firmaer at konkurrere på pris og dækning."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Artiklen beskriver en ny bølge af konstellationer i non-geostationær kredsløb (NGSO).",
-        "Nytilkomne står over for vertikalt integrerede giganter som Starlink.",
-        "Artiklen diskuterer mulighederne for nytilkomne i satellitindustrien."
-      ],
-      "betydning": "Det er vigtigt for danskerne, fordi mere konkurrence i rummet kan give bedre og billigere internetforbindelser i fremtiden.",
-      "pointer": [
-        "Nye satellitfirmaer udfordrer Starlink.",
-        "Giganterne har store fordele.",
-        "Spørgsmålet er, om der er plads til flere."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Advanced Mini-laboratories Automate Space Station Research",
-      "link": "https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research/",
-      "dato": "2026-08-05T14:00:00+00:00",
-      "kilde": "NASA",
-      "resume": "The International Space Station hosts hundreds of science experiments at a time. Some experiments can take hours to perform, and researchers need to account for astronauts’ limited time. Fully automated devices, like Redwire’s &#160;ADvanced Space Experiment Processors (ADSEPs), have been designed to conduct more space science with less crew time. Within each ADSEP facility there [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2024/08/iss071e486706.jpg?w=1536",
-      "billede_alt": "NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson swaps out sample processors for the Pharmaceutical In-space Laboratory experiment that is exploring the production and manufacturing of ",
-      "kategori": "Forskning",
-      "rubrik": "Minilaboratorier på rumstationen",
-      "resume_da": "Fuldautomatiske minilaboratorier på ISS udfører mange eksperimenter med minimal astronauttid, bl.a. dyrkning af krystaller til medicin.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er ADSEP?",
-          "tekst": "ADSEP er automatiserede laboratorier på Rumstationen. De har plads til tre-fire små mini-laboratorier, kaldet kassetter. Det betyder, at flere forsøg kan køre samtidig uden at tage meget af astronauternes tid."
-        },
-        {
-          "overskrift": "Krystaller til medicin",
-          "tekst": "Flere forsøg handler om at dyrke krystaller i vægtløs tilstand. Krystallerne kan bruges til at lave ny medicin eller forbedre eksisterende behandlinger. Et forsøg arbejder på at lave medicin mod kræft, der kan tages som pille."
-        },
-        {
-          "overskrift": "Andre eksperimenter",
-          "tekst": "ADSEP bruges også til at studere dyr og celler. I 2021 undersøgte man blæksprutter og deres samspil med bakterier. Resultaterne kan hjælpe astronauter og give viden om lukkede økosystemer."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "3-4",
-          "label": "Kassetter per ADSEP-enhed"
-        },
-        {
-          "tal": "to dusin",
-          "label": "Forsøg siden 2017"
-        },
-        {
-          "tal": "2021",
-          "label": "År for blæksprutteforsøg"
-        }
-      ],
-      "detaljer": [
-        "ADSEP-4 har plads til fire kassetter og kan tage billeder.",
-        "ADSEP-10 krystalliserer molekyler mod kræft.",
-        "ADSEP-15 forbedrer kræftmedicin.",
-        "ADSEP-ICC tester større kassetter til kommerciel produktion.",
-        "ADSEP-UMAMI viste, at mikrober kan reducere stress hos dyr i rummet."
-      ],
-      "betydning": "Forskningen kan føre til bedre medicin mod kræft og andre sygdomme her på Jorden. Den giver også viden, der kan hjælpe astronauter på lange rumrejser.",
-      "pointer": [
-        "Automatisering sparer astronauttid.",
-        "Krystaller dyrket i rummet kan forbedre medicin.",
-        "Forskning omfatter kræft og mikrober.",
-        "Resultater gavner livet på Jorden."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Venus's polygonal plains could point to a watery past",
-      "link": "https://phys.org/news/2026-08-venus-polygonal-plains-watery.html",
-      "dato": "2026-08-05T12:00:09+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Venus may be overwhelmingly inhospitable today, but many planetary scientists believe that it wasn't always this way. Billions of years ago, some observational evidence suggested that our planetary neighbor may have looked far more like Earth, complete with oceans potentially capable of harboring life.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/surface-features-could-1.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Venus' mønstre kan afsløre fortidens have",
-      "resume_da": "Forskere mener, at Venus for milliarder af år siden kan have haft oceaner. Nye mønstre på planetens overflade understøtter denne teori.",
-      "sektioner": [
-        {
-          "overskrift": "Fortidens Venus",
-          "tekst": "Venus er i dag et helt ugæstfrit sted. Men forskere tror, at planeten engang lignede Jorden meget mere. Måske havde den endda oceaner, hvor der kunne være liv."
-        },
-        {
-          "overskrift": "Mønstre i terrænet",
-          "tekst": "Nye observationer viser polygonale mønstre på Venus' overflade. Disse mønstre kan være tegn på, at der engang var vand. Forskere undersøger nu, hvad disse mønstre betyder."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Venus er i dag meget ugæstfri.",
-        "Nogle forskere mener, at Venus for milliarder af år siden lignede Jorden.",
-        "Observationer tyder på, at Venus kan have haft oceaner.",
-        "Polygonale mønstre på overfladen kan være spor fra fortidens vand."
-      ],
-      "betydning": "Forskning i Venus' fortid kan hjælpe os med at forstå, hvordan planeter udvikler sig, og om liv kan opstå andre steder.",
-      "pointer": [
-        "Venus var måske engang som Jorden.",
-        "Oceaner kan have været til stede.",
-        "Mønstre i terrænet giver nye spor.",
-        "Forskere er spændte på at lære mere."
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "Satellite manufacturing thrives in California despite cost and regulatory pressures",
-      "link": "https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures/",
-      "dato": "2026-08-05T12:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "The mood was celebratory at the ribbon-cutting for Muon Space’s San Jose, California, manufacturing facility in June. State, local, United States Space Force and Pentagon representatives lauded the startup and, [&#8230;] The post Satellite manufacturing thrives in California despite cost and regulatory pressures appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Vast-Gavin-Newsom-010.jpg?fit=1024%2C683&amp;ssl=1",
-      "billede_alt": "California Gov. Gavin Newsom visited Vast Space headquarters in early June with Long Beach Mayor Rex Richardson. From left: Vast CEO Max Haot, Newsom, Vast chief operating officer Kris Young and Richa",
-      "kategori": "Politik & penge",
-      "rubrik": "Kalifornien trives med satellitproduktion trods pres",
-      "resume_da": "Satellitproduktion i Californien er stadig stærk, selv med høje omkostninger og regler. Virksomheder som Muon Space udvider deres faciliteter og skaber arbejdspladser.",
-      "sektioner": [
-        {
-          "overskrift": "Muon Space udvider",
-          "tekst": "Muon Space åbnede en ny fabrik i San Jose med festligheder i juni. Både lokale og føderale repræsentanter roste virksomheden. Fabrikken viser, at satellitindustrien vokser i Californien."
-        },
-        {
-          "overskrift": "Pres på trods af succes",
-          "tekst": "Selvom Californien er et godt sted for satellitproduktion, er der udfordringer. Høje omkostninger og mange regler presser virksomhederne. Alligevel lykkes det dem at trives."
-        },
-        {
-          "overskrift": "Fremtidens rumindustri",
-          "tekst": "Med nye faciliteter og støtte fra myndigheder ser fremtiden lys ud for rumindustrien i Californien. Det skaber arbejdspladser og innovation i staten."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Muon Space har en fabrik i San Jose, Californien.",
-        "Ribbon-cutting fandt sted i juni med deltagelse af lokale og føderale repræsentanter.",
-        "Californien har stadig problemer med omkostninger og reguleringer."
-      ],
-      "betydning": "Artiklen er relevant, fordi den viser, hvordan rumindustrien påvirkes af økonomiske og politiske forhold. Det kan have betydning for danske virksomheder, der samarbejder med USA.",
-      "pointer": [
-        "Satellitproduktion trives i Californien.",
-        "Muon Space åbner ny fabrik i San Jose.",
-        "Omkostninger og reguleringer er udfordringer.",
-        "Myndigheder støtter industrien."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Heading to Europe or the U.K. for the Aug. 12 solar eclipse? Best eclipse glasses to buy before you leave — or after you arrive",
-      "link": "https://www.space.com/stargazing/skywatching-kit/heading-to-europe-or-the-u-k-for-the-aug-12-solar-eclipse-best-eclipse-glasses-to-buy-before-you-leave-or-after-you-arrive",
-      "dato": "2026-08-05T10:20:07+00:00",
-      "kilde": "Space.com",
-      "resume": "We've rounded up the best solar eclipse glasses so you can watch safely from wherever you are.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/ZRobUvrquceymTStKgUruF-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Køb solformørkelsesbriller før rejsen til Europa",
-      "resume_da": "Den 12. august er der solformørkelse i Europa og Storbritannien. Her er tips til at købe godkendte formørkelsesbriller, før du tager af sted.",
-      "sektioner": [
-        {
-          "overskrift": "Vigtigheden af korrekte briller",
-          "tekst": "Du må aldrig se direkte på solen uden godkendte briller. Almindelige solbriller beskytter ikke nok og kan skade øjnene. Køb briller med CE-mærket eller ISO 12312-2-standarden."
-        },
-        {
-          "overskrift": "Hvor kan du købe dem",
-          "tekst": "Du kan købe formørkelsesbriller online hos anerkendte forhandlere. Det er bedst at bestille dem, før du rejser, så du er sikker på at have dem med. I Europa kan du også købe dem hos lokale planetarier og videnskabscentre."
-        },
-        {
-          "overskrift": "Tjek brillerne",
-          "tekst": "Undersøg brillerne for ridser eller skader, før du bruger dem. Brug kun briller, der er godkendt af relevante myndigheder. Følg altid producentens anvisninger."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "12. august",
-          "label": "Dato for solformørkelsen"
-        }
-      ],
-      "detaljer": [
-        "Solformørkelsen er den 12. august.",
-        "Man skal bruge godkendte briller for at se den.",
-        "CE-mærket og ISO 12312-2 er vigtige standarder.",
-        "Køb brillerne hjemmefra for at være sikker."
-      ],
-      "betydning": "For danskere, der rejser til Europa eller Storbritannien, er det vigtigt at have korrekte briller for at opleve solformørkelsen sikkert uden at skade øjnene.",
-      "pointer": [
-        "Køb godkendte formørkelsesbriller.",
-        "Sørg for CE-mærke eller ISO-standard.",
-        "Tjek brillerne for skader før brug.",
-        "Bestil dem før afrejse."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Total solar eclipse: how to watch live from home",
-      "link": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
-      "dato": "2026-08-05T08:00:00+00:00",
-      "kilde": "ESA",
-      "resume": "A total solar eclipse is coming to Europe. The European Space Agency (ESA) will broadcast live from 19:30 CEST on 12 August, allowing you to experience this rare event from anywhere in the world. Quick links: - Live broadcast on YouTube (12 August, 19:30–20:45 CEST) - Event programme in León, Spain (12 August, 10:00–14:00 and 17:30–21:45 CEST) - Overview of all ESA activities, including videos, gr",
-      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/solar_eclipse_artist_impression/27150246-1-eng-GB/Solar_eclipse_artist_impression_card_full.png",
-      "billede_alt": "Solar eclipse (artist impression) ",
-      "kategori": "Politik & penge",
-      "rubrik": "Se solformørkelsen live fra ESA",
-      "resume_da": "ESA sender live fra en total solformørkelse den 12. august. Du kan se med fra hele verden på YouTube fra kl. 19:30 CEST.",
-      "sektioner": [
-        {
-          "overskrift": "Live fra ESA",
-          "tekst": "Den Europæiske Rumorganisation ESA viser en total solformørkelse live. Showet starter kl. **19:30 CEST** den **12. august**. Du kan se det på YouTube fra kl. **19:30 til 20:45 CEST**."
-        },
-        {
-          "overskrift": "Arrangementer i Spanien",
-          "tekst": "ESA har også aktiviteter i León, Spanien, samme dag. Der er program fra kl. **10:00 til 14:00** og igen fra **17:30 til 21:45 CEST**. Der vil være videoer, grafik og læring for børn."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "19:30 CEST",
-          "label": "Start på liveudsendelsen"
-        },
-        {
-          "tal": "12. august",
-          "label": "Dato for solformørkelsen"
-        }
-      ],
-      "detaljer": [
-        "ESA sender live på YouTube.",
-        "Varighed: 19:30-20:45 CEST.",
-        "Aktiviteter i León, Spanien fra 10:00-14:00 og 17:30-21:45 CEST.",
-        "Inkluderer videoer, grafik og undervisning."
-      ],
-      "betydning": "En total solformørkelse er et sjældent syn. Det er en let måde at opleve rumfart og naturfænomener på hjemmefra.",
-      "pointer": [
-        "Live på YouTube 12. august.",
-        "Start klokken 19:30 CEST.",
-        "Slut klokken 20:45 CEST.",
-        "ESA tilbyder undervisning."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Think tank warns Europe’s orbital compute gap is widening",
-      "link": "https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening/",
-      "dato": "2026-08-05T08:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Europe risks becoming dependent on foreign orbital computing infrastructure as U.S. companies and China’s government-led push accelerate the development of space-based data centers, according to the European Space Policy Institute. The post Think tank warns Europe’s orbital compute gap is widening appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Orbital.jpg?fit=1024%2C625&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Europa halter bagud i rum-computing",
-      "resume_da": "En tænketank advarer om, at Europa sakker agterud i udviklingen af datacentre i rummet, mens USA og Kina rykker hurtigt frem.",
-      "sektioner": [
-        {
-          "overskrift": "Advarsel fra tænketank",
-          "tekst": "Det Europæiske Rum-Politikinstitut siger, at Europa risikerer at blive afhængig af udenlandsk orbital computerinfrastruktur. USA's virksomheder og Kinas statsstøttede satsning accelererer udviklingen af datacentre i rummet."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Advarslen kommer fra European Space Policy Institute.",
-        "USA's virksomheder og Kinas regering fører an i udviklingen.",
-        "Europa kan blive afhængig af udenlandsk infrastruktur."
-      ],
-      "betydning": "For almindelige danskere betyder det, at Europa kan miste indflydelse og sikkerhed i den digitale fremtid, hvis ikke vi følger med i rum-computing.",
-      "pointer": [
-        "Europa halter bagud.",
-        "USA og Kina leder.",
-        "Risiko for afhængighed."
-      ],
-      "prio": 6
     }
   ]
 }
