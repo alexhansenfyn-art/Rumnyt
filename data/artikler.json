@@ -1,7 +1,206 @@
 {
-  "opdateret": "2026-08-11T09:35:33.699853+00:00",
+  "opdateret": "2026-08-11T12:29:54.581828+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Why Golden Dome Demands a Reimagined and Revitalized Industrial Base",
+      "link": "https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/",
+      "dato": "2026-08-11T12:02:48+00:00",
+      "kilde": "SpaceNews",
+      "resume": "For most of its history, the United States has been largely insulated from foreign threats. Vast oceans made it an impractical destination for invading armies before the advent of modern [&#8230;] The post Why Golden Dome Demands a Reimagined and Revitalized Industrial Base appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/golden-dome-1-1.jpg?fit=1024%2C794&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "USA's missilskjold kræver nyt industrigrundlag",
+      "resume_da": "Golden Dome, USAs kommende missilskjold, kræver en omfattende fornyelse af landets forsvarsindustri. Eksperter mener, at den nuværende industrielle base ikke er gearet til opgaven.",
+      "sektioner": [
+        {
+          "overskrift": "Hvorfor nu?",
+          "tekst": "USA har længe været beskyttet af havene omkring sig. Men nye trusler gør et missilskjold nødvendigt. Golden Dome skal beskytte hele landet mod missilangreb."
+        },
+        {
+          "overskrift": "Industriel udfordring",
+          "tekst": "Opbygningen af Golden Dome kræver en helt ny tilgang til forsvarsindustrien. Den nuværende industrielle base er ikke gearet til at levere den nødvendige teknologi og kapacitet. Der er behov for revitalisering."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Golden Dome er navnet på et nyt missilskjold for USA.",
+        "Artiklen argumenterer for, at den nuværende forsvarsindustri ikke kan levere det, der er brug for.",
+        "Der er behov for at gentænke og forny den industrielle base."
+      ],
+      "betydning": "Et stærkt missilskjold i USA kan påvirke global sikkerhed og dermed også Danmark. Industriel fornyelse kan skabe nye teknologier, der også kan få civile anvendelser.",
+      "pointer": [
+        "USA planlægger nyt missilskjold.",
+        "Forsvarsindustrien er ikke forberedt.",
+        "Industriel fornyelse er nødvendig."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "First Neutron launch may slip to 2027",
+      "link": "https://spacenews.com/first-neutron-launch-may-slip-to-2027/",
+      "dato": "2026-08-11T11:13:24+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Rocket Lab warned that the chances of launching its Neutron rocket for the first time before the end of the year are “narrowing” despite progress on the vehicle’s development. The post First Neutron launch may slip to 2027 appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/53195468613_56d31cd71c_k.jpg?fit=1024%2C659&amp;ssl=1",
+      "billede_alt": "Neutron launch illustration",
+      "kategori": "Opsendelser",
+      "rubrik": "Rocket Labs Neutron-raket kan blive forsinket",
+      "resume_da": "Rocket Lab advarer om, at den første opsendelse af Neutron-raketten kan blive udskudt til 2027 på trods af fremskridt.",
+      "sektioner": [
+        {
+          "overskrift": "Tidsplanen er stram",
+          "tekst": "Rocket Lab siger, at chancen for at opsende Neutron-raketten for første gang inden årets udgang er ‘smallere’. Det sker på trods af, at udviklingen af raketten skrider frem."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Opsendelsen kan blive udskudt til 2027.",
+        "Rocket Lab advarer om, at tidsplanen er usikker."
+      ],
+      "betydning": "Forsinkelser i raketudvikling kan påvirke kommercielle satellitopsendelser og rumfartsindustrien generelt.",
+      "pointer": [
+        "Neutron-raketten kan blive forsinket.",
+        "Chancen for opsendelse i år er lille.",
+        "Udviklingen skrider frem, men tiden er knap."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Starbase Production lining up future vehicles",
+      "link": "https://www.nasaspaceflight.com/2026/08/starbase-lining-future-vehicles/",
+      "dato": "2026-08-11T10:12:00+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "At SpaceX’s Starbase production site, teams are progressing multiple Starship vehicles through the Production Site&#8230; The post Starbase Production lining up future vehicles appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-11-01-29-42-063.jpg",
+      "billede_alt": "",
+      "kategori": "Opsendelser",
+      "rubrik": "SpaceX stabler nye Starship- og Super Heavy-rumfartøjer",
+      "resume_da": "SpaceX gør klar til kommende test og flyvninger med nye Starship- og Super Heavy-enheder. Der bygges flere og mere automatiserede faciliteter for at øge opsendelsestakten.",
+      "sektioner": [
+        {
+          "overskrift": "Starship Ship 42 gøres klar",
+          "tekst": "I Mega Bay 2 bliver Ship 42 klargjort til kryogen test. Alle tønde-sektioner er stablet, og de forreste finner er monteret. De bagerste finner mangler dog endnu. Der er kun få huller i varmeskjoldet, hvilket er en forbedring."
+        },
+        {
+          "overskrift": "Super Heavy-boosteren får metantank",
+          "tekst": "I Mega Bay 1 er den sidste metantank-sektion på Booster 22 installeret. Dermed er boosterens primære struktur færdig. Der skal dog monteres trykrør og andet udstyr, før boosteren kan testes."
+        },
+        {
+          "overskrift": "Automatisering øger produktionen",
+          "tekst": "SpaceX automatiserer opsætningen af varmeskjold på næsekegler. Det gør processen hurtigere og mindre arbejdskrævende. I Gigabay, en ny stor produktionshal, kan flere rumfartøjer bygges samtidig."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "42",
+          "label": "Ship 42 til flyvning 15"
+        },
+        {
+          "tal": "43",
+          "label": "Ship 43 til flyvning 16"
+        },
+        {
+          "tal": "22",
+          "label": "Booster 22 til flyvning 15"
+        }
+      ],
+      "detaljer": [
+        "Ship 42 er stablet i Mega Bay 2 til kryogen test.",
+        "Booster 22's metantank er færdigbygget.",
+        "Ship 43 er klar til at blive rullet til Mega Bay 2.",
+        "En ny næsekegle-montagestation automatiserer varmeskjoldarbejde.",
+        "Gigabay får installeret tag og brokraner."
+      ],
+      "betydning": "For almindelige danskere betyder det, at SpaceX øger tempoet i deres Starship-program, hvilket kan føre til flere opsendelser og hurtigere udvikling af måne- og Mars-missioner. Det kan også betyde flere satellitter og bedre kommunikation på Jorden.",
+      "pointer": [
+        "Ship 42 og Booster 22 gøres klar til næste flyvning.",
+        "Ship 43 forberedes til at blive samlet.",
+        "SpaceX bygger en ny Gigabay for at øge produktionen.",
+        "Automatisering reducerer manuelt arbejde med varmeskjold."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors",
+      "link": "https://spacenews.com/proteus-space-names-maj-gen-kim-crider-usaf-ret-to-board-of-directors/",
+      "dato": "2026-08-11T10:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "LOS ANGELES, August 11th, 2026. Proteus Space, an AI-native aerospace company delivering rapid, end-to-end access to space, today announced that retired U.S. Air Force Maj. Gen. Kimberly &#8220;Kim&#8221; Crider has [&#8230;] The post Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/PROTEUS_Space-blk.png?fit=265%2C368&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Kim Crider i Proteus Space's bestyrelse",
+      "resume_da": "Proteus Space udnævner pensioneret air force-general Kim Crider til bestyrelsen.",
+      "sektioner": [
+        {
+          "overskrift": "Ny bestyrelsespost",
+          "tekst": "Proteus Space, et firma der arbejder med kunstig intelligens og rumfart, har udnævnt den pensionerede generalmajor Kim Crider til bestyrelsen. Hun har tidligere haft høje poster i det amerikanske luftvåben."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Proteus Space arbejder med AI og hurtig adgang til rummet.",
+        "Kim Crider er pensioneret generalmajor fra det amerikanske luftvåben."
+      ],
+      "betydning": "Det viser, at rumfartsindustrien trækker på militær erfaring til at styrke ledelsen.",
+      "pointer": [
+        "Proteus Space får ny bestyrelsespost.",
+        "Kim Crider er tidligere general.",
+        "Firmaet bruger AI i rumfart."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "A total solar eclipse is coming to Europe",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_total_solar_eclipse_is_coming_to_Europe",
+      "dato": "2026-08-11T09:30:00+00:00",
+      "kilde": "ESA",
+      "resume": "Video: 00:01:24 When the Moon passes between Earth and the Sun, it casts a shadow onto Earth's surface. For people in the darkest part of this shadow, the face of the Sun is totally blocked out, and its wispy atmosphere becomes visible. On Wednesday 12 August, such a shadow will cross Greenland, Iceland, northeastern Portugal and Spain. With this being the first total eclipse visible from mainland",
+      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/a_total_solar_eclipse_is_coming_to_europe/27412432-3-eng-GB/A_total_solar_eclipse_is_coming_to_Europe_card_full.png",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Total solformørkelse rammer Europa 12. august",
+      "resume_da": "Månen dækker Solen helt over flere europæiske lande. ESA sender live fra Spanien, og der er gratis arrangement i León.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad sker der?",
+          "tekst": "Onsdag 12. august passerer Månen mellem Jorden og Solen. Skyggen rammer Grønland, Island, det nordøstlige Portugal og Spanien."
+        },
+        {
+          "overskrift": "ESA's live-udsendelse",
+          "tekst": "ESA sender live fra et observatorium i Spanien. Så alle kan opleve formørkelsen online."
+        },
+        {
+          "overskrift": "Gratis arrangement",
+          "tekst": "ESA og byen León inviterer til gratis indendørsarrangement. Der er workshops, foredrag og fælles observation."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. august",
+          "label": "Dato for formørkelsen"
+        },
+        {
+          "tal": "siden 1905",
+          "label": "Sidste totale formørkelse i Spanien"
+        }
+      ],
+      "detaljer": [
+        "Første totale solformørkelse siden 1905 på det spanske fastland.",
+        "Live-udsendelsen er fra Observatorio Astrofísico de Javalambre.",
+        "Arrangementet i León er gratis og åbent for alle."
+      ],
+      "betydning": "Det er en sjælden chance for at se et spektakulært naturfænomen, og ESA gør det nemt for alle at opleve det, uanset hvor man er.",
+      "pointer": [
+        "Total solformørkelse i Europa 12. august.",
+        "Skyggen går over bl.a. Spanien og Grønland.",
+        "ESA sender live så alle kan se med.",
+        "Gratis event i León med aktiviteter."
+      ],
+      "prio": 7
+    },
     {
       "titel": "Dust and water spotted close to giant black hole",
       "link": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole",
@@ -4113,228 +4312,6 @@
         "Risiko for afhængighed."
       ],
       "prio": 6
-    },
-    {
-      "titel": "Neuraspace raises $18 million to expand sovereign space awareness",
-      "link": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/",
-      "dato": "2026-08-05T06:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Neuraspace, the Portuguese space traffic management startup, announced around $18 million in fresh funding Aug. 5 to expand European space domain awareness and defense capabilities. The post Neuraspace raises $18 million to expand sovereign space awareness appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/rsz_1neuraspace_def.jpg?fit=879%2C581&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Portugisisk firma får 18 mio. til at overvåge rummet",
-      "resume_da": "Neuraspace, en portugisisk virksomhed, har fået 18 millioner dollars til at udvide Europas overvågning af rummet og forsvaret i rummet.",
-      "sektioner": [
-        {
-          "overskrift": "Frisk kapital til rumovervågning",
-          "tekst": "Neuraspace, en portugisisk virksomhed, har fået omkring **18 millioner dollars** i ny finansiering. Pengene blev annonceret den 5. august. De skal bruges til at udvide den europæiske indsigt i rummet og forsvarskapaciteter."
-        },
-        {
-          "overskrift": "Europas sikkerhed i rummet",
-          "tekst": "Virksomheden arbejder med at spore og styre trafik i rummet. Den nye investering skal styrke Europas evne til at overvåge rummet. Det handler også om at styrke forsvaret i rummet."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "18 mio. dollars",
-          "label": "Ny investering"
-        }
-      ],
-      "detaljer": [
-        "Neuraspace er en portugisisk startup.",
-        "Finansieringen blev offentliggjort 5. august.",
-        "Formålet er at udvide rumovervågning og forsvar."
-      ],
-      "betydning": "For en almindelig dansker betyder det, at Europa styrker sin evne til at holde øje med rummet. Det kan være med til at beskytte de satellitter, vi er afhængige af til fx kommunikation og navigation.",
-      "pointer": [
-        "18 mio. dollars til Neuraspace",
-        "Skal styrke Europas rumovervågning",
-        "Annonceret 5. august",
-        "Fokus på forsvar i rummet"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "APOD: 2026 August 5 – Spokes on Saturn’s B Ring",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-5-spokes-on-saturns-b-ring/",
-      "dato": "2026-08-05T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APODScienceAPODAPOD: 2026 August 5 – Spokes…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Brad Croslin Spokes on Saturn&#8217;s B Ring Explanation: Don’t get spooked ",
-      "billede": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/august/saturn_spokes.gif?w=1133&#038;h=716&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A large gaseous planet surrounded by a large ring of material (actually multiple rings). The planet and its rings are rotating. A dark shadow appears at the left side of one of the rings and disappear",
-      "kategori": "Astronomi",
-      "rubrik": "Saturns rings skyggespil i ny timelapse",
-      "resume_da": "Astronomiens daglige billede viser en timelapse af Saturns ringe, hvor skyggelignende 'spokes' dukker op og forsvinder. Fænomenet varierer med årstiderne og er stadig en gåde.",
-      "sektioner": [
-        {
-          "overskrift": "Timelapse af Saturn",
-          "tekst": "Dagens billede fra NASA er en næsten to timer lang timelapse af Saturn og dens ringe. Da et døgn på Saturn kun varer **10 timer**, dækker optagelsen en stor del af planetens rotation. Man kan se en skyggelignende plet, der kommer og går på B-ringen."
-        },
-        {
-          "overskrift": "Observationer gennem årtier",
-          "tekst": "Rumsonder som Voyager 2, Cassini og Hubble har fulgt disse 'spokes' i årtier. Deres udseende skifter med Saturns årstider, ligesom Jordens årstider, fordi planetens akse er vippet. Ved jævndøgn får ringene mere jævn sollys og solvind."
-        },
-        {
-          "overskrift": "Oprindelse er usikker",
-          "tekst": "Forskere mener, at spokes kan være skygger eller refleksioner fra støv og is, der svæver over ringene. Elektromagnetiske vekselvirkninger mellem solvinden og Saturns magnetfelt kan få partiklerne til at løfte sig. Men oprindelsen er stadig ikke fuldt forstået."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "10 timer",
-          "label": "Længden af et døgn på Saturn"
-        },
-        {
-          "tal": "2 timer",
-          "label": "Varighed af timelapsen"
-        }
-      ],
-      "detaljer": [
-        "Timelapsen viser ringene i både fremad og baglæns bevægelse.",
-        "Observationer fra Voyager 2, Cassini og Hubble viser, at spokes varierer med årstiderne.",
-        "Saturns akse er vippet, ligesom Jordens, hvilket giver årstider.",
-        "Spokes kan skyldes elektromagnetiske effekter mellem solvind og magnetfelt."
-      ],
-      "betydning": "Historien giver et fascinerende indblik i Saturns komplekse ringe og årstider, og minder os om, at rummet stadig rummer mange mysterier. Det kan også inspirere til at kigge op og opleve astronomiske fænomener som Perseiderne.",
-      "pointer": [
-        "Saturns ringe viser skyggelignende spokes i timelapse.",
-        "Fænomenet varierer med årstiderne.",
-        "Oprindelsen er stadig uklar.",
-        "NASA opfordrer til at se Perseiderne i august."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "The Paradox of Lençóis Maranhenses National Park",
-      "link": "https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/",
-      "dato": "2026-08-05T04:01:00+00:00",
-      "kilde": "NASA",
-      "resume": "The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year.",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-paradox-of-lençóis-maranhenses-national-park/brazillencois_oli_20260608.jpg?w=2160&#038;h=1413&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "Bright white sand dunes stretch for dozens of kilometers between the dark blue Atlantic Ocean and green coastal vegetation. Blue and green freshwater lagoons fill low areas between the dunes, while da",
-      "kategori": "Forskning",
-      "rubrik": "Brasiliens 'ørken' med laguner",
-      "resume_da": "Lençóis Maranhenses er en nationalpark i Brasilien, hvor hvide sandklitter møder ferskvandslaguner. På trods af ørkentræk regner det mere end i London.",
-      "sektioner": [
-        {
-          "overskrift": "En paradoksal naturtype",
-          "tekst": "Parken ligner en ørken, men får omkring **125 centimeter** regn om året. Det er mere end i Seattle og dobbelt så meget som i London. Derfor er der blå og grønne laguner mellem de hvide kvartsklitter."
-        },
-        {
-          "overskrift": "Dannelsen af klitterne",
-          "tekst": "Klitterne findes på grund af en sjælden kombination af geologi og klima. Floder fører kvartssand til en flad kyststrækning, og vinden former sandet til klitter, der kan blive **30 meter** høje. Vinden flytter klitterne op til **25 meter** om året."
-        },
-        {
-          "overskrift": "Dyrelivet i lagunerne",
-          "tekst": "Når lagunerne tørrer ud om vinteren, overlever fisk som trahira ved at grave sig ned i sandet. Parken er hjem for over **850** dokumenterede arter, herunder flere truede dyr. UNESCO erklærede parken som verdensarv i 2024."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "125 cm",
-          "label": "Årlig nedbør i parken"
-        },
-        {
-          "tal": "30 m",
-          "label": "Højden af klitterne"
-        },
-        {
-          "tal": "850+",
-          "label": "Antal dokumenterede arter"
-        }
-      ],
-      "detaljer": [
-        "Klitterne dækker ca. 900 kvadratkilometer.",
-        "Vandet i lagunerne varierer i farve afhængig af dybde og indhold.",
-        "Vindhastigheder på 50 km/t er almindelige i tørsæsonen.",
-        "Klitterne har rykket sig 0,5 km mod vest mellem 1986 og 2026."
-      ],
-      "betydning": "Historien viser, hvordan unikke økosystemer kan eksistere på trods af tilsyneladende modsætningsfyldte forhold. Det minder os om vigtigheden af at beskytte biodiversitet og naturarv.",
-      "pointer": [
-        "Parken ligner en ørken, men er meget våd.",
-        "Klitterne dannes af vind og sand fra floder.",
-        "Lagunerne tørrer ud og bliver til vand igen.",
-        "Området er hjem for mange truede arter."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Voyager seeks relaxed requirements in NASA commercial space station RFP",
-      "link": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp/",
-      "dato": "2026-08-05T03:01:23+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Voyager Technologies remains upbeat about the prospects for its Starlab commercial space station but is hoping for some tweaks to NASA’s plans to support the station’s development. The post Voyager seeks relaxed requirements in NASA commercial space station RFP appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Starlab_-_External_Config_2025_-_04.png?fit=1024%2C576&amp;ssl=1",
-      "billede_alt": "Starlab",
-      "kategori": "Politik & penge",
-      "rubrik": "Voyager ønsker lempede krav fra NASA",
-      "resume_da": "Voyager Technologies håber på mere fleksible krav fra NASA til deres kommercielle rumstation Starlab, men er optimistiske om projektets fremtid.",
-      "sektioner": [
-        {
-          "overskrift": "Håb om lempelser",
-          "tekst": "Voyager Technologies er positive omkring Starlab, men vil gerne have NASA til at lempe kravene i udbuddet for kommercielle rumstationer. De ønsker mere fleksibilitet for at kunne udvikle stationen bedre."
-        },
-        {
-          "overskrift": "NASA's støtte er vigtig",
-          "tekst": "NASA's støtte er afgørende for at udvikle og drive kommercielle rumstationer. Voyager håber på justeringer, så deres planer kan blive til virkelighed."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Voyager Technologies er fortsat optimistiske omkring Starlab.",
-        "De håber på ændringer i NASA's kravspecifikationer.",
-        "NASA's støtte er vigtig for kommercielle rumstationer."
-      ],
-      "betydning": "For almindelige danskere er det relevant, fordi udviklingen af kommercielle rumstationer kan bane vejen for flere rumaktiviteter og måske fremtidig turisme.",
-      "pointer": [
-        "Voyager vil have mere fleksible krav.",
-        "Starlab er en kommerciel rumstation.",
-        "NASA's støtte er central.",
-        "Ændringer kan hjælpe projektet."
-      ],
-      "prio": 3
-    },
-    {
-      "titel": "NASA's PUNCH sharpens solar storm forecasting in first test",
-      "link": "https://phys.org/news/2026-08-nasa-sharpens-solar-storm.html",
-      "dato": "2026-08-04T21:10:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Using continuous imagery from NASA's PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, scientists predicted the near-Earth arrival of a solar eruption to within 30 minutes in an initial proof-of-concept test. The results, presented Tuesday at the Committee on Space Research Scientific Meeting and under review at the journal Space Weather, could revolutionize the way Earth-impacting ",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2018/1-solarflare.jpg",
-      "billede_alt": "",
-      "kategori": "Rumvejr",
-      "rubrik": "NASA’s PUNCH forbedrer varsling af solstorme",
-      "resume_da": "Forskere brugte data fra NASA's PUNCH-mission til at forudsige ankomst af en soludbrud med en præcision på 30 minutter i en første test.",
-      "sektioner": [
-        {
-          "overskrift": "Præcis forudsigelse",
-          "tekst": "Forskere har for første gang brugt kontinuerlige billeder fra NASA's PUNCH-mission til at forudsige, hvornår en soludbrud ville nå Jorden. De ramte inden for **30 minutter**. Resultaterne blev præsenteret tirsdag på Committee on Space Research Scientific Meeting."
-        },
-        {
-          "overskrift": "Missionens betydning",
-          "tekst": "PUNCH-missionen overvåger solens korona og heliosfæren løbende. Det giver forskerne mulighed for at følge soludbrud i realtid. Testen viser, at missionen kan bruges til at varsle jordiske storme langt bedre end før."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "30 minutter",
-          "label": "Præcision i forudsigelse"
-        }
-      ],
-      "detaljer": [
-        "Testen var en proof-of-concept, altså et bevis på at konceptet virker.",
-        "Resultaterne er under vurdering i tidsskriftet Space Weather.",
-        "Missionsnavnet PUNCH står for Polarimeter to Unify the Corona and Heliosphere."
-      ],
-      "betydning": "For almindelige mennesker betyder det, at vi kan blive bedre advaret mod solstorme, der kan påvirke elnet, satellitter og GPS. Det kan skåne os for strømafbrydelser og kommunikationsproblemer.",
-      "pointer": [
-        "PUNCH forudsiger soludbrud.",
-        "Rammer inden for 30 minutter.",
-        "Test vist på forskermøde.",
-        "Kan forbedre varsling af solstorme."
-      ],
-      "prio": 7
     }
   ]
 }
