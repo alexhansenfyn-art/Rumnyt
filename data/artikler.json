@@ -1,7 +1,94 @@
 {
-  "opdateret": "2026-08-11T04:51:07.212921+00:00",
+  "opdateret": "2026-08-11T09:35:33.699853+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Dust and water spotted close to giant black hole",
+      "link": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole",
+      "dato": "2026-08-11T08:00:00+00:00",
+      "kilde": "ESA",
+      "resume": "Using the NASA/ESA/CSA James Webb Space Telescope , an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the centre of our Milky Way galaxy. The observations reveal that the evolved star IRS 3 continues to enrich its surroundings with newly formed material despite the intense radiation environment around ",
+      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/irs_3_field_nircam_and_miri_image/27410540-1-eng-GB/IRS_3_Field_NIRCam_and_MIRI_image_card_full.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Støv og vand fundet nær Mælkevejens sorte hul",
+      "resume_da": "Astronomer har med James Webb-teleskopet opdaget støv og vand meget tæt på det supermassive sorte hul i Mælkevejens centrum. Det viser, at stjerner kan danne nyt materiale selv i et så ekstremt miljø.",
+      "sektioner": [
+        {
+          "overskrift": "Overraskende opdagelse",
+          "tekst": "Et internationalt hold af astronomer har brugt James Webb-teleskopet til at kigge mod Mælkevejens centrum. De fandt støv og vand, som findes og dannes meget tæt på det supermassive sorte hul, der hedder Sagittarius A*. Det er overraskende, fordi strålingen der normalt ville ødelægge sådanne materialer."
+        },
+        {
+          "overskrift": "Stjernen IRS 3",
+          "tekst": "Den udviklede stjerne IRS 3 spiller en vigtig rolle. Den beriger sine omgivelser med nydannet materiale på trods af det intense strålingsmiljø. Det betyder, at stjerner kan skabe støv og vand selv under ekstreme forhold."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Brug af James Webb-rumteleskopet (NASA/ESA/CSA).",
+        "Observation af den udviklede stjerne IRS 3.",
+        "Tæt på det supermassive sorte hul Sagittarius A*."
+      ],
+      "betydning": "Opdagelsen hjælper forskere med at forstå, hvordan støv og vand kan dannes i selv de mest ekstreme miljøer i universet. Det bringer os nærmere på at forstå, hvordan byggestenene til planeter og liv kan opstå.",
+      "pointer": [
+        "Støv og vand findes tæt på Mælkevejens sorte hul.",
+        "James Webb-teleskopet gjorde opdagelsen.",
+        "Stjernen IRS 3 skaber nyt materiale trods stråling.",
+        "Overraskende for videnskabsfolk."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Curiosity Blog, Sols 4968-4974: Rock Climbing Towards the Discontinuity",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/",
+      "dato": "2026-08-11T06:50:07+00:00",
+      "kilde": "NASA",
+      "resume": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, July 31, 2026 As mentioned in the previous blog, Curiosity has been exploring a large-scale feature in Gale’s sedimentary record suspected to be an “erosional supersurface.” The “supersurface” represents a period in time when a net depositional environment changed […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_msss_04972_mhli_4972MH0008410011802510C00_DXXX.jpg?w=1632&#038;h=1200&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A close-up color photograph taken by the Curiosity rover showing a rough, tan-colored rock surface on Mars. The rock is highly textured, covered in fine parallel layers, small raised ridges, and thin ",
+      "kategori": "Missioner",
+      "rubrik": "Curiosity klatrer mod Mars' gemte fortid",
+      "resume_da": "Curiosity har nærmet sig en vigtig grænse i Mars' klippelag, der kan afsløre fortidens miljø. Rovers klatrede op med 24 graders hældning.",
+      "sektioner": [
+        {
+          "overskrift": "På jagt efter superoverflade",
+          "tekst": "Curiosity udforsker en erosionsflade i Gale-krateret, som kaldes en supersurface. Den markerer en periode, hvor aflejring blev erstattet af erosion. Stenlagene omkring den kan gemme spor på skiftende miljø."
+        },
+        {
+          "overskrift": "Imponerende klatrepræstation",
+          "tekst": "Roveren klatrede op med en hældning på **24 grader**, tæt på missionens rekord på **27 grader**. Det lykkedes planlæggerne at ramme den rette vinkel for videnskabelige målinger."
+        },
+        {
+          "overskrift": "Detaljerede målinger",
+          "tekst": "Instrumenterne MAHLI, APXS og ChemCam analyserede flere stenmål. De undersøgte både lyse og mørke lag samt sand for at forstå sammensætningen. Mastcam tog store panoramabilleder af væggen ovenfra."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "24 grader",
+          "label": "Roverens hældning ved parkering"
+        },
+        {
+          "tal": "27 grader",
+          "label": "Missionens rekord for hældning"
+        }
+      ],
+      "detaljer": [
+        "Supersurface er en grænse mellem aflejring og erosion.",
+        "Målinger omfattede mål som Puyehue, Lago Palena og Piedras Juntas.",
+        "MAHLI tog mosaikbilleder af fine sedimentstrukturer.",
+        "Atmosfæriske målinger blev også udført.",
+        "Billeder blev taget i august 2026."
+      ],
+      "betydning": "Historien giver indblik i, hvordan Mars' klima og miljø har ændret sig. Det hjælper forskere med at forstå, om Mars engang kunne have været beboelig.",
+      "pointer": [
+        "Curiosity nærmer sig en vigtig klippegrænse på Mars.",
+        "Roveren klatrede med 24 graders hældning.",
+        "Undersøgelser fokuserer på lag, der kan afsløre miljøskift.",
+        "Målinger inkluderer sten-, sand- og atmosfæreanalyser."
+      ],
+      "prio": 6
+    },
     {
       "titel": "APOD: 2026 August 11 – Six Moons of Saturn",
       "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/",
@@ -4248,99 +4335,6 @@
         "Kan forbedre varsling af solstorme."
       ],
       "prio": 7
-    },
-    {
-      "titel": "Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS",
-      "link": "https://www.nasaspaceflight.com/2026/08/crew-13-delaney-interview/",
-      "dato": "2026-08-04T20:05:26+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "After a previously targeted launch date in November, NASA has moved up the next International&#8230; The post Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/jsc2026e404725large.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Crew-13 rykker til september og er klar",
-      "resume_da": "Crew-13 sendes til ISS i september 2026. Piloten Luke Delaney fortæller om træning og forskning.",
-      "sektioner": [
-        {
-          "overskrift": "Ny lanceringsdato",
-          "tekst": "NASA har flyttet Crew-13-opskydningen fra november til **12. september 2026**. Astronauterne siger, at de stadig kan nå alle træningsmålene. De har mistet to måneders træning, men de har optimeret planen."
-        },
-        {
-          "overskrift": "Besætningen om bord",
-          "tekst": "Jessica Watkins er kommandør og har fløjet i rummet før. Luke Delaney er pilot og flyver for første gang. Også Joshua Kutryk fra Canada og Sergey Teteryatnikov fra Rusland er med på jomfruflyvningen."
-        },
-        {
-          "overskrift": "Forskning",
-          "tekst": "Delaney glæder sig til at studere, hvordan kroppen reagerer på rumfart, for eksempel væskeforskydning og syn. Han vil også arbejde med stamceller. Han ser en sammenhæng mellem sit tidligere arbejde med jordobservation og forskningen på Stationen."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "12. september 2026",
-          "label": "Ny lanceringsdato"
-        },
-        {
-          "tal": "3.700 timer",
-          "label": "Flyvetid i 48 fly"
-        },
-        {
-          "tal": "70 km",
-          "label": "Afstand til KSC"
-        }
-      ],
-      "detaljer": [
-        "Luke Delaney blev NASA-astronaut i 2021.",
-        "Han var tidligere testpilot og instruktør.",
-        "Han voksede op nær Kennedy Space Center.",
-        "Han har fløjet med i 48 forskellige fly.",
-        "Crewet flyver med Crew Dragon 'Grace'."
-      ],
-      "betydning": "Det viser, hvor fleksible astronauter er, når planer ændres. Det giver også almindelige mennesker et indblik i, hvordan hverdagen om bord på ISS er.",
-      "pointer": [
-        "Crew-13 er rykket til september 2026.",
-        "Delaney flyver første gang.",
-        "Han har over 3.700 flyvetimer.",
-        "Han vil forske i stamceller og krop."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "NOAA purchases Spire hyperspectral microwave sounder data",
-      "link": "https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data/",
-      "dato": "2026-08-04T20:05:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "SAN FRANCISCO – The National Oceanic and Atmospheric Administration will continue to evaluate data from Spire Global’s Hyperspectral Microwave Sounder (HyMS) under a $3 million contract extension announced Aug. 4. [&#8230;] The post NOAA purchases Spire hyperspectral microwave sounder data appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_hyms_image.jpg?fit=879%2C586&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Satellitter",
-      "rubrik": "NOAA køber data fra Spire's nye vejr-satellitter",
-      "resume_da": "NOAA forlænger aftale med Spire Global for at teste data fra deres nye mikrobølge-sonder, der kan forbedre vejrudsigter.",
-      "sektioner": [
-        {
-          "overskrift": "Ny kontrakt",
-          "tekst": "NOAA har forlænget deres samarbejde med Spire Global. De betaler **3 millioner dollars** for at fortsætte med at vurdere data fra Spire's nye Hyperspectral Microwave Sounder (HyMS). Det sker fra den 4. august."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "3 mio. dollars",
-          "label": "Kontraktens størrelse"
-        }
-      ],
-      "detaljer": [
-        "NOAA er det amerikanske agentur for vejr og oceaner.",
-        "Spire Global er et satellitselskab.",
-        "HyMS er en ny type mikrobølge-sensor.",
-        "Dataene skal forbedre vejrudsigter."
-      ],
-      "betydning": "Bedre vejrudsigter kan hjælpe alle med at planlægge hverdagen, og det kan redde liv ved ekstremt vejr.",
-      "pointer": [
-        "NOAA forlænger aftalen.",
-        "Spire's målerdata skal testes.",
-        "3 mio. dollars er prisen.",
-        "Målet er bedre vejrudsigter."
-      ],
-      "prio": 5
     }
   ]
 }
