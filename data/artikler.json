@@ -1,7 +1,115 @@
 {
-  "opdateret": "2026-08-10T22:08:01.724512+00:00",
+  "opdateret": "2026-08-11T04:51:07.212921+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "APOD: 2026 August 11 – Six Moons of Saturn",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/",
+      "dato": "2026-08-11T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 11 – Six… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Six Moons [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/2026-08-05-0609_7-SaturnSystem_c.jpg?w=1000&#038;h=896&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A telescopic image of Saturn with rings and six moons.",
+      "kategori": "Astronomi",
+      "rubrik": "Saturn har 293 måner – seks ses på nyt billede",
+      "resume_da": "NASA har offentliggjort et billede af seks af Saturns største måner. Saturn har nu 293 kendte måner, flere end nogen anden planet.",
+      "sektioner": [
+        {
+          "overskrift": "Saturns månetal",
+          "tekst": "I juni 2026 havde Saturn **293** bekræftede måner. Det er langt flere end Jupiter, som kun har **115**. De fleste af Saturns måner er små og uregelmæssige."
+        },
+        {
+          "overskrift": "Det nye billede",
+          "tekst": "Billedet blev taget den 5. august og viser seks af de største måner. Titan er den største med en diameter på **5.150 km** – større end Merkur. De andre er Mimas, Tethys, Enceladus, Dione og Rhea."
+        },
+        {
+          "overskrift": "Historien om Titan",
+          "tekst": "Titan blev opdaget i **1655** af Christiaan Huygens. Senere har rumsonder som Voyager og Cassini fundet mange flere måner."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "293",
+          "label": "Saturns måner i juni 2026"
+        },
+        {
+          "tal": "115",
+          "label": "Jupiters måner"
+        },
+        {
+          "tal": "5.150 km",
+          "label": "Titans diameter"
+        }
+      ],
+      "detaljer": [
+        "Billedet er taget den 5. august 2026.",
+        "Titan er større end Jordens måne og Merkur.",
+        "De fleste af Saturns måner er kun få kilometer store.",
+        "Titan blev opdaget i 1655."
+      ],
+      "betydning": "Det viser, hvor mange måner der findes i vores solsystem, og hvor forskellige de er. Det kan vække interesse for rumforskning.",
+      "pointer": [
+        "Saturn har 293 måner.",
+        "Seks store måner er fotograferet.",
+        "Titan er kæmpe-stor.",
+        "Opdagelser fortsætter."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Bountiful Roebuck Bay",
+      "link": "https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/",
+      "dato": "2026-08-11T04:01:00+00:00",
+      "kilde": "NASA",
+      "resume": "Tidal and seasonal shifts leave their mark on this crescent-shaped, productive bay in Western Australia’s Kimberley region.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/bountiful-roebuck-bay/broomewater_oli_20260318.jpg?w=720&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "Blue coastal waters border a fringe of dark green mangroves with branching, linear tidal creeks and pale tidal flats and drainage channels visible to the east.",
+      "kategori": "Forskning",
+      "rubrik": "Månens træk skaber liv i Roebuck Bay",
+      "resume_da": "Satellitbilleder afslører, hvordan ekstreme tidevand og monsunregn skaber et rigt økosystem i Australien, hvor millioner af fugle finder føde.",
+      "sektioner": [
+        {
+          "overskrift": "Månens tidevand",
+          "tekst": "Månens tyngdekraft trækker i Jordens have og skaber tidevand. I Roebuck Bay kan forskellen mellem høj- og lavvande nå op på **9 meter**. Det er meget mere end i resten af Australien, hvor det typisk er under 2 meter."
+        },
+        {
+          "overskrift": "Mangrover og vandløb",
+          "tekst": "Tidevandet oversvømmer store mudderflader og mangroveparker. Mangroverne vokser mod vest med næsten **2 meter om året**. Et netværk af tidevandskanaler giver bugten et fjerlignende udseende, og deres afstand skyldes sandklitter i området."
+        },
+        {
+          "overskrift": "Rigt dyreliv",
+          "tekst": "Mudderfladerne er fyldt med snegle, orme, krabber og muslinger, op til **2.500 per kvadratmeter**. Det tiltrækker enorme mængder af trækfugle, som gør bugten til et af Australiens vigtigste fugleområder. Mangroverne fungerer som børnehaver for fisk og krebsdyr."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "9 meter",
+          "label": "Tidevandsforskellen i bugten"
+        },
+        {
+          "tal": "2 meter pr. år",
+          "label": "Mangrovernes vækst mod vest"
+        },
+        {
+          "tal": "2.500 pr. kvadratmeter",
+          "label": "Antal snegle og muslinger"
+        }
+      ],
+      "detaljer": [
+        "Billederne er taget af Landsat 8 og 9 i 2026.",
+        "Monsunregn falder fra december til marts og gør landskabet grønt.",
+        "I tørsæsonen fra maj til juni visner græsset og bliver brunt.",
+        "Roebuck Bay ligger i Kimberley-regionen i det nordvestlige Australien."
+      ],
+      "betydning": "Historien viser, hvordan Månens tyngdekraft påvirker livet på Jorden på spektakulær vis. Det kan hjælpe os med at forstå og beskytte sårbare kystområder, og det er et godt eksempel på, hvordan satellitter overvåger naturen.",
+      "pointer": [
+        "Ekstreme tidevand i Australien.",
+        "Mangrover vokser hurtigt.",
+        "Massive mængder fugle og liv.",
+        "Satellitter overvåger naturen."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Mars could have carried liquid water more recently than we thought",
       "link": "https://phys.org/news/2026-08-mars-liquid-thought.html",
@@ -4233,103 +4341,6 @@
         "Målet er bedre vejrudsigter."
       ],
       "prio": 5
-    },
-    {
-      "titel": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
-      "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/",
-      "dato": "2026-08-04T20:00:14+00:00",
-      "kilde": "NASA",
-      "resume": "Using ground-based telescopes and space-based assets, NASA and SpaceX are tracking a used Falcon 9 upper stage from a commercial mission expected to impact the Moon on Wednesday, Aug. 5, near the Einstein and Bell craters. The impact poses no danger to Earth and NASA scientists are planning to collect lunar data from the event [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/06/art002e024603orig.jpg?w=2048",
-      "billede_alt": "The Moon&#039;s rugged surface is on display in this image. Most of the Moon is visible, with the bottom of the sphere disappearing into the darkness. This line between light and dark is called the te",
-      "kategori": "Missioner",
-      "rubrik": "Raketdel rammer Månen i august",
-      "resume_da": "En brugt SpaceX-raketdel forventes at ramme Månen den 5. august. NASA vil observere nedslaget for at lære mere om Månens geologi.",
-      "sektioner": [
-        {
-          "overskrift": "Baggrund for nedslaget",
-          "tekst": "Raketdelen er fra en Falcon 9, som i januar 2025 sendte en månemodul mod Månen. Solaktivitet og tyngdekraft fik raketdelen til at vende tilbage mod Månen. Nedslaget sker nær kraterne Einstein og Bell."
-        },
-        {
-          "overskrift": "Ingen fare for Jorden",
-          "tekst": "Nedslaget er ufarligt for Jorden. NASA og SpaceX følger raketdelens bane. Nedslaget forventes at lave et krater på omkring **60 fod** i diameter og **12 fod** dybt."
-        },
-        {
-          "overskrift": "Observation og læring",
-          "tekst": "Forskere vil bruge teleskoper og rumsonder til at observere nedslaget. De håber at lære om, hvordan støv og sten opfører sig ved nedslag. Det kan hjælpe med at forstå Månens opbygning og fremtidige missioner."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "5. august",
-          "label": "Dato for nedslaget"
-        },
-        {
-          "tal": "60 fod",
-          "label": "Kraterets bredde"
-        },
-        {
-          "tal": "12 fod",
-          "label": "Kraterets dybde"
-        }
-      ],
-      "detaljer": [
-        "Raketdelen er fra en Falcon 9, der sendte Firefly Aerospace's Blue Ghost 1-månemodul af sted.",
-        "Nedslaget sker nær Einstein- og Bell-kratere på Månen.",
-        "NASA's Center for Near Earth Object Studies bekræftede 100% chance for nedslag.",
-        "Månen rammes af meteoritter dagligt, men menneskeskabte nedslag er sjældnere.",
-        "Nedslaget kan ikke ses med det blotte øje fra Jorden.",
-        "NASA's Lunar Reconnaissance Orbiter og ShadowCam-instrumentet vil forsøge at fotografere stedet."
-      ],
-      "betydning": "Nedslaget giver forskere mulighed for at studere Månens overflade og forbedre modeller for fremtidige missioner. Det er også et eksempel på, hvordan man sikkert kan bortskaffe brugte raketdele.",
-      "pointer": [
-        "Raketdel rammer Månen 5. august",
-        "Ingen risiko for Jorden",
-        "NASA observerer og lærer af nedslaget",
-        "Krater på 60 fod bredt"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Mapping the upper atmosphere with public Starlink satellite data",
-      "link": "https://phys.org/news/2026-08-upper-atmosphere-starlink-satellite.html",
-      "dato": "2026-08-04T19:10:02+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "The space around Earth is becoming increasingly crowded, with thousands of satellites and pieces of debris now sharing low Earth orbit. Even above this region—at altitudes of several hundred kilometers—the extremely thin upper atmosphere can slow satellites, making accurate information on atmospheric density essential for predicting satellite motion and preventing collisions.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/mapping-the-upper-atmo.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Kortlægning af øvre atmosfære med Starlink-data",
-      "resume_da": "Forskere bruger offentlige data fra Starlink-satellitter til at kortlægge den øvre atmosfære, hvilket kan forbedre forudsigelser af satellitbaner og undgå kollisioner.",
-      "sektioner": [
-        {
-          "overskrift": "Trangt i rummet",
-          "tekst": "Der er efterhånden mange satellitter og affald i lavt jordkredsløb. Selv i stor højde kan den tynde atmosfære bremse satellitter, så det er vigtigt at kende lufttætheden."
-        },
-        {
-          "overskrift": "Nye data fra Starlink",
-          "tekst": "Offentlige data fra Starlink-satellitter kan bruges til at måle atmosfærens tæthed i højden. Det giver ny viden, som kan hjælpe med at forudsige satellitbevægelser og undgå sammenstød."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "flere hundrede km",
-          "label": "højde for øvre atmosfære"
-        }
-      ],
-      "detaljer": [
-        "Lavt jordkredsløb er fyldt med satellitter og affald",
-        "Øvre atmosfære kan bremse satellitter",
-        "Præcis viden om lufttæthed er nødvendig for at forudsige baner"
-      ],
-      "betydning": "Det kan hjælpe med at holde rummet sikkert og undgå kollisioner, hvilket er vigtigt, da vi er afhængige af satellitter i hverdagen.",
-      "pointer": [
-        "Rummet omkring Jorden bliver mere fyldt",
-        "Atmosfæren i højden påvirker satellitter",
-        "Starlink-data kan kortlægge atmosfæren",
-        "Kan forbedre satellitbaner og sikkerhed"
-      ],
-      "prio": 6
     }
   ]
 }
