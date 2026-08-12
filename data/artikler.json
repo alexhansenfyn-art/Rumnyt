@@ -1,7 +1,340 @@
 {
-  "opdateret": "2026-08-12T11:12:14.963570+00:00",
+  "opdateret": "2026-08-12T15:31:09.072354+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Mirage or miracle? JWST finds earliest known 'black hole star' at cosmic dawn",
+      "link": "https://phys.org/news/2026-08-mirage-miracle-jwst-earliest-black.html",
+      "dato": "2026-08-12T15:00:08+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Little red dots have puzzled astronomers since their discovery in James Webb Space Telescope (JWST) data from the universe's deep past. Their \"powering engines\" might resemble a newly discovered phenomenon dubbed a \"black hole star\"—an early, rapidly growing black hole wrapped in dense gas. This object, described in a study published today in Nature by researchers at the Institute of Science and T",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/mirage-or-miracle-jwst.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "JWST finder tidligste kendte 'sort hul-stjerne'",
+      "resume_da": "Astronomer har opdaget et hidtil ukendt fænomen kaldet en 'sort hul-stjerne' – et tidligt, hurtigt voksende sort hul omgivet af tæt gas. Det kan forklare, hvordan sorte huller blev så massive kort efter Big Bang.",
+      "sektioner": [
+        {
+          "overskrift": "Opdagelsen",
+          "tekst": "Fænomenet blev fundet i data fra James Webb-rumteleskopet. Det er beskrevet i en ny undersøgelse i tidsskriftet Nature. Forskere fra Institute of Science and Technology Austria og internationale kolleger står bag."
+        },
+        {
+          "overskrift": "Hvad er en sort hul-stjerne?",
+          "tekst": "En sort hul-stjerne er et tidligt, hurtigt voksende sort hul omgivet af tæt gas. Det minder om de såkaldte 'små røde prikker', som har undret forskere. Disse objekter kan være motoren bag de mystiske prikker."
+        },
+        {
+          "overskrift": "Betydning for sorte huller",
+          "tekst": "Opdagelsen kan hjælpe med at forklare, hvordan sorte huller på en milliard solmasser kunne dannes så hurtigt efter Big Bang. Forskningen giver nye fingerpeg om universets tidlige udvikling."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "en milliard solmasser",
+          "label": "Masse af sorte huller"
+        }
+      ],
+      "detaljer": [
+        "Fænomenet kaldes en 'sort hul-stjerne'.",
+        "Opdagelsen er publiceret i Nature.",
+        "Forskere fra ISTA og internationale samarbejdspartnere står bag."
+      ],
+      "betydning": "Det hjælper forskere med at forstå, hvordan sorte huller voksede så hurtigt i universets barndom. Det giver også ny viden om, hvordan galakser og sorte huller udvikler sig – noget der kan være relevant for at forstå vores eget kosmiske ophav.",
+      "pointer": [
+        "Fundet i JWST-data.",
+        "Nyt fænomen kaldet 'sort hul-stjerne'.",
+        "Kan forklare massive sorte huller tidligt i universet."
+      ],
+      "prio": 8
+    },
+    {
+      "titel": "The Helix Nebula is Hurling Clumps of Gas through Space",
+      "link": "https://skyandtelescope.org/astronomy-news/the-helix-nebula-is-hurling-clumps-of-gas-through-space/",
+      "dato": "2026-08-12T15:00:00+00:00",
+      "kilde": "Sky & Telescope",
+      "resume": "The star at the heart of the oft-observed Helix Nebula powered a clumpy wind before it died. Now, new images capture these clumps’ dissolution into the space between stars. The post The Helix Nebula is Hurling Clumps of Gas through Space appeared first on Sky &amp; Telescope .",
+      "billede": null,
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Helix-tågen kaster gas ud i rummet",
+      "resume_da": "Nye billeder viser, hvordan døde stjerners gas skyder ud i rummet.",
+      "sektioner": [
+        {
+          "overskrift": "Stjernens vinde",
+          "tekst": "Stjernen i midten af Helix-tågen sendte tidligere kraftige vinde ud. Disse vinde drev store klumper af gas og støv ud i rummet. Nu kan forskere se, hvordan klumperne bliver opløst."
+        },
+        {
+          "overskrift": "Nye billeder",
+          "tekst": "De nye billeder viser detaljer, som aldrig før er set. Klumperne bevæger sig gennem rummet og bliver langsomt nedbrudt. Det giver ny viden om stjerners død."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Stjernen i Helix-tågen havde en kraftig vind, før den døde.",
+        "Klumper af gas bliver nu set, mens de spredes i rummet.",
+        "Observationerne er offentliggjort i Sky & Telescope."
+      ],
+      "betydning": "Det hjælper os med at forstå, hvordan stjerner dør, og hvordan stoffer spredes i rummet. Det kan give viden om, hvordan livets byggesten opstår.",
+      "pointer": [
+        "Helix-tågen er velkendt blandt astronomer.",
+        "Nye billeder viser klumpernes opløsning.",
+        "Stjernens vinde var kraftige før dens død.",
+        "Forskningen øger vores forståelse."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Quality Assessment Report Evaluates Polar Geospatial Center EarthDEM Elevation Products",
+      "link": "https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/",
+      "dato": "2026-08-12T14:13:13+00:00",
+      "kilde": "NASA",
+      "resume": "CSDA’s assessment reports help inform the user community about the quality of commercial Digital Elevation Models (DEMs).",
+      "billede": "https://science.nasa.gov/wp-content/uploads/2026/08/side-by-side-graphic-polargeospatial.jpg?w=2048",
+      "billede_alt": "At left, the cover of the rogram recently released Polar Geospatial Center EarthDEM Quality Assessment Report, which features an image of a satellite on a white field over an image of Earth from space",
+      "kategori": "Forskning",
+      "rubrik": "NASA vurderer ny kortlægning af Jordens overflade",
+      "resume_da": "NASA har undersøgt kvaliteten af digitale højdemodeller fra Polar Geospatial Center. Modellerne er gode nok til forskning, men den lodrette præcision er ikke helt i top.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er EarthDEM?",
+          "tekst": "EarthDEM er en type kort, der viser Jordens overflade i 3D. Det er lavet ud fra satellitbilleder fra Vantor-satellitterne. NASA har nu testet, hvor præcise kortene er."
+        },
+        {
+          "overskrift": "Testens resultater",
+          "tekst": "Forskere sammenlignede EarthDEM med flymålinger fra USA og Senegal. Den vandrette præcision er god: **0,3-0,5 meter** fejl. Den lodrette præcision er dog dårligere end forventet: **4,9-5,6 meter** fejl. Det varierer også med landskabstypen."
+        },
+        {
+          "overskrift": "Konklusion og brug",
+          "tekst": "Rapporten siger, at EarthDEM kan bruges til NASA's jordforskning, hvis man accepterer fejlene. Kortene er generelt godt dokumenterede, hvilket gør dem nemmere at bruge korrekt."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "0,3 m",
+          "label": "Vandret fejl (Mosaic Tile)"
+        },
+        {
+          "tal": "4,9 m",
+          "label": "Lodret fejl (Mosaic Tile)"
+        },
+        {
+          "tal": "5,6 m",
+          "label": "Lodret fejl (Strip)"
+        }
+      ],
+      "detaljer": [
+        "CSDA-programmet køber kommercielle data til NASA.",
+        "Rapporten blev udgivet 8. august 2026.",
+        "Sammenlignet med lidar-data fra fly.",
+        "Alle landskabstyper overskred specifikationen på 0,5 m lodret fejl.",
+        "Dokumentationen blev vurderet som god."
+      ],
+      "betydning": "For almindelige danskere er det relevant, fordi bedre højdemodeller kan forbedre kort og navigation. Desuden viser det, hvordan NASA sikrer kvaliteten af de data, de bruger til forskning i klima og miljø.",
+      "pointer": [
+        "NASA har testet kommercielle højdekort.",
+        "Vandret præcision er god.",
+        "Lodret præcision er middelmådig.",
+        "Kortene kan stadig bruges til forskning."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Three supermassive black holes discovered in a single galaxy for the first time",
+      "link": "https://phys.org/news/2026-08-supermassive-black-holes-galaxy.html",
+      "dato": "2026-08-12T13:40:14+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "An international team of astronomers led by the Max Planck Institute for Extraterrestrial Physics has identified three actively accreting supermassive black holes in the galaxy J0148-4214. Matter is falling into the black holes from accretion disks surrounding them.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/three-supermassive-bla-1.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Tre sorte huller fundet i samme galakse",
+      "resume_da": "Astronomer har opdaget tre supermassive sorte huller i galaksen J0148-4214. Det er første gang, man ser det.",
+      "sektioner": [
+        {
+          "overskrift": "Ny opdagelse",
+          "tekst": "Et internationalt hold af astronomer har fundet tre supermassive sorte huller i galaksen J0148-4214. Det er første gang, man ser tre aktive sorte huller i samme galakse."
+        },
+        {
+          "overskrift": "Hvordan de blev fundet",
+          "tekst": "Holdet blev ledt af Max Planck Instituttet for Udenjordisk Fysik. De sorte huller er 'aktivt akkreterende', hvilket betyder, at de trækker stof til sig fra omkringliggende skiver."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Galaksen hedder J0148-4214.",
+        "Der er tre supermassive sorte huller i galaksen.",
+        "De er fundet for første gang."
+      ],
+      "betydning": "Opdagelsen kan hjælpe forskere med at forstå, hvordan galakser og sorte huller udvikler sig, og hvordan de interagerer.",
+      "pointer": [
+        "Tre sorte huller i én galakse.",
+        "Første gang nogensinde observeret.",
+        "Fundet af internationalt hold."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "China’s iSpace raises first batch of series E funding for reusable rocketry",
+      "link": "https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/",
+      "dato": "2026-08-12T12:48:16+00:00",
+      "kilde": "SpaceNews",
+      "resume": "HELSINKI — Chinese reusable launch vehicle maker has secured a first batch of series E funding, months after a huge D++ round, with fundraising still ongoing. The funding is the [&#8230;] The post China’s iSpace raises first batch of series E funding for reusable rocketry appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Interstellar-Return-recovery-drone-feb2026-ispace-rotated.jpg?fit=867%2C542&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Kinesisk raketselskab rejser milliarder",
+      "resume_da": "iSpace, et kinesisk rumfartsselskab, har fået ny kapital til deres genanvendelige raketter. Pengene skal bruges til at udvikle og teste den næste generation af raketter.",
+      "sektioner": [
+        {
+          "overskrift": "Ny finansiering",
+          "tekst": "Det kinesiske selskab iSpace har sikret sig den første del af en serie E-finansieringsrunde. Det sker kun måneder efter en stor serie D-ronde. Selskabet arbejder på genanvendelige raketter og har brug for kapital til udvikling."
+        },
+        {
+          "overskrift": "Genanvendelige raketter",
+          "tekst": "iSpace er en af de kinesiske virksomheder, der konkurrerer om at lave genanvendelige raketter. Målet er at sænke omkostningerne ved at sende nyttelast i rummet. Pengene skal bruges til at færdiggøre udviklingen og gennemføre test."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Finansieringen er delt op i to: en serie E og en tidligere serie D.",
+        "Raketterne skal være genanvendelige for at reducere omkostninger."
+      ],
+      "betydning": "Det viser, at der er stor kommerciel interesse i at gøre rumfart billigere. Det kan på sigt betyde flere satellitter og lavere priser for at sende ting op i rummet.",
+      "pointer": [
+        "Kinesisk raketselskab får ny kapital.",
+        "Pengene går til genanvendelige raketter.",
+        "Konkurrencen om billigere rumfart øges.",
+        "Serie E finansiering kommer efter stor D-runde."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Moonquakes could reveal buried lunar ice for future explorers",
+      "link": "https://phys.org/news/2026-08-moonquakes-reveal-lunar-ice-future.html",
+      "dato": "2026-08-12T12:40:05+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "The surface of the moon is a bleak and forbidding place that could be hiding a lot of water ice within its dusty landscape. However, most possible ice deposits don't just stand out in an image. Scientists need specialized mapping to find those deposits, so they have devised another way to find the moon's frosty hidden reserves. They use seismic waves from moonquakes as locator beacons.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-to-find-lunar-ice.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Måneskælv kan afsløre skjult is på Månen",
+      "resume_da": "Forskere vil bruge seismiske bølger fra måneskælv til at finde vandis begravet under Månens overflade. Det kan hjælpe fremtidige astronauter med at finde vand.",
+      "sektioner": [
+        {
+          "overskrift": "Is på Månen",
+          "tekst": "Månens overflade er gold og fjendtlig, men kan gemme på vandis i støvet. De fleste isforekomster er dog ikke synlige på billeder. Forskere skal bruge særlige kortlægningsmetoder for at finde dem."
+        },
+        {
+          "overskrift": "Seismiske bølger som værktøj",
+          "tekst": "Forskere har udtænkt en ny metode: at bruge seismiske bølger fra måneskælv som pejlemærker. På den måde kan de lokalisere de skjulte isreserver under overfladen."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Månens overflade kan gemme på vandis i støvet.",
+        "De fleste isforekomster er ikke synlige på billeder.",
+        "Forskere vil bruge seismiske bølger fra måneskælv som locator beacons."
+      ],
+      "betydning": "For almindelige danskere kan det betyde, at fremtidige månebaser bliver mere realistiske, fordi astronauter kan finde vand på stedet i stedet for at medbringe det fra Jorden.",
+      "pointer": [
+        "Månen kan gemme på vandis i støvet.",
+        "Is er ikke altid synlig på billeder.",
+        "Måneskælv kan hjælpe med at finde isen.",
+        "Metoden kan støtte fremtidige missioner."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Musification of the 2026 total solar eclipse",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse",
+      "dato": "2026-08-12T12:00:00+00:00",
+      "kilde": "ESA",
+      "resume": "Video: 00:05:08 [English] Experience a musical simulation of the 12 August 2026 total solar eclipse as seen from the Observatorio Astrofísico de Javalambre (Spain). Click here for information about ESA’s live broadcast from this observatory, or visit esa.int/solareclipse for an overview of all ESA eclipse activities &amp; resources. This is a ‘musification’ – an artistic interpretation of a set of",
+      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/musification_of_the_2026_total_solar_eclipse/27413201-1-eng-GB/Musification_of_the_2026_total_solar_eclipse_card_full.png",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Hør solformørkelsen i 2026 som musik",
+      "resume_da": "ESA har lavet en musikalsk simulation af den totale solformørkelse i 2026 set fra Spanien. Musikken er skabt ud fra data og giver en kunstnerisk oplevelse af selve formørkelsen.",
+      "sektioner": [
+        {
+          "overskrift": "Musik fra data",
+          "tekst": "En solformørkelse bliver til musik i en såkaldt 'musification'. Data fra en simulering bestemmer, hvordan musikken lyder. Det er et samarbejde mellem ESA og et institut i Andalusien."
+        },
+        {
+          "overskrift": "Ni lydelementer",
+          "tekst": "Musikken har ni forskellige lag. For eksempel lyder en harpe for det synlige lys, og en bas afspejler mørkets styrke. Klokker markerer de vigtigste tidspunkter under formørkelsen. Et sus lyder, når solen forsvinder bag horisonten."
+        },
+        {
+          "overskrift": "En kunstnerisk oplevelse",
+          "tekst": "Formålet er at give en anderledes måde at opleve formørkelsen på. Det er en kunstnerisk fortolkning, ikke en videnskabelig måling. ESA sender live fra observatoriet under den faktiske formørkelse."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. august 2026",
+          "label": "Dato for formørkelsen"
+        },
+        {
+          "tal": "9",
+          "label": "Antal lydelementer i musikken"
+        },
+        {
+          "tal": "4 oktavers",
+          "label": "Harpen dækker"
+        }
+      ],
+      "detaljer": [
+        "Musikken er lavet sammen med Rubén García Benito fra et institut i Andalusien.",
+        "Data kommer fra et Stellarium-simulering.",
+        "Harpen afspilles af det synlige lys, og dens tonehøjde følger himlens farve.",
+        "Bassen er dybest under totaliteten.",
+        "Klokker markerer kontakterne C1, C2, maksimum og C3.",
+        "Der er ingen C4, fordi solen går ned før formørkelsen slutter."
+      ],
+      "betydning": "Det giver almindelige mennesker en unik måde at forstå og opleve en solformørkelse på. Det gør astronomi mere tilgængeligt og kunstnerisk.",
+      "pointer": [
+        "Musikken er lavet ud fra simulerede data.",
+        "Ni lydelementer repræsenterer forskellige aspekter.",
+        "Klokker markere de vigtige tidspunkter.",
+        "ESA sender live fra Spanien i 2026."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "One species, one planet: The moon is our ethical dress rehearsal for Mars",
+      "link": "https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars/",
+      "dato": "2026-08-12T12:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Bruce Jakosky, Scott Hubbard and their colleagues have given us a masterclass in pragmatic systems engineering. Their recent SpaceNews editorial titled “Laying the groundwork for the first human mission to [&#8230;] The post One species, one planet: The moon is our ethical dress rehearsal for Mars appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/moon-to-mars-scaled.png?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "Illustration representing NASA&#039;s moon-to-Mars ambitions. Credit: NASA",
+      "kategori": "Politik & penge",
+      "rubrik": "Månen er etisk øvelse for Mars",
+      "resume_da": "Forskere siger, at månen skal bruges som en etisk prøve for en fremtidig Mars-mission, hvor vi lærer at håndtere ansvar og bæredygtighed.",
+      "sektioner": [
+        {
+          "overskrift": "Månen som forberedelse",
+          "tekst": "Forskere mener, at vi skal bruge månen til at øve os, før vi sender mennesker til Mars. Det giver os mulighed for at lære at håndtere udfordringer og ansvar. På den måde kan vi gøre en Mars-mission mere sikker og ansvarlig."
+        },
+        {
+          "overskrift": "Etisk ansvar",
+          "tekst": "Månen er en slags øvelsesplads for etik. Her kan vi lære at handle på en måde, der tager hensyn til fremtidige generationer og planeter. Det er vigtigt, at vi ikke gentager fejl, når vi tager skridtet videre til Mars."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Forskere Bruce Jakosky og Scott Hubbard har skrevet et debatindlæg i SpaceNews.",
+        "De argumenterer for, at månen er en etisk generalprøve for Mars-missioner.",
+        "Artiklen opfordrer til pragmatisk systemteknik."
+      ],
+      "betydning": "For en almindelig dansker handler det om, at vi som menneskehed ikke bare skynder os ud i rummet, men gør det på en måde, der er ansvarlig og bæredygtig. Det kan påvirke fremtidige missioner og teknologi, som også kan gavne os på Jorden.",
+      "pointer": [
+        "Månen skal bruges som etisk testlejr.",
+        "Målet er at undgå fejl på Mars.",
+        "Forskere opfordrer til mere ansvar.",
+        "Det handler om langsigtet tænkning."
+      ],
+      "prio": 5
+    },
     {
       "titel": "How to design a space habitat that supports its residents' mental health",
       "link": "https://phys.org/news/2026-08-space-habitat-residents-mental-health.html",
@@ -3974,326 +4307,6 @@
         "Artiklen fokuserer på forfatterens oplevelser."
       ],
       "prio": 2
-    },
-    {
-      "titel": "How should Europe’s militaries respond to space threats",
-      "link": "https://spacenews.com/how-should-europes-militaries-respond-to-space-threats/",
-      "dato": "2026-08-06T15:31:26+00:00",
-      "kilde": "SpaceNews",
-      "resume": "In this episode, SpaceNews’ Emma Gatti leads a panel of experts to discuss Europe’s defense posture and the reaction to space threats. This session was recorded in May at SpaceNews’ [&#8230;] The post How should Europe’s militaries respond to space threats appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/space-minds-podcast-sse-astroscale-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Europa skal forberede sig på trusler i rummet",
-      "resume_da": "En paneldebat om Europas forsvar og reaktion på trusler i rummet. Eksperter diskuterer, hvordan Europa kan beskytte sig mod trusler fra rummet.",
-      "sektioner": [
-        {
-          "overskrift": "Debat om rumforsvar",
-          "tekst": "SpaceNews har afholdt en paneldebat om Europas forsvarsposition og reaktion på trusler i rummet. Debatten blev optaget i maj og samlede eksperter på området."
-        },
-        {
-          "overskrift": "Trusler og reaktioner",
-          "tekst": "Panelet diskuterede, hvordan Europas militære skal håndtere trusler i rummet. Det er vigtigt at forberede sig på nye udfordringer og finde fælles løsninger."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Debatten blev optaget i maj.",
-        "Deltagerne var eksperter på området.",
-        "Diskussionen handlede om Europas forsvarsposition."
-      ],
-      "betydning": "Det er relevant for almindelige danskere, fordi det handler om sikkerhed og forsvar, som påvirker hele Europa.",
-      "pointer": [
-        "Europa debatterer rumforsvar.",
-        "Trusler i rummet er et emne.",
-        "Eksperter diskuterer løsninger.",
-        "Debatten blev optaget i maj."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Taking Flight to Prepare for Space",
-      "link": "https://www.nasa.gov/image-article/taking-flight-to-prepare-for-space/",
-      "dato": "2026-08-06T15:15:37+00:00",
-      "kilde": "NASA",
-      "resume": "NASA astronaut Adam Fuhrmann (right, in yellow) prepares for a training flight aboard NASA’s WB-57 aircraft in this July 16, 2026, photo. These high-altitude flights train the crew to work in a tight environment and operate aircraft systems while in a pressure suit, preparing them for future missions to the International Space Station, Moon, or [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/55412014375-711b8f02f7-o.jpg?w=2048",
-      "billede_alt": "Two people in slim yellow spacesuits and white helmets climb into an airplane as technicians work around them.",
-      "kategori": "Missioner",
-      "rubrik": "NASA-astronaut træner i højhøjdeflyvning",
-      "resume_da": "NASA-astronauter træner i et WB-57-fly for at blive klar til missioner til den Internationale Rumstation og Månen.",
-      "sektioner": [
-        {
-          "overskrift": "Træning i luften",
-          "tekst": "NASA-astronauter træner i et WB-57-fly. Flyet flyver i stor højde. Træningen forbereder dem til missioner i rummet."
-        },
-        {
-          "overskrift": "Hvorfor WB-57?",
-          "tekst": "Flyet giver astronauterne mulighed for at arbejde i et trangt miljø. De lærer at betjene flyets systemer, mens de har trykdragt på. Det svarer til forholdene i et rumfartøj."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Fotoet er fra 16. juli 2026.",
-        "Astronauten på billedet hedder Adam Fuhrmann.",
-        "Flyet er NASA's WB-57."
-      ],
-      "betydning": "Det viser, hvordan NASA forbereder astronauter til fremtidige missioner, også til Månen.",
-      "pointer": [
-        "Astronauter træner i WB-57-fly.",
-        "Træningen foregår i trykdragt.",
-        "Målet er missioner til rumstationen og Månen."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Lessons for the future of NASA Mars exploration from a 1970s mission",
-      "link": "https://spacenews.com/lessons-for-the-future-of-nasa-mars-exploration-from-a-1970s-mission/",
-      "dato": "2026-08-06T15:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "July 20 marked the 50th anniversary of one of the biggest robotic spaceflight achievements in NASA’s history: the landing of the Viking 1 spacecraft on Mars. It was the first [&#8230;] The post Lessons for the future of NASA Mars exploration from a 1970s mission appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2020/07/PHOTO-3-VIKING.jpg?fit=1000%2C806&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Viking 1-landing: 50 år og stadig relevant",
-      "resume_da": "Jubilæet for Viking 1-landingen på Mars giver indsigt i fremtidens Mars-missioner.",
-      "sektioner": [
-        {
-          "overskrift": "Historisk bedrift",
-          "tekst": "Den 20. juli markerede 50-året for Viking 1-landingen på Mars. Det var en af NASA's største bedrifter inden for robotudforskning."
-        },
-        {
-          "overskrift": "Læringer til fremtiden",
-          "tekst": "Artiklen trækker paralleller til moderne Mars-missioner. De erfaringer, man gjorde dengang, kan hjælpe med at planlægge fremtidige ture til Mars."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "50 år",
-          "label": "Jubilæum"
-        },
-        {
-          "tal": "20. juli",
-          "label": "Landingsdato"
-        }
-      ],
-      "detaljer": [
-        "Viking 1 var den første vellykkede Mars-landing.",
-        "Artiklen fokuserer på overførslen af viden til nutidige missioner."
-      ],
-      "betydning": "Viking-missionerne banede vejen for al den Mars-forskning, vi har i dag. For danskere betyder det, at vi kan forstå, hvordan fortiden former vores viden om Mars.",
-      "pointer": [
-        "50-året for Viking 1",
-        "Læringer til nutid",
-        "Betydning for fremtid"
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Rare ultra-magnetic star may be key to solving 90-year old quantum cold case",
-      "link": "https://phys.org/news/2026-08-rare-ultra-magnetic-star-key.html",
-      "dato": "2026-08-06T14:20:06+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Astronomers may have just confirmed one of the quirkiest aspects of quantum mechanics: that seemingly empty space can alter the behavior of light. This phenomenon, called \"vacuum birefringence,\" was first predicted nearly 90 years ago by Werner Heisenberg, one of the founding fathers of quantum mechanics. He suggested that even a perfect vacuum should be teeming with \"virtual particles\" that rapid",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/rare-ultra-magnetic-st.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Ultra-magnetisk stjerne kan løse 90 år gammelt kvantemysterium",
-      "resume_da": "Astronomer har muligvis bekræftet, at tomt rum kan ændre lysets opførsel – et fænomen kaldet vacuum dobbeltbrydning. Dette kan ske takket være en sjælden, ekstremt magnetisk stjerne.",
-      "sektioner": [
-        {
-          "overskrift": "Kvanteeffekt observeret",
-          "tekst": "Forskere mener nu at have observeret, at tomt rum kan påvirke lys. Denne effekt kaldes vacuum dobbeltbrydning. Den blev forudsagt af Werner Heisenberg for næsten 90 år siden."
-        },
-        {
-          "overskrift": "Stjernen der gør det muligt",
-          "tekst": "En ekstremt magnetisk stjerne, også kaldet en magnetar, er nøglen til observationen. Den har et enormt magnetfelt, som får tomt rum til at ændre lysets polarisering. Dette bekræfter kvantemekanikkens forudsigelser."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "90 år",
-          "label": "Siden forudsigelsen"
-        }
-      ],
-      "detaljer": [
-        "Fænomenet kaldes vacuum dobbeltbrydning.",
-        "Werner Heisenberg forudsagde det.",
-        "Tomt rum er fyldt med virtuelle partikler.",
-        "En magnetar er en ultra-magnetisk stjerne."
-      ],
-      "betydning": "Dette bekræfter en grundlæggende del af kvantemekanikken, som vi bruger i mange moderne teknologier. Det viser, at selv tomt rum ikke er helt tomt – noget der kan påvirke vores forståelse af universet.",
-      "pointer": [
-        "Bekræftelse af kvanteeffekt",
-        "Sjælden magnetar observeret",
-        "Tomt rum ændrer lys",
-        "90 år gammel teori styrket"
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Redwire to fly dedicated Starfall mission for microgravity research",
-      "link": "https://spacenews.com/redwire-to-fly-dedicated-starfall-mission-for-microgravity-research/",
-      "dato": "2026-08-06T14:18:19+00:00",
-      "kilde": "SpaceNews",
-      "resume": "A Redwire subsidiary working on space biotech and pharmaceutical applications has signed an agreement to fly microgravity research payloads on SpaceX’s Starfall reentry vehicle. The post Redwire to fly dedicated Starfall mission for microgravity research appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/starfall-reentry-scaled.jpeg?fit=1024%2C576&amp;ssl=1",
-      "billede_alt": "Starfall reentry",
-      "kategori": "Forskning",
-      "rubrik": "Redwire sender forskning til rummet med SpaceX",
-      "resume_da": "Redwire vil sende mikrotyngdekraftsforskning på SpaceX's Starfall-kapsel for at udvikle bioteknologi og lægemidler i rummet.",
-      "sektioner": [
-        {
-          "overskrift": "Aftale om rumforskning",
-          "tekst": "Redwire's datterselskab har underskrevet en aftale om at flyve mikrotyngdekraftsforsøg på SpaceX's Starfall-genindtrædelsesfartøj. Det skal bruges til bioteknologi og farmaceutiske anvendelser."
-        },
-        {
-          "overskrift": "Starfall-missionen",
-          "tekst": "Starfall er et genanvendeligt fartøj, der kan bringe eksperimenter tilbage til Jorden. Missionen giver mulighed for at teste materialer og processer i vægtløs tilstand."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Aftalen er mellem Redwire's datterselskab og SpaceX.",
-        "Fokus er på mikrotyngdekraftsforskning.",
-        "Anvendelser inkluderer bioteknologi og lægemidler."
-      ],
-      "betydning": "Forskning i rummet kan føre til nye lægemidler og bedre bioteknologi, som kan komme patienter til gode på Jorden. Det viser også, at private virksomheder samarbejder om avanceret videnskab.",
-      "pointer": [
-        "Redwire sender forskning med SpaceX.",
-        "Mikrotyngdekraft kan forbedre medicin.",
-        "Starfall bringer eksperimenter tilbage.",
-        "Samarbejde mellem rumfirmaer vokser."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "On this day in space! Aug. 6, 2012: NASA lands huge Curiosity rover on Mars with a rocket-powered sky crane",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-6-2026",
-      "dato": "2026-08-06T14:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "On Aug. 6, 2012, NASA's Curiosity rover successfully touched down on the Martian surface in a way never attempted before: a rocket-powered sky crane. Here's why it mattered.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/xDe5VhDVboNSqS9DFUN7FZ-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Første billede fra James Webb-teleskopet er nu offentliggjort",
-      "resume_da": "Astronomer har frigivet det første farvebillede fra James Webb-rumteleskopet. Det viser tusindvis af galakser i hidtil uset detalje.",
-      "sektioner": [
-        {
-          "overskrift": "Et historisk øjeblik",
-          "tekst": "NASA og deres partnere har præsenteret det første farvebillede fra James Webb-rumteleskopet. Billedet viser en galaksehob kaldet SMACS 0723. Det er det dybeste og skarpeste infrarøde billede af universet nogensinde."
-        },
-        {
-          "overskrift": "Hvad billedet viser",
-          "tekst": "Billedet er fyldt med tusindvis af galakser. Nogle af dem er over **13 milliarder** år gamle. Det giver forskerne et unikt indblik i universets tidlige historie."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "13 milliarder år",
-          "label": "Alder på de ældste galakser"
-        }
-      ],
-      "detaljer": [
-        "James Webb-rumteleskopet er det største og mest kraftfulde rumteleskop, der nogensinde er sendt i kredsløb.",
-        "Billedet er taget med teleskopets hovedkamera, NIRCam.",
-        "Galaksehoben SMACS 0723 ligger omkring 4,6 milliarder lysår fra Jorden.",
-        "Billedet viser lys fra galakser, der har rejst i over 13 milliarder år."
-      ],
-      "betydning": "Dette billede er startskuddet til en ny æra inden for astronomi. Det kan hjælpe os med at forstå, hvordan de første stjerner og galakser blev dannet.",
-      "pointer": [
-        "Første farvebillede fra James Webb-teleskopet.",
-        "Viser galaksehoben SMACS 0723.",
-        "Indeholder galakser over 13 milliarder år gamle.",
-        "Det dybeste infrarøde billede af universet."
-      ],
-      "prio": 9
-    },
-    {
-      "titel": "Space kit for future 'away missions' tested in Scotland",
-      "link": "https://phys.org/news/2026-08-space-kit-future-missions-scotland.html",
-      "dato": "2026-08-06T13:40:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Researchers from the University of Leicester and the University of Aberdeen have carried out a series of field demonstrations in Portsoy to test cutting-edge handheld analytical instruments. Designed for use by astronauts on the moon and, eventually, Mars, these instruments would support astronauts working as field scientists while exploring these worlds.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/space-kit-for-future-a.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Test af rumudstyr til fremtidige måne- og Marsmissioner",
-      "resume_da": "Forskere har testet avancerede håndholdte instrumenter i Skotland, som astronauter skal bruge som feltforskere på Månen og Mars.",
-      "sektioner": [
-        {
-          "overskrift": "Test i Skotland",
-          "tekst": "Forskere fra universiteterne i Leicester og Aberdeen har afprøvet moderne håndholdte analyseredskaber i Portsoy. Instrumenterne er designet til at hjælpe astronauter med at undersøge geologi og andre videnskabelige opgaver på fremtidige missioner."
-        },
-        {
-          "overskrift": "Formål med instrumenterne",
-          "tekst": "De håndholdte instrumenter skal bruges af astronauter, der arbejder som feltforskere på Månen og Mars. De skal gøre det muligt at foretage hurtige analyser direkte på stedet, uden at skulle sende prøver tilbage til Jorden."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "Leicester",
-          "label": "Universitet, der deltager"
-        },
-        {
-          "tal": "Aberdeen",
-          "label": "Universitet, der deltager"
-        }
-      ],
-      "detaljer": [
-        "Testene blev udført i Portsoy, Skotland.",
-        "Instrumenterne er håndholdte og analytiske.",
-        "De er beregnet til brug på Månen og Mars."
-      ],
-      "betydning": "For almindelige danskere kan denne teknologi bidrage til at gøre fremtidige rummissioner mere effektive og videnskabeligt produktive, hvilket kan føre til nye opdagelser om vores solsystem.",
-      "pointer": [
-        "Test af instrumenter i Skotland",
-        "Forskere fra to universiteter",
-        "Instrumenter til Månen og Mars",
-        "Støtte til astronautforskere"
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "Spacecraft observations may conceal how particles really move through near-Earth space",
-      "link": "https://phys.org/news/2026-08-spacecraft-conceal-particles-earth-space.html",
-      "dato": "2026-08-06T13:20:06+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "High-energy particles in Earth's radiation belt can appear to spread out randomly, even when they are moving in a \"predictable\" way. This is because spacecraft observations naturally blur the fine-scale structure of the particle population, a new study reveals.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/near-earth-orbit.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Rumsonder skjuler sand bevægelse af partikler",
-      "resume_da": "Nye målinger viser, at rumsonder kan få partikler i Jordens strålingsbælte til at se tilfældige ud, selvom de bevæger sig forudsigeligt.",
-      "sektioner": [
-        {
-          "overskrift": "Partikler i strålingsbæltet",
-          "tekst": "Jordens strålingsbælte indeholder højenergi-partikler. De kan se ud til at sprede sig tilfældigt. Men det er en illusion fra rumsondernes målinger."
-        },
-        {
-          "overskrift": "Målinger slører detaljer",
-          "tekst": "Rumsonder observerer partiklerne, men de kan ikke se den fine struktur. Derfor kan partiklerne virke uforudsigelige, selvom de bevæger sig på en regelmæssig måde."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "høj energi (ikke specificeret)",
-          "label": "partikel energi"
-        }
-      ],
-      "detaljer": [
-        "Nyt studie viser, at observationer fra rumsonder kan skjule den virkelige bevægelse af partikler i Jordens strålingsbælte.",
-        "Partikler kan se ud til at sprede sig tilfældigt, men de bevæger sig måske forudsigeligt.",
-        "Sløringen skyldes, at målingerne ikke kan se den fine struktur i partikelbefolkningen."
-      ],
-      "betydning": "Forståelse af partiklernes bevægelse er vigtig for at beskytte satellitter og astronauter mod skadelig stråling. Resultaterne kan hjælpe forskere med at fortolke rumdata mere præcist.",
-      "pointer": [
-        "Partikler i strålingsbæltet kan virke tilfældige.",
-        "Rumsonder slører den fine struktur.",
-        "Bevægelsen er måske forudsigelig.",
-        "Vigtigt for satellitsikkerhed."
-      ],
-      "prio": 6
     }
   ]
 }
