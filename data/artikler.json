@@ -1,7 +1,218 @@
 {
-  "opdateret": "2026-08-12T19:50:57.638898+00:00",
+  "opdateret": "2026-08-12T22:23:55.177359+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Space Command identifies capabilities it needs for the next space war",
+      "link": "https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/",
+      "dato": "2026-08-12T22:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Gen. Stephen Whiting said there is a demand for offensive capabilities and called on the industry to develop ways to disable the critical nodes of large satellite constellations The post Space Command identifies capabilities it needs for the next space war appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Screenshot-2026-08-12-at-3.23.57-PM.png?fit=1024%2C500&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Rumvåben til den næste krig i rummet",
+      "resume_da": "Den amerikanske rumkommando efterlyser offensive våben til at ødelægge fjendtlige satellitter. General Stephen Whiting opfordrer industrien til at udvikle våben mod store satellitkonstellationer.",
+      "sektioner": [
+        {
+          "overskrift": "Behov for offensive våben",
+          "tekst": "General Stephen Whiting siger, at der er brug for offensive evner. Han opfordrer industrien til at udvikle måder at ødelægge kritiske knudepunkter i store satellitkonstellationer."
+        },
+        {
+          "overskrift": "Opfordring til industrien",
+          "tekst": "Whiting henvender sig til forsvarsindustrien. Han ønsker nye våben, der kan lamme fjendens satellitter i en fremtidig rumkrig."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "General Stephen Whiting er chef for den amerikanske rumkommando.",
+        "Han nævner specifikt store satellitkonstellationer som mål.",
+        "Artiklen kommer fra SpaceNews."
+      ],
+      "betydning": "For en almindelig dansker betyder det, at rummet bliver et større militært område. Det kan påvirke danske interesser, da mange lande er afhængige af satellitter til kommunikation og navigation.",
+      "pointer": [
+        "USA vil have våben til rummet.",
+        "Fokus er på at ødelægge satellitter.",
+        "Industrien skal udvikle nye våben.",
+        "Store satellitkonstellationer er i søgelyset."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "This year's 'Masters of the Universe' movie wasn't Hollywood's first attempt at capturing the power of He-Man; they tried back in 1987, and failed then too",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-years-masters-of-the-universe-movie-wasnt-hollywoods-first-attempt-at-capturing-the-power-of-he-man-they-tried-back-in-1987-and-failed-then-too",
+      "dato": "2026-08-12T21:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "How bad timing, a studio in financial turmoil, and a movie that looked nothing like the cartoon conspired to defeat the most powerful man in the universe.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/cHd4Rbtr9bexBQPqgzCWDH-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "He-Man-film floppede også i 1987",
+      "resume_da": "Den nye Masters of the Universe-film er ikke første forsøg. Allerede i 1987 fejlede en film med He-Man.",
+      "sektioner": [
+        {
+          "overskrift": "Tidligere forsøg",
+          "tekst": "Hollywood prøvede også at lave en He-Man-film i 1987. Den film fejlede også dengang. Det er ikke første gang, man har prøvet."
+        },
+        {
+          "overskrift": "Journalistens baggrund",
+          "tekst": "Historien kommer fra en journalist, der har skrevet om sci-fi i mange år. Han har blandt andet arbejdet på det britiske magasin SFX i 12 år."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1987",
+          "label": "År for første filmforsøg"
+        },
+        {
+          "tal": "12",
+          "label": "År hos SFX-magasinet"
+        }
+      ],
+      "detaljer": [
+        "Journalisten har mødt fem Doctorer fra Doctor Who",
+        "Har mødt to Starfleet-kaptajner",
+        "Har siddet i cockpittet på Starbug fra Red Dwarf"
+      ],
+      "betydning": "For almindelige danskere viser det, at film om kendte figurer ikke altid bliver en succes. Det er også en sjov historie for dem, der kan lide sci-fi.",
+      "pointer": [
+        "Filmfejl sker ofte",
+        "Ikke nyt med He-Man-flop",
+        "Journalist har lang erfaring",
+        "Sci-fi-fans kan relatere"
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
+      "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/",
+      "dato": "2026-08-12T20:40:27+00:00",
+      "kilde": "NASA",
+      "resume": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land and how to mine them. To help with that, Lunar Station Corp. is using a wealth of NASA [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/pia00132orig.jpg?w=1083",
+      "billede_alt": "A multicolored picture of Earth&#039;s Moon.",
+      "kategori": "Missioner",
+      "rubrik": "NASA-data hjælper firma med at planlægge måneudvinding",
+      "resume_da": "Lunar Station Corp. bruger 60 års NASA-data til at kortlægge månen og hjælpe kommercielle firmaer med at finde vand og mineraler samt planlægge missioner.",
+      "sektioner": [
+        {
+          "overskrift": "Data til måneplanlægning",
+          "tekst": "Lunar Station Corp. bruger NASA-data til at lave 3D-kort over månen. Det hjælper firmaer med at vælge landingssteder og finde ruter for robotter. Dataene kommer fra mange kilder, herunder satellitter og historiske billeder."
+        },
+        {
+          "overskrift": "Vand på månen",
+          "tekst": "I 2009 styrtede NASA en sonde ned på månens sydpol for at finde vandis. Det lykkedes, og resultaterne bruges nu til at finde lavvandede vandforekomster. Det er vigtigt, fordi vand kan bruges til at lave ilt og brændstof."
+        },
+        {
+          "overskrift": "Simulering af stråling",
+          "tekst": "Lunar Station har også en simulator, der tester udstyr mod stråling. Firmaet laver en digital kopi af rumfartøjet og udsætter den for stråling for at se, hvad der skal til for at beskytte det. Det er en del af NASA's spinoff-program, der viser, hvordan rumteknologi gavner livet på Jorden."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "60 år",
+          "label": "Månedata tilgængelige"
+        },
+        {
+          "tal": "2009",
+          "label": "År for vandis-opdagelse"
+        }
+      ],
+      "detaljer": [
+        "NASA har samlet data om månen i årtier.",
+        "Månen har ressourcer som vand, jern og titanium.",
+        "Lunar Station Corp. er baseret i Cambridge, Massachusetts.",
+        "Firmaet bruger open-source kode fra NASA til at lave 3D-modeller.",
+        "MoonHacker-programmet fletter data fra NASA's Planetary Data System.",
+        "NASA's Technology Transfer-program støtter sådanne kommercielle anvendelser."
+      ],
+      "betydning": "Det er relevant, fordi det viser, hvordan rumforskning kan føre til ny teknologi og økonomiske muligheder. Fremtidig udvinding på månen kan også bane vejen for mere bæredygtige løsninger på Jorden.",
+      "pointer": [
+        "NASA-data bruges til at kortlægge månen.",
+        "Vandis blev fundet i 2009.",
+        "Simulator tester mod stråling.",
+        "Teknologien gavner også Jorden."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Stellar stream beyond Milky Way offers new tool to map dark matter",
+      "link": "https://phys.org/news/2026-08-stellar-stream-milky-tool-dark.html",
+      "dato": "2026-08-12T20:20:06+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "In the image above, a faint trail of stars can be seen stretching across the galaxy. These structures, known as globular cluster stellar streams, are coherent stellar structures that retain a record of their dynamical history and can provide unique insights into the evolution of galaxies and the nature of dark matter.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/breakthrough-in-unusua-1.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Stjernestrøm afslører mørkt stof",
+      "resume_da": "Astronomer har fundet en stjernestrøm i Mælkevejen, der kan hjælpe med at kortlægge mørkt stof. Strømmen er fra en kuglehob og bevarer spor af sin historie.",
+      "sektioner": [
+        {
+          "overskrift": "Opdagelsen",
+          "tekst": "Et billede viser en svag sti af stjerner, der strækker sig gennem galaksen. Den kaldes en kuglehob-stjernestrøm. Den er en sammenhængende struktur af stjerner."
+        },
+        {
+          "overskrift": "Hvad det betyder",
+          "tekst": "Sådanne stjernestrømme gemmer på information om deres dynamiske historie. De kan give unik indsigt i galaksers udvikling og naturen af mørkt stof."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Stjernestrømmen ses som en svag sti af stjerner på tværs af galaksen.",
+        "Den er dannet af en kuglehob.",
+        "Stjernestrømme er sammenhængende strukturer.",
+        "De bevarer et spor af deres dynamiske historie."
+      ],
+      "betydning": "For danskere betyder det, at vi lærer mere om det mystiske mørke stof, som udgør en stor del af universet. Det kan føre til ny viden om galaksers opbygning.",
+      "pointer": [
+        "Stjernestrøm fra kuglehob fundet",
+        "Kan kortlægge mørkt stof",
+        "Giver indsigt i galakseudvikling"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "2026 Total Solar Eclipse in Spain",
+      "link": "https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/",
+      "dato": "2026-08-12T20:08:28+00:00",
+      "kilde": "NASA",
+      "resume": "A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026. A total solar eclipse – the Moon passing between the Sun and Earth, completely blocking the face of the Sun – swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg?w=2048",
+      "billede_alt": "The light of the Sun makes a fiery yellow halo around the Moon during a total solar eclipse. There is a hint of red at the 9 o&#039;clock position on the Moon&#039;s edge.",
+      "kategori": "Astronomi",
+      "rubrik": "Total solformørkelse i Spanien 2026",
+      "resume_da": "En total solformørkelse blev set fra Spanien den 12. august 2026. Månen dækkede solen helt i flere områder.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad skete der?",
+          "tekst": "Den 12. august 2026 passerede Månen mellem Jorden og Solen og dækkede solen helt i visse områder. Den totale formørkelse var synlig fra dele af Grønland, Island, Nordrusland, Atlanterhavet, Spanien og en lille del af Portugal."
+        },
+        {
+          "overskrift": "Hvor var den synlig?",
+          "tekst": "I USA, Canada, det meste af Europa og nordvestlige Afrika kunne man se en delvis formørkelse. Mange mennesker rejste til Spanien for at opleve totaliteten."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. august 2026",
+          "label": "Dato for formørkelsen"
+        }
+      ],
+      "detaljer": [
+        "NASA's Bill Ingalls fotograferede formørkelsen fra San Millán de los Caballeros i Spanien.",
+        "Formørkelsen var en total solformørkelse, hvor Månen helt blokerer Solen.",
+        "Delvis formørkelse var synlig i USA, Canada, Europa og Nordvestafrika.",
+        "NASA lagde video af formørkelsen på deres YouTube-kanal."
+      ],
+      "betydning": "En total solformørkelse er en sjælden og spektakulær begivenhed, som mange danskere rejser til udlandet for at opleve. Det minder os om, hvor fantastisk vores solsystem er.",
+      "pointer": [
+        "Total formørkelse den 12. august 2026.",
+        "Synlig fra Spanien og flere andre steder.",
+        "Delvis synlig i Europa og USA.",
+        "NASA delte billeder og video."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission",
       "link": "https://www.nasaspaceflight.com/2026/08/china-roundup-20260813/",
@@ -4101,222 +4312,6 @@
         "Rubin vil følge feltet i ti år."
       ],
       "prio": 6
-    },
-    {
-      "titel": "APOD: 2026 August 7 – Rubin’s Cosmos Field",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-6-rubins-cosmos-field/",
-      "dato": "2026-08-07T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 August 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rubin&#8217;s COSMOS Field [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/noirlab2618b.jpg?w=1280&#038;h=908&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "This exceptionally deep image from NSF–DOE Vera C. Rubin Observatory reveals the renowned COSMOS field and its surroundings in the constellation Sextans. The view is crowded with galaxies and galaxy c",
-      "kategori": "Astronomi",
-      "rubrik": "Rubin-observatoriet viser et halvt univers af galakser",
-      "resume_da": "Nyt billede fra Vera C. Rubin-observatoriet viser over 500.000 galakser. Det giver et hidtil uset kig ud i universet.",
-      "sektioner": [
-        {
-          "overskrift": "Et kæmpe himmelområde",
-          "tekst": "Billedet viser COSMOS-feltet, som er flere gange større end fuldmånen. Det blev først observeret af Hubble-teleskopet, og senere også af Webb-teleskopet."
-        },
-        {
-          "overskrift": "Mange galakser",
-          "tekst": "Der er mere end **500.000** galakser i billedets centrum. Galakserne har mange forskellige former og størrelser. Nogle er så langt væk, at lyset har rejst i milliarder af år."
-        },
-        {
-          "overskrift": "Et dynamisk syn",
-          "tekst": "Rubin vil observere området hvert par dage i ti år. Det giver mulighed for at se, hvordan nattehimlen ændrer sig over tid."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "500.000+",
-          "label": "Galakser i billedet"
-        },
-        {
-          "tal": "10 år",
-          "label": "Varighed af undersøgelsen"
-        }
-      ],
-      "detaljer": [
-        "Billedet er taget af Vera C. Rubin-observatoriet i Chile.",
-        "COSMOS-feltet er et område med få klare stjerner fra vores galakse.",
-        "De ydre paneler viser forstørrelser af udvalgte områder."
-      ],
-      "betydning": "Det giver almindelige mennesker en fornemmelse af, hvor mange galakser der findes, og hvor meget vi stadig har til gode at opdage om universet.",
-      "pointer": [
-        "Stor opdagelse om universet",
-        "Mange galakser på ét billede",
-        "Ny teknologi i astronomi",
-        "Fremtidige observationer"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Sensing the Poles’ Hidden Heat",
-      "link": "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/",
-      "dato": "2026-08-07T04:00:00+00:00",
-      "kilde": "NASA",
-      "resume": "New animations from NASA’s PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic.",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-moonlit-earth-as-seen-from-artemis-ii/art002e000192~orig_th.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "NASA-måling afslører polernes skjulte varme",
-      "resume_da": "Nye data fra NASAs PREFIRE-mission viser, hvordan temperaturerne svinger voldsomt i Arktis og Antarktis. Målingerne kan forbedre vejr- og klimamodeller.",
-      "sektioner": [
-        {
-          "overskrift": "To års data fra polerne",
-          "tekst": "PREFIRE-satellitterne har siden juli 2024 samlet data og nu dækket to hele årstidscyklusser ved hver pol. Animationen viser store temperatursvingninger, hvor isen skifter mellem mørkeblå kulde og varmere røde farver."
-        },
-        {
-          "overskrift": "Hvorfor det betyder noget",
-          "tekst": "Polerne udstråler varme som infrarød stråling, og det udgør næsten **60 procent** af den energi, Jorden mister til rummet. Før PREFIRE var dette spektrum aldrig blevet målt grundigt globalt, men nu kan forskere spore det i næsten realtid."
-        },
-        {
-          "overskrift": "Bedre forudsigelser",
-          "tekst": "Målingerne hjælper med at forfine klimamodeller, som påvirker alt fra vejrudsigter til skibsforbindelser. Lederen af missionen siger, at dataene kan forbedre de forudsigelser, som blandt andet industrier og Arktiske samfund er afhængige af."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "60 %",
-          "label": "Andel af jordens energiudstråling"
-        },
-        {
-          "tal": "juli 2024",
-          "label": "Start på dataindsamling"
-        }
-      ],
-      "detaljer": [
-        "PREFIRE består af to små CubeSat-satellitter.",
-        "Arktis og Antarktis har modsatte årstider, og temperatursvingningerne er forskellige.",
-        "Far-infrarød stråling er usynlig for det blotte øje.",
-        "Målingerne kan belyse jordens energibalance."
-      ],
-      "betydning": "For almindelige danskere betyder det bedre vejr- og klimamodeller, som kan forbedre forudsigelser om alt fra storme til havniveau. Det kan også hjælpe med at forstå, hvordan klimaforandringer påvirker isen ved polerne.",
-      "pointer": [
-        "PREFIRE måler usynlig varmestråling fra polerne.",
-        "To års data viser store årstidsvariationer.",
-        "De kan forbedre klima- og vejrmodeller.",
-        "Polarområderne spiller en vigtig rolle i jordens energibalance."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Charting the galaxy: Milky Way Mapper survey releases latest all-sky spectra",
-      "link": "https://phys.org/news/2026-08-galaxy-milky-mapper-survey-latest.html",
-      "dato": "2026-08-06T22:30:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "The Sloan Digital Sky Survey V (SDSS-V) has announced its 20th public data release (DR20), delivering a dramatic expansion of the Milky Way Mapper (MWM) scientific survey—the most detailed spectroscopic map yet assembled of stars in and around our home galaxy.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/charting-the-galaxy-sd.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Kortlægning af Mælkevejen får kæmpe dataudvidelse",
-      "resume_da": "SDSS-V's 20. dataudgivelse udvider den hidtil mest detaljerede spektroskopiske kortlægning af stjerner i og omkring Mælkevejen.",
-      "sektioner": [
-        {
-          "overskrift": "Stor dataudvidelse",
-          "tekst": "Sloan Digital Sky Survey V (SDSS-V) har udgivet sin 20. offentlige datapakke. Den giver en markant udvidelse af Milky Way Mapper-undersøgelsen. Det er den mest detaljerede spektroskopiske kortlægning af stjerner i og omkring vores galakse til dato."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "20. offentlige dataudgivelse fra SDSS-V",
-        "Udvidelse af Milky Way Mapper-undersøgelsen",
-        "Mest detaljerede spektroskopiske kortlægning af stjerner i Mælkevejen"
-      ],
-      "betydning": "Den øgede viden om stjernernes sammensætning og bevægelser hjælper forskere med at forstå, hvordan vores galakse er opstået og udviklet sig.",
-      "pointer": [
-        "SDSS-V udgiver 20. datapakke",
-        "Milky Way Mapper udvides markant",
-        "Detaljeret kort over Mælkevejens stjerner"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Trillion-mile gas streamer may explain tilt of triple-star system's outer planet-forming ring",
-      "link": "https://phys.org/news/2026-08-trillion-mile-gas-streamer-tilt.html",
-      "dato": "2026-08-06T21:00:07+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "A team of astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA) has captured a massive stream of gas—one trillion miles, or 0.2 light-years, long—feeding the young triple-star system GW Orionis. These new observations provide the clearest evidence yet for how such \"streamers\" can tilt and twist the disks where planets are born. The findings are published in The Astronomical Jou",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-trillion-mile-cosmic.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Gassky kaster lys over skæve planetringe",
-      "resume_da": "Astronomer har opdaget en enorm gasstrøm på en billion miles, der kan forklare, hvorfor planetdannende ringe omkring det unge trestjernesystem GW Orionis er skæve.",
-      "sektioner": [
-        {
-          "overskrift": "En kæmpe gasstrøm",
-          "tekst": "Ved hjælp af ALMA-teleskopet har forskere fundet en gasstrøm på en billion miles (cirka 0,2 lysår). Den strømmer ind i systemet GW Orionis. Det er det klareste bevis endnu på, at sådanne strømme kan vippe og dreje planetskiver."
-        },
-        {
-          "overskrift": "Hvorfor er ringene skæve?",
-          "tekst": "GW Orionis er et ungt system med tre stjerner. Dens ydre planetdannende ring er skæv i forhold til stjernerne. Den nye gasstrøm kan være årsagen. Den trækker i skiven og får den til at hælde."
-        },
-        {
-          "overskrift": "Nye observationer",
-          "tekst": "Observationerne er lavet med ALMA, et kraftigt radioteleskop i Chile. Resultaterne er offentliggjort i tidsskriftet The Astronomical Journal. Det giver ny viden om, hvordan planeter dannes i komplekse systemer."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1 billion miles",
-          "label": "Længden af gasstrømmen"
-        },
-        {
-          "tal": "0,2 lysår",
-          "label": "Samme længde i lysår"
-        }
-      ],
-      "detaljer": [
-        "Fundet er offentliggjort i The Astronomical Journal.",
-        "Teleskopet ALMA blev brugt til observationerne.",
-        "Systemet hedder GW Orionis og har tre stjerner."
-      ],
-      "betydning": "Det hjælper forskere med at forstå, hvordan planetsystemer dannes, også i systemer med flere stjerner. Det kan give indsigt i, hvordan vores eget solsystem blev til.",
-      "pointer": [
-        "Gasstrøm er en billion miles lang.",
-        "Den påvirker planetdannende ringe.",
-        "Fundet er fra ALMA-teleskopet.",
-        "Udgivet i The Astronomical Journal."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Milky Way-like simulation reveals how central galactic structures grow together",
-      "link": "https://phys.org/news/2026-08-milky-simulation-reveals-central-galactic.html",
-      "dato": "2026-08-06T20:40:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Understanding the formation and evolution of the centers of galaxies is one of the most intriguing challenges in astrophysics. The new study aims to unveil the physical processes that led to the formation of two striking features surrounding the black holes at the centers of most galaxies: nuclear star clusters and nuclear stellar disks. Only in the last decade have such galactic structures been o",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-central-galactic-s.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Ny simulering afslører galaksers centrale struktur",
-      "resume_da": "Forskere har med en computersimulering vist, hvordan nukleare stjernehobe og stjerneskiver dannes omkring sorte huller i galaksers centre.",
-      "sektioner": [
-        {
-          "overskrift": "Galaksernes gådefulde centre",
-          "tekst": "Astrofysikere har længe undret sig over, hvordan galaksers centrale strukturer dannes. To slående fænomener omkring sorte huller er nukleare stjernehobe og nukleare stjerneskiver. Kun i det seneste årti er de blevet observeret i Mælkevejen og andre galakser."
-        },
-        {
-          "overskrift": "Simulering giver nyt svar",
-          "tekst": "En ny computersimulering efterligner vores Mælkevej og viser, hvordan disse strukturer vokser frem sammen. Modellen afslører de fysiske processer, der har dannet de to strukturer omkring de fleste galaksers sorte huller. Det giver ny indsigt i galaksedannelse."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Studiet er publiceret i tidsskriftet Phys.org Rum.",
-        "Nukleare stjernehobe og stjerneskiver findes omkring sorte huller i de fleste galakser.",
-        "Strukturerne er kun observeret i det seneste årti.",
-        "Simuleringen er lavet efter Mælkevejen."
-      ],
-      "betydning": "Forskningen hjælper os med at forstå, hvordan galakser som vores egen er dannet, og kaster lys over universets udvikling.",
-      "pointer": [
-        "Simulering af Mælkevejen viser dannelse af centrale strukturer.",
-        "Fokuserer på stjernehobe og stjerneskiver omkring sorte huller.",
-        "Fænomenerne er observeret for nylig.",
-        "Giver indsigt i galaksedannelse."
-      ],
-      "prio": 5
     }
   ]
 }
