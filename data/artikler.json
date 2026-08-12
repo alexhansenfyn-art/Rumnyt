@@ -1,7 +1,43 @@
 {
-  "opdateret": "2026-08-12T06:56:48.980897+00:00",
+  "opdateret": "2026-08-12T11:12:14.963570+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "How to design a space habitat that supports its residents' mental health",
+      "link": "https://phys.org/news/2026-08-space-habitat-residents-mental-health.html",
+      "dato": "2026-08-12T09:00:04+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "In extreme environments, habitats are built for survival. Submarines, Antarctic bases and post-disaster dwellings are designed to prioritize health and safety. This is especially the case for habitats in space, where room is limited, contact with Earth is remote and hazards are numerous.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/spaceship.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Spacehabitat: Design og mental sundhed",
+      "resume_da": "Et nyt studie ser på, hvordan rumhabitater bør designes for at støtte astronauters mentale sundhed, ikke kun fysisk sikkerhed.",
+      "sektioner": [
+        {
+          "overskrift": "Design til overlevelse",
+          "tekst": "Ekstreme miljøer som ubåde og Antarktis-baser designes primært for sikkerhed. Det samme gælder rumhabitater, hvor pladsen er trang, og kontakten med Jorden er fjern. Men det er ikke nok – mental sundhed er også vigtig."
+        },
+        {
+          "overskrift": "Behovet for mental støtte",
+          "tekst": "Menneskets psykologiske velbefindende påvirkes af ophold i lukkede rum. Designet af rumhabitater bør derfor tage højde for beboernes mentale behov, ikke kun de fysiske. Det kan være alt fra farver, belysning og mulighed for privatliv."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Habitater i rummet er bygget for overlevelse",
+        "Submariner og Antarktis-baser er sammenlignelige ekstreme miljøer",
+        "Begrænset plads og fjern kommunikation med Jorden er udfordringer"
+      ],
+      "betydning": "For almindelige danskere er dette relevant, fordi forskning i rumhabitater kan give viden om, hvordan man designer boliger og arbejdsmiljøer, der fremmer mental trivsel – også på Jorden.",
+      "pointer": [
+        "Rumhabitater skal designes for både fysisk og mental sundhed",
+        "Ekstreme miljøer prioriterer sikkerhed, men glemmer ofte psykologi",
+        "Design kan påvirke astronauters trivsel og funktion",
+        "Lærdom kan bruges i andre lukkede miljøer på Jorden"
+      ],
+      "prio": 4
+    },
     {
       "titel": "Stops Along the Path of Totality",
       "link": "https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/",
@@ -4256,42 +4292,6 @@
         "Rumsonder slører den fine struktur.",
         "Bevægelsen er måske forudsigelig.",
         "Vigtigt for satellitsikkerhed."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "NASA's Perseverance captures Phobos and Earth",
-      "link": "https://phys.org/news/2026-08-nasa-perseverance-captures-phobos-earth.html",
-      "dato": "2026-08-06T13:20:05+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "This composite of seven images from the Mastcam-Z instrument aboard NASA's Perseverance Mars rover shows Earth, visible as a small bright dot moving from upper left to lower right, passing behind the Martian moon Phobos on July 2, 2026, the 1,907th Martian day, or sol, of the mission.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasas-perseverance-cap-5.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Perseverance fotograferer Phobos og Jorden",
-      "resume_da": "NASAs Mars-rover Perseverance har taget billeder af Jordens passage bag Mars-månen Phobos. Det skete den 2. juli 2026, på missionens 1.907. soldag på Mars.",
-      "sektioner": [
-        {
-          "overskrift": "Et sjældent øjeblik fra Mars",
-          "tekst": "Roverens Mastcam-Z-instrument tog syv billeder, som blev sat sammen til et kompositbillede. På billedet ses Jorden som en lille lys prik, der bevæger sig bag Phobos."
-        },
-        {
-          "overskrift": "Hvad billedet viser",
-          "tekst": "Billedet viser Mars-månen Phobos i forgrunden. Bagved ses Jorden som en prik. Det er et usædvanligt syn fra Mars' overflade."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Billedet er taget med Mastcam-Z instrumentet om bord på Perseverance.",
-        "Jorden ses som en lille lys prik i bevægelse fra øverst venstre til nederst højre.",
-        "Det skete den 2. juli 2026, på sol 1907."
-      ],
-      "betydning": "Det minder os om, at Jorden kun er en lille prik i rummet. Det viser også, hvordan rumfartøjer kan observere Jorden fra andre planeter.",
-      "pointer": [
-        "Perseverance tog billeder af Phobos og Jorden.",
-        "Billedet er et komposit af syv optagelser.",
-        "Jorden ses forsvinde bag Phobos.",
-        "Det skete den 2. juli 2026."
       ],
       "prio": 6
     }
