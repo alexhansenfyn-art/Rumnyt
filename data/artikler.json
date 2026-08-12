@@ -1,7 +1,385 @@
 {
-  "opdateret": "2026-08-12T15:31:09.072354+00:00",
+  "opdateret": "2026-08-12T19:50:57.638898+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission",
+      "link": "https://www.nasaspaceflight.com/2026/08/china-roundup-20260813/",
+      "dato": "2026-08-12T19:33:41+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "China&#8217;s Wenchang Space Launch Site reached its milestone 50th launch at the end of July,&#8230; The post Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/The-fifteeenth-Lijian-1-Kinetica-1-ascends-from-Site-130-at-the-Jiuquan-Satellite-Launch-Center-on-July-24-CAS-Space-scaled.png",
+      "billede_alt": "",
+      "kategori": "Opsendelser",
+      "rubrik": "Kinas rumhavn runder 50 opsendelser trods raketfejl",
+      "resume_da": "Kinas Wenchang-rumhavn fejrede sin 50. opsendelse, men oplevede også en tredje raketfejl. Kina sender flere AI-satellitter i kredsløb og forbereder måneopgave.",
+      "sektioner": [
+        {
+          "overskrift": "Wenchang når milepæl",
+          "tekst": "Wenchang-rumhavnen på øen Hainan nåede sin **50. opsendelse** den 29. juli. Det skete med en Chang Zheng 7A-raket, der sendte en Tianlian-3-relæsatellit i kredsløb. Relæsatellitter bruges til kommunikation med rumstationen Tiangong."
+        },
+        {
+          "overskrift": "Raketfejl i august",
+          "tekst": "Den 10. august led en Chang Zheng 7A-raket en strukturel fejl **83 sekunder** efter start, og den blev destrueret over det Sydkinesiske Hav. Det var rakettypens anden fejl i 18 missioner og Wenchangs tredje fejl nogensinde."
+        },
+        {
+          "overskrift": "AI-satellitter i fokus",
+          "tekst": "Kina sender flere og flere satellitter med kunstig intelligens (AI) i rummet. To satellitter opretholdt en laserforbindelse i **8 dage** og havde 99,99% oppetid. AI bruges til databehandling i kredsløb."
+        },
+        {
+          "overskrift": "Forberedelser til måne",
+          "tekst": "Kina forbereder sin syvende Chang'e-mission, der skal til Månens sydpol. Også flere kommercielle raketselskaber er tæt på at opsende deres første raketter."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "50",
+          "label": "Antal opsendelser fra Wenchang"
+        },
+        {
+          "tal": "83 sekunder",
+          "label": "Tid til raketfejl"
+        },
+        {
+          "tal": "99,99%",
+          "label": "Oppetid på laserlink"
+        }
+      ],
+      "detaljer": [
+        "Wenchang-rumhavnen har sendt moduler til rumstationen Tiangong, Tianzhou-forsyningsskibe, Mars-sonden Tianwen-1 og de seneste Chang'e-månefartøjer.",
+        "En Chang Zheng 3B-raket blev ramt af lynet den 23. juli, men gennemførte sin mission.",
+        "To virksomheder arbejder på store AI-satellitkonstellationer: ADA Space med 2.800 og Zhejiang Lab med 1.000 satellitter.",
+        "Kina har opsendt 53 missioner i 2026 indtil starten af august."
+      ],
+      "betydning": "Kinas rumprogram vokser hurtigt og påvirker globale rumaktiviteter. Det kan føre til ny teknologi og samarbejder, hvilket er relevant for alle, der følger rumfart.",
+      "pointer": [
+        "Wenchang fejrer 50 opsendelser.",
+        "Raketfejl i august sætter spor.",
+        "Kina satser på AI-satellitter.",
+        "Måneopgave under forberedelse."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Satellite constellations could create spiraling space debris",
+      "link": "https://phys.org/news/2026-08-satellite-constellations-spiraling-space-debris.html",
+      "dato": "2026-08-12T19:00:08+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "To date, close to 30,000 satellites have been launched into Earth's orbit, leading to mounting concerns over the debris created when they collide. In a new analysis posted to the preprint server arXiv, Hugh Lewis of the University of Birmingham shows that satellite constellations can grow so large that they cross a critical size beyond which they generate unstable, runaway amounts of debris. The f",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/satellites.jpg",
+      "billede_alt": "",
+      "kategori": "Rumvejr",
+      "rubrik": "Satellitklynger kan skabe løbsk rumaffald",
+      "resume_da": "En ny analyse viser, at satellitklynger kan blive så store, at de krydser en kritisk grænse, hvorefter de skaber ustabile mængder af rumaffald. Det haster med skrappere regler.",
+      "sektioner": [
+        {
+          "overskrift": "Voksende problem",
+          "tekst": "Næsten **30.000** satellitter er hidtil sendt i kredsløb om Jorden. Antallet øger risikoen for kollisioner, som skaber farligt affald."
+        },
+        {
+          "overskrift": "Kritisk størrelse",
+          "tekst": "Forskeren Hugh Lewis fra University of Birmingham viser, at satellitklynger kan vokse så meget, at de overskrider en kritisk størrelse. Herefter bliver affaldsmængden ustabil og vokser løbsk."
+        },
+        {
+          "overskrift": "Behov for regler",
+          "tekst": "Resultaterne peger på et akut behov for skrappere regler. Det skal overvejes nøje, hvilke satellitter der overhovedet får lov til at blive sendt op i rummet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "30.000",
+          "label": "Satellitter sendt op i alt"
+        }
+      ],
+      "detaljer": [
+        "Analysen er lagt på preprint-serveren arXiv.",
+        "Forskeren hedder Hugh Lewis og er fra University of Birmingham.",
+        "Satellitklynger kan skabe ustabilt, løbsk affald."
+      ],
+      "betydning": "Rumaffald kan ramme satellitter, som vi bruger til kommunikation, vejr og navigation. Hvis affaldet løber løbsk, kan det true vores hverdag.",
+      "pointer": [
+        "Mange satellitter skaber affaldsrisiko.",
+        "Klynger kan nå en kritisk størrelse.",
+        "Der er brug for nye regler."
+      ],
+      "prio": 8
+    },
+    {
+      "titel": "Chemical fingerprints reveal hidden binary pasts of massive stars",
+      "link": "https://phys.org/news/2026-08-chemical-fingerprints-reveal-hidden-binary.html",
+      "dato": "2026-08-12T18:40:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "More than 70% of massive stars are born in close binary systems, where gravitational tugs and mass transfer between companions dramatically alter their evolution. Yet once the interaction ends—whether through mass transfer, merger or the supernova explosion of one partner—the surviving star often appears as a solitary object, hiding its turbulent past. For decades, astronomers have struggled to de",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemical-fingerprints.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Kemiske fingeraftryk afslører massive stjerners fortid",
+      "resume_da": "Over 70% af massive stjerner fødes i tætte binaries, men mange ser ud som enlige. Nu kan forskere se deres skjulte fortid via kemiske fingeraftryk.",
+      "sektioner": [
+        {
+          "overskrift": "Skjulte binære fortider",
+          "tekst": "Mange massive stjerner starter i tætte binære systemer, hvor de påvirker hinanden. Efter interaktionen kan den overlevende stjerne se enlig ud. Nu kan forskere afsløre dens fortid."
+        },
+        {
+          "overskrift": "Kemiske fingeraftryk",
+          "tekst": "Forskere har fundet kemiske fingeraftryk, der afslører, om en stjerne har haft en binær fortid. Det kan ændre vores forståelse af stjerners udvikling."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "70%",
+          "label": "af massive stjerner fødes i binære"
+        }
+      ],
+      "detaljer": [
+        "Mere end 70% af massive stjerner fødes i tætte binære systemer.",
+        "Gravitationel påvirkning og masseoverførsel ændrer stjernernes udvikling.",
+        "Efter interaktionen kan den overlevende stjerne se enlig ud.",
+        "Astronomer har længe haft svært ved at afsløre disse skjulte fortider."
+      ],
+      "betydning": "Det hjælper os med at forstå, hvordan stjerner udvikler sig, og kan have betydning for vores viden om universets historie.",
+      "pointer": [
+        "Over 70% af massive stjerner er i binære systemer.",
+        "Interaktioner ændrer stjernernes udvikling.",
+        "Kemiske fingeraftryk afslører skjult fortid.",
+        "Ny metode kan ændre stjerneforskningen."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "What if there's a star inside a black hole?",
+      "link": "https://phys.org/news/2026-08-star-black-hole.html",
+      "dato": "2026-08-12T18:00:07+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "There is a question that often comes up at every public talk I do, and I have never had a good answer to it—well, not an entirely confident one. What's inside a black hole? The textbook reply is a singularity. Cross the event horizon, and everything falls inward to a point of infinite density where our equations return nonsense. It isn't so much an answer as an admission that we've run out of phys",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-if-theres-a-star.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Kan der gemme sig en stjerne i et sort hul?",
+      "resume_da": "En fysiker overvejer, om der inden i et sort hul kan være en stjerne i stedet for en singularitet – et punkt med uendelig tæthed.",
+      "sektioner": [
+        {
+          "overskrift": "Det klassiske svar",
+          "tekst": "Ifølge lærebøgerne er der en singularitet i midten af et sort hul. Alt, der krydser begivenhedshorisonten, falder mod et punkt med uendelig tæthed. Her bryder vores fysiske love sammen."
+        },
+        {
+          "overskrift": "Alternativ idé",
+          "tekst": "Forskeren, der skriver artiklen, undrer sig over, om der i stedet kan være en stjerne inden i et sort hul. Det er et spørgsmål, han ofte får, men aldrig har følt sig sikker på at kunne svare på."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Spørgsmålet om, hvad der er inden i et sort hul, er uafklaret.",
+        "Det klassiske svar er en singularitet.",
+        "En alternativ mulighed er en stjerne."
+      ],
+      "betydning": "Det er vigtigt at forstå sorte huller, fordi de er ekstreme fænomener i universet. Måske kan ny viden om dem ændre vores billede af virkeligheden.",
+      "pointer": [
+        "Sorte huller rummer måske ikke kun et uendeligt tæt punkt.",
+        "Vores fysiske love bryder sammen ved singulariteten.",
+        "Forskere er stadig usikre på, hvad der gemmer sig inden i."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA Upgrades Vertical Motion Simulator for Modern Mission Needs",
+      "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/",
+      "dato": "2026-08-12T17:55:36+00:00",
+      "kilde": "NASA",
+      "resume": "Imagine stepping into a machine that can make you feel like you’re flying a spacecraft, piloting a next generation air taxi, or landing on the Moon, all without leaving the ground. NASA’s Vertical Motion Simulator, the largest of its kind in the world, does exactly that. And now, with new upgrades, it’s more powerful and [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/arc-20260319-vms-cab-upgrade-exterior-motion-preview.mp4",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "NASA's flysimulator får digital opgradering",
+      "resume_da": "NASA har opgraderet verdens største flysimulator med digital teknologi og 4K-projektorer, så den kan simulere fremtidige missioner mere realistisk.",
+      "sektioner": [
+        {
+          "overskrift": "Nye billeder og lys",
+          "tekst": "Simulatoren har fået et nyt dom med 4K-projektorer, der giver næsten 20/20 synsstyrke. Det giver piloter et klarere og større billede af omverdenen. Før var systemet analogt, nu er det digitalt."
+        },
+        {
+          "overskrift": "Hurtigere at omstille",
+          "tekst": "Før skulle hele kabinen skiftes for at simulere forskellige fartøjer. Nu bruger man lette indsatser, der kun indeholder betjening og sæder. Det halverer tiden til at sætte en simulation op."
+        },
+        {
+          "overskrift": "Klar til fremtiden",
+          "tekst": "Opgraderingen gør det muligt at teste nye fly og rumfartøjer, før de sendes ud. Det er vigtigt for kommende missioner til Månen og Mars."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "60 feet",
+          "label": "Simulatorens lodrette slag"
+        },
+        {
+          "tal": "40 feet",
+          "label": "Simulatorens vandrette slag"
+        }
+      ],
+      "detaljer": [
+        "Simulatoren har været i brug siden 1979.",
+        "Den kan simulere alt fra helikoptere til rumfartøjer.",
+        "Indsatser erstatter tunge kabiner.",
+        "Manuelt farvematching tog tidligere timer eller dage."
+      ],
+      "betydning": "Opgraderingen betyder, at fremtidens fly og rumfartøjer kan testes mere grundigt, hvilket øger sikkerheden og effektiviteten for både passagerfly og rummissioner.",
+      "pointer": [
+        "Simulatoren er den største i verden.",
+        "Den kan simulere både fly og rumfartøjer.",
+        "Digital teknologi giver skarpere billeder.",
+        "Tiden til omstilling er halveret."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Famous oddball quasar isn't X-ray weak after all, astronomers say",
+      "link": "https://phys.org/news/2026-08-famous-oddball-quasar-isnt-ray.html",
+      "dato": "2026-08-12T16:40:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "For more than two decades, the quasar PHL 1811 has been considered the prototype of a rare class of \"intrinsically X-ray weak\" quasars, thought to produce unusually little X-ray radiation. But in 2024, the Einstein Probe spacecraft caught the object in a bright X-ray flare. In a new study, astronomers combined that observation with more than 20 years of archival data to revisit the mystery. The fi",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/famous-oddball-quasar.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Kvasar var ikke svag i røntgen trods alt",
+      "resume_da": "Kvasaren PHL 1811 blev i årtier anset for at være usædvanlig svag i røntgenstråling. Nu viser nye observationer, at den faktisk kan lyse kraftigt op, og at den tidligere opfattelse var forkert.",
+      "sektioner": [
+        {
+          "overskrift": "Overraskende opdagelse",
+          "tekst": "Kvasaren PHL 1811 har i mere end 20 år været kendt som et eksempel på en sjælden type med meget lidt røntgenstråling. Men i 2024 fangede Einstein Probe-rumfartøjet den i et kraftigt røntgenudbrud. Det ændrer billedet af kvasaren."
+        },
+        {
+          "overskrift": "Genbesøg med ny viden",
+          "tekst": "Astronomer har kombineret den nye observation med arkivdata fra mere end 20 år. De fandt, at kvasaren ikke er svag i røntgen hele tiden, men kan have perioder med kraftig aktivitet. Resultaterne er offentliggjort i The Astrophysical Journal den 28. juli."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "20 år",
+          "label": "Tidligere opfattet som svag"
+        }
+      ],
+      "detaljer": [
+        "PHL 1811 blev opdaget som 'intrinsisk røntgen-svag' kvasar",
+        "Einstein Probe observerede røntgenudbrud i 2024",
+        "Studiet kombinerer nye og gamle data"
+      ],
+      "betydning": "Det ændrer vores forståelse af, hvordan kvasarer fungerer, og viser, at selv velkendte objekter kan overraske. Det giver ny viden om universets mest energiske fænomener.",
+      "pointer": [
+        "Kvasar ikke altid røntgen-svag",
+        "Kraftigt udbrud fanget i 2024",
+        "Nye data kombineret med gamle",
+        "Publiceret i Astrophysical Journal"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/",
+      "dato": "2026-08-12T16:03:05+00:00",
+      "kilde": "NASA",
+      "resume": "NASA astronaut Mike Fincke is departing the agency on Wednesday after 30 years of service. Throughout his career, he flew four missions, spent 549 days in space, and completed nine spacewalks in support of the International Space Station. “Few people have had the opportunity to shape as many chapters of NASA’s history as Mike Fincke,” [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/fincke.jpg?w=2048",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "NASA-astronaut Mike Fincke stopper efter 30 år",
+      "resume_da": "Mike Fincke har været i rummet fire gange og tilbragt 549 dage i kredsløb. Han forlader NASA efter 30 års tjeneste.",
+      "sektioner": [
+        {
+          "overskrift": "En imponerende karriere",
+          "tekst": "Mike Fincke har fløjet fire missioner og tilbragt **549 dage** i rummet. Han har lavet ni rumvandringer, i alt **48 timer og 37 minutter**. Han er nummer fire på listen over flest dage i rummet blandt NASA-astronauter."
+        },
+        {
+          "overskrift": "Sidste mission",
+          "tekst": "Hans seneste mission var SpaceX Crew-11, der fløj i august 2025 og vendte tilbage i januar. Han var både pilot og chef for Ekspedition 74 på Den Internationale Rumstation."
+        },
+        {
+          "overskrift": "Mange rumskibe",
+          "tekst": "Fincke har fløjet med to forskellige Soyuz-kapsler, rumfærgen Endeavour og SpaceX's Dragon. Han var også med til at udvikle NASA's kommercielle bemandede rumprogram og hjalp med at teste Boeing's Starliner."
+        },
+        {
+          "overskrift": "Fremtidens generation",
+          "tekst": "Fincke har undervist og mentoreret yngre astronauter. Han siger selv, at han er spændt på at hjælpe den næste generation af opdagelsesrejsende, ingeniører og ledere."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "549 dage",
+          "label": "Dage i rummet i alt"
+        },
+        {
+          "tal": "4",
+          "label": "Antal rummissioner"
+        },
+        {
+          "tal": "48 timer 37 min",
+          "label": "Samlet rumvandringstid"
+        }
+      ],
+      "detaljer": [
+        "Fincke blev udvalgt som astronaut i 1996.",
+        "Han var med på den sidste rumfærge-mission, STS-134, i 2011.",
+        "Han hjalp med at installere Alpha Magnetic Spectrometer på rumstationen.",
+        "Han er uddannet fra MIT, Stanford og University of Houston.",
+        "Han er pensioneret oberst i det amerikanske luftvåben.",
+        "Han har fløjet over 2.000 timer i mere end 30 flytyper."
+      ],
+      "betydning": "Finckes karriere viser, hvordan astronauter hjælper med at bygge og drive rumstationen og forberede fremtidens missioner. Hans arbejde med kommercielle rumfartøjer baner vejen for, at flere kan komme i rummet, hvilket kan have betydning for forskning og teknologi, som vi alle får gavn af.",
+      "pointer": [
+        "Mike Fincke stopper hos NASA efter 30 år.",
+        "Han har været i rummet fire gange og lavet ni rumvandringer.",
+        "Han var med til at udvikle kommercielle rumfartøjer.",
+        "Han vil hjælpe næste generation af opdagelsesrejsende."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Pursuing a Dream of Working for NASA",
+      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/pursuing-a-dream-of-working-for-nasa/",
+      "dato": "2026-08-12T15:38:51+00:00",
+      "kilde": "NASA",
+      "resume": "As a young girl raised in Worcester, Massachusetts, Lindsey Waitt dreamed of working for NASA. Her dream is now a reality as she embarks on her role as a NASA test project engineer with the Artemis launch team &#8211; an integral part of the agency’s missions that will enable humans to return to the surface [&#8230;]",
+      "billede": "https://images-assets.nasa.gov/image/KSC-20260806-PH-RCR01_0149/KSC-20260806-PH-RCR01_0149~large.jpg?w=1280&amp;h=1920&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+      "billede_alt": "A women with dark brown hair smiles at the camera for a photograph. The woman is wearing a grey jacket and a headset while she sits at the desk with a computer; ",
+      "kategori": "Missioner",
+      "rubrik": "Hun forlod sit job for at jagte NASA-drømmen",
+      "resume_da": "Lindsey Waitt fik som voksen opfyldt sin barndomsdrøm om at arbejde for NASA. Nu er hun testprojektingeniør på Artemis-missionen, der skal bringe mennesker til Månen.",
+      "sektioner": [
+        {
+          "overskrift": "Fra drøm til virkelighed",
+          "tekst": "Lindsey Waitt voksede op i Massachusetts og mødte som skolepige astronauter fra NASA, hvilket inspirerede hende. Hun studerede ingeniørvidenskab og arbejdede i forsvarsindustrien, men længtes efter rumfart. Efter at have fået børn og taget en kandidatgrad besluttede hun sig for at vende tilbage til sin oprindelige passion."
+        },
+        {
+          "overskrift": "Arbejdet på Artemis",
+          "tekst": "Hun er nu testprojektingeniør hos NASA og arbejder på Artemis III-missionen, som skal sende mennesker til Månen. Som problemløser koordinerer hun tekniske tests og opsendelsesaktiviteter. Hun er den eneste kvinde blandt de **14** testprojektingeniører på holdet."
+        },
+        {
+          "overskrift": "En personlig rejse",
+          "tekst": "Lindsey fulgte med familien, da NASA sendte astronauter til Den Internationale Rumstation i 2020, og senere Artemis I. Hun flyttede til Florida og fik job ved Kennedy Space Center, hvor hun nu er med til at forberede Artemis III."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "14",
+          "label": "testprojektingeniører på Artemis-holdet"
+        }
+      ],
+      "detaljer": [
+        "Lindsey Waitt mødte astronauterne Michael Lopez-Alegria og Albert Sacco Jr. som skolepige.",
+        "Hun har en bachelorgrad i maskinteknik med fokus på rumfartsteknik.",
+        "Hun arbejdede som systemingeniør på radar-flyvetestmissioner for en forsvarsleverandør.",
+        "Hun fik sin mastergrad i rumoperationer fra University of Colorado.",
+        "Hun blev certificeret til at sidde i kontrolrummet under Artemis II-opsendelsen.",
+        "Hun blev NASA-ansat efter at have søgt en stilling i forbindelse med et insourcing-initiativ."
+      ],
+      "betydning": "Historien viser, at det aldrig er for sent at forfølge sine drømme, og at NASA har brug for forskellige kompetencer. Det kan inspirere andre til at søge nye muligheder.",
+      "pointer": [
+        "Lindsey Waitt opfyldte sin barndomsdrøm om at arbejde for NASA.",
+        "Hun arbejder på Artemis III, som skal bringe mennesker til Månen.",
+        "Hun er eneste kvinde blandt 14 testprojektingeniører.",
+        "Hun skiftede fra forsvarsindustrien til rumfart efter mange år."
+      ],
+      "prio": 5
+    },
     {
       "titel": "Mirage or miracle? JWST finds earliest known 'black hole star' at cosmic dawn",
       "link": "https://phys.org/news/2026-08-mirage-miracle-jwst-earliest-black.html",
@@ -81,6 +459,55 @@
         "Forskningen øger vores forståelse."
       ],
       "prio": 5
+    },
+    {
+      "titel": "APOD: 2026 August 12 – Perseids over a Little Planet",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-12-perseids-over-a-little-planet/",
+      "dato": "2026-08-12T14:30:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Perseids over a [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/A_Planet_of_Meteors.jpg?w=4922&#038;h=5500&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "The ground is shown in a little planet perspective, surrounded by the sky with a diffuse glow. The Milky Way is visible in the sky, as well as some nebulae in red and over a hundred meteors. Most of t",
+      "kategori": "Astronomi",
+      "rubrik": "Perseider over Polen: Årets meteorsværm",
+      "resume_da": "Et billede fra 2024-viser Perseid-meteorsværmen, og i 2026 forventes den ekstra flot, da toppen falder sammen med nymåne.",
+      "sektioner": [
+        {
+          "overskrift": "Billedet",
+          "tekst": "Billedet ligner en udsigt fra Lille Prins' planet. Meteorer stråler op mod radiante i Bieszczady-bjergene i Polen. Mælkevejens bue og flere røde tåger er synlige."
+        },
+        {
+          "overskrift": "Årets meteorsværm",
+          "tekst": "Perseiderne forventes at være ekstra imponerende i år, fordi toppen falder sammen med nymåne. Den 12. august 2026 kan man se op til **50-100 meteorer i timen**."
+        },
+        {
+          "overskrift": "Sådan ser du den",
+          "tekst": "Bedst ser man meteorerne mellem midnat og før daggry. Man behøver ikke kikkert, men en liggestol og en mørk himmel hjælper. Jordens bane krydser støv fra kometen Swift-Tuttle."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "50-100",
+          "label": "Meteorer i timen"
+        },
+        {
+          "tal": "12. august 2026",
+          "label": "Dato for toppen"
+        }
+      ],
+      "detaljer": [
+        "Billedet er taget i Polen under Perseiderne i 2024.",
+        "Meteorsværmen er let at se og populær om sommeren på den nordlige halvkugle.",
+        "Over hundrede meteorer peger mod radiante."
+      ],
+      "betydning": "For en almindelig dansker er det en nem og flot naturoplevelse at se Perseiderne – og måske ekstra god i år.",
+      "pointer": [
+        "Perseiderne topper i nat",
+        "Op til 100 meteorer i timen",
+        "Nymåne giver mørk himmel",
+        "Ingen kikkert nødvendig"
+      ],
+      "prio": 7
     },
     {
       "titel": "Quality Assessment Report Evaluates Polar Geospatial Center EarthDEM Elevation Products",
@@ -3890,423 +4317,6 @@
         "Giver indsigt i galaksedannelse."
       ],
       "prio": 5
-    },
-    {
-      "titel": "Two decades of blazar observations, and the mysteries keep piling up",
-      "link": "https://phys.org/news/2026-08-decades-blazar-mysteries-piling.html",
-      "dato": "2026-08-06T20:00:05+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Narrow jets of luminous matter may be emitted toward Earth from the nuclei of active galaxies billions of light-years away. The galaxy then appears as a point source and is called a blazar. A Polish-German team of scientists has, for the first time, analyzed the activity of one such blazar over an extended period and, instead of finding answers, encountered an ever-increasing number of intriguing ",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-decades-of-blazar.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Blazar-gåde: Observationer skaber flere spørgsmål end svar",
-      "resume_da": "For første gang har forskere analyseret et blazar-objekt i 20 år. I stedet for svar dukker der flere gåder op. Blazarer er fjerne aktive galakser, der sender stråler af lys mod Jorden.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er en blazar?",
-          "tekst": "En blazar er en fjern aktiv galakse, der sender en smal stråle af lysende stof mod Jorden. Derfor ligner den et punktlys på himlen. Forskere har undersøgt en sådan blazar i **20 år**."
-        },
-        {
-          "overskrift": "Forskernes overraskelse",
-          "tekst": "Et polsk-tysk hold har for første gang analyseret blazarens aktivitet over lang tid. De håbede på svar, men stødte i stedet på flere spørgsmål. Observtionerne har skabt nye gåder."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "20 år",
-          "label": "Observationsperiode for blazaren"
-        },
-        {
-          "tal": "milliarder lysår",
-          "label": "Afstand til blazaren"
-        }
-      ],
-      "detaljer": [
-        "Blazarer er galaksekerner, der sender stråler mod Jorden.",
-        "Analysen er den første af sin slags over så lang tid.",
-        "Mange mysterier er opstået fra observationerne."
-      ],
-      "betydning": "Forskning i blazarer hjælper os med at forstå universets ekstreme fænomener. Det kan give os viden om, hvordan galakser og sorte huller opfører sig.",
-      "pointer": [
-        "Første 20-årige analyse af en blazar.",
-        "Flere spørgsmål end svar.",
-        "Polsk-tysk forskergruppe står bag.",
-        "Blazarer sender lysstråler mod Jorden."
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "Educators & Teens Get Hands-On With TEMPO Data to Help Investigate Local Air Quality",
-      "link": "https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/",
-      "dato": "2026-08-06T19:33:32+00:00",
-      "kilde": "NASA",
-      "resume": "The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners. From July 27–29, 2026, the CosmicDS team partnered with the Smithsonian Institution’s BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) project to […]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/Educators_and_Teens_Get_Hands-On_With_TEMPO_Data_to_Help_Investigate_Local_Air_Quality.jpg?w=2000&#038;h=1368&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A workshop participant, seen from behind, sits at a laptop displaying the TEMPO-Lab Data Viewer. The screen shows a colorful satellite map of air quality data over the central United States, with togg",
-      "kategori": "Forskning",
-      "rubrik": "Lærere og teenagere får hands-on med NASA's luftkvalitetsdata",
-      "resume_da": "NASA's TEMPO-satellit måler luftforurening hver time. Nu hjælper forskere lærere og teenagere med at bruge dataene til at undersøge luftkvalitet i deres lokalsamfund.",
-      "sektioner": [
-        {
-          "overskrift": "Nyt værktøj til luftkvalitetsdata",
-          "tekst": "Forskere fra Harvard og Smithsonian har udviklet et gratis onlineværktøj kaldet TEMPO-Lab. Det giver adgang til målinger fra NASA's TEMPO-satellit, som overvåger luftforurening i Nordamerika hver time i dagslys. Værktøjet er bygget med støtte fra NASA."
-        },
-        {
-          "overskrift": "Lærere blev uddannet",
-          "tekst": "I juli 2026 mødtes **13** lærere i Boston for at lære at bruge værktøjet. De udviklede også undervisningsmateriale til teenagere om luftkvalitet. Materialet inkluderer case studies om fx røg fra skovbrande og udstødning fra biler."
-        },
-        {
-          "overskrift": "Data næsten i realtid",
-          "tekst": "Forskerne fik hurtigt integreret nye data om jordnær ozon i værktøjet. Det skete natten over, så lærerne kunne bruge de nyeste data dagen efter. Det viser, at værktøjet kan følge med den nyeste NASA-forskning."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "13",
-          "label": "antal lærere, der deltog"
-        }
-      ],
-      "detaljer": [
-        "TEMPO-missionen måler luftforurening fra rummet hver time i dagslys.",
-        "TEMPO-Lab er et gratis onlineværktøj udviklet af Harvard og Smithsonian.",
-        "Lærerne deltog i et tre-dages kursus i juli 2026.",
-        "Materialet skal deles med omkring 100 andre lærere i tre stater.",
-        "Forskerne introducerede nye data om jordnær ozon i værktøjet natten over.",
-        "Målet er at give teenagere værktøjer til at undersøge luftkvalitet i deres lokalsamfund."
-      ],
-      "betydning": "Luftkvalitet påvirker alles helbred. Når unge lærer at bruge ægte NASA-data, kan de forstå og handle på lokale luftproblemer – og det kan føre til bedre luft for os alle.",
-      "pointer": [
-        "NASA's TEMPO-satellit måler luftforurening fra rummet.",
-        "Nyt gratis værktøj giver alle adgang til dataene.",
-        "Lærere kan undervise teenagere i at analysere luftkvalitet.",
-        "Friske data kan integreres natten over."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Super-Earths may be solid deep inside their mantles",
-      "link": "https://phys.org/news/2026-08-super-earths-solid-deep-mantles.html",
-      "dato": "2026-08-06T19:20:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Deep inside super-Earths—rocky planets with masses between 1 and 10 times that of Earth—high pressure can cause familiar minerals to take forms rarely seen on Earth. Understanding more about the temperature and pressure conditions in which these phases are reached could help researchers learn more about how planets evolve.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/super-earths-may-be-so.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Super-Jorde kan have faste mineraler i kappen",
-      "resume_da": "Nye forskningsresultater tyder på, at super-jorde – klippeplaneter op til ti gange Jordens masse – kan have faste mineraler dybt i deres indre på grund af ekstremt pres.",
-      "sektioner": [
-        {
-          "overskrift": "Ekstremt pres i super-jorde",
-          "tekst": "Inde i super-jorde skaber det høje tryk kendte mineraler i usædvanlige former, som man sjældent ser på Jorden. Det kan give ny viden om, hvordan planeten udvikler sig."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1-10 gange Jordens masse",
-          "label": "Massen af en super-jord"
-        }
-      ],
-      "detaljer": [
-        "Super-jorde er klippeplaneter med masser mellem 1 og 10 gange Jordens masse.",
-        "Dyb i super-jorde kan trykket få mineraler til at antage former, der er sjældne på Jorden.",
-        "Forskning i disse faser kan hjælpe med at forstå planeters udvikling."
-      ],
-      "betydning": "For almindelige mennesker er dette vigtigt, fordi det giver indsigt i, hvordan planeter uden for vores solsystem kan se ud og udvikle sig.",
-      "pointer": [
-        "Super-jorde kan have faste mineraler i kappen",
-        "Ekstremt tryk ændrer mineralernes form",
-        "Ny viden om planetudvikling"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "JWST study suggests a handful of 'leaky' galaxies reionized the early universe",
-      "link": "https://phys.org/news/2026-08-jwst-leaky-galaxies-reionized-early.html",
-      "dato": "2026-08-06T18:40:04+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "A new study analyzing the James Webb Space Telescope (JWST) spectra of more than 1,400 galaxies suggests a surprisingly small group of \"leaky\" galaxies was responsible for cosmic reionization. The paper outlining this work was posted to the arXiv preprint server on July 24.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/jwst-study-suggests-a.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Få galakser reioniserede det tidlige univers",
-      "resume_da": "JWST-data fra over 1.400 galakser tyder på, at et lille antal 'utætte' galakser stod for kosmisk reionisering. Resultatet er offentliggjort på arXiv den 24. juli.",
-      "sektioner": [
-        {
-          "overskrift": "Ny JWST-analyse",
-          "tekst": "Forskere har analyseret JWST-spektre fra mere end **1.400** galakser. De fandt, at kun en håndfuld 'utætte' galakser slap ioniserende stråling ud. Dette forklarer måske kosmisk reionisering."
-        },
-        {
-          "overskrift": "Kosmisk reionisering",
-          "tekst": "Kosmisk reionisering var en periode, hvor universets brint blev ioniseret. Tidligere troede man, at mange galakser bidrog. Nu tyder data på, at få galakser gjorde det meste."
-        },
-        {
-          "overskrift": "Offentliggjort på arXiv",
-          "tekst": "Undersøgelsen blev lagt på arXiv den **24. juli**. Det er et preprint, så den er endnu ikke fagfællebedømt. Alligevel vækker den opmærksomhed."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1.400",
-          "label": "galakser analyseret"
-        },
-        {
-          "tal": "24. juli",
-          "label": "offentliggørelsesdato"
-        }
-      ],
-      "detaljer": [
-        "JWST har observeret spektre fra over 1.400 galakser.",
-        "Kun en lille gruppe 'utætte' galakser slap meget ioniserende stråling ud.",
-        "Resultaterne er postet på arXiv-preprintserveren den 24. juli.",
-        "Forskningen kan ændre forståelsen af kosmisk reionisering."
-      ],
-      "betydning": "For almindelige mennesker viser dette, hvordan rumteleskoper som JWST konstant udfordrer og forfiner vores viden om universets historie. Det giver et mere præcist billede af, hvordan de første stjerner og galakser formede det kosmos, vi ser i dag.",
-      "pointer": [
-        "JWST analyserede over 1.400 galakser.",
-        "Få 'utætte' galakser reioniserede universet.",
-        "Paper lagt på arXiv 24. juli."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "We might soon have the technology to reach other star systems",
-      "link": "https://phys.org/news/2026-08-technology-star.html",
-      "dato": "2026-08-06T18:20:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "The recent confirmation of an atmosphere around a rocky exoplanet called LHS 1140b has created a wave of interest within the astronomy community. The planet orbits within the habitable zone around its parent star—a red dwarf located some 48 light-years from Earth.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/we-might-soon-have-the.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Ny atmosfære fundet ved fjern klippeplanet",
-      "resume_da": "Astronomer har bekræftet en atmosfære omkring den klippefulde exoplanet LHS 1140b, der ligger i den beboelige zone 48 lysår fra Jorden.",
-      "sektioner": [
-        {
-          "overskrift": "Vigtig opdagelse",
-          "tekst": "Opdagelsen af atmosfæren omkring LHS 1140b har skabt stor begejstring blandt astronomer. Planeten er en klippeplanet, der ligner Jorden mere end tidligere fundne exoplaneter. Den kredser om en rød dværgstjerne i den beboelige zone."
-        },
-        {
-          "overskrift": "Betydning for liv",
-          "tekst": "Atmosfæren kan betyde, at planeten har betingelser for liv, som vi kender det. Forskere vil nu undersøge atmosfæren nærmere for at finde ud af mere."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "48 lysår",
-          "label": "Afstand fra Jorden"
-        }
-      ],
-      "detaljer": [
-        "LHS 1140b er en klippeplanet.",
-        "Den ligger i den beboelige zone omkring sin stjerne.",
-        "Atmosfæren er bekræftet omkring planeten."
-      ],
-      "betydning": "Opdagelsen bringer os tættere på at finde liv uden for vores solsystem og inspirerer til videre forskning i andre stjernesystemer.",
-      "pointer": [
-        "Atmosfære bekræftet på LHS 1140b.",
-        "Klippeplanet ligner Jorden.",
-        "Ligger i beboelig zone."
-      ],
-      "prio": 8
-    },
-    {
-      "titel": "NASA’s SkyFall Helicopters at Work (Artist’s Concept)",
-      "link": "https://science.nasa.gov/photojournal/nasas-skyfall-helicopters-at-work-artists-concept/",
-      "dato": "2026-08-06T18:06:07+00:00",
-      "kilde": "NASA",
-      "resume": "Description This artist’s concept depicts NASA’s three SkyFall Mars helicopters collecting data while flying over the surface of the Red Planet. The green frequency waves emanating from the helicopters’ large antennas depict collection of subsurface radar data. The red beams depict collect near-infrared imagery data from regolith (crushed rock and dust) and other surface features. […]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26760/PIA26760.jpg?w=2880&#038;h=1620&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "Three drone helicopters fly over a barren, reddish-brown rocky landscape. The foreground drone and two smaller drones in the background all project wavy, translucent red and green beams of light downw",
-      "kategori": "Missioner",
-      "rubrik": "NASA sender tre helikoptere til Mars",
-      "resume_da": "NASA planlægger at sende tre helikoptere til Mars i 2028. De skal indsamle data om planetens undergrund og overflade.",
-      "sektioner": [
-        {
-          "overskrift": "Missionens formål",
-          "tekst": "De tre helikoptere skal undersøge Mars' undergrund med radar og overfladen med infrarøde kameraer. De skal følge efter den succesfulde Ingenuity-helikopter, som fløj 72 gange på tre år."
-        },
-        {
-          "overskrift": "Opsendelse og samarbejde",
-          "tekst": "Opsendelsen er planlagt til slutningen af 2028. NASA's Jet Propulsion Laboratory styrer projektet, og AeroVironment, som byggede Ingenuity, hjælper med at designe og bygge de nye helikoptere."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "72",
-          "label": "Ingenuitys flyvninger"
-        },
-        {
-          "tal": "3",
-          "label": "Antal nye helikoptere"
-        },
-        {
-          "tal": "2028",
-          "label": "Opsendelsesår"
-        }
-      ],
-      "detaljer": [
-        "Helikopterne har hver fire instrumenter.",
-        "De indsamler radardata om undergrunden.",
-        "De indsamler også infrarøde data om overfladen.",
-        "Ingenuity beviste, at flyvning er mulig i Mars' tynde atmosfære."
-      ],
-      "betydning": "Missionen kan give ny viden om Mars' historie og ressourcer, hvilket er vigtigt for fremtidige missioner og eventuel bemandet udforskning.",
-      "pointer": [
-        "Tre helikoptere sendes til Mars i 2028.",
-        "De skal kortlægge undergrund og overflade.",
-        "Bygger på Ingenuitys succes.",
-        "Samarbejde mellem NASA og AeroVironment."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Antenna Testing for NASA’s SkyFall Mission",
-      "link": "https://science.nasa.gov/photojournal/antenna-testing-for-nasas-skyfall-mission/",
-      "dato": "2026-08-06T17:56:12+00:00",
-      "kilde": "NASA",
-      "resume": "Description SkyFall ground-penetrating radar engineer Maya Román connects a coaxial cable to a test antenna in the Environmental Test Lab’s electromagnetic interference testing chamber at NASA’s Jet Propulsion Laboratory in Southern California. The antenna was pointed up during test to minimize reflections and interferences with the antenna pattern during the measurement. Equipped with four instru",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26759/PIA26759.jpg?w=8256&#038;h=5504&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A gloved person in striped shirt and glasses attaches a blue cable to a device with a metallic base and a translucent-appearing pane. The background is a chamber lined with grey and blue geometric foa",
-      "kategori": "Missioner",
-      "rubrik": "NASA tester antenner til SkyFall-missionen",
-      "resume_da": "NASA tester antenner til SkyFall-missionen, hvor tre fly skal udforske Mars. Missionen bygger på Ingenuity-helikopterens succes.",
-      "sektioner": [
-        {
-          "overskrift": "Antennetest hos NASA",
-          "tekst": "Ingeniøren Maya Román forbinder et kabel til en testantenne i et testkammer hos NASA JPL. Antennen blev peget opad for at undgå interferens under målingen."
-        },
-        {
-          "overskrift": "SkyFall-missionen",
-          "tekst": "Tre SkyFall-fly skal hver have fire instrumenter. De følger efter Ingenuity-helikopteren, som fløj **72** gange på næsten **tre år** og beviste, at flyvning er mulig i Mars' tynde atmosfære."
-        },
-        {
-          "overskrift": "Opsendelse og nytte",
-          "tekst": "SkyFall forventes at lette ombord på NASA's Space Reactor-1 Freedom i slutningen af **2028**. Flyene skal hjælpe med at planlægge ruter og vælge steder til videnskabelige undersøgelser."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "72",
-          "label": "Antal flyvninger for Ingenuity"
-        },
-        {
-          "tal": "3 år",
-          "label": "Tid Ingenuity fløj"
-        },
-        {
-          "tal": "2028",
-          "label": "Forventet opsendelsesår"
-        }
-      ],
-      "detaljer": [
-        "Testen fandt sted i et elektromagnetisk testkammer på JPL.",
-        "Antennen blev peget opad for at minimere refleksioner og forstyrrelser.",
-        "SkyFall bygger på Ingenuity-helikopterens erfaringer.",
-        "Ingenuity hjalp Perseverance-roveren med at planlægge ruter og vælge steder til forskning."
-      ],
-      "betydning": "Missionen kan give os bedre luftfotos af Mars, hvilket kan forbedre vores viden om planeten og hjælpe fremtidige missioner med at finde de bedste steder at undersøge.",
-      "pointer": [
-        "NASA tester antenner til SkyFall-missionen.",
-        "Tre fly med fire instrumenter skal til Mars.",
-        "Missionen bygger på Ingenuity-helikopterens succes.",
-        "Opsendelse forventes i slutningen af 2028."
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "I Am Artemis: Tom Percy",
-      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tom-percy/",
-      "dato": "2026-08-06T16:35:51+00:00",
-      "kilde": "NASA",
-      "resume": "As NASA sets its sights on long-term exploration of the Moon and Mars, the agency is increasing the cadence of its Artemis missions. Helping bring these plans to fruition is Tom Percy, manager of systems engineering and integration for NASA’s Human Landing System Program. Percy serves as a focal point in working with providers SpaceX [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/ceb-8192.jpg?w=1536",
-      "billede_alt": "Tom Percy, manager of systems engineering and integration for NASA’s Human Landing Systems Program, stands in front of an Apollo Program lander exhibit at the U.S. Space and Rocket Center in Huntsvill",
-      "kategori": "Missioner",
-      "rubrik": "NASA-ingeniør styrer månelandere",
-      "resume_da": "Tom Percy er leder for integrationen af de månelandere, som SpaceX og Blue Origin bygger til NASA's Artemis-program. Han sikrer, at de opfylder kravene til at lande astronauter på Månen igen.",
-      "sektioner": [
-        {
-          "overskrift": "Rollen som integrationsleder",
-          "tekst": "Tom Percy er ansvarlig for, at SpaceX og Blue Origin's månelandere fungerer sammen med resten af NASA's udstyr. Han koordinerer alt fra design og produktion til test og certificering. "
-        },
-        {
-          "overskrift": "Baggrund og rejse til NASA",
-          "tekst": "Percy voksede op i Massachusetts og studerede maskinteknik. Hans interesse for NASA startede med en studenterkonkurrence, hvor han byggede en månebuggy. Siden har han taget kandidat- og doktorgrad og har arbejdet hos NASA siden **2003**."
-        },
-        {
-          "overskrift": "Fremtiden for Artemis-missionerne",
-          "tekst": "Efter succesen med Artemis II ser NASA frem til flere missioner. Artemis skal skabe en varig tilstedeværelse på Månen og forberede turen til Mars."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2003",
-          "label": "År Percy startede hos NASA"
-        }
-      ],
-      "detaljer": [
-        "Percy er leder for systemteknisk integration for Human Landing System-programmet.",
-        "Han arbejder tæt sammen med SpaceX og Blue Origin.",
-        "Han har en ph.d. i luftfartssystemteknik.",
-        "Artemis-missionerne har til formål at udforske Månen og bane vejen for Mars."
-      ],
-      "betydning": "Denne historie viser, at mange dygtige ingeniører arbejder bag kulisserne på at gøre rejser til Månen og Mars mulige. Det er relevant, fordi det er danske skattepenge, der er med til at finansiere NASA's arbejde via internationale aftaler.",
-      "pointer": [
-        "Tom Percy koordinerer månelandere.",
-        "SpaceX og Blue Origin bygger dem.",
-        "Målet er at lande på Månen igen.",
-        "Det forbereder også rejsen til Mars."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "'Strange New Worlds' latest 'Hangover'-inspired episode is a reminder that 'Star Trek' vacations are never a good idea",
-      "link": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-hangover-inspired-episode-is-a-reminder-that-star-trek-vacations-are-never-a-good-idea",
-      "dato": "2026-08-06T16:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "Seeking rest or relaxation? You're unlikely to find either on a \"Star Trek\" holiday",
-      "billede": "https://cdn.mos.cms.futurecdn.net/dHdCokKx6vmaXJ6KmX4JNo-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Star Trek-ferie ender altid galt",
-      "resume_da": "Artiklen omtaler afsnittet af 'Star Trek: Strange New Worlds', der er inspireret af 'Hangover', og påpeger, at ferier i Star Trek-universet sjældent er en god ide.",
-      "sektioner": [
-        {
-          "overskrift": "Forfatterens baggrund",
-          "tekst": "Richard er rum- og sci-fi-entusiast. Han har skrevet for flere store magasiner. Han har mødt mange skuespillere fra forskellige serier."
-        },
-        {
-          "overskrift": "Episode-tema",
-          "tekst": "Afsnittet er inspireret af filmen 'Hangover'. Det viser, at ferier i Star Trek-universet aldrig er ukomplicerede. Det er en sjov påmindelse om, at selv i fremtiden går ting galt."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "4 år",
-          "label": "Richard var redaktør i 12 år"
-        },
-        {
-          "tal": "12 år",
-          "label": "Richard arbejdede på SFX"
-        },
-        {
-          "tal": "5 Doctorer",
-          "label": "Richard har mødt fem Doctorer"
-        }
-      ],
-      "detaljer": [
-        "Richard blev fascineret af rumfart som 4-årig efter at se Star Wars.",
-        "Han studerede fysik på universitetet.",
-        "Han har mødt to Starfleet-kaptajner og én Luke Skywalker.",
-        "Han har siddet i cockpittet på 'Red Dwarf's Starbug."
-      ],
-      "betydning": "For en almindelig dansker viser artiklen, at selv i science fiction er ferier ikke altid fredelige - det er en sjov vinkel på populærkultur, som mange kan relatere til.",
-      "pointer": [
-        "Afsnittet er Hangover-inspireret.",
-        "Star Trek-ferier går aldrig som planlagt.",
-        "Artiklen fokuserer på forfatterens oplevelser."
-      ],
-      "prio": 2
     }
   ]
 }
