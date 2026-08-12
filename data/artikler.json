@@ -1,7 +1,192 @@
 {
-  "opdateret": "2026-08-11T20:12:06.282359+00:00",
+  "opdateret": "2026-08-12T00:08:30.483485+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
+      "link": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/",
+      "dato": "2026-08-11T21:04:39+00:00",
+      "kilde": "NASA",
+      "resume": "This article is&#160;for students grades 5-8. The Nancy Grace Roman Space Telescope is NASA’s newest astrophysics observatory. The telescope will scan large sections of space. Roman will help astronomers answer questions about dark energy, dark matter, exoplanets, and more. ______________________________________________________________________ Words to Know Astrophysics: a branch of space science ",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2023/02/nancy-grace-roman-space-telescope-visualization.jpeg?w=1200",
+      "billede_alt": "Image shows an illustration of the Nancy Grace Roman Space Telescope with a galaxy illustration in the background. Formerly known as WFIRST, is an upcoming space telescope designed to perform wide-fie",
+      "kategori": "Missioner",
+      "rubrik": "Nasa's nye teleskop skal løse universets gåder",
+      "resume_da": "Nancy Grace Roman-teleskopet sendes op i 2026. Det skal undersøge mørkt stof, mørk energi og exoplaneter.",
+      "sektioner": [
+        {
+          "overskrift": "Opsendelse og placering",
+          "tekst": "Teleskopet sendes op den 30. august 2026 med en SpaceX Falcon Heavy-raket. Det vil blive placeret i et område i rummet kaldet Andet Sun-Earth Lagrange-punkt, omkring 930.000 miles fra Jorden."
+        },
+        {
+          "overskrift": "Instrumenter om bord",
+          "tekst": "Roman har et hovedspejl på 7,9 fod og to instrumenter. Wide Field Instrument er et infrarødt kamera på 300 megapixel, og Coronagraph Instrument kan blokere stjernelys for at se planeter."
+        },
+        {
+          "overskrift": "Forskningsmål",
+          "tekst": "Forskere vil bruge teleskopet til at studere mørk energi, som udgør 68% af universet. De vil også lede efter exoplaneter og undersøge mørkt stofs rolle i galaksedannelse."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "30. august 2026",
+          "label": "Planlagt opsendelsesdato"
+        },
+        {
+          "tal": "930.000 miles",
+          "label": "Afstand fra Jorden"
+        },
+        {
+          "tal": "7,9 fod",
+          "label": "Spejlets diameter"
+        }
+      ],
+      "detaljer": [
+        "Teleskopet er opkaldt efter Nancy Grace Roman, NASA's første chef-astronom.",
+        "Den er også kaldt 'moderen til Hubble-teleskopet'.",
+        "Coronagraph Instrumentet er det mest kraftfulde af sin slags i rummet."
+      ],
+      "betydning": "Dette teleskop kan hjælpe med at besvare fundamentale spørgsmål om universets opbygning og fremtid, hvilket kan have betydning for vores forståelse af livet og kosmos.",
+      "pointer": [
+        "Opsendes i 2026",
+        "Skal undersøge mørkt stof",
+        "Kigger efter exoplaneter",
+        "Opkaldt efter kvindelig pioner"
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "National lab visit boosts NASA’s confidence in space nuclear propulsion mission",
+      "link": "https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission/",
+      "dato": "2026-08-11T21:01:02+00:00",
+      "kilde": "SpaceNews",
+      "resume": "NASA officials say they are confident in plans to launch a nuclear electric propulsion demonstration mission by the end of 2028 after visiting the national lab building the mission’s reactor. The post National lab visit boosts NASA’s confidence in space nuclear propulsion mission appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/isaacman-inl.jpeg?fit=1024%2C768&amp;ssl=1",
+      "billede_alt": "Isaacman INL",
+      "kategori": "Missioner",
+      "rubrik": "NASA klar til atomdrevet rummission i 2028",
+      "resume_da": "NASA er sikre på at kunne sende en mission med atomkraft fremdrift inden udgangen af 2028 efter besøg på laboratoriet, der bygger reaktoren.",
+      "sektioner": [
+        {
+          "overskrift": "Tilliden er styrket",
+          "tekst": "NASA har besøgt det nationale laboratorium, som bygger reaktoren til missionen. Besøget har øget NASAs tillid til planerne. De forventer at kunne sende missionen af sted inden udgangen af **2028**."
+        },
+        {
+          "overskrift": "Reaktoren er nøglen",
+          "tekst": "Reaktoren er central for den elektriske fremdrift, som missionen skal bruge. Med atomkraft kan rumfartøjet rejse hurtigere og længere end med traditionelt brændstof. Laboratoriet har ansvaret for at bygge reaktoren."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2028",
+          "label": "Seneste tidspunkt for opsendelse"
+        }
+      ],
+      "detaljer": [
+        "NASA er nu mere sikre på planerne efter besøget på laboratoriet.",
+        "Reaktoren skal bygges af et nationalt laboratorium.",
+        "Missionen er en demonstration af atomkraft fremdrift."
+      ],
+      "betydning": "Atomkraft kan gøre fremtidige rumrejser hurtigere og mere effektive, hvilket kan åbne muligheder for at udforske solsystemet på nye måder. En vellykket mission vil være et stort skridt for rumfarten.",
+      "pointer": [
+        "NASA er nu sikrere på missionen.",
+        "Reaktoren er under konstruktion.",
+        "Opsendelse planlagt til 2028.",
+        "Atomkraft kan revolutionere rumrejser."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Three energy-loss routes may explain Tarantula Nebula's X-ray shortfall",
+      "link": "https://phys.org/news/2026-08-energy-loss-routes-tarantula-nebula.html",
+      "dato": "2026-08-11T20:50:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA's space telescopes. The resulting cosmic \"craft\" reveals new details about the star-forming region known as 30 Doradus, or the Tarantula Nebula.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasa-telescopes-create.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Ny forskning forklarer Taranteltågens X-ray-gåde",
+      "resume_da": "Forskere har fundet tre mulige årsager til, at Taranteltågen udsender færre røntgenstråler end forventet. Resultatet giver ny indsigt i stjernedannelse.",
+      "sektioner": [
+        {
+          "overskrift": "Billedet afslører detaljer",
+          "tekst": "NASA's rumteleskoper har lavet et nyt billede af stjernedannelsesområdet 30 Doradus, også kaldet Taranteltågen. Billedet er en kombination af observationer og viser nye detaljer om området."
+        },
+        {
+          "overskrift": "Røntgenmangel undersøgt",
+          "tekst": "Forskere har fundet tre måder, hvorpå energi kan forsvinde, hvilket kan forklare, hvorfor tågen udsender færre røntgenstråler end forventet. Disse ruter kan hjælpe med at forstå stjernedannelse bedre."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Billedet er lavet med NASA's rumteleskoper.",
+        "30 Doradus er også kendt som Taranteltågen.",
+        "Området er berømt for stjernedannelse.",
+        "Forskningen handler om tre energitabsruter."
+      ],
+      "betydning": "Ny viden om, hvordan stjerner dannes, kan øge vores forståelse af universet og vores egen galakse. Det kan også inspirere til ny forskning og teknologi.",
+      "pointer": [
+        "Taranteltågen er et aktivt stjernedannelsesområde.",
+        "Forskere har fundet tre mulige forklaringer på røntgenmangel.",
+        "NASA's teleskoper skaber detaljerede billeder.",
+        "Studiet giver ny indsigt i stjernedannelse."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface",
+      "link": "https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/",
+      "dato": "2026-08-11T19:41:34+00:00",
+      "kilde": "NASA",
+      "resume": "NASA has declared “wrenches down” on the first completed payload designed for Artemis astronauts to deploy on the Moon’s surface. Engineers working on NASA’s Lunar Environment Monitoring Station, or LEMS, have completed hardware development and testing and the payload is ready for its permanent home near the lunar South Pole. With the hardware complete, LEMS […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/earths-moon/lunar-science/GSFC_20260130_LEMSA3_001911%201.jpg?w=4500&#038;h=3000&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "Rectangular box-shaped device resting on a metal table. The front face is covered with a grid of many small black rectangular panels bordered in white. Metal components, brackets, and small box units ",
+      "kategori": "Missioner",
+      "rubrik": "Nyt måleinstrument klar til Månen",
+      "resume_da": "NASA har færdiggjort LEMS, et kompakt instrument, der skal måle måneskælv. Det skal bruges af astronauter på Artemis-missioner.",
+      "sektioner": [
+        {
+          "overskrift": "Instrumentet er færdigt",
+          "tekst": "NASA har gjort det første videnskabelige instrument klar, som astronauter skal placere på Månen. Instrumentet hedder LEMS og skal overvåge rystelser i Månen. Det er bygget hos NASA Goddard."
+        },
+        {
+          "overskrift": "Måler måneskælv",
+          "tekst": "LEMS indeholder to følsomme seismometre, der skal opfange måneskælv og meteoritnedslag. Det giver viden om Månens indre og om, hvilke rystelser astronauter kan møde. Tidligere Apollo-missioner havde også seismometre, men de stoppede i 1977."
+        },
+        {
+          "overskrift": "Skal klare sig selv",
+          "tekst": "Instrumentet er på størrelse med en lille kuffert og vejer kun 11 pund på Månen. Det har solceller, kan holde sig varm og sende data til Jorden hver måned. Det er bygget til at overleve den lange månenat uden ekstern strøm."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "11 pund",
+          "label": "Vægt på Månen"
+        },
+        {
+          "tal": "-400 grader Fahrenheit",
+          "label": "Temperatur, den skal klare"
+        },
+        {
+          "tal": "13.000",
+          "label": "Måneskælv registreret af Apollo"
+        }
+      ],
+      "detaljer": [
+        "LEMS er klar til at blive sendt til Månens sydpol.",
+        "Den skal måle rystelser fra måneskælv og meteoritnedslag.",
+        "Instrumentet er designet til at fungere selvstændigt i årevis.",
+        "Det skal bruges i Artemis-programmet."
+      ],
+      "betydning": "For almindelige danskere viser det, at rumforskning gør fremskridt med at forstå Månen, hvilket kan bane vej for fremtidig udforskning og teknologi. Det er også et eksempel på, hvordan avanceret teknologi kan blive mere kompakt og energieffektiv.",
+      "pointer": [
+        "NASA færdiggør første instrument til Månen.",
+        "Det skal måle måneskælv.",
+        "Er designet til at overleve uden hjælp.",
+        "Skal bruges på fremtidige missioner."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Twisted magnetic field around newborn star confirms decades-old jet theory",
       "link": "https://phys.org/news/2026-08-magnetic-field-newborn-star-decades.html",
@@ -4120,195 +4305,6 @@
         "Skattekisten er en sky af gas og støv med unge stjerner.",
         "Hoben indeholder omkring 70 stjerner.",
         "Stråling fra nabostjerner former skyen som en kiste."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability/",
-      "dato": "2026-08-06T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 August 6 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. New Sharpest [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/SunFlowers_NSO_1901.jpg?w=1960&#038;h=2832&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A image shows flowery dark and light structures on a yellow background.",
-      "kategori": "Astronomi",
-      "rubrik": "Nyt skarpeste billede af Solen afslører ustabilitet",
-      "resume_da": "Det hidtil skarpeste billede af Solen i synligt lys viser små hvirvler, kaldet Kelvin-Helmholtz-ustabilitet, på Solens overflade. Billedet er taget af Inouye Solarteleskopet på Hawaii.",
-      "sektioner": [
-        {
-          "overskrift": "Det skarpeste billede endnu",
-          "tekst": "Astronomer har udgivet det skarpeste billede af Solen i synligt lys. Billedet er taget af Inouye Solarteleskopet i Hawaii, USA. Det viser detaljer, der er på størrelse med en by, og dækker omtrent Jordens radius."
-        },
-        {
-          "overskrift": "Kelvin-Helmholtz-ustabilitet opdaget",
-          "tekst": "Forskere har længe troet, at Kelvin-Helmholtz-ustabilitet findes på Solens overflade. Den opstår, når to strømme flyder forbi hinanden og skaber bølger og hvirvler. Billedet bekræfter nu, at der er sådanne hvirvler i kanterne af de blomsterlignende strukturer."
-        },
-        {
-          "overskrift": "Fremtidig forskning",
-          "tekst": "Fremtidige undersøgelser kan se på, hvordan Kelvin-Helmholtz-ustabilitet flytter energi og magnetiske felter. Måske hjælper den også med at opvarme Solens korona."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "Radius af Jorden",
-          "label": "Størrelse af billedet"
-        },
-        {
-          "tal": "By-størrelse",
-          "label": "Fineste detaljer"
-        }
-      ],
-      "detaljer": [
-        "Billedet er taget i dyb blå farve, men vist falsk gul.",
-        "Billedet bekræfter Kelvin-Helmholtz-ustabilitet på Solens overflade.",
-        "Inouye Solarteleskopet er placeret i Hawaii, USA.",
-        "Forskerne håber at forstå, hvordan ustabiliteten påvirker Solens korona."
-      ],
-      "betydning": "Dette billede hjælper forskere med at forstå Solens dynamik og vejr, hvilket kan forbedre forudsigelser af solstorme, der kan påvirke teknologi på Jorden.",
-      "pointer": [
-        "Skarpeste solbillede nogensinde i synligt lys.",
-        "Bekræfter Kelvin-Helmholtz-ustabilitet.",
-        "Solar plasma-strømme skaber hvirvler.",
-        "Kan forklare opvarmning af solkoronaen."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "How the Tide Turns at the Mouth of the Elbe",
-      "link": "https://science.nasa.gov/earth/earth-observatory/how-the-tide-turns-at-the-mouth-of-the-elbe/",
-      "dato": "2026-08-06T04:01:00+00:00",
-      "kilde": "NASA",
-      "resume": "The ocean’s ebbs and flows reveal dynamic tidal flats and a well-traveled shipping route along the coast of Germany.",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/how-the-tide-turns-at-the-mouth-of-the-elbe/germanytide_oli2_20250815.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Elbens flodmunding former af tidevandet",
-      "resume_da": "Nye satellitbilleder viser, hvordan tidevandet ændrer Elbens munding. Området er hjem for rige naturområder og en vigtig skibsrute.",
-      "sektioner": [
-        {
-          "overskrift": "Tidevandet former området",
-          "tekst": "Ved Elbens udløb ændrer landskabet sig med tidevandet. Vandstanden svinger normalt **2,9 meter**. Det er et såkaldt mesotidal område, hvilket betyder, at tidevandet er medium højt."
-        },
-        {
-          "overskrift": "Rige naturområder",
-          "tekst": "Ved lavvande kommer store mudderflader og sandbanker frem. De er en del af Vadehavet, som strækker sig fra Holland til Syddanmark. Mere end **10 millioner** trækfugle bruger området hvert år."
-        },
-        {
-          "overskrift": "Vigtig for skibsfart",
-          "tekst": "Floden er en vigtig rute for skibe til Hamborg, som er EU's tredjestørste containerhavn. Der skal graves for at holde sejlrenden åben, og nogle skibe kan kun passere ved højvande."
-        },
-        {
-          "overskrift": "Fremtidige risici",
-          "tekst": "Stormfloder kan være farlige, og i **1976** blev der målt **5,1 meter** over normal vandstand. Havniveauet stiger med **2,12 millimeter** om året, og nye satellitter som SWOT og NISAR skal hjælpe med at overvåge vandstandene."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2,9 meter",
-          "label": "Gennemsnitlig tidevandsforskel"
-        },
-        {
-          "tal": "10 millioner",
-          "label": "Trækfugle om året"
-        },
-        {
-          "tal": "0,70 fod pr. århundrede",
-          "label": "Havniveaustigning"
-        }
-      ],
-      "detaljer": [
-        "Billederne er taget af Landsat 9-satellitten.",
-        "Elben er over 1.000 kilometer lang.",
-        "Vadehavet er verdens største sammenhængende område med tidevandssand og mudder.",
-        "Neuwerk er en ø med den ældste bygning på den tyske kyst.",
-        "Kiel-kanalen forbinder Nordsøen og Østersøen."
-      ],
-      "betydning": "For almindelige danskere viser historien, hvordan naturen og skibsfart er forbundet, og at klimaforandringer påvirker kystområder. Det kan have betydning for danske kyster og økonomi.",
-      "pointer": [
-        "Tidevandet ændrer Elbens munding markant.",
-        "Området er vigtigt for både natur og skibsfart.",
-        "Stormfloder og stigende havniveau er en risiko.",
-        "Satellitter overvåger ændringerne."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Diffuse inter-filament gas is likely a key fuel source for massive star formation",
-      "link": "https://phys.org/news/2026-08-diffuse-inter-filament-gas-key.html",
-      "dato": "2026-08-05T21:20:04+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Researchers from Kyushu University have discovered that diffuse gas surrounding dense filaments in a nearby stellar nursery plays a much larger role in star formation than previously recognized. By tracking the movement of gas in the Monoceros R2 hub–filament system, the team found that low-density gas contributes to hub growth both through direct inflow and by replenishing nearby dense filaments.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/inter-filamentary-diff.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Diffus gas er nøglen til massive stjerners fødsel",
-      "resume_da": "Forskere fra Kyushu University har opdaget, at diffus gas omkring tætte filamenter i en babysstjernehave spiller en større rolle end hidtil kendt. Gas bidrager direkte til vækst af massive stjerner, og overser man den, undervurderes stjernematerialet markant.",
-      "sektioner": [
-        {
-          "overskrift": "Ny opdagelse om gas",
-          "tekst": "Forskere fra Kyushu University har fundet ud af, at diffus gas i Monoceros R2 hub–filament systemet er vigtigere for stjernedannelse end tidligere antaget. De sporede gasbevægelser og så, at lavdensitetsgas både strømmer direkte ind og genopbygger tætte filamenter."
-        },
-        {
-          "overskrift": "Konsekvenser for forskning",
-          "tekst": "Resultaterne viser, at man kan undervurdere mængden af materiale til massive stjerner, hvis man ikke medregner diffus gas. Det betyder, at modeller for stjernedannelse bør opdateres."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "ikke opgivet",
-          "label": "ingen tal i kilden"
-        }
-      ],
-      "detaljer": [
-        "Forskerne studerede Monoceros R2 hub–filament systemet.",
-        "Diffus gas er med til at vokse hubben gennem direkte tilstrømning og genopfyldning af filamenter.",
-        "Overser man diffus gas, undervurderes materialet til massive stjerner."
-      ],
-      "betydning": "For almindelige danskere handler det om at forstå, hvordan stjerner og planeter opstår. Det kan give indsigt i vores eget solsystems oprindelse og universets udvikling.",
-      "pointer": [
-        "Diffus gas er vigtig for stjernedannelse.",
-        "Forskerne sporede gas i Monoceros R2.",
-        "Resultatet kan ændre modeller for stjernedannelse."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Runaway supermassive black hole RBH-1 offers new way to reconstruct ancient merger",
-      "link": "https://phys.org/news/2026-08-runaway-supermassive-black-hole-rbh.html",
-      "dato": "2026-08-05T19:20:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Black holes are fascinating regions in space where gravity is so strong that nothing, even light, can escape them. The largest known black holes, called supermassive black holes, contain millions to billions of times the mass of the sun and are typically located at the centers of galaxies.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-traces-the-possi.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Løbsk sort hul kan afsløre fortidens kollisioner",
-      "resume_da": "Et stort sort hul, RBH-1, flygter fra sin galakse. Det kan hjælpe os med at forstå, hvordan galakser er dannet.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er et sort hul?",
-          "tekst": "Et sort hul er et område i rummet, hvor tyngdekraften er så stærk, at intet kan slippe ud, heller ikke lys. De største sorte huller kaldes supermassive og vejer millioner eller milliarder gange så meget som Solen. De findes typisk i centrum af galakser."
-        },
-        {
-          "overskrift": "Det løbske sort hul",
-          "tekst": "Forskere har fundet et supermassivt sort hul, kaldet RBH-1, som ikke er i centrum af sin galakse. Det er på flugt. Det er første gang, vi ser sådan et stort sort hul på den måde."
-        },
-        {
-          "overskrift": "Hvorfor er det vigtigt?",
-          "tekst": "Opdagelsen kan give os ny viden om, hvordan galakser er blevet til. Når galakser kolliderer, kan sorte huller blive slynget ud. RBH-1 kan derfor være et spor fra en gammel kollision."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "RBH-1 er et supermassivt sort hul, der er løbsk fra sin galakse.",
-        "Det kan hjælpe med at rekonstruere gamle kollisioner mellem galakser.",
-        "Sorte huller med så stor masse findes normalt i galaksecentre."
-      ],
-      "betydning": "Det giver os ny viden om universets historie, og hvordan galakser dannes. Det kan også hjælpe med at forstå sorte hullers opførsel.",
-      "pointer": [
-        "RBH-1 er et stort sort hul på flugt.",
-        "Det er fundet uden for sin galakses centrum.",
-        "Opdagelsen kan forklare galaksekollisioner.",
-        "Det er et nyt værktøj til at forstå universet."
       ],
       "prio": 6
     }
