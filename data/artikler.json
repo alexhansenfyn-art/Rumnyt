@@ -1,7 +1,180 @@
 {
-  "opdateret": "2026-08-13T17:35:06.078655+00:00",
+  "opdateret": "2026-08-13T20:03:41.990226+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Supermassive black hole spews energy 300,000 light years into deep space",
+      "link": "https://www.space.com/astronomy/black-holes/supermassive-black-hole-spews-energy-300-000-light-years-into-deep-space",
+      "dato": "2026-08-13T20:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "That's three times longer than the Milky Way galaxy.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/vfQjBgkAemsuvsrcsu5uwe-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Sort hul sender energi 300.000 lysår ud",
+      "resume_da": "Et supermassivt sort hul har udsendt en stråle af energi, der strækker sig 300.000 lysår ud i rummet. Opdagelsen er den længste, man har set fra et sort hul.",
+      "sektioner": [
+        {
+          "overskrift": "Enorm energiudladning",
+          "tekst": "Et supermassivt sort hul har spyttet energi ud, der når **300.000 lysår** ud i rummet. Det er længere end nogensinde før observeret fra et sort hul. Forskere er forbløffede over størrelsen."
+        },
+        {
+          "overskrift": "Hvad betyder det?",
+          "tekst": "Strålen viser, at sorte huller kan påvirke områder langt ud over deres egen galakse. Det udvider vores forståelse af, hvordan sorte huller former universet. Forskere vil nu undersøge, hvordan strålen interagerer med omgivelserne."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "300.000 lysår",
+          "label": "Længden af strålen"
+        }
+      ],
+      "detaljer": [
+        "Strålen er den længste, der er observeret fra et sort hul.",
+        "Den er opdaget ved hjælp af rumteleskoper.",
+        "Forskere kalder opdagelsen overraskende."
+      ],
+      "betydning": "Det viser, hvor kraftfulde sorte huller er, og hvordan de kan påvirke store dele af universet. Det giver os ny viden om, hvordan galakser udvikler sig.",
+      "pointer": [
+        "Rekordlang stråle fra sort hul",
+        "Påvirker områder langt væk",
+        "Ny indsigt i sorte huller"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA’s 737 Reveals New Paint",
+      "link": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
+      "dato": "2026-08-13T19:41:23+00:00",
+      "kilde": "NASA",
+      "resume": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight Research Center in Edwards, California, took ownership of the aircraft from the United States Air Force in June.&#160; The aircraft will perform lunar-gravity parabolic flights to validate [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/20260813-nasa-737paint.jpg?w=2048",
+      "billede_alt": "A large, white aircraft sits on a concrete surface after being painted with new NASA logos in red, white and blue.",
+      "kategori": "Missioner",
+      "rubrik": "NASA's 737 får ny maling til månemissioner",
+      "resume_da": "NASA's 737-fly er blevet malet i Oklahoma og skal bruges til træning med lav tyngdekraft til Artemis-missioner.",
+      "sektioner": [
+        {
+          "overskrift": "Flyet males og klargøres",
+          "tekst": "NASA's 737-fly blev malet i Oklahoma i denne uge. Flyet er ved at blive ombygget til at blive brugt som testfly til reduceret tyngdekraft. NASA's Armstrong Flight Research Center overtog flyet fra det amerikanske luftvåben i juni."
+        },
+        {
+          "overskrift": "Skal træne astronauter",
+          "tekst": "Flyet skal lave parabelflyvninger med lav tyngdekraft, så astronauter kan teste deres månelandingsdragter. Det skal hjælpe med at forberede Artemis-missionerne. Flyvningerne foregår på NASA's Johnson Space Center i Houston, med tilsyn fra Armstrong."
+        },
+        {
+          "overskrift": "Andre formål",
+          "tekst": "Flyet skal også bruges til forskning i systemintegration. Det kan teste autonome systemer, sensorer og andre digitale teknologier. Dermed bliver det en vigtig ressource for NASA's forskning."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "13. august 2026",
+          "label": "Dato for malingen"
+        }
+      ],
+      "detaljer": [
+        "Flyet er en Boeing 737.",
+        "NASA's Armstrong Flight Research Center ejer flyet.",
+        "Flyet skal bruges til parabelflyvninger med lav tyngdekraft.",
+        "Formålet er at teste astronautdragter og systemer til Artemis-missioner.",
+        "Flyet vil også blive brugt til forskning i autonome systemer og sensorer."
+      ],
+      "betydning": "Artemis-missionerne skal sende mennesker til Månen igen. Denne flyvning hjælper med at forberede astronauterne og udstyret, så missionerne bliver sikre og vellykkede.",
+      "pointer": [
+        "NASA's 737 er blevet malet om.",
+        "Flyet skal bruges til træning med lav tyngdekraft.",
+        "Det understøtter Artemis-missionerne.",
+        "Flyet skal også teste nye teknologier."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
+      "link": "https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/",
+      "dato": "2026-08-13T19:03:19+00:00",
+      "kilde": "NASA",
+      "resume": "Growing up in Grafton, West Virginia, engrossed in Star Wars and all things science fiction, Fletcher Newell had an early interest in space exploration. That interest only grew when, in 2013, his fourth-grade class took a field trip to a nearby NASA facility he had not yet heard of – NASA’s Katherine Johnson Independent Verification [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/dsc-0453-2.jpg?w=2048",
+      "billede_alt": "New civil servants pose together.",
+      "kategori": "Forskning",
+      "rubrik": "NASA-ingeniør vender hjem til West Virginia",
+      "resume_da": "Fletcher Newell blev fastansat hos NASA efter at have vendt tilbage til sin hjemstat. Han arbejder med sikkerhed på månefartøjer.",
+      "sektioner": [
+        {
+          "overskrift": "Fra stjernekigger til ingeniør",
+          "tekst": "Fletcher Newell voksede op med science fiction og en tidlig interesse for rummet. Som skoleelev fik han øjnene op for NASA's lokale facilitet i Fairmont, West Virginia. Han lærte selv at programmere og kombinerede det med sin passion for rumfart."
+        },
+        {
+          "overskrift": "Tilbage til rødderne",
+          "tekst": "Efter studier på Stanford University kunne Newell have taget et job i Silicon Valley. I stedet valgte han at vende tilbage til West Virginia og arbejde hos NASA. Han har bidraget med at finde fejl i vigtige rumfartøjer og blev kåret som Årets Ingeniør i 2025."
+        },
+        {
+          "overskrift": "Sikkerhed på Månen",
+          "tekst": "Newell arbejder nu med at sikre NASAs månefartøjer, herunder Orion og Gateway. Han hjælper med at identificere problemer, der kan true besætningen og missions succes. Hans arbejde er en del af en større satsning på at styrke NASAs tekniske ekspertise."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "51",
+          "label": "nye medarbejdere blev ansat"
+        },
+        {
+          "tal": "70+",
+          "label": "problemer identificeret"
+        }
+      ],
+      "detaljer": [
+        "Newell blev del af NASA's IV&V-facilitet efter en skoleudflugt i 2013.",
+        "Han lærte at programmere i gymnasiet og byggede scripts.",
+        "Hans første praktikophold var som gymnasieelev i 2019.",
+        "Han tog en kandidatgrad i datalogi fra Stanford.",
+        "Navnet på faciliteten ærer Katherine Johnson, en af NASA's tidligere matematikere."
+      ],
+      "betydning": "Historien viser, hvordan lokalt talent kan gøre en forskel i rumfarten. Det understreger også, at sikkerheden på kommende månelandeopgaver er i gode hænder.",
+      "pointer": [
+        "Newell vendte hjem efter studier i Californien.",
+        "Han arbejder på at gøre månefartøjer sikre.",
+        "Hans arbejde blev belønnet i 2025.",
+        "NASA styrker sin tekniske ekspertise."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "What a dry meteorite tells us about water on Mars",
+      "link": "https://phys.org/news/2026-08-dry-meteorite-mars.html",
+      "dato": "2026-08-13T19:00:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Detecting water where none remains today: Neutron and X-ray tomography make it possible. In an international study conducted with the participation of the Paul Scherrer Institute PSI, researchers have brought to light macroscopic hydrogen-rich regions inside a Martian meteorite. The findings provide evidence for early water-rock interactions on Mars.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-a-dry-meteorite-t-1.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Mars-meteorit afslører spor af vand",
+      "resume_da": "Forskere har fundet hydrogenrige områder i en Mars-meteorit, hvilket tyder på, at vand har interageret med klipper på Mars tidligt i dens historie.",
+      "sektioner": [
+        {
+          "overskrift": "Ny teknologi afslører spor",
+          "tekst": "Forskere brugte neutron- og røntgentomografi til at undersøge en tør Mars-meteorit. De fandt makroskopiske områder rige på hydrogen i stenen. Det giver nyt bevis for tidligere vand-klippe-interaktioner på Mars."
+        },
+        {
+          "overskrift": "Betydningen af fundet",
+          "tekst": "Selvom Mars i dag er tør, viser fundet, at der har været vand til stede tidligere. Dette er vigtigt for at forstå Mars' klima- og geologiske historie. Det hjælper også forskere med at forstå, hvor vandet kan være blevet af."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Undersøgelsen er international med deltagelse af Paul Scherrer Institut (PSI).",
+        "Forskerne brugte neutron- og røntgentomografi.",
+        "De fandt hydrogenrige områder i en Mars-meteorit."
+      ],
+      "betydning": "Fundet giver ny viden om vandets historie på Mars, hvilket er relevant for at forstå planetens beboelighed og muligheden for liv.",
+      "pointer": [
+        "Hydrogenrige områder fundet i Mars-meteorit.",
+        "Bevis for tidligere vand-klippe-interaktioner.",
+        "Vigtigt for at forstå Mars' fortid."
+      ],
+      "prio": 7
+    },
     {
       "titel": "How to image the planets with a telescope and camera",
       "link": "https://www.space.com/stargazing/skywatching-kit/how-to-image-the-planets-with-a-telescope-and-camera",
@@ -4141,149 +4314,6 @@
         "Raketten kan flyve tidligst i slutningen af 2026."
       ],
       "prio": 7
-    },
-    {
-      "titel": "2026 IGARSS Hyperwall Schedule",
-      "link": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/",
-      "dato": "2026-08-07T18:57:34+00:00",
-      "kilde": "NASA",
-      "resume": "IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3:00 PM Technology Enabling the Future of Earth ScienceMike Seablom3:15 PM Discovery Earth: New Missions &#038; Technical Innovation Advancing Earth System InsightsKaren St. Germain TUESDAY, AUGUST 11 10:00 AMSTELLA: Open-Source Multisenor Platforms For ",
-      "billede": null,
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "NASA Hyperwall-program på IGARSS 2026 offentliggjort",
-      "resume_da": "NASA har udgivet programmet for deres Hyperwall-præsentationer på konferencen IGARSS 2026. Her vil eksperter fortælle om jordobservation, nye missioner og teknologier.",
-      "sektioner": [
-        {
-          "overskrift": "Mandag: Jordvidenskab og teknologi",
-          "tekst": "Mandag den 10. august kl. 15.00 fortæller Mike Seablom om teknologi til jordvidenskab. Kl. 15.15 præsenterer Karen St. Germain nye missioner og innovationer inden for jordsystemforskning."
-        },
-        {
-          "overskrift": "Tirsdag: Miljøovervågning og oceaner",
-          "tekst": "Tirsdag den 11. august kl. 10.00 handler det om STELLA, en open-source platform til miljøovervågning. Kl. 15.00 fortæller Robert O. Green om at finde mineralressourcer med NASA's billedspektroskopi. Paul Chang taler om havobservationer fra satellitter."
-        },
-        {
-          "overskrift": "Onsdag: Data og satelitter",
-          "tekst": "Onsdag den 12. august kl. 10.00 præsenterer Joel Scott, hvordan jordvidenskabelige data kan gavne samfundet. Kl. 15.00 opdaterer Paul Rosen og Marco Lavalle om NISAR-satellitten et år efter opsendelsen."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "NASA's Hyperwall-præsentationer finder sted i udstillingshallen (stand nr. 100) på IGARSS 2026.",
-        "Konferencen løber fra 10. til 12. august 2026.",
-        "Alle præsentationer er med NASA-eksperter.",
-        "Der er to præsentationer hver dag kl. 10.00 og 15.00."
-      ],
-      "betydning": "For almindelige danskere kan dette program give indsigt i, hvordan NASA overvåger Jorden, hvilket kan have betydning for klimaforståelse og teknologiske fremskridt. Det kan også inspirere til interesse for rumfart og forskning.",
-      "pointer": [
-        "NASA offentliggør program for IGARSS 2026.",
-        "Ni præsentationer om jordobservation og teknologi.",
-        "Fokus på NISAR-satellit og nye missioner.",
-        "Relevant for klima- og miljøforskning."
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "FCC Space Bureau deputy takes the reins amid licensing overhaul",
-      "link": "https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul/",
-      "dato": "2026-08-07T17:54:30+00:00",
-      "kilde": "SpaceNews",
-      "resume": "The FCC is turning to Space Bureau deputy chief Jennifer Gilsenan to keep its satellite regulatory overhaul moving as Jay Schwarz prepares to retire as its chief later this month. The post FCC Space Bureau deputy takes the reins amid licensing overhaul appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/20250407_SpaceSymposium40_StudioCopan_003-scaled.jpg?fit=1024%2C683&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Jay Schwarz træder tilbage som chef for FCC's rumkontor",
-      "resume_da": "Jay Schwarz forlader posten som chef for FCC's rumkontor. Jennifer Gilsenan overtager ansvaret, mens satellitlicenssystemet er under omlægning.",
-      "sektioner": [
-        {
-          "overskrift": "Personaleændring hos FCC",
-          "tekst": "Jay Schwarz stopper som chef for FCC's rumkontor i slutningen af måneden. Jennifer Gilsenan, som er vicechef, overtager ledelsen. Det sker, mens kontoret står midt i en stor opgave med at modernisere satellitlicenseringen."
-        },
-        {
-          "overskrift": "Store ændringer på vej",
-          "tekst": "FCC arbejder på at opdatere sine regler for satellitter, blandt andet for at håndtere den voksende mængde af satellitter i omløb. Det er en stor opgave, som kræver kontinuitet og erfaring."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Jay Schwarz trækker sig tilbage som chef for FCC's Space Bureau.",
-        "Jennifer Gilsenan er vicechef og overtager midlertidigt.",
-        "Skiftet sker, mens FCC er i gang med at ændre sine satellitregler."
-      ],
-      "betydning": "Det er vigtigt at følge med i, hvem der styrer rumreguleringen i USA, fordi det påvirker, hvordan fremtidens satellitter og rumaktiviteter bliver godkendt – også for danske virksomheder og myndigheder.",
-      "pointer": [
-        "Jay Schwarz stopper som chef for FCC's rumkontor.",
-        "Jennifer Gilsenan tager over.",
-        "Satellitreglerne er under forandring."
-      ],
-      "prio": 3
-    },
-    {
-      "titel": "Galactic spins carry fingerprints of the primordial universe",
-      "link": "https://phys.org/news/2026-08-galactic-fingerprints-primordial-universe.html",
-      "dato": "2026-08-07T17:20:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "The origin of spin in spiral and elliptical galaxies has posed a long-standing puzzle for astronomers. One idea, known as tidal torque theory, proposes that galaxies' spins are an imprinted record of the early universe, imparted by gravity long before galaxies first formed and still detectable in galaxies today.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/galactic-rotations-car.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Galaksers spin afslører det tidlige univers",
-      "resume_da": "Forskere foreslår, at spin i galakser kan være et aftryk fra det tidlige univers, skabt af gravitation før galakserne blev dannet.",
-      "sektioner": [
-        {
-          "overskrift": "Gåden om galaksers spin",
-          "tekst": "Astronomer har længe undret sig over, hvorfor galakser roterer. En teori, kaldet tidal torque-teorien, peger på, at spin blev påvirket af gravitation i det tidlige univers. Dette aftryk skulle stadig kunne ses i nutidens galakser."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Tidal torque-teorien: spin i galakser er et aftryk fra det tidlige univers, skabt af gravitation før galakserne blev dannet.",
-        "Gælder både spiral- og elliptiske galakser."
-      ],
-      "betydning": "Ny viden om galaksers oprindelse kan hjælpe os med at forstå universets historie og de fysiske love, der formede det.",
-      "pointer": [
-        "Galakser roterer, og årsagen er et mysterium.",
-        "Tidal torque-teorien: spin er et aftryk fra det tidlige univers.",
-        "Gravitation påvirkede spin før galakserne blev dannet.",
-        "Aftrykket er stadig synligt i dag."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "How to safely observe eclipses and the solar surface with a smart telescope",
-      "link": "https://www.space.com/stargazing/skywatching-kit/how-to-safely-observe-eclipses-and-the-solar-surface-with-a-smart-telescope",
-      "dato": "2026-08-07T17:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "Solar observation is easy with a smart telescope like the Unistellar eQuinox 2 and the matching filter, meaning you can capture it with no stress on big events like the Aug. 12 total solar eclipse.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/F4K6mWFSYianWE8h3bMjbT-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Sådan ser du solformørkelser sikkert",
-      "resume_da": "En guide til at observere solen og formørkelser med et smart teleskop. Vigtige sikkerhedsregler for at beskytte øjnene.",
-      "sektioner": [
-        {
-          "overskrift": "Sikkerhed først",
-          "tekst": "Det er farligt at se direkte på solen uden beskyttelse. Brug altid godkendte solfiltre eller specielle solbriller. Et smart teleskop kan gøre det lettere, men kræver stadig forsigtighed."
-        },
-        {
-          "overskrift": "Sådan gør du",
-          "tekst": "Find et solfilter, der passer til dit teleskop. Sæt det på, før du kigger gennem teleskopet. Tjek at det er sikkert fastgjort. Følg altid producentens anvisninger."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Brug altid godkendte solfiltre",
-        "Sørg for at solfilteret er korrekt monteret",
-        "Følg producentens anvisninger"
-      ],
-      "betydning": "For almindelige danskere, der er nysgerrige på solformørkelser, giver artiklen vigtig viden om, hvordan man observerer solen sikkert, så man undgår øjenskader.",
-      "pointer": [
-        "Beskyttelse er nødvendig",
-        "Filtre skal være godkendt",
-        "Følg vejledningen",
-        "Vær forsigtig"
-      ],
-      "prio": 5
     }
   ]
 }
