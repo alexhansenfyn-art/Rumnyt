@@ -1,7 +1,313 @@
 {
-  "opdateret": "2026-08-13T12:35:30.261463+00:00",
+  "opdateret": "2026-08-13T17:35:06.078655+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "How to image the planets with a telescope and camera",
+      "link": "https://www.space.com/stargazing/skywatching-kit/how-to-image-the-planets-with-a-telescope-and-camera",
+      "dato": "2026-08-13T17:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "Follow our step-by-step tutorial to photographing Jupiter, Saturn, Mars and Venus",
+      "billede": "https://cdn.mos.cms.futurecdn.net/Wox4gfMhfNrP497VfW2ZGg-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Sådan fotograferer du planeter med teleskop",
+      "resume_da": "Amatør-astronomen Damian Peach deler ud af sin viden om planetfotografering – fra teleskop og kamera til teknikken bag flotte billeder.",
+      "sektioner": [
+        {
+          "overskrift": "Start med det rigtige udstyr",
+          "tekst": "Du behøver ikke dyrt professionelt udstyr for at komme i gang. Et almindeligt teleskop og et kamera kan give gode resultater. Det vigtigste er at øve sig og forstå himlen."
+        },
+        {
+          "overskrift": "Kend dine planeter",
+          "tekst": "Jupiter og Saturn er nemme at fotografere, fordi de er lyse og store på himlen. Mars kan være en udfordring, men giver flotte billeder, når den er tæt på. Brug gerne en planetguide til at finde dem."
+        },
+        {
+          "overskrift": "Teknikken bag gode billeder",
+          "tekst": "Tag flere billeder og læg dem sammen i et program. Det giver skarpere detaljer end ét enkelt billede. Sørg for at fokusere præcist, og brug et stativ for at undgå rystelser."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Brug gerne et teleskop med en blænde på mindst 60 mm.",
+        "Sæt kameraet til med et adapter, så det sidder fast på teleskopet.",
+        "Justér eksponeringstiden, så planeten ikke bliver overbelyst.",
+        "Tag billeder i råformat for at bevare flest detaljer."
+      ],
+      "betydning": "Det er en sjov og lærerig hobby, der kan give dig fantastiske billeder af vores naboplaneter – også selvom du ikke er ekspert.",
+      "pointer": [
+        "Begynd med Jupiter og Saturn.",
+        "Brug stativ og præcis fokus.",
+        "Læg mange billeder sammen for skarphed.",
+        "Øv dig – det bliver bedre med tiden."
+      ],
+      "prio": 2
+    },
+    {
+      "titel": "Space Command expands Alabama footprint as headquarters relocation advances",
+      "link": "https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/",
+      "dato": "2026-08-13T16:27:05+00:00",
+      "kilde": "SpaceNews",
+      "resume": "More than 100 personnel have already relocated to Redstone Arsenal as construction of billion-dollar Space Command facility is set to begin The post Space Command expands Alabama footprint as headquarters relocation advances appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/IMG_0400-scaled.jpg?fit=1024%2C768&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "US Space Command flytter til Alabama",
+      "resume_da": "Mere end 100 ansatte er allerede flyttet til Redstone Arsenal. Byggeriet af det nye hovedsæde begynder snart.",
+      "sektioner": [
+        {
+          "overskrift": "Flytningen er i gang",
+          "tekst": "Over **100** personer er allerede flyttet til Redstone Arsenal. Det nye hovedsæde skal bygges for milliarder af dollars."
+        },
+        {
+          "overskrift": "Fremtidens hovedkvarter",
+          "tekst": "Byggeriet af den nye facilitet begynder snart. Det er et stort projekt, der skal huse hele kommandoen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "100",
+          "label": "medarbejdere er flyttet"
+        }
+      ],
+      "detaljer": [
+        "Mere end 100 ansatte er flyttet til Redstone Arsenal.",
+        "Byggeriet af det nye Space Command-hovedsæde begynder snart.",
+        "Anlægget forventes at koste milliarder af dollars."
+      ],
+      "betydning": "For en almindelig dansker er det relevant, fordi det viser, hvordan USA styrker deres rumkapaciteter, hvilket kan påvirke internationalt rumforsvar.",
+      "pointer": [
+        "Over 100 ansatte er flyttet.",
+        "Ny bygning til milliarder.",
+        "Byggeri starter snart."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Perseids Meteor Shower",
+      "link": "https://www.nasa.gov/image-article/perseids-meteor-shower-2/",
+      "dato": "2026-08-13T15:08:34+00:00",
+      "kilde": "NASA",
+      "resume": "The constellation Orion is framed by two Perseid meteors in this photo from Aug. 12, 2018, in Cedar Breaks National Monument, Utah. The Perseids – one of the year’s brightest and most popular meteor showers – has been ramping up since early July and will sparkle in the skies through the end of August. The [&#8230;]",
+      "billede": "https://www.youtube.com/embed/kVRkkrB4eS0",
+      "billede_alt": "The night sky is filled with stars. Looking toward the bottom left and top right, two streaks are visible. These are meteors. Between the two streaks is the constellation Orion. The bottom of the imag",
+      "kategori": "Astronomi",
+      "rubrik": "Perseidernes meteorsværm topper i august",
+      "resume_da": "Perseiderne er en af årets flotteste meteorsværme. Den er aktiv fra juli til august og havde sit højdepunkt natten til 13. august.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er Perseiderne?",
+          "tekst": "Perseiderne er en årligt tilbagevendende meteorsværm. Den er kendt for at være en af de klareste og mest populære. Meteorerne er synlige med det blotte øje."
+        },
+        {
+          "overskrift": "Hvornår kan man se dem?",
+          "tekst": "Sværmen begynder i starten af juli og varer til slutningen af august. Toppen var natten mellem den 12. og 13. august. I den periode kunne man se flest meteorer."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Perseiderne er aktive fra begyndelsen af juli til slutningen af august.",
+        "Toppen var natten mellem den 12. og 13. august.",
+        "Perseiderne er en af årets klareste og mest populære meteorsværme.",
+        "Et fotografi fra 2018 viser to Perseid-meteorer."
+      ],
+      "betydning": "For almindelige mennesker er det en mulighed for at se et imponerende naturfænomen. Man behøver ikke specielt udstyr, bare en klar himmel.",
+      "pointer": [
+        "Perseiderne er aktive fra juli til august.",
+        "Toppen var natten til 13. august.",
+        "De er blandt årets klareste meteorsværme.",
+        "Kan ses uden udstyr."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "An optical link ‘internet’ to connect networks in space",
+      "link": "https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space/",
+      "dato": "2026-08-13T14:39:26+00:00",
+      "kilde": "SpaceNews",
+      "resume": "In this episode, David Ariosto speaks with John Mackey, CEO, co-founder and director of Mbryonics. They discuss building optical links for satellites and other space infrastructure, and what it would [&#8230;] The post An optical link ‘internet’ to connect networks in space appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/space-minds-podcast-mbryonics-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Optisk internet i rummet kan forbinde satellitter",
+      "resume_da": "Mbryonics CEO John Mackey fortæller om at bygge optiske forbindelser til satellitter, som kan skabe et internet i rummet.",
+      "sektioner": [
+        {
+          "overskrift": "Optiske forbindelser i rummet",
+          "tekst": "Mbryonics arbejder på at lave optiske links til satellitter og andet rumudstyr. Det kan skabe et netværk, hvor enheder i rummet kan kommunikere med hinanden."
+        },
+        {
+          "overskrift": "En samtale om fremtiden",
+          "tekst": "I en podcast taler David Ariosto med John Mackey, der er chef og medstifter af Mbryonics. De diskuterer, hvordan denne teknologi kan forme fremtidens rumfart."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Mbryonics er et firma, der bygger optiske link-systemer.",
+        "Formålet er at forbinde satellitter og andet rumudstyr.",
+        "Det kan føre til et 'internet' i rummet."
+      ],
+      "betydning": "For almindelige danskere kan det betyde bedre og hurtigere kommunikation via satellitter, fx til internet i afsides områder eller forbedret satellitnavigation.",
+      "pointer": [
+        "Optiske links kan give hurtigere dataoverførsel i rummet.",
+        "Det kan skabe et netværk mellem rumfartøjer.",
+        "Teknologien er under udvikling hos Mbryonics."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity",
+      "link": "https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity/",
+      "dato": "2026-08-13T14:27:27+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Paris, France &#124; July 2026 — The maritime satellite communications market is entering a new phase of growth as next-generation satellite networks transform connectivity at sea. According to Novaspace’s newly [&#8230;] The post Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&amp;ssl=1",
+      "billede_alt": "Novaspace logo",
+      "kategori": "Forskning",
+      "rubrik": "Satellitmarked til søs vokser mod 2035",
+      "resume_da": "Nye satellitnetværker ændrer kommunikation til søs. Markedet forventes at nå 3,79 milliarder dollar i 2035.",
+      "sektioner": [
+        {
+          "overskrift": "Markedet vokser",
+          "tekst": "Et nyt studie fra Novaspace viser, at omsætningen for satellitkommunikation til søs vil stige. I 2035 forventes den at nå **3,79 milliarder dollar**. Det skyldes først og fremmest nye satellitnetværk i lavt kredsløb (NGSO)."
+        },
+        {
+          "overskrift": "Nye netværk ændrer spillereglerne",
+          "tekst": "De nye satellitnetværk giver bedre dækning og hurtigere internet til skibe. Det ændrer måden, man kommunikerer på til søs. Traditionelle systemer får nu konkurrence fra nye aktører."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "3,79 milliarder dollar",
+          "label": "Forventet omsætning i 2035"
+        }
+      ],
+      "detaljer": [
+        "Kilden er et nyt studie fra Novaspace.",
+        "Studiet blev offentliggjort i juli 2026.",
+        "Artiklen er bragt på SpaceNews."
+      ],
+      "betydning": "For almindelige danskere betyder det bedre internet og kommunikation på færger og fragtskibe. Det kan også gøre søfarten mere effektiv og sikker.",
+      "pointer": [
+        "Markedet vokser mod 3,79 mia. dollar i 2035.",
+        "Nye NGSO-satellitter driver væksten.",
+        "Forbindelsen til søs forbedres markant.",
+        "Studiet er fra Novaspace."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "'Strange New Worlds' latest lookalike episode is part of a long line of 'Star Trek' doppelganger stories",
+      "link": "https://www.space.com/entertainment/space-movies-shows/number-ones-doppelganger-in-strange-new-worlds-latest-episode-is-part-of-a-long-line-of-star-trek-lookalikes",
+      "dato": "2026-08-13T13:15:04+00:00",
+      "kilde": "Space.com",
+      "resume": "Haven't we seen your face before? On the final frontier, your identical face twin is never far away…",
+      "billede": "https://cdn.mos.cms.futurecdn.net/E4U3YYdF6fDLVkYeZLeQmm-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Star Trek-genbo: Derfor elsker vi dobbeltgængere",
+      "resume_da": "En ny episode af 'Star Trek: Strange New Worlds' genbruger en klassisk dobbeltgænger-historie. Vi ser på, hvorfor Star Trek altid har elsket den slags fortællinger.",
+      "sektioner": [
+        {
+          "overskrift": "Genkendeligt mønster",
+          "tekst": "Star Trek har en lang tradition for historier om dobbeltgængere og parallelle verdener. Det er en fast bestanddel i serien, som nu også dukker op i 'Strange New Worlds'."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Artiklens forfatter er Richard, som har skrevet om sci-fi i mange år.",
+        "Han har mødt fem Doctorer, to stjerneflådekaptajner og én Luke Skywalker.",
+        "Han sad engang i cockpittet på Starbug fra 'Red Dwarf'."
+      ],
+      "betydning": "For almindelige danskere viser det, at Star Trek stadig er relevant og formår at fortælle spændende historier, som mange kan relatere til. Det er også en mulighed for at genopleve klassiske temaer i en ny indpakning.",
+      "pointer": [
+        "Dobbeltgænger-temaet er et klassisk Star Trek-genre.",
+        "Den nye episode er en del af en større trend.",
+        "Serien fortsætter med at udforske kreative fortællinger."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "Active supermassive black holes may help form massive planets",
+      "link": "https://phys.org/news/2026-08-supermassive-black-holes-massive-planets.html",
+      "dato": "2026-08-13T13:11:08+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "A popular myth about black holes is that they act like giant cosmic vacuum cleaners, sucking in everything around them. But Wladimir Lyra's research found a new mechanism around supermassive black holes that is more like a cosmic nursery, giving birth to planets more massive than Jupiter.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2024/twin-black-holes.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Supermassive sorte huller kan hjælpe med at danne gigantiske planeter",
+      "resume_da": "Ny forskning viser, at supermassive sorte huller kan virke som kosmiske planteskoler, hvor der dannes planeter, der er mere massive end Jupiter.",
+      "sektioner": [
+        {
+          "overskrift": "Sorte huller er ikke kun ødelæggere",
+          "tekst": "Sorte huller bliver ofte opfattet som kosmiske støvsugere, der suger alt til sig. Men ny forskning viser, at supermassive sorte huller også kan virke som en slags planteskole for planeter. Wladimir Lyra har fundet en ny mekanisme, hvor der dannes planeter, der er mere massive end Jupiter."
+        },
+        {
+          "overskrift": "Planeter omkring sorte huller",
+          "tekst": "Forskningen peger på, at der omkring supermassive sorte huller kan dannes planeter, der er mere massive end Jupiter. Dette er en overraskende opdagelse, der ændrer vores forståelse af, hvor planeter kan dannes. Måske er der flere planeter i universet end hidtil antaget."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "mere massive end Jupiter",
+          "label": "Planeternes masse"
+        }
+      ],
+      "detaljer": [
+        "Forskeren bag opdagelsen er Wladimir Lyra.",
+        "Mekanismen er sammenlignet med en kosmisk planteskole.",
+        "Planeterne dannes omkring supermassive sorte huller."
+      ],
+      "betydning": "Denne opdagelse udvider vores viden om, hvor og hvordan planeter kan dannes i universet. Det kan ændre vores forståelse af, hvor udbredt planetdannelse er.",
+      "pointer": [
+        "Sorte huller kan også skabe planeter.",
+        "Planeterne er større end Jupiter.",
+        "Forskningen er lavet af Wladimir Lyra."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Did You See the Solar Eclipse? Here’s What We Saw, from Around the World",
+      "link": "https://skyandtelescope.org/astronomy-news/did-you-see-the-solar-eclipse-heres-what-we-saw-from-around-the-world/",
+      "dato": "2026-08-13T13:03:50+00:00",
+      "kilde": "Sky & Telescope",
+      "resume": "Sky &#038; Telescope editors traveled the world, both literally and figuratively, to see the solar eclipse that darkened the world in the most magical way on August 12, 2026. Here are some of their stories. The post Did You See the Solar Eclipse? Here’s What We Saw, from Around the World appeared first on Sky &amp; Telescope .",
+      "billede": null,
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Måske så du solformørkelsen? Her er hvad vi så",
+      "resume_da": "Sky & Telescopes redaktører rejste verden rundt for at opleve solformørkelsen den 12. august 2026. De deler deres oplevelser og magiske øjeblikke fra forskellige steder på Jorden.",
+      "sektioner": [
+        {
+          "overskrift": "Redaktørernes rejser",
+          "tekst": "Redaktørerne fra Sky & Telescope rejste både fysisk og billedligt til forskellige steder for at se formørkelsen. De oplevede den på flere kontinenter. Hver oplevelse var unik."
+        },
+        {
+          "overskrift": "Det magiske øjeblik",
+          "tekst": "Formørkelsen formørkede verden på en magisk måde den 12. august 2026. Den skabte stor begejstring blandt både forskere og amatører. Mange delte deres historier og billeder."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. august 2026",
+          "label": "Dato for formørkelsen"
+        }
+      ],
+      "detaljer": [
+        "Sky & Telescope sendte redaktører ud i verden.",
+        "Formørkelsen blev set fra mange steder.",
+        "Oplevelserne blev delt i artikler og historier."
+      ],
+      "betydning": "En solformørkelse er en sjælden og spektakulær begivenhed, der kan ses mange steder. Det minder os om, hvor fantastisk universet er, og inspirerer folk til at interessere sig for astronomi.",
+      "pointer": [
+        "Formørkelse den 12. august 2026.",
+        "Set fra hele verden.",
+        "Redaktører delte oplevelser.",
+        "Magisk og begejstrende."
+      ],
+      "prio": 7
+    },
     {
       "titel": "APOD: 2026 August 13 – Total Solar Eclipse Over Spain",
       "link": "https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/",
@@ -52,6 +358,61 @@
         "Spanien så den første siden 1905.",
         "Forskere studerer koronaens temperatur.",
         "Borgere kan bidrage med observationer."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Cascade Volcanoes Shrouded in Smoke",
+      "link": "https://science.nasa.gov/earth/earth-observatory/cascade-volcanoes-shrouded-in-smoke/",
+      "dato": "2026-08-13T04:00:00+00:00",
+      "kilde": "NASA",
+      "resume": "From the International Space Station, astronauts photographed Mount Hood and Mount Rainier as wildfire smoke spread across the Pacific Northwest in summer 2026.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cascade-volcanoes-shrouded-in-smoke/ISS075-E-1705.jpg?w=1440&#038;h=960&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "An ice-capped volcano stands at the center of the image, its surrounding terrain blanketed in brown-gray smoke.",
+      "kategori": "Forskning",
+      "rubrik": "Røg fra skovbrande lægger sig over vulkaner i USA",
+      "resume_da": "Astronauter på rumstationen ISS har fotograferet røg fra skovbrande, der blander sig med sneklædte vulkaner i Cascade-bjergene i USA.",
+      "sektioner": [
+        {
+          "overskrift": "Brand nær Mount Hood",
+          "tekst": "Et lyn antændte den 23. juli en brand øst for Mount Hood, Oregons højeste bjerg. Den 31. juli fotograferede astronauter på ISS røgen fra branden, der bredte sig hurtigt i varmt og tørt vejr. Den 12. august havde branden brændt omkring **84.000 acres** og tvunget flere lokalsamfund til at evakuere."
+        },
+        {
+          "overskrift": "Røg over Mount Rainier",
+          "tekst": "Længere mod nord i Washington var Mount Rainier den 4. august indhyllet i røg fra andre brande i staten. Luftkvaliteten i nationalparken blev målt til usund på grund af fine partikler. En ny brand, Grand Park 2, blev senere opdaget inde i parken og havde den 12. august brændt **223 acres** og var ikke under kontrol."
+        },
+        {
+          "overskrift": "Varmt og tørt vejr",
+          "tekst": "El Niño påvirker vejret og gør det varmere og tørrere end normalt. Det betyder, at vegetation er tør og let kan brænde. Eksperter forventer derfor flere og større brande i hele august i det nordvestlige USA."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "11.249 fod",
+          "label": "Mount Hoods højde"
+        },
+        {
+          "tal": "14.411 fod",
+          "label": "Mount Rainiers højde"
+        },
+        {
+          "tal": "84.000 acres",
+          "label": "Brændt areal ved Mount Hood"
+        }
+      ],
+      "detaljer": [
+        "Billederne blev taget af astronauter på ISS den 31. juli og 4. august 2026.",
+        "Grasshopper-branden blev startet af et lynnedslag.",
+        "Dufur og flere andre byer blev rådet til at evakuere.",
+        "Grand Park 2-branden i Mount Rainier National Park var ikke under kontrol den 12. august.",
+        "Den nationale brandprognose forventer øget brandfare i august."
+      ],
+      "betydning": "Historien viser, hvordan rumfartsteknologi kan overvåge og dokumentere miljøkatastrofer på Jorden. Det hjælper forskere og myndigheder med at forstå og håndtere brande, der påvirker luftkvalitet og lokalsamfund.",
+      "pointer": [
+        "Brandrøg blander sig med vulkaner i USA.",
+        "ISS-astronauter tager billeder fra rummet.",
+        "Brande er forårsaget af lynnedslag og tørt vejr.",
+        "Luftkvalitet bliver usund for beboere."
       ],
       "prio": 6
     },
@@ -3923,387 +4284,6 @@
         "Vær forsigtig"
       ],
       "prio": 5
-    },
-    {
-      "titel": "Uranus's unusual rotation makes its bow shock expand and contract each day",
-      "link": "https://phys.org/news/2026-08-uranus-unusual-rotation-day.html",
-      "dato": "2026-08-07T16:20:05+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Within our solar system, Uranus is a geometric oddball. Its spin axis tilts more than 90° from its orbit, so it essentially rolls on its side through space. In contrast, Earth and other planets tilt only moderately or not at all. What's more, the ice giant's magnetic field is strangely offset and tilted another 60°.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/getting-to-know-uranus.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Uranus' bizarre rotation påvirker rumvejr",
-      "resume_da": "Uranus ruller på siden, og dens magnetfelt er skævt, hvilket får chokfronten til at udvide sig og trække sig sammen dagligt.",
-      "sektioner": [
-        {
-          "overskrift": "Det skæve planet",
-          "tekst": "Uranus er en geometrisk underlig størrelse. Dens rotationsakse hælder mere end **90 grader**, så den ruller rundt på siden i rummet. Den iskæmpe har også et magnetfelt, der er forskudt og hælder **60 grader**."
-        },
-        {
-          "overskrift": "Chokfronten ændrer sig",
-          "tekst": "På grund af dette har Uranus en usædvanlig vekselvirkning med solvinden. Chokfronten – hvor solvinden bremses – udvider sig og trækker sig sammen i løbet af en dag. Det giver et dynamisk rummiljø omkring planeten."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "90°",
-          "label": "aksehældning"
-        },
-        {
-          "tal": "60°",
-          "label": "magnetfeltets hældning"
-        }
-      ],
-      "detaljer": [
-        "Uranus roterer med aksehældning over 90°",
-        "Magnetfeltet er offset og skævt",
-        "Chokfronten varierer dagligt"
-      ],
-      "betydning": "Det hjælper forskere med at forstå, hvordan planeter med skæve magnetfelter interagerer med solvinden – også exoplaneter.",
-      "pointer": [
-        "Uranus ruller på siden",
-        "Chokfronten ændrer sig",
-        "Usædvanligt rumvejr"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "'Plasma gun' technology could transform space laundry and sanitation for future missions",
-      "link": "https://phys.org/news/2026-08-plasma-gun-technology-space-laundry.html",
-      "dato": "2026-08-07T15:20:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Researchers at The University of Alabama in Huntsville (UAH), part of The University of Alabama System, are developing plasma-based technology to help astronauts stay healthier during missions to the moon and Mars by sanitizing clothing, bedding and other fabrics without water or traditional cleaning chemicals.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/uah-research-advances.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Plasma-teknologi kan rense tøj i rummet uden vand",
-      "resume_da": "Forskere udvikler en 'plasmakanon' til at rense tøj og udstyr uden vand eller kemikalier. Det kan hjælpe astronauter på lange missioner til Månen og Mars.",
-      "sektioner": [
-        {
-          "overskrift": "Nyt renseprincip",
-          "tekst": "Forskere fra University of Alabama i Huntsville tester en teknologi, der bruger plasma til at fjerne snavs og bakterier fra stof. Processen kræver hverken vand eller traditionelle rengøringsmidler. Det kan gøre hverdagen lettere for astronauter."
-        },
-        {
-          "overskrift": "Missioner til Månen og Mars",
-          "tekst": "Teknologien er målrettet fremtidige rummissioner. På ture til Månen og Mars er der begrænset adgang til vand. En effektiv måde at vaske tøj på kan spare værdifulde ressourcer. Det kan også reducere mængden af affald om bord."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Forskningen foregår på University of Alabama i Huntsville (UAH).",
-        "Teknologien kaldes en 'plasmakanon'.",
-        "Den kan sanitere tøj, sengetøj og andre tekstiler.",
-        "Den bruger ikke vand eller kemikalier."
-      ],
-      "betydning": "Selvom det er rumteknologi, kan det i fremtiden få betydning for bæredygtig rengøring her på Jorden. Fx i områder med vandmangel.",
-      "pointer": [
-        "Plasma renser uden vand.",
-        "Testet på universiteter i USA.",
-        "Skal hjælpe astronauter på lange missioner.",
-        "Kan mindske ressourceforbrug i rummet."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "NASA’s IXPE Studies Magnetar",
-      "link": "https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/",
-      "dato": "2026-08-07T14:27:35+00:00",
-      "kilde": "NASA",
-      "resume": "Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E 1547-5408, shown in this Aug. 5, 2026, artist&#8217;s concept, between March and April 2025. In doing so, they may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/ixpemagnetarartistsconcept-web.png?w=2048",
-      "billede_alt": "This artist’s concept depicts magnetar 1E 1547.0-5408, a rapidly rotating neutron star with magnetic fields over a trillion times stronger than Earth’s. Blue curves emanating from the star&#039;s two ",
-      "kategori": "Astronomi",
-      "rubrik": "Magnetar-observation måske første bevis på kvanteeffekt",
-      "resume_da": "NASAs IXPE-rumteleskop observerede magnetaren 1E 1547-5408 i 140+ timer og fangede måske første direkte bevis på, at tomt rum opfører sig, som fysikere har forudsagt i 90 år.",
-      "sektioner": [
-        {
-          "overskrift": "Lange observationer af magnetar",
-          "tekst": "Fra marts til april 2025 observerede NASAs IXPE-rumteleskop magnetaren 1E 1547-5408 i mere end **140 timer**. Magnetarer er en type neutronstjerne med ekstremt stærke magnetfelter – de stærkeste i det observerbare univers."
-        },
-        {
-          "overskrift": "Forudsagt, men aldrig set",
-          "tekst": "Forskerne håber, at observationerne har fanget et fænomen i tomt rum, som fysikere har forudsagt i **90 år**, men aldrig har observeret direkte. Magnetarens magnetfelt er omkring **en billion gange** stærkere end de stærkeste permanente magneter på Jorden."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "140 timer",
-          "label": "Observationstid af magnetaren"
-        },
-        {
-          "tal": "90 år",
-          "label": "Forudsagt, men ikke set"
-        },
-        {
-          "tal": "en billion gange",
-          "label": "Stærkere end jordiske magneter"
-        }
-      ],
-      "detaljer": [
-        "Observationer foretaget med NASAs IXPE-rumteleskop.",
-        "Magnetarens navn er 1E 1547-5408.",
-        "Magnetarer har de stærkeste magnetfelter i universet.",
-        "Kunstnerisk illustration fra 5. august 2026."
-      ],
-      "betydning": "Hvis bekræftet, kan det være første direkte bevis på en kvanteeffekt i tomt rum, hvilket udvider vores forståelse af universets fundamentale love. For almindelige danskere viser det, hvordan rumforskning afdækker naturens mest eksotiske fænomener.",
-      "pointer": [
-        "NASA rumteleskop observerede magnetar i 140 timer.",
-        "Mulig første bevis på forudsagt kvanteeffekt.",
-        "Magnetarer har ekstremt stærke magnetfelter.",
-        "Observationer i marts-april 2025."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "This Week's Sky at a Glance, August 7 – 16",
-      "link": "https://skyandtelescope.org/astronomy-news/this-weeks-sky-at-a-glance-august-7-16/",
-      "dato": "2026-08-07T14:17:24+00:00",
-      "kilde": "Sky & Telescope",
-      "resume": "In twilight, watch bold Venus and tiny Spica approach each other to meet September 1st. And check whether you'll be able to see anything of Wednesday's solar eclipse! The post This Week&#039;s Sky at a Glance, August 7 – 16 appeared first on Sky &amp; Telescope .",
-      "billede": null,
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Ugens himmel: Venus møder Spica og solformørkelse",
-      "resume_da": "Se Venus og Spica nærme sig hinanden mod et møde 1. september, og tjek om du kan se onsdagens solformørkelse.",
-      "sektioner": [
-        {
-          "overskrift": "Venus og Spica nærmer sig",
-          "tekst": "I skumringen kan du se den klare Venus og den lille stjerne Spica nærme sig hinanden. De mødes den 1. september. Det er et smukt syn på aftenhimlen."
-        },
-        {
-          "overskrift": "Solformørkelse onsdag",
-          "tekst": "Onsdag er der en solformørkelse, men du bør tjekke, om du kan se den fra din lokation. Sky & Telescope opfordrer til at følge med i vejret og tiden."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1. september",
-          "label": "dato for Venus og Spica-møde"
-        }
-      ],
-      "detaljer": [
-        "Venus er meget lysstærk på aftenhimlen.",
-        "Spica er en svag stjerne sammenlignet med Venus.",
-        "De to objekter nærmer sig hinanden i august.",
-        "Der er en solformørkelse onsdag i denne uge."
-      ],
-      "betydning": "For almindelige danskere er det en chance for at se et sjældent himmelfænomen med det blotte øje. Solformørkelsen kan også være spændende at følge med i, hvis man har de rette briller.",
-      "pointer": [
-        "Venus og Spica mødes 1. september.",
-        "Onsdag er der solformørkelse.",
-        "Tjek om du kan se begge begivenheder."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "On this day in space! Aug. 7, 1980: NASA's Viking 1 Mars orbiter shuts down 4 years into a 90-day mission",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-7-2026",
-      "dato": "2026-08-07T14:14:51+00:00",
-      "kilde": "Space.com",
-      "resume": "On Aug. 7, 1980, NASA's Viking 1 spacecraft orbiting Mars ended its epic and historic mission to the Red Planet. Here's why it mattered.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/xzkkvKDP2DJ5Jdmb6uZubE-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Viking 1-rumfartøjet lukket efter 4 år",
-      "resume_da": "Den 7. august 1980 lukkede NASA's Viking 1 Mars-orbiter ned efter 4 år, selvom missionen var planlagt til 90 dage.",
-      "sektioner": [
-        {
-          "overskrift": "Missionens varighed",
-          "tekst": "Viking 1 blev sendt afsted for at studere Mars. Den varede meget længere end planlagt. Efter 4 år stoppede den med at sende data."
-        },
-        {
-          "overskrift": "Betydningen for Mars-forskning",
-          "tekst": "Viking 1 var banebrydende. Den sendte de første billeder fra Mars' overflade. Dens data hjalp os med at forstå Mars bedre."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "90 dage",
-          "label": "Planlagt missionslængde"
-        },
-        {
-          "tal": "4 år",
-          "label": "Faktisk funktionstid"
-        }
-      ],
-      "detaljer": [
-        "Viking 1 blev lukket ned den 7. august 1980.",
-        "Missionen var planlagt til 90 dage, men varede 4 år.",
-        "Den studerede Mars fra kredsløb."
-      ],
-      "betydning": "Historien minder os om, at rummissioner kan overraske og vare længere end forventet, hvilket giver mere viden om vores nabo planet.",
-      "pointer": [
-        "Viking 1-orbiteren blev lukket ned i 1980.",
-        "Den varede 4 år i stedet for de planlagte 90 dage.",
-        "Den var vigtig for Mars-forskning."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Join us live and enjoy the total solar eclipse!",
-      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Join_us_live_and_enjoy_the_total_solar_eclipse",
-      "dato": "2026-08-07T14:00:00+00:00",
-      "kilde": "ESA",
-      "resume": "Video: 00:01:44 [English] On 12 August 2026, Europe will witness one of nature’s most spectacular events: a total solar eclipse starting at 19:30 CEST. As the Moon’s shadow sweeps across Spain, join the European Space Agency live from Observatorio Astrofísico de Javalambre where Dame Dr. Maggie Aderin and ESA scientists will fill you in on everything you need to know about the eclipse and reveal t",
-      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/join_us_live_and_enjoy_the_total_solar_eclipse/27409189-1-eng-GB/Join_us_live_and_enjoy_the_total_solar_eclipse_card_full.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Europas totale solformørkelse: Følg den live med ESA",
-      "resume_da": "Den 12. august 2026 oplever Europa en total solformørkelse. ESA sender live fra Spanien og byder på aktiviteter og sikker formørkelses-kiggeri.",
-      "sektioner": [
-        {
-          "overskrift": "Hvornår og hvor",
-          "tekst": "Den 12. august 2026 kl. **19:30 CEST** starter den totale solformørkelse. Månens skygge bevæger sig hen over Spanien, og resten af Europa kan se en delvis formørkelse."
-        },
-        {
-          "overskrift": "ESA's live-sending",
-          "tekst": "ESA sender direkte fra Observatorio Astrofísico de Javalambre i Spanien. Dame Dr. Maggie Aderin og ESA-forskere forklarer videnskaben bag formørkelsen og giver status undervejs."
-        },
-        {
-          "overskrift": "Aktiviteter i León",
-          "tekst": "Hvis man er i Spanien, kan man tage til León og deltage i et begivenhedsprogram på Palacio de Congresos y Exposiciones de León. Der er videnskabelige aktiviteter, sjove ting for hele familien og mulighed for at se formørkelsen sikkert."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "12. august 2026",
-          "label": "Dato for formørkelsen"
-        },
-        {
-          "tal": "19:30 CEST",
-          "label": "Starttidspunkt"
-        }
-      ],
-      "detaljer": [
-        "Den totale fase kan kun ses fra visse steder i Spanien, mens andre dele af Europa ser en delvis formørkelse.",
-        "ESA sender live på deres YouTube-kanal og på watch.esa.int.",
-        "I León er der arrangementer for både børn og voksne, herunder praktiske aktiviteter og mulighed for at se formørkelsen sikkert.",
-        "Man skal aldrig se direkte på solen uden beskyttelse – ESA har tips til sikker observation."
-      ],
-      "betydning": "En total solformørkelse er en sjælden og spektakulær begivenhed, som mange danskere vil opleve. ESA's live-sending giver alle mulighed for at følge med, uanset hvor man befinder sig, og lære mere om astronomi.",
-      "pointer": [
-        "Europas totale solformørkelse finder sted 12. august 2026 kl. 19:30 CEST.",
-        "ESA sender live fra Spanien med eksperter, der forklarer videnskaben.",
-        "I León er der gratis aktiviteter og sikker kiggeri.",
-        "Husk at beskytte øjnene, hvis du ser direkte på solen."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Physicists trace solar outbursts that led to historic Mother's Day storms",
-      "link": "https://phys.org/news/2026-08-physicists-solar-outbursts-historic-mother.html",
-      "dato": "2026-08-07T13:00:04+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "On Mother's Day weekend in May 2024, Earth experienced its most powerful geomagnetic storm in two decades, spawning auroras—the ribbony bands of light in the nighttime skies in the Northern and Southern hemispheres—that may have been among the strongest displays on record in the past 500 years.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-trace-sola.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Fysikere spore soludbrud bag majs solstorm",
-      "resume_da": "Fysikere har sporet de soludbrud, der i maj 2024 førte til en af de kraftigste geomagnetiske storme i 20 år og nordlys i rekordklassen.",
-      "sektioner": [
-        {
-          "overskrift": "Historisk solstorm",
-          "tekst": "I maj 2024 oplevede Jorden sin kraftigste geomagnetiske storm i **20 år**. Nordlyset var blandt de stærkeste på **500 år**."
-        },
-        {
-          "overskrift": "Sporet til solen",
-          "tekst": "Fysikere har sporet udbruddene til solen. De undersøgte solens aktivitet i dagene op til stormen."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "20 år",
-          "label": "Siden sidste så kraftige storm"
-        },
-        {
-          "tal": "500 år",
-          "label": "Blandt stærkeste nordlys på"
-        }
-      ],
-      "detaljer": [
-        "Stormen fandt sted i weekenden omkring Mors Dag i maj 2024.",
-        "Nordlyset blev set på begge halvkugler.",
-        "Fysikerne har fulgt solens aktivitet for at forklare stormen."
-      ],
-      "betydning": "Forståelse af solstorme er vigtig, fordi de kan påvirke satellitter, elnet og kommunikation. Det kan hjælpe os med at være bedre forberedt i fremtiden.",
-      "pointer": [
-        "Maj 2024: kraftigste solstorm i 20 år.",
-        "Nordlys i top 500 år.",
-        "Fysikere sporede udbruddene på solen.",
-        "Vigtigt for at forbedre forudsigelser."
-      ],
-      "prio": 3
-    },
-    {
-      "titel": "An ultramassive white dwarf half Earth's size may hold a rare oxygen-neon core",
-      "link": "https://phys.org/news/2026-08-ultramassive-white-dwarf-earth-size.html",
-      "dato": "2026-08-07T12:00:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Astronomers have found evidence that one of the most massive white dwarfs known has an oxygen-neon core instead of the more common carbon-oxygen core. The finding is important because the composition of a white dwarf's core determines how it will evolve. A paper outlining this discovery was published in The Astrophysical Journal.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-probe-the-1.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Kæmpe dværgstjerne med ilt-neon kerne fundet",
-      "resume_da": "Astronomer har fundet en usædvanlig massiv hvid dværg, der måske har en kerne af ilt og neon i stedet for den normale kulstof-ilt kerne.",
-      "sektioner": [
-        {
-          "overskrift": "Usædvanlig hvid dværg",
-          "tekst": "En hvid dværg er resterne af en stjerne som Solen. De fleste hvide dværge har en kerne af kulstof og ilt. Men denne nye opdagelse tyder på, at en af de mest massive hvide dværge har en kerne af ilt og neon."
-        },
-        {
-          "overskrift": "Vigtig for stjerners udvikling",
-          "tekst": "Kernens sammensætning er afgørende for, hvordan den hvide dværg udvikler sig. Forskningen blev offentliggjort i The Astrophysical Journal."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Den hvide dværg er halvt så stor som Jorden.",
-        "Den er en af de mest massive hvide dværge, man kender.",
-        "Observationen blev offentliggjort i The Astrophysical Journal."
-      ],
-      "betydning": "Opdagelsen hjælper forskere med at forstå, hvordan stjerner udvikler sig, og kan ændre vores viden om universets udvikling.",
-      "pointer": [
-        "Usædvanlig hvid dværg fundet.",
-        "Kernen består måske af ilt og neon.",
-        "Kan ændre forståelsen af stjerners liv."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Europe increases size and cost of IRIS² constellation",
-      "link": "https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation/",
-      "dato": "2026-08-07T11:51:44+00:00",
-      "kilde": "SpaceNews",
-      "resume": "The European Commission has reached an agreement with an industrial consortium to proceed with a secure connectivity constellation, increasing the number of satellites as well as its cost. The post Europe increases size and cost of IRIS² constellation appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/iris2.jpeg?fit=1024%2C576&amp;ssl=1",
-      "billede_alt": "IRIS2",
-      "kategori": "Politik & penge",
-      "rubrik": "Europas nye satellitnet bliver større og dyrere",
-      "resume_da": "EU har aftalt med industrien at opgradere IRIS²-konstellationen med flere satellitter, hvilket øger omkostningerne.",
-      "sektioner": [
-        {
-          "overskrift": "Større konstellation",
-          "tekst": "Den europæiske kommission har indgået en aftale med et industrielt konsortium om at fortsætte med at bygge et sikkert kommunikationsnetværk. Antallet af satellitter bliver nu øget, hvilket også øger prisen på projektet."
-        },
-        {
-          "overskrift": "Prisen stiger",
-          "tekst": "De samlede omkostninger for hele projektet er steget. Det er ikke specificeret, hvor meget det stiger med, men projektet er nu større end oprindeligt planlagt."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Den europæiske kommission har aftalt med et konsortium at fortsætte med et sikkert kommunikationsnetværk.",
-        "Konstellationen vil få flere satellitter end oprindeligt planlagt.",
-        "Omkostningerne for projektet vil stige."
-      ],
-      "betydning": "For almindelige danskere betyder det, at EU satser på mere sikker kommunikation, hvilket kan påvirke fremtidige tjenester som mobilnet og internet i hele Europa.",
-      "pointer": [
-        "Flere satellitter i rummet",
-        "Dyrt projekt for EU",
-        "Sikker kommunikation i fokus"
-      ],
-      "prio": 6
     }
   ]
 }
