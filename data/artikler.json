@@ -1,7 +1,101 @@
 {
-  "opdateret": "2026-08-12T22:23:55.177359+00:00",
+  "opdateret": "2026-08-13T05:50:45.449031+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "APOD: 2026 August 13 – Total Solar Eclipse Over Spain",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/",
+      "dato": "2026-08-13T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 13 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/total_eclipse_spain26.jpg?w=1708&#038;h=2560&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "The Moon covers the Sun in the middle of the sky above an ornate church. A ring of bright whisps from the Sun",
+      "kategori": "Astronomi",
+      "rubrik": "Total solformørkelse over Spanien fanget på billede",
+      "resume_da": "Den 12. august 2026 oplevede Spanien sin første store totale solformørkelse siden 1905. Et nyt billede viser fænomenet fra Zaragoza.",
+      "sektioner": [
+        {
+          "overskrift": "Sjælden begivenhed",
+          "tekst": "Den 12. august 2026 kastede Månen sin skygge over bl.a. Spanien. Det var landets første store totale solformørkelse siden **1905**. Billedet blev taget i Zaragoza ved Ebro-floden."
+        },
+        {
+          "overskrift": "Naturens reaktion",
+          "tekst": "Under totaliteten kan man mærke kulde i luften, fugle bliver stille, og insekter synger forvirret. Mange oplever en fælles ærefrygt, når solens skive dækkes."
+        },
+        {
+          "overskrift": "Videnskabelig værdi",
+          "tekst": "Formørkelser hjælper forskere med at forstå, hvorfor solens korona er **millioner** af grader varmere end overfladen. Almindelige mennesker kan bidrage ved at filme dyreliv, tage billeder af koronaen og måle temperatur."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1905",
+          "label": "Sidste store formørkelse i Spanien"
+        },
+        {
+          "tal": "2026",
+          "label": "Året for formørkelsen"
+        },
+        {
+          "tal": "12. august",
+          "label": "Dato for formørkelsen"
+        }
+      ],
+      "detaljer": [
+        "Formørkelsen sås i Sibirien, Grønland, Island, Spanien og Portugal.",
+        "Billedet viser to formørkelser: én over katedralen og én i floden.",
+        "Koronaen er synlig, når solskiven er blokeret."
+      ],
+      "betydning": "For danskere er det en påmindelse om, at solformørkelser er sjældne og fascinerende. Forskning i koronaen kan øge vores viden om solen og påvirke rumvejr, som kan påvirke teknologi på Jorden.",
+      "pointer": [
+        "Total solformørkelse den 12. august 2026.",
+        "Spanien så den første siden 1905.",
+        "Forskere studerer koronaens temperatur.",
+        "Borgere kan bidrage med observationer."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Pentagon missile buildup changing the factory floor",
+      "link": "https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/",
+      "dato": "2026-08-12T23:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Startups are bringing software, robotics and manufacturing methods developed around commercial space into a defense industry under pressure to produce weapons faster The post Pentagon missile buildup changing the factory floor appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Machine-Image-2.jpg.jpeg?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Pentagons missiloprustning ændrer fabriksgulvet",
+      "resume_da": "Nye virksomheder bruger kommerciel rumteknologi til at gøre forsvarsproduktionen hurtigere og mere fleksibel.",
+      "sektioner": [
+        {
+          "overskrift": "Nye spillere på banen",
+          "tekst": "Opstartsvirksomheder bringer software og robotteknologi fra kommerciel rumfart ind i forsvarsindustrien. De skal hjælpe med at producere våben hurtigere, fordi Pentagon lægger pres på. Det ændrer måden, fabrikkerne arbejder på."
+        },
+        {
+          "overskrift": "Pres for hurtigere produktion",
+          "tekst": "Forsvarsindustrien er under pres for at levere flere missiler og våben. De nye metoder skal gøre produktionen mere effektiv. Det kan betyde kortere leveringstider og mere fleksible fabrikker."
+        },
+        {
+          "overskrift": "Kommercielle metoder",
+          "tekst": "Mange af metoderne kommer fra kommerciel rumfart, hvor man er vant til at arbejde hurtigt og billigt. Robotteknologi og software spiller en stor rolle. Det giver nye muligheder for at skalere produktionen op."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Pentagon ønsker hurtigere våbenproduktion.",
+        "Startups bruger kommerciel rumteknologi i forsvarsindustrien.",
+        "Software og robotteknologi er centrale værktøjer.",
+        "Fabriksgulvet ændrer sig som følge af presset."
+      ],
+      "betydning": "For danskere betyder det, at forsvarsindustrien bliver mere effektiv, hvilket kan påvirke sikkerhedspolitik og økonomi i Vesten.",
+      "pointer": [
+        "Pentagon lægger pres på forsvarsindustrien.",
+        "Startups bringer ny teknologi ind.",
+        "Produktionen skal gå hurtigere.",
+        "Fabrikkerne bliver mere fleksible."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Space Command identifies capabilities it needs for the next space war",
       "link": "https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/",
@@ -4208,108 +4302,6 @@
         "Flere satellitter i rummet",
         "Dyrt projekt for EU",
         "Sikker kommunikation i fokus"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "NASA’s Lunar Development and Test Facility Prepares Artemis Hardware for Moon",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/",
-      "dato": "2026-08-07T06:25:27+00:00",
-      "kilde": "NASA",
-      "resume": "Before astronauts return to the Moon’s surface&#160;through NASA’s&#160;Artemis program, the hardware they depend on must first prove it can survive the unforgiving lunar environment. At NASA’s Johnson Space Center in Houston, engineers&#160;at the&#160;Lunar Development and Test Facility&#160;are tackling one of exploration’s biggest challenges:&#160;Moon dust.&#160; Unlike sand on Earth, lunar d",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2024e072072.jpg?w=1536",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "NASA tester Artemis-udstyr mod Månestøv",
-      "resume_da": "NASA's Lunar Development and Test Facility i Houston tester rumdragter og udstyr under simulerede måneforhold. Månestøv er en stor udfordring, og faciliteten skal sikre, at hardware kan modstå det.",
-      "sektioner": [
-        {
-          "overskrift": "Udfordringen med Månestøv",
-          "tekst": "Månestøv er skarpt og slidende og klæber til alt. Det kan ødelægge udstyr og udgøre en sundhedsrisiko for astronauter. Derfor er det vigtigt at teste udstyr, før det sendes til Månen."
-        },
-        {
-          "overskrift": "Facilitetens testmetoder",
-          "tekst": "Faciliteten har vakuumkamre, hvor man bruger månelignende støv (regolit-simulant). Man tester rumdragter, rumfartøjer og mekaniske dele under realistiske forhold. Kamrene bruger et lukket kvælstoftsystem til at skabe månelignende miljø."
-        },
-        {
-          "overskrift": "Fremtidige teknologier",
-          "tekst": "Forskere udvikler også teknikker til at udvinde ressourcer fra månestøv, såsom ilt til astronauter og flydende ilt til raketbrændstof. Faciliteten har en 3D-virtuel tur, så alle kan se, hvordan testene foregår."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "3-foot",
-          "label": "Størrelse på lille vakuumkammer"
-        },
-        {
-          "tal": "15-foot",
-          "label": "Størrelse på stort vakuumkammer"
-        }
-      ],
-      "detaljer": [
-        "Faciliteten ligger ved Johnson Space Center i Houston.",
-        "Månestøv kan skade udstyr og udgøre sundhedsrisiko.",
-        "Testene bruger månelignende regolit-simulant.",
-        "Et vægmaleri blev færdiggjort i 2024 af kunstneren Sebastian Boileau.",
-        "Der findes en 3D-virtuel tur til faciliteten."
-      ],
-      "betydning": "For almindelige danskere er det relevant, fordi det viser, hvordan NASA forbereder sig på at sende mennesker til Månen igen. Det kan føre til nye teknologier og viden, som også kan bruges på Jorden.",
-      "pointer": [
-        "NASA tester Artemis-udstyr mod Månestøv.",
-        "Månestøv er farligt for udstyr og helbred.",
-        "Faciliteten bruger vakuumkamre og simuleret månejord.",
-        "Man udvikler metoder til at udvinde ilt fra månejord."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "APOD: 2026 August 7 – Rubin’s Cosmos Field",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-6-rubins-cosmos-field/",
-      "dato": "2026-08-07T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 August 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rubin&#8217;s COSMOS Field [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/noirlab2618b.jpg?w=1280&#038;h=908&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "This exceptionally deep image from NSF–DOE Vera C. Rubin Observatory reveals the renowned COSMOS field and its surroundings in the constellation Sextans. The view is crowded with galaxies and galaxy c",
-      "kategori": "Astronomi",
-      "rubrik": "Rubin-observatoriet fotograferer en halv million galakser",
-      "resume_da": "Et nyt billede fra Rubin-observatoriet viser over 500.000 galakser i COSMOS-feltet. Området er blevet observeret af Hubble og Webb, og Rubin vil følge det i ti år.",
-      "sektioner": [
-        {
-          "overskrift": "Et felt fuld af galakser",
-          "tekst": "Billedet viser mere end en halv million galakser i COSMOS-feltet. Dette område er flere gange større end fuldmånen og har få lyse stjerner fra vores egen galakse. Derfor er det nemt at se andre galakser."
-        },
-        {
-          "overskrift": "Baggrundsgalakser og fremtid",
-          "tekst": "Nogle galakser er så langt væk, at lyset har rejst i milliarder af år. Rubin-observatoriet vil besøge feltet hvert par dage i ti år. Det skal vise, hvordan himlen ændrer sig over tid."
-        },
-        {
-          "overskrift": "Et udsnit af universet",
-          "tekst": "De ydre paneler viser forstørrelser af områder i det centrale billede. Galaksernes former og størrelser er meget forskellige. Billedet giver et indblik i universets mangfoldighed."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "500.000",
-          "label": "galakser i billedet"
-        },
-        {
-          "tal": "10 år",
-          "label": "varighed af undersøgelsen"
-        }
-      ],
-      "detaljer": [
-        "Billedet er fra NSF-DOE Vera C. Rubin Observatory i Chile.",
-        "COSMOS-feltet er flere gange større end fuldmånen.",
-        "Området blev først observeret af Hubble-teleskopet.",
-        "Rubin-observatoriet vil følge feltet hvert par dage.",
-        "Undersøgelsen hedder Legacy Survey of Space and Time."
-      ],
-      "betydning": "Billedet viser os en lille bid af universet og hjælper forskere med at forstå, hvordan galakser ændrer sig. For almindelige mennesker er det en påmindelse om, hvor stort og mangfoldigt universet er.",
-      "pointer": [
-        "Rubin-observatoriet tager billede af mange galakser.",
-        "COSMOS-feltet er godt til at se andre galakser.",
-        "Billedet viser galakser i mange former og størrelser.",
-        "Rubin vil følge feltet i ti år."
       ],
       "prio": 6
     }
