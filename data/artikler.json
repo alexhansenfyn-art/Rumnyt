@@ -1,7 +1,163 @@
 {
-  "opdateret": "2026-08-13T20:03:41.990226+00:00",
+  "opdateret": "2026-08-14T00:08:59.325884+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Synchronized star pairs unleash radio bursts via a Jupiter-Io-like mechanism",
+      "link": "https://phys.org/news/2026-08-synchronized-star-pairs-unleash-radio.html",
+      "dato": "2026-08-13T22:00:04+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Researchers have helped unravel the mystery of why certain pairs of stars pulse with regular, long-period bursts of radio waves. The particular class of objects observed comes in pairs that always include a compact dead star, called a white dwarf, locked in orbit with an M dwarf, a red star smaller than our sun.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/synchronized-stars-pow.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Stjernepar sender radiosignaler som Jupiter",
+      "resume_da": "Forskere har opklaret, hvorfor visse stjernepar udsender regelmæssige radiobølger. Mekanismen ligner den, der skaber radiosignaler ved Jupiter.",
+      "sektioner": [
+        {
+          "overskrift": "Mysteriet løst",
+          "tekst": "Forskere har fundet ud af, hvorfor nogle stjernepar udsender regelmæssige radiobølger i lange perioder. Objekterne er altid par med en hvid dværg og en M-dværg."
+        },
+        {
+          "overskrift": "Ligner Jupiter-mekanisme",
+          "tekst": "Mekanismen minder om den, der skaber radiosignaler ved Jupiter. Den opstår, når magnetfelter vekselvirker mellem stjernerne."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Objekterne består af en kompakt død stjerne (hvid dværg) og en M-dværg.",
+        "Radiosignalerne kommer i regelmæssige, langvarige udbrud.",
+        "Mekanismen ligner Jupiter-Io-systemet."
+      ],
+      "betydning": "Forskningen hjælper os med at forstå stjerners adfærd og rummets kompleksitet, hvilket kan inspirere til ny viden om vores eget solsystem.",
+      "pointer": [
+        "Mysterium opklaret",
+        "Stjernepar med hvid dværg og M-dværg",
+        "Mekanisme som Jupiter"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
+      "link": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/",
+      "dato": "2026-08-13T22:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Amazon Leo, Lockheed Martin, Northrop Grumman, Rocket Lab and York Space will prototype and test connections to the SpaceX-built data network backbone The post Space Force awards five companies $60 million for multi-vendor satellite network tests appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/06/photospace4-1.jpg.webp?fit=878%2C500&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Space Force tester satellitnetværk med fem firmaer",
+      "resume_da": "Space Force har givet fem firmaer penge til at teste forbindelser til SpaceX's datanetværk.",
+      "sektioner": [
+        {
+          "overskrift": "Fem firmaer får opgaver",
+          "tekst": "Amazon Leo, Lockheed Martin, Northrop Grumman, Rocket Lab og York Space skal teste og lave prototyper på forbindelser til SpaceX's datanetværk. De får **60 millioner dollars** til opgaven."
+        },
+        {
+          "overskrift": "Hvad betyder det?",
+          "tekst": "Testene skal sikre, at forskellige satellitter kan tale sammen på tværs af producenter. Det er vigtigt for et robust netværk i rummet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "60 mio. dollars",
+          "label": "Samlet beløb til test"
+        },
+        {
+          "tal": "5",
+          "label": "Antal firmaer"
+        }
+      ],
+      "detaljer": [
+        "Firmaerne skal prototyper og teste forbindelser til SpaceX's backbone.",
+        "Space Force står bag initiativet."
+      ],
+      "betydning": "Det kan føre til mere pålidelig satellitkommunikation, som vi alle bruger til GPS, TV og internet.",
+      "pointer": [
+        "Test af satellitnetværk.",
+        "Fem firmaer involveret.",
+        "60 mio. dollars til test.",
+        "SpaceX's backbone er fokus."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Proposed 900-telescope array could detect an Earth-like exoplanet's atmosphere in a single transit",
+      "link": "https://phys.org/news/2026-08-telescope-array-earth-exoplanet-atmosphere.html",
+      "dato": "2026-08-13T21:40:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "What do you do when the observation you need comes around once a year? Well, preparation is key, but this is the awkward truth about finding another Earth. When a planet crosses the face of its star, a sliver of starlight passes through its atmosphere on the way to us, and the gases there absorb their own particular colors. Read the spectrum carefully and you can list what the air is made of: oxyg",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/nine-hundred-telescope.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Kæmpe teleskoparray kan finde Jordens tvilling",
+      "resume_da": "Et foreslået array med 900 teleskoper kan måle en jordlignende planets atmosfære på én enkelt passage foran sin stjerne.",
+      "sektioner": [
+        {
+          "overskrift": "Udfordringen med exoplaneter",
+          "tekst": "Når en planet passerer foran sin stjerne, lyser en smule stjernelys gennem dens atmosfære. Forskere kan læse spektret og se gasser som ilt, ozon og vanddamp."
+        },
+        {
+          "overskrift": "Løsningen med 900 teleskoper",
+          "tekst": "Forskere foreslår et array med **900** teleskoper, der arbejder sammen. Det kan fange atmosfæren fra en jordlignende planet på én enkelt transit."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "900 teleskoper",
+          "label": "Antal teleskoper i array"
+        }
+      ],
+      "detaljer": [
+        "Observationer af jordlignende planeter sker kun en gang om året.",
+        "Spektret afslører atmosfærens sammensætning.",
+        "Arrayet kan måle i én transit."
+      ],
+      "betydning": "Hvis det bygges, kan det hjælpe os med at finde ud af, om der findes andre planeter som Jorden med livsvenlige atmosfærer.",
+      "pointer": [
+        "Array med 900 teleskoper foreslået.",
+        "Måler atmosfæren på jordlignende exoplanet.",
+        "Kræver kun én passage.",
+        "Kan finde ilt, ozon og vanddamp."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "TESS discovers a rare brown dwarf orbiting a massive, aging star",
+      "link": "https://phys.org/news/2026-08-tess-rare-brown-dwarf-orbiting.html",
+      "dato": "2026-08-13T21:00:06+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "For decades, astronomers lumped brown dwarfs into a single category defined by mass alone—too big to be classified as planets but too small to become stars. However, this definition ignores the two very different mechanisms that can form them: the direct collapse of gas clouds and formation within the accretion disks of massive stars.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2021/browndwarf.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Sjælden brun dværg fundet omkring ældgammel stjerne",
+      "resume_da": "TESS har opdaget en sjælden brun dværg, der kredser om en massiv, gammel stjerne. Fundet kan ændre vores forståelse af, hvordan disse objektet dannes.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er en brun dværg?",
+          "tekst": "Brune dværge er objektet, der er for store til at være planeter, men for små til at blive stjerner. Indtil nu har forskere opdelt dem kun ud fra masse, men der findes to forskellige måder at danne dem på: ved direkte kollaps af gasskyer eller i skiven omkring en massiv stjerne."
+        },
+        {
+          "overskrift": "Opdagelsen med TESS",
+          "tekst": "NASAs TESS-satellit har fundet en sjælden brun dværg, der kredser om en gammel og massiv stjerne. Fundet er vigtigt, fordi det kan give ny viden om dannelsen af brune dværge."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Brun dværg fundet med TESS",
+        "Kredser om massiv, gammel stjerne",
+        "Tidligere blev brune dværge kun klassificeret efter masse"
+      ],
+      "betydning": "Opdagelsen kan ændre vores forståelse af universet og hvordan stjerner og planeter dannes. Det er med til at danne et mere præcist billede af vores kosmiske nabolag.",
+      "pointer": [
+        "Sjælden brun dværg fundet",
+        "Kredser om gammel, massiv stjerne",
+        "Ny viden om dannelse",
+        "TESS står bag opdagelsen"
+      ],
+      "prio": 6
+    },
     {
       "titel": "Supermassive black hole spews energy 300,000 light years into deep space",
       "link": "https://www.space.com/astronomy/black-holes/supermassive-black-hole-spews-energy-300-000-light-years-into-deep-space",
@@ -4130,190 +4286,6 @@
         "Northrop og Canada involveret"
       ],
       "prio": 5
-    },
-    {
-      "titel": "'Transformers: The Movie' at 40: the cartoon spin-off that traumatized a generation of kids",
-      "link": "https://www.space.com/entertainment/space-movies-shows/transformers-the-movie-at-40-the-cartoon-spin-off-that-traumatized-a-generation-of-kids",
-      "dato": "2026-08-08T16:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "With many fan-favorite Autobots and Decepticons bumped off in the opening act, this was not the big-screen romp '80s kids were expecting.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/ZdWUe7RzPddexEVA8UvHvf-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Transformers-filmen fylder 40 år",
-      "resume_da": "Animationen 'Transformers: The Movie' runder 40 år. Den var kendt for at chokere børn i 80'erne med dramatiske scener.",
-      "sektioner": [
-        {
-          "overskrift": "Filmen og dens rygte",
-          "tekst": "Filmen udkom i 1986 og blev berygtet for at være barsk mod sine unge seere. Mange børn blev traumatiserede af handlingen, hvor populære karakterer døde. Den har fået kultstatus gennem årene."
-        },
-        {
-          "overskrift": "Forfatteren bag artiklen",
-          "tekst": "Artiklen er skrevet af Richard Edwards, en rumjournalist med baggrund i fysik. Han har skrevet om science fiction i mange år for forskellige magasiner."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "40 år",
-          "label": "Så gammel er filmen"
-        }
-      ],
-      "detaljer": [
-        "Filmen blev udgivet i 1986.",
-        "Den var kendt for at have dramatiske scener med dødsfald blandt figurerne.",
-        "Richard Edwards har mødt fem Doctorer fra Doctor Who.",
-        "Han har siddet i cockpittet på Starbug fra Red Dwarf."
-      ],
-      "betydning": "For danskere, der voksede op i 80'erne, vækker filmen minder om en tid, hvor tegnefilm kunne være overraskende alvorlige. Den viser, hvordan popkultur kan påvirke os følelsesmæssigt.",
-      "pointer": [
-        "Filmen er 40 år gammel.",
-        "Den var kontroversiel for sin tid.",
-        "Artiklen er skrevet af en kendt rumjournalist.",
-        "Den har en særlig plads i populærkulturen."
-      ],
-      "prio": 3
-    },
-    {
-      "titel": "Reduced gravity pushes people toward simpler movement patterns, experiments suggest",
-      "link": "https://phys.org/news/2026-08-gravity-people-simpler-movement-patterns.html",
-      "dato": "2026-08-08T13:20:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "From reaching for a cup of coffee to tying your shoelaces, gravity shapes nearly all human movement. So how do our bodies react when that familiar force begins to change? Texas A&amp;M University researchers are exploring the answer through a multiphase project supported by NASA.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-explore-ho-3.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Lav tyngdekraft giver enklere bevægelser",
-      "resume_da": "Forskere fra Texas A&M undersøger, hvordan mennesker bevæger sig med lav tyngdekraft. Resultater tyder på, at vi forenkler vores bevægelsesmønstre.",
-      "sektioner": [
-        {
-          "overskrift": "Gravity påvirker bevægelse",
-          "tekst": "Tyngdekraften former næsten al menneskelig bevægelse, fra at tage en kop kaffe til at binde snørebånd. Forskere vil forstå, hvordan kroppen reagerer, når tyngdekraften ændrer sig. Projektet er støttet af NASA."
-        },
-        {
-          "overskrift": "Enklere bevægelser ved lav tyngdekraft",
-          "tekst": "Forsøgene antyder, at mennesker med lav tyngdekraft vælger mere simple bevægelsesmønstre. Det kan have betydning for fremtidige rummissioner, hvor astronauter skal arbejde på Månen eller Mars."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Forskere fra Texas A&M University leder projektet.",
-        "Projektet er en del af en flerfaset undersøgelse.",
-        "NASA støtter forskningen."
-      ],
-      "betydning": "Forståelse af bevægelse i lav tyngdekraft er vigtig for at designe træning og udstyr til astronauter, men også for at forstå, hvordan kroppen tilpasser sig ekstreme miljøer.",
-      "pointer": [
-        "Tyngdekraft påvirker al bevægelse.",
-        "Lav tyngdekraft giver simple bevægelser.",
-        "NASA støtter forskningen.",
-        "Vigtigt for fremtidige rummissioner."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/",
-      "dato": "2026-08-08T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 August 8 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Messier [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/10P_Tempel2_Globular_M30_20260729_DEBartlett.jpg?w=3239&#038;h=1739&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "Greenish cometary coma of 10P/Tempel 2 and globular star cluster M30",
-      "kategori": "Astronomi",
-      "rubrik": "Komet og stjernehob i samme billede",
-      "resume_da": "NASAs daglige rumfoto viser kometen Tempel 2 tæt på stjernehoben M30. Et sjældent syn.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad billedet viser",
-          "tekst": "Billedet er taget den 29. juli. Det viser kometen Tempel 2 og stjernehoben Messier 30. De er meget tæt på hinanden på himlen."
-        },
-        {
-          "overskrift": "Hvorfor det er specielt",
-          "tekst": "Tempel 2 er en periodisk komet. Den svævede kortvarigt tæt forbi M30. Kometen var kun **3,5 lysminutter** væk, mens M30 er **28.000 lysår** væk."
-        },
-        {
-          "overskrift": "Messiers berømte liste",
-          "tekst": "Astronomen Charles Messier lavede en katalog over objekter, der ikke var kometer. M30 er nummer 30 i den liste. Han lavede den for at undgå at forveksle dem med kometer."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "3,5 lysminutter",
-          "label": "Afstand til kometen"
-        },
-        {
-          "tal": "28.000 lysår",
-          "label": "Afstand til stjernehoben"
-        }
-      ],
-      "detaljer": [
-        "Kometen hedder 10P/Tempel 2.",
-        "Stjernehoben kaldes også M30.",
-        "Billedet blev taget den 29. juli.",
-        "Kometen har en diffus grønlig koma."
-      ],
-      "betydning": "Det er fascinerende at se, hvordan et lille objekt i vores solsystem kan stå tæt på et fjernt stjernehob. Det minder os om, hvor stor og mangfoldig universet er.",
-      "pointer": [
-        "Komet og stjernehob på samme foto.",
-        "Kometen er meget tættere på os.",
-        "Messiers katalog var for at undgå forveksling.",
-        "Billedet er fra NASAs daglige rumfoto."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Relativity Space engine integration milestone for Terran-R first stage",
-      "link": "https://www.nasaspaceflight.com/2026/08/relativity-engine-integration-milestone-terran-r/",
-      "dato": "2026-08-07T21:04:43+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "Relativity Space has marked another significant step forward in the development of its reusable Terran&#8230; The post Relativity Space engine integration milestone for Terran-R first stage appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-07-21-46-19-317.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Relativity begynder motorintegration på Terran R",
-      "resume_da": "Relativity Space har installeret de første Aeon R-motorer på Terran R's første trin. Rakettens tank har bestået styrketest, og andet trin testes.",
-      "sektioner": [
-        {
-          "overskrift": "Motorer på plads",
-          "tekst": "De første Aeon R-motorer er nu installeret på Terran R's thrust structure. Hver motor yder 269.000 lbf ved havoverfladen, og i alt giver de 13 motorer en samlet løftekraft på 3,497,000 lbf. Alle motorer var testet før installation."
-        },
-        {
-          "overskrift": "Styrketest bestået",
-          "tekst": "Den dedikerede testartikel for første trin gennemgik 420 trykcyklusser og 62 belastningstilfælde. Testene kulminerede med en aksial kompression på 4,3 millioner lbf. Dette validerer tankens evne til at modstå belastninger under flyvning."
-        },
-        {
-          "overskrift": "Andet trin testes",
-          "tekst": "Andre trin gennemgår kryogene test ved NASA Stennis Space Center. Det har bestået kryoproof og test af COPV-manifolder. Næste skridt er installation af Aeon V-motoren og en hot-fire test."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "13",
-          "label": "antal Aeon R-motorer på første trin"
-        },
-        {
-          "tal": "420",
-          "label": "trykcyklusser i styrketest"
-        },
-        {
-          "tal": "4,3 millioner lbf",
-          "label": "maksimal aksial kompression i test"
-        }
-      ],
-      "detaljer": [
-        "Thrust structure kan rumme 13 Aeon R-motorer.",
-        "Hver motor yder 269.000 lbf ved havoverfladen.",
-        "Samlet løftekraft er 3.497.000 lbf.",
-        "Testartiklen gennemgik 420 trykcyklusser og 62 belastningstilfælde.",
-        "Andet trin gennemgår kryogene test ved NASA Stennis.",
-        "Næste skridt er hot-fire test af begge trin."
-      ],
-      "betydning": "Terran R kan blive en vigtig spiller i den tunge løfteklasse, hvilket kan øge konkurrencen og sænke priserne på rumopsendelser. Det kan betyde flere muligheder for danske forskere og virksomheder.",
-      "pointer": [
-        "Motorintegration er begyndt på Terran R's første trin.",
-        "Styrketest af første trin er gennemført.",
-        "Andet trin testes ved NASA Stennis.",
-        "Raketten kan flyve tidligst i slutningen af 2026."
-      ],
-      "prio": 7
     }
   ]
 }
