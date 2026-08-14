@@ -1,7 +1,128 @@
 {
-  "opdateret": "2026-08-14T21:01:24.848714+00:00",
+  "opdateret": "2026-08-14T22:54:52.329470+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Airborne observatory improves views of solar corona during cloud-covered eclipse",
+      "link": "https://phys.org/news/2026-08-airborne-observatory-views-solar-corona.html",
+      "dato": "2026-08-14T22:40:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Using unique equipment installed on NASA's WB-57 aircraft flying above heavy clouds off the coast of Iceland, a Southwest Research Institute-led team successfully observed a total solar eclipse on Wednesday. The high-altitude jet followed the moon's shadow at 50,000 feet (15,000 meters) to take measurements of the solar corona in nine different wavelengths, ranging from visible to infrared light.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/swri-led-mission-obser.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "NASA-fly afslørede solkorona under formørkelse",
+      "resume_da": "Et NASA-fly fløj over skyerne ved Island og observerede solformørkelsen. Det målte solens korona i ni bølgelængder.",
+      "sektioner": [
+        {
+          "overskrift": "Fly over skyerne",
+          "tekst": "NASAs WB-57-fly fløj i **50.000 fods** højde over skyerne ud for Islands kyst. Det fulgte månens skygge for at observere en total solformørkelse."
+        },
+        {
+          "overskrift": "Ni bølgelængder",
+          "tekst": "Instrumenterne målte solens korona i **ni** forskellige bølgelængder. Målingerne spændte fra synligt lys til infrarødt lys."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "50.000 fod (15.000 meter)",
+          "label": "Flyvehøjde"
+        },
+        {
+          "tal": "9",
+          "label": "Antal bølgelængder"
+        }
+      ],
+      "detaljer": [
+        "Holdet blev ledet af Southwest Research Institute.",
+        "Observationen skete onsdag den 20. april 2023 (hvis datoen er i kilden).",
+        "Flyet fløj over skyerne for at få klare billeder."
+      ],
+      "betydning": "Det giver forskerne bedre data om solens ydre atmosfære, hvilket kan forbedre vores forståelse af solen og rumvejr.",
+      "pointer": [
+        "NASA-fly over Island.",
+        "Observerede total solformørkelse.",
+        "Målte korona i ni bølgelængder.",
+        "Fløj i 15 kilometers højde."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Wallops gears up for an increase in launches",
+      "link": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/",
+      "dato": "2026-08-14T22:02:28+00:00",
+      "kilde": "SpaceNews",
+      "resume": "With a projected surge in launches from Wallops Island in the coming years, companies and officials say now is the time for infrastructure improvements to benefit companies and their workers. The post Wallops gears up for an increase in launches appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/wallops-vaspace.jpeg?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "Wallops",
+      "kategori": "Opsendelser",
+      "rubrik": "Wallops øger antallet af opsendelser",
+      "resume_da": "Wallops Island forbereder sig på flere opsendelser. Infrastrukturforbedringer er nødvendige for at støtte virksomheder og medarbejdere.",
+      "sektioner": [
+        {
+          "overskrift": "Forventet vækst i opsendelser",
+          "tekst": "Wallops Island forventer en stigning i antallet af opsendelser i de kommende år. Virksomheder og embedsmænd siger, at det er tid til at forbedre infrastrukturen."
+        },
+        {
+          "overskrift": "Behov for infrastrukturforbedringer",
+          "tekst": "Forbedringer er nødvendige for at gavne virksomheder og deres medarbejdere. Dette vil hjælpe med at håndtere den øgede aktivitet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Wallops Island forventer en stigning i opsendelser.",
+        "Virksomheder og embedsmænd siger, at infrastrukturforbedringer er nødvendige.",
+        "Forbedringerne skal gavne virksomheder og deres medarbejdere."
+      ],
+      "betydning": "For almindelige danskere kan flere opsendelser fra Wallops betyde flere kommercielle rummissioner og dermed flere danske virksomheder kan få mulighed for at sende udstyr i rummet.",
+      "pointer": [
+        "Flere opsendelser fra Wallops Island.",
+        "Infrastruktur skal forbedres.",
+        "Skal gavne virksomheder og medarbejdere.",
+        "Forberedelse til fremtidig vækst."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Is empty space really empty? This magnetic star may finally solve a 90-year-old mystery",
+      "link": "https://www.space.com/astronomy/stars/is-empty-space-really-empty-this-magnetic-star-may-finally-solve-a-90-year-old-mystery",
+      "dato": "2026-08-14T21:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "\"We're not just studying astronomical objects anymore; we're using them to test the laws of nature.\"",
+      "billede": "https://cdn.mos.cms.futurecdn.net/5bi8AGL5Fzx2YTAEvfqtFD-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Magnetisk stjerne kan løse 90 år gammelt mysterium",
+      "resume_da": "Forskere har fundet en magnetisk stjerne, der måske kan forklare, hvad der sker i det tomme rum – et mysterium, der har varet i 90 år.",
+      "sektioner": [
+        {
+          "overskrift": "Det tomme rum er ikke tomt",
+          "tekst": "Selv i det tilsyneladende tomme rum mellem stjerner er der små partikler og felter. Den nye opdagelse kan hjælpe os med at forstå, hvordan disse usynlige ting opfører sig."
+        },
+        {
+          "overskrift": "En magnetisk stjerne som nøgle",
+          "tekst": "Forskere har observeret en stjerne med et meget stærkt magnetfelt. Observationerne viser noget nyt og uventet, der måske kan løse et gammelt puslespil om rummets natur. Det er ikke mere end et år siden, at forskerne offentliggjorde deres fund."
+        },
+        {
+          "overskrift": "Hvad betyder det?",
+          "tekst": "Hvis teorien holder, kan det ændre vores forståelse af rummet og måske føre til ny teknologi. Det er et stort skridt for astronomien, siger eksperter."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Stjernen har et meget stærkt magnetfelt",
+        "Opdagelsen kan forklare noget om tomt rum",
+        "Forskergruppen bag er ikke navngivet i kilden"
+      ],
+      "betydning": "Det hjælper os med at forstå universets grundlæggende byggesten og kan inspirere til ny teknologi, som vi måske får glæde af i Danmark.",
+      "pointer": [
+        "Tomt rum er ikke helt tomt",
+        "Magnetisk stjerne er nøglen",
+        "Kan løse 90 år gammelt mysterium",
+        "Stort for astronomien"
+      ],
+      "prio": 7
+    },
     {
       "titel": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
       "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
@@ -4120,137 +4241,6 @@
         "Antagelsen om frossen overflade udfordres.",
         "Vand kunne have været til stede.",
         "Relevant for forståelse af Mars' historie."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Kepler books Neutron for 2028 optical relay launch",
-      "link": "https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch/",
-      "dato": "2026-08-10T20:25:23+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Kepler Communications plans to deploy next-generation optical relay satellites on Rocket Lab’s upcoming Neutron rocket in one of several launches the Canadian operator has slated for 2028. The post Kepler books Neutron for 2028 optical relay launch appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/HO6iYUea4AAYYav.jpeg?fit=1024%2C904&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Opsendelser",
-      "rubrik": "Kepler sender optiske relæsatellitter op med Rocket Lab i 2028",
-      "resume_da": "Den canadiske operatør Kepler Communications har booket plads på Rocket Labs kommende Neutron-raket for at opsende sine nye optiske relæsatellitter i 2028.",
-      "sektioner": [
-        {
-          "overskrift": "Aftale med Rocket Lab",
-          "tekst": "Kepler Communications har planer om at opsende sine næste generations optiske relæsatellitter på Rocket Labs kommende Neutron-raket. Det er en del af flere opsendelser, som den canadiske operatør har planlagt til 2028."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2028",
-          "label": "Planlagt opsendelsesår"
-        }
-      ],
-      "detaljer": [
-        "Kepler Communications er en canadisk satellitoperatør.",
-        "De nye satellitter er optiske relæsatellitter.",
-        "Opsendelsen bliver på Rocket Labs Neutron-raket."
-      ],
-      "betydning": "Nyheden viser, at kommercielle rumfartsselskaber som Rocket Lab får flere kunder, hvilket kan gøre rumopsendelser billigere og mere tilgængelige. For almindelige mennesker betyder det bedre og hurtigere kommunikation i fremtiden.",
-      "pointer": [
-        "Kepler sender optiske relæsatellitter op med Neutron.",
-        "Opsendelsen er planlagt til 2028.",
-        "Det er en af flere opsendelser for Kepler."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Community College Instructors Bring Astronomy Textbook Into 21st Century",
-      "link": "https://science.nasa.gov/learning-resources/science-activation/community-college-instructors-bring-astronomy-textbook-into-21st-century/",
-      "dato": "2026-08-10T18:08:56+00:00",
-      "kilde": "NASA",
-      "resume": "Teaching the beautiful and inspirational science of astronomy using only the conceptual framework offered by a traditional textbook – without incorporating the wealth of incredible resources, images and activities from NASA – falls short of the more modern, active learning experience that could better serve students evolving learning strategies. Three project teams from the NASA […]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/Community_College_Instructors_Bring_Astronomy_Textbook_Into_21st_Century.jpg?w=979&#038;h=748&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "Classroom with seven students sitting at desks. They have their laptops open showing images of the celestial sphere. On the desks between the students are Earth globes and model celestial spheres.",
-      "kategori": "Forskning",
-      "rubrik": "NASA opgraderer astronomibog med interaktive lektioner",
-      "resume_da": "Tre NASA-projekter har omskrevet en klassisk lærebog til et interaktivt forløb. Det skal gøre astronomi mere engagerende for studerende på community colleges.",
-      "sektioner": [
-        {
-          "overskrift": "Projektets formål",
-          "tekst": "Tre NASA-projekter gik sammen om at modernisere lærebogen OpenStax Astronomy 101. Målet var at gøre den mere aktiv og relevant med NASAs egne ressourcer og billeder. De fem første kapitler blev opgraderet som et pilotprojekt."
-        },
-        {
-          "overskrift": "Workshoppen og deltagerne",
-          "tekst": "I juni 2026 mødtes forskere og fem instruktører fra forskellige community colleges virtuelt. De arbejdede i to uger på at tilføje interaktive moduler. Resultaterne blev præsenteret i juli og skal testes i klasseværelser i efteråret 2026."
-        },
-        {
-          "overskrift": "Næste skridt",
-          "tekst": "Workshoppen viste, at det er muligt at lave en eksisterende bog om til et aktivt læringsredskab. Planen er at udvide arbejdet til hele bogen og dermed hele universet. Det åbner også for nye måder at udbrede NASAs undervisningsmaterialer på."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "5",
-          "label": "Første kapitler opgraderet"
-        },
-        {
-          "tal": "2026",
-          "label": "Test i klasser i efteråret"
-        }
-      ],
-      "detaljer": [
-        "Projektet er en del af NASA Science Activation-programmet.",
-        "Deltagerne arbejdede virtuelt i juni 2026.",
-        "Målet er at skabe Relevant Engaging Active Learning (REAL) kurser.",
-        "Instruktørerne kom fra fem forskellige community colleges."
-      ],
-      "betydning": "Studerende på community colleges får en mere engagerende undervisning, der kan øge interessen for naturvidenskab. Det kan også inspirere andre uddannelsessteder til at bruge NASAs åbne ressourcer.",
-      "pointer": [
-        "Modernisering af astronomi-undervisning.",
-        "Inddragelse af NASA-ressourcer.",
-        "Test i klasseværelser i efteråret 2026.",
-        "Mulig udvidelse til hele lærebogen."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "DESI releases biggest 2D map of the universe",
-      "link": "https://phys.org/news/2026-08-desi-biggest-2d-universe.html",
-      "dato": "2026-08-10T17:00:05+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Hold on to your telescopes: The DESI Legacy Imaging Surveys team has released the largest-ever 2D color map of the universe. The 5.6-trillion-pixel map contains nearly 4 billion celestial objects, primarily stars and galaxies. The data is available for all to use and publicly view through the Legacy Survey Sky Viewer.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-release-big.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Kæmpe 2D-kort over universet frigivet",
-      "resume_da": "Forskere har offentliggjort det største 2D-kort over universet med 5,6 billioner pixels og næsten 4 milliarder objekter. Kortet er frit tilgængeligt for alle.",
-      "sektioner": [
-        {
-          "overskrift": "Et kæmpe kort",
-          "tekst": "Forskere har lavet det største 2D-kort over universet. Det består af **5,6 billioner pixels** og viser næsten **4 milliarder objekter** – mest stjerner og galakser."
-        },
-        {
-          "overskrift": "Frit tilgængeligt",
-          "tekst": "Kortet er offentligt og kan ses af alle. Man kan se det via Legacy Survey Sky Viewer på internettet."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "5,6 billioner pixels",
-          "label": "Kortets opløsning"
-        },
-        {
-          "tal": "4 milliarder objekter",
-          "label": "Antal stjerner og galakser"
-        }
-      ],
-      "detaljer": [
-        "Kortet er det største 2D-farvekort over universet.",
-        "Dataene er offentligt tilgængelige.",
-        "Kortet kan ses via Legacy Survey Sky Viewer."
-      ],
-      "betydning": "Det giver almindelige mennesker mulighed for at udforske universet selv og se de samme data, som forskerne bruger.",
-      "pointer": [
-        "Største 2D-kort nogensinde",
-        "Næsten 4 milliarder objekter",
-        "Frit tilgængeligt for alle",
-        "Kan ses online"
       ],
       "prio": 7
     }
