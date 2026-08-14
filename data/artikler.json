@@ -1,7 +1,193 @@
 {
-  "opdateret": "2026-08-14T18:35:56.515538+00:00",
+  "opdateret": "2026-08-14T21:01:24.848714+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
+      "dato": "2026-08-14T20:00:38+00:00",
+      "kilde": "NASA",
+      "resume": "NASA is asking U.S.-based collegiate teams to&#160;submit&#160;bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could&#160;help the agency envision&#160;a future on the Moon shaped by&#160;new technology.&#160; The latest NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition&#160;invites&#160;student teams to e",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/05/liveenable-im3-sustainabilitylogistics-withastros-1.png?w=2048",
+      "billede_alt": "Artist concept of various technologies on a moon base.",
+      "kategori": "Politik & penge",
+      "rubrik": "NASA udfordrer studerende til at designe månefremtid",
+      "resume_da": "NASA inviterer amerikanske studerende til at udvikle koncepter for fremtidens månebase i et nyt RASC-AL-konkurrence. Holdene kan konkurrere om præmier og deltagelse i et forum i 2027.",
+      "sektioner": [
+        {
+          "overskrift": "Ny RASC-AL-runde",
+          "tekst": "NASA har åbnet for ansøgninger til 2027-udgaven af RASC-AL-konkurrencen. Opgaven er at forestille sig, hvordan ny teknologi kan forme en fremtidig base ved Månens sydpol. Siden 2002 har konkurrencen skabt forbindelser mellem universiteter, NASA og industrien."
+        },
+        {
+          "overskrift": "Fire temaer",
+          "tekst": "Deltagerne kan vælge mellem fire temaer: at muliggøre ekstrem udforskning, opførelse af transitveje, udforskning af månens ressourcer og en intelligent og modstandsdygtig månebolig. Forslagene skal være innovative og bygge på originalt ingeniørarbejde."
+        },
+        {
+          "overskrift": "Præmier og muligheder",
+          "tekst": "Op til 14 hold går videre til finalen og modtager hver **7.500 dollars**. De to bedste hold får ekstra præmier og bliver inviteret til at præsentere deres koncept på en rumkonference i 2027. Finalen finder sted i Cocoa Beach, Florida, i juni 2027."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "7.500 dollars",
+          "label": "Præmie til finalister"
+        },
+        {
+          "tal": "14 hold",
+          "label": "Hold der går videre"
+        },
+        {
+          "tal": "2027",
+          "label": "År for konkurrencen"
+        }
+      ],
+      "detaljer": [
+        "Ansøgningsfrist for deltagelse er 13. oktober 2026.",
+        "Spørgsmålssession med NASA-eksperter er 27. oktober 2026.",
+        "Forslag og videoer skal indsendes senest 24. februar 2027.",
+        "RASC-AL har afholdt konkurrencer siden 2002.",
+        "Konkurrencen administreres af National Institute of Aerospace."
+      ],
+      "betydning": "Selvom konkurrencen er rettet mod studerende i USA, kan dens resultater påvirke fremtidens rumforskning, som også har betydning for Danmark. Innovationer fra konkurrencen kan bidrage til nye teknologier og inspiration til unge forskere globalt.",
+      "pointer": [
+        "NASA udfordrer studerende til at designe månefremtid.",
+        "Fire temaer: ekstrem udforskning, transitveje, ressourceudforskning, bolig.",
+        "Finalister får 7.500 dollars og mulighed for at præsentere i 2027.",
+        "Konkurrencen har eksisteret siden 2002."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "6 space board games to channel the political drama of 'For All Mankind' and 'Star City'",
+      "link": "https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city",
+      "dato": "2026-08-14T20:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "“Whoever controls space will control the Earth.”",
+      "billede": "https://cdn.mos.cms.futurecdn.net/kpcwBrwbGHaRuR2h4gQBBb-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "6 rumspil til politisk drama som For All Mankind",
+      "resume_da": "Leder du efter brætspil med rum-politik og drama? Her er seks anbefalinger inspireret af serier som 'For All Mankind'.",
+      "sektioner": [
+        {
+          "overskrift": "Spil til rum-politik",
+          "tekst": "Artiklen anbefaler seks brætspil til dem, der elsker politisk drama i rummet. Spillene er inspireret af serier som 'For All Mankind' og 'Star City'. De fokuserer på strategi, magt og beslutninger i rumkapløbet."
+        },
+        {
+          "overskrift": "Forfatterens baggrund",
+          "tekst": "Anmeldelsen er skrevet af Alan Bradley, en erfaren tech- og kulturjournalist. Han har skrevet for medier som Rolling Stone og PCMag. Han er også romanforfatter med bogen 'The Sixth Borough'."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "6",
+          "label": "antal anbefalede spil"
+        }
+      ],
+      "detaljer": [
+        "Spillene henvender sig til voksne med interesse for strategi og rumfart.",
+        "Anmeldelsen er fra Space.com.",
+        "Artiklen er skrevet af Alan Bradley."
+      ],
+      "betydning": "For almindelige mennesker kan det være en sjov måde at dykke ned i rumfartens politiske og strategiske aspekter på. Det kan også føre til hyggelige spilaftener med venner eller familie.",
+      "pointer": [
+        "Seks brætspil anbefalet.",
+        "Tema: rum-politisk drama.",
+        "Forfatteren er erfaren journalist."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Constipation is common in astronauts—blood tests provide new answers",
+      "link": "https://phys.org/news/2026-08-constipation-common-astronauts-blood.html",
+      "dato": "2026-08-14T19:20:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "For astronauts in space, constipation is a well-known problem. But why this happens has long been unclear. Now, a new study from the University of Copenhagen in collaboration with NASA provides an idea of what happens in the stomach without the influence of gravity.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/constipation-is-common.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Astronauter og forstoppelse: Blodprøver giver nyt svar",
+      "resume_da": "Ny forskning fra Københavns Universitet og NASA viser, hvad der sker i maven hos astronauter uden tyngdekraft – og hvorfor forstoppelse er et problem.",
+      "sektioner": [
+        {
+          "overskrift": "Problemet i rummet",
+          "tekst": "Forstoppelse er et velkendt problem for astronauter i rummet. Men hvorfor det sker, har længe været uklart. Nu har forskere fra Københavns Universitet sammen med NASA undersøgt sagen."
+        },
+        {
+          "overskrift": "Hvad blodprøver viser",
+          "tekst": "Ved at analysere blodprøver fra astronauter har forskerne fået en idé om, hvad der sker i maven uden tyngdekraftens påvirkning. Det giver ny viden om kroppens reaktioner i rummet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Studiet er lavet af Københavns Universitet i samarbejde med NASA.",
+        "Forstoppelse har længe været et kendt problem for astronauter.",
+        "Forskerne har brugt blodprøver til at finde svar."
+      ],
+      "betydning": "Det er vigtigt at forstå kroppens reaktioner i rummet, så astronauter kan få det bedre under lange missioner. Det kan også hjælpe med at forstå fordøjelsesproblemer på Jorden.",
+      "pointer": [
+        "Forstoppelse er almindeligt i rummet.",
+        "Årsagen har været ukendt.",
+        "Ny forskning giver indsigt via blodprøver."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
+      "link": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/",
+      "dato": "2026-08-14T18:44:36+00:00",
+      "kilde": "NASA",
+      "resume": "In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event will showcase the next-generation aircraft, spacecraft, autonomous vehicles, and technologies that will help define [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/26-nasa-event-maxpower-fm-16x9-blue.jpg?w=1920",
+      "billede_alt": "MaxPower logo",
+      "kategori": "Politik & penge",
+      "rubrik": "NASA fejrer USA's 250-årsdag med kæmpe rum- og luftshow",
+      "resume_da": "NASA afholder MAX POWER den 7.-8. november i Florida. Det er et stort, familievenligt show med fly, raketter og meget mere.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er MAX POWER?",
+          "tekst": "MAX POWER er et stort udendørs event i Florida. Det fejrer USA's 250-årsdag. Showet viser fremtidens fly, rumskibe og robotter. Der vil også være gamle rumfartøjer fra NASA."
+        },
+        {
+          "overskrift": "Hvad kan man opleve?",
+          "tekst": "Der bliver flyopvisning med blandt andet US Air Force Thunderbirds. NASA-eksperter og astronauter holder foredrag. Man kan også tage på bustur bag portene til Kennedy Space Center. Der er særlige udstillinger og aktiviteter for hele familien."
+        },
+        {
+          "overskrift": "Hvem står bag?",
+          "tekst": "NASA arrangerer eventet sammen med flere samarbejdspartnere. Det er blandt andet Space Florida og Kennedy Space Center Visitor Complex. Showet finder sted på NASAs historiske Shuttle Landing Facility."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "7.-8. november",
+          "label": "Dato for eventet"
+        },
+        {
+          "tal": "250 år",
+          "label": "USA's jubilæum"
+        },
+        {
+          "tal": "5. oktober",
+          "label": "Frist for medier"
+        }
+      ],
+      "detaljer": [
+        "Eventet fejrer USA's 250-årsdag.",
+        "Det finder sted ved Kennedy Space Center i Florida.",
+        "Der bliver flyopvisning med Thunderbirds og NASA-fly.",
+        "Der er foredrag med astronauter og eksperter.",
+        "Man kan se udstillinger med både gamle og nye rumfartøjer.",
+        "Der er busture bag portene til Kennedy Space Center."
+      ],
+      "betydning": "Det er en sjov måde for familier at opleve rumfart og luftfart tæt på. Det viser også, hvordan NASA inspirerer til nye opdagelser.",
+      "pointer": [
+        "Stort event i Florida i november.",
+        "Fejrer USA's 250-årsdag.",
+        "Med flyshow, foredrag og udstillinger.",
+        "Åbent for almindelige mennesker mod billet."
+      ],
+      "prio": 5
+    },
     {
       "titel": "Mysterious Cygnus Bubble may trace back to microquasar, astronomers suggest",
       "link": "https://phys.org/news/2026-08-mysterious-cygnus-microquasar-astronomers.html",
@@ -82,6 +268,46 @@
         "Eksperter er bekymrede."
       ],
       "prio": 5
+    },
+    {
+      "titel": "Volunteer Develops Machine-Learning Tool to Identify Rare Clouds",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/",
+      "dato": "2026-08-14T17:35:46+00:00",
+      "kilde": "NASA",
+      "resume": "Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to. To help identify the factors influencing these changes, scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Noctilucent_Cloud_Detector_CitSci.jpg?w=1230&#038;h=2048&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "Portrait of a smiling person with dark hair sitting indoors..",
+      "kategori": "Forskning",
+      "rubrik": "Frivillig udvikler AI-værktøj til at spotte natskyer",
+      "resume_da": "En frivillig i NASA-projektet Space Cloud Watch har lavet et machine learning-værktøj, der hjælper med at identificere de sjældne natskyer.",
+      "sektioner": [
+        {
+          "overskrift": "Problemet med natskyer",
+          "tekst": "Natskyer bliver sværere at genkende, fordi de ligner andre skyer i lavere højde. Det har skabt ekstra arbejde for forskerne, som skal tjekke billederne manuelt."
+        },
+        {
+          "overskrift": "Frivilliges løsning",
+          "tekst": "Frivillige Namai Chandra lavede et værktøj, der først sorterer billeder og så klassificerer skyerne. Værktøjet lader forskerne fokusere på de billeder, der er svære at vurdere."
+        },
+        {
+          "overskrift": "Værktøjet i brug",
+          "tekst": "Værktøjet bruges nu af både bidragydere og forskere. Det gør det lettere at være med, selvom man ikke er helt sikker på, hvad man har fotograferet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Natskyer kaldes også noktilucente skyer.",
+        "De lyser sølvagtigt efter solnedgang og før solopgang.",
+        "Værktøjet blev udviklet i flere omgange med test og forbedringer."
+      ],
+      "betydning": "For almindelige mennesker betyder det, at man nu kan være med i et forskningsprojekt uden at være ekspert. Man kan tage billeder af himlen og få hjælp til at afgøre, om man har set en natsky.",
+      "pointer": [
+        "Frivillig lavede AI-værktøj",
+        "Værktøjet genkender natskyer",
+        "Lettere at deltage i projektet",
+        "Bruges af forskere og bidragydere"
+      ],
+      "prio": 4
     },
     {
       "titel": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun",
@@ -4027,240 +4253,6 @@
         "Kan ses online"
       ],
       "prio": 7
-    },
-    {
-      "titel": "NASA+ Debuts on discovery+, Coming Soon to HBO Max",
-      "link": "https://www.nasa.gov/news-release/nasa-debuts-on-discovery-coming-soon-to-hbo-max/",
-      "dato": "2026-08-10T16:30:13+00:00",
-      "kilde": "NASA",
-      "resume": "As NASA+ continues its expansion across multiple streaming platforms to bring space closer to home, NASA announced Monday programming is next heading to discovery+ and HBO Max. A continuous live feed of NASA+ programming is streaming on discovery+ live channels, while HBO Max will stream NASA’s special events, including the Artemis III mission in 2027. [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/nasa-promo-image-horizontal.png?w=2048",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "NASA+ kommer til discovery+ og HBO Max",
-      "resume_da": "NASA udvider sit streamingtilbud. Fra nu kan du se NASA+-indhold på discovery+ og HBO Max, herunder Artemis III-missionen i 2027.",
-      "sektioner": [
-        {
-          "overskrift": "Nye streamingplatforme",
-          "tekst": "NASA har indgået aftaler med discovery+ og HBO Max. Discovery+ viser en kontinuerlig live-udsendelse af NASA+-programmer. HBO Max streamer NASA's særlige begivenheder, herunder Artemis III-missionen i 2027."
-        },
-        {
-          "overskrift": "Bedre billedkvalitet",
-          "tekst": "Seerne kan opleve NASA+-indhold i Dolby Vision på understøttede enheder. Det giver mere levende farver og skarpere billeder. Det gør rumfartsdækningen mere oplevelsesrig."
-        },
-        {
-          "overskrift": "Fremtidige programmer",
-          "tekst": "Fremover kan der komme programmer om videnskabelige missioner, testflyvninger, robot-måneleverancer og den første bemandede måneflyvning under Artemis. NASA+ forbliver gratis og uden reklamer på NASA's app og hjemmeside."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2027",
-          "label": "Artemis III-missionen sendes"
-        }
-      ],
-      "detaljer": [
-        "NASA+ udvides til discovery+ og HBO Max.",
-        "HBO Max streamer NASA's særlige begivenheder, herunder Artemis III i 2027.",
-        "Indholdet kan streames i Dolby Vision på understøttede enheder.",
-        "NASA+ forbliver gratis og uden reklamer på NASA's app og hjemmeside.",
-        "NASA henviser til loven fra 1958 om at dele rumfartshistorier med bredest muligt publikum."
-      ],
-      "betydning": "For almindelige danskere betyder det, at rumfartsindhold bliver nemmere at tilgå på populære streamingtjenester. Det kan øge interessen for og forståelsen af rumfart.",
-      "pointer": [
-        "NASA+ kommer til discovery+ og HBO Max.",
-        "Artemis III-missionen i 2027 streames på HBO Max.",
-        "Dolby Vision giver bedre billedkvalitet.",
-        "NASA+ er stadig gratis på NASA's app og hjemmeside."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Slow spin could explain why planets become hellish",
-      "link": "https://phys.org/news/2026-08-planets-hellish.html",
-      "dato": "2026-08-10T14:00:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Hundreds of Venus-like planets could soon help determine why some worlds become sweltering greenhouse hellscapes while others remain capable of supporting life. But before answering that question, scientists first need to know how fast those planets are spinning.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/slow-spin-could-explai.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Langsom rotation kan gøre planeter til helvede",
-      "resume_da": "Forskere mener, at langsom rotation kan forklare, hvorfor nogle planeter bliver til drivhushelvede, mens andre kan rumme liv. Snart kan hundredvis af Venus-lignende planeter hjælpe med at afklare dette.",
-      "sektioner": [
-        {
-          "overskrift": "Venus-lignende planeter",
-          "tekst": "Der findes hundredvis af planeter, der ligner Venus. De kan hjælpe forskere med at forstå, hvorfor nogle planeter bliver til drivhushelvede. Andre planeter kan stadig understøtte liv."
-        },
-        {
-          "overskrift": "Spørgsmålet om rotation",
-          "tekst": "Inden forskerne kan svare på, hvorfor planeter udvikler sig forskelligt, skal de vide, hvor hurtigt disse planeter roterer. Rotationen kan være en vigtig faktor."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Hundredvis af Venus-lignende planeter kan snart blive undersøgt.",
-        "Målet er at finde ud af, hvorfor nogle planeter bliver til drivhushelvede.",
-        "Forskere skal først måle rotationen af disse planeter."
-      ],
-      "betydning": "Denne forskning kan hjælpe os med at forstå, hvilke planeter der kan rumme liv, og hvordan Jorden selv undgår at ende som et drivhushelvede.",
-      "pointer": [
-        "Venus-lignende planeter kan afsløre planetudvikling.",
-        "Rotation er en nøglefaktor.",
-        "Forskning kan lede til opdagelse af beboelige planeter."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Lion Nebula Roars to Life With NASA’s Webb",
-      "link": "https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/",
-      "dato": "2026-08-10T14:00:00+00:00",
-      "kilde": "NASA",
-      "resume": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. NASA’s Hubble Space Telescope previously viewed this planetary nebula in 2000, imaging the lion face-shaped target in visible light and revealing features such as the “mane” of hazy, comet-shaped objects. Now Webb […]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png?w=3505&#038;h=3505&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "JWST’s Near Infrared Camera and Mid Infrared Instrument combined image of planetary nebula NGC 2392, the Lion Nebula, against the black background of space. The nebula is at center, circular in shape,",
-      "kategori": "Astronomi",
-      "rubrik": "Løvenebulen viser nyt liv i infrarødt",
-      "resume_da": "James Webb-teleskopet har taget detaljerede billeder af Løvenebulen, en planetarisk tåge, og viser nye strukturer af støv og gas.",
-      "sektioner": [
-        {
-          "overskrift": "Nye detaljer fra Webb",
-          "tekst": "James Webb-teleskopet har fotograferet Løvenebulen (NGC 2392). Billederne er skarpere end Hubbles ældre optagelser. De viser klumper af støv og en tåge af ioniseret gas."
-        },
-        {
-          "overskrift": "En døende stjerne",
-          "tekst": "Tågens form skyldes en døende stjerne i midten. Stjernen har kastet sine ydre lag af sig og er nu en varm hvid dværg. Den stråling og energi, der kommer fra stjernen, driver tågens strukturer."
-        },
-        {
-          "overskrift": "Fremtidig udvikling",
-          "tekst": "Tågen ændrer sig hele tiden, mens gas og støv bevæger sig væk fra stjernen. Astronomer tror, at Løvenebulen vil sprede sig helt om cirka 10.000 år."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "10.000 år",
-          "label": "Tid til tågen forsvinder"
-        }
-      ],
-      "detaljer": [
-        "Billederne er taget med NIRCam og MIRI-instrumenterne.",
-        "Tågen har fået kaldenavnet Løvenebulen på grund af udseendet som en løve med en manke.",
-        "Manken består af støv og gas, der bliver belyst af den hvide dværg.",
-        "Der dannes kompakte støvklumper, som ligner haler fra kometer."
-      ],
-      "betydning": "Det er en påmindelse om, at også vores sol en dag vil blive til en planetarisk tåge. Forskning i sådanne tåger hjælper os med at forstå stjerners livscyklus.",
-      "pointer": [
-        "Webb-teleskopet har taget nye billeder af Løvenebulen.",
-        "Tågen er skabt af en døende stjerne.",
-        "Den centrale stjerne er nu en hvid dværg.",
-        "Tågen vil forsvinde om 10.000 år."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Lion Nebula roars to life for Webb",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Lion_Nebula_roars_to_life_for_Webb",
-      "dato": "2026-08-10T14:00:00+00:00",
-      "kilde": "ESA",
-      "resume": "Image: Observing across the starry “plains” of space, the NASA/ESA/CSA James Webb Space Telescope has taken images of NGC 2392, nicknamed the Lion Nebula. The NASA/ESA Hubble Space Telescope previously viewed this planetary nebula in 2000, imaging the lion face-shaped target in visible light and revealing features such as the “mane” of hazy, comet-shaped objects. Now Webb has captured a clearer, m",
-      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/lion_nebula_roars_to_life_for_webb/27409830-1-eng-GB/Lion_Nebula_roars_to_life_for_Webb_card_full.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Webb-teleskopet zoomer ind på Løvenebulosen",
-      "resume_da": "James Webb-teleskopet har taget nye, skarpe billeder af Løvenebulosen, der viser detaljer, som ikke kunne ses før. Billederne afslører støv og gas, der formes af en døende stjerne.",
-      "sektioner": [
-        {
-          "overskrift": "Et nyt kig på Løvenebulosen",
-          "tekst": "James Webb-teleskopet har fotograferet Løvenebulosen, også kendt som NGC 2392. Tidligere har Hubble-teleskopet set den i synligt lys, men Webb's infrarøde øjne viser nye detaljer som kompakte støvklumper og tåget ioniseret gas."
-        },
-        {
-          "overskrift": "Den døende stjernes rolle",
-          "tekst": "I midten af nebulosen ligger en hvid dværgstjerne, der ligner løvens næse. Den sender energi ud, som skaber de indviklede strukturer. Boblen af ioniseret gas udvider sig og ødelægger støvet i sin vej, hvilket forklarer de ringe og skaller, man ser."
-        },
-        {
-          "overskrift": "Nebulosens skæbne",
-          "tekst": "Løvenebulosen ændrer sig konstant, og astronomer forventer, at den vil forsvinde om cirka 10.000 år. Det er kort tid i astronomisk målestok, men Webbs billeder fryser øjeblikket og giver forskerne mulighed for at studere processen."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "10.000 år",
-          "label": "Tid til nebulosen forsvinder"
-        }
-      ],
-      "detaljer": [
-        "Webb tog billeder med både NIRCam og MIRI-instrumenterne.",
-        "Hubble så nebulosen første gang i 2000 i synligt lys.",
-        "Løvenebulosen er en planetarisk tåge, der består af gas og støv fra en døende stjerne.",
-        "De hårlignende totter er kompakte støvklumper, der beskytter materiale bagved."
-      ],
-      "betydning": "Det er vigtigt, fordi det viser, hvordan stjerner som vores Sol kan ende deres liv. Det hjælper forskere med at forstå universets udvikling og vores egen planets oprindelse.",
-      "pointer": [
-        "Webb har taget skarpe billeder af Løvenebulosen.",
-        "Nebulosen er skabt af en døende stjerne.",
-        "Den vil forsvinde om 10.000 år.",
-        "Billederne giver ny viden om stjerners død."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Launch Into a New School Year With NASA",
-      "link": "https://www.nasa.gov/learning-resources/launch-into-a-new-school-year-with-nasa/",
-      "dato": "2026-08-10T13:59:28+00:00",
-      "kilde": "NASA",
-      "resume": "A new school year brings fresh opportunities to get involved with NASA. Whether you’re curious about space or eager to build real STEM skills, NASA offers a world of experiences putting you close to the action. As we enter a new golden age of exploration, there’s no better time to jump in, try something bold, [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/bts-2026-express-2.jpg?w=846",
-      "billede_alt": "An illustration of two astronauts inside a spacecraft, looking at a screen that says &quot;Back to School with NASA&quot;",
-      "kategori": "Forskning",
-      "rubrik": "Nyt skoleår: NASA åbner døren for studerende",
-      "resume_da": "NASA byder studerende indenfor med praktikpladser, udfordringer og karriereveje. Der er også mulighed for at være citizen scientist og følge kommende missioner.",
-      "sektioner": [
-        {
-          "overskrift": "Praktik og udfordringer",
-          "tekst": "Studerende kan søge praktik hos NASA og arbejde på rigtige projekter med mentorer. Der er også udfordringer, hvor teams løser tekniske problemer og tester deres designs."
-        },
-        {
-          "overskrift": "Karriereveje og events",
-          "tekst": "NASA arrangerer events for at vise tekniske karrierer. Studerende kan møde medarbejdere og lære om deres job og uddannelse. Der er både fysiske og virtuelle møder."
-        },
-        {
-          "overskrift": "Citizen science og missioner",
-          "tekst": "Alle kan deltage i NASA's citizen science-projekter og hjælpe med at finde kometer og asteroider. Desuden kan man følge kommende opsendelser som Nancy Grace Roman-teleskopet og SpaceX Crew-13, samt forberedelserne til Artemis III."
-        },
-        {
-          "overskrift": "Engagement og læring",
-          "tekst": "Skoler og grupper kan få astronauter til at svare på spørgsmål live fra rumstationen. Der er også mulighed for at få NASA-eksperter til at besøge og fortælle om missioner."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "Aug. 30",
-          "label": "Opsendelse af Roman-teleskopet"
-        },
-        {
-          "tal": "100 gange",
-          "label": "Større synsfelt end Hubble"
-        },
-        {
-          "tal": "2027",
-          "label": "Artemis III opsendelse"
-        }
-      ],
-      "detaljer": [
-        "Praktikophold giver erfaring med rigtige NASA-projekter.",
-        "Studenterkonkurrencer dækker tekniske udfordringer.",
-        "Karriereevents er for high school og tekniske uddannelser.",
-        "Citizen science-projekter bruger ægte missionsdata.",
-        "Nancy Grace Roman-teleskopet får et kæmpe synsfelt.",
-        "SpaceX Crew-13 sendes til ISS i september."
-      ],
-      "betydning": "For almindelige danskere giver det mulighed for at deltage i rumforskning og følge med i spændende missioner. Det kan inspirere unge til at forfølge STEM-karrierer og styrke interessen for videnskab.",
-      "pointer": [
-        "NASA søger studerende til praktik.",
-        "Udfordringer og konkurrencer er åbne.",
-        "Alle kan bidrage som citizen scientist.",
-        "Nye missioner kan følges online."
-      ],
-      "prio": 8
     }
   ]
 }
