@@ -1,7 +1,337 @@
 {
-  "opdateret": "2026-08-14T11:10:24.185917+00:00",
+  "opdateret": "2026-08-14T15:08:23.819497+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Tiny satellite will use the dark side of the moon to eavesdrop on whispers from the early universe",
+      "link": "https://phys.org/news/2026-08-tiny-satellite-dark-side-moon.html",
+      "dato": "2026-08-14T15:00:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "A tiny UK-developed satellite, roughly the size of a small carry-on suitcase, could help answer one of the biggest questions in cosmology: What happened during the roughly 150 million years of the cosmic dark ages, before the universe's first stars appeared?",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-satellite-will-us.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Lille satellit skal lytte til det tidlige univers",
+      "resume_da": "En britisk mini-satellit på størrelse med en kabinekuffert skal bruge månens bagside til at lytte efter signaler fra det tidlige univers.",
+      "sektioner": [
+        {
+          "overskrift": "Månen som skjold",
+          "tekst": "Satellitten skal kredse bag månen. Månen blokerer for støj fra Jorden. Det giver mulighed for at lytte til svage signaler fra universets barndom."
+        },
+        {
+          "overskrift": "De kosmiske mørke tidsaldre",
+          "tekst": "Forskere vil undersøge en periode på omkring **150 millioner år** efter Big Bang. Dengang var der ingen stjerner. Universet var mørkt, og der findes stadig mysterier om den tid."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "150 mio. år",
+          "label": "Varighed af kosmiske mørke tidsaldre"
+        }
+      ],
+      "detaljer": [
+        "Satellitten er udviklet i Storbritannien.",
+        "Den er på størrelse med en lille kabinekuffert.",
+        "Den skal bruge månens bagside som skjold mod støj."
+      ],
+      "betydning": "Det kan hjælpe os med at forstå, hvordan universet udviklede sig, og hvor de første stjerner kom fra. Det er grundlæggende viden om vores oprindelse.",
+      "pointer": [
+        "Mini-satellit fra UK skal lytte til universets barndom.",
+        "Månens bagside blokerer for støj fra Jorden.",
+        "Undersøger perioden før de første stjerner opstod."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Total Solar Eclipse in Sunflower Field",
+      "link": "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/",
+      "dato": "2026-08-14T14:48:55+00:00",
+      "kilde": "NASA",
+      "resume": "This composite image shows the progression of a total solar eclipse over San Millán de los Caballeros, Spain on, Wednesday, Aug. 12, 2026. A total solar eclipse swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. A partial eclipse was visible in parts of the U.S., [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/55460226954-564d105934-o.jpg?w=1810",
+      "billede_alt": "This composite image shows the progression of a total solar eclipse over a sunflower field in Spain. Credit: NASA/Bill Ingalls",
+      "kategori": "Astronomi",
+      "rubrik": "Total solformørkelse over Spanien i smuk billedserie",
+      "resume_da": "NASA har offentliggjort et imponerende kompositbillede af den totale solformørkelse, som fandt sted den 12. august 2026 over Spanien. Formørkelsen var synlig fra flere lande og dele af verden.",
+      "sektioner": [
+        {
+          "overskrift": "Billedet",
+          "tekst": "NASA har lavet et kompositbillede, der viser hele forløbet af den totale solformørkelse. Billedet er taget i San Millán de los Caballeros i Spanien. Det blev taget den 12. august 2026."
+        },
+        {
+          "overskrift": "Hvor den var synlig",
+          "tekst": "Totalfasen af formørkelsen kunne ses over flere områder: Grønland, Island, det nordlige Rusland, Atlanterhavet, Spanien og en lille del af Portugal. En delvis formørkelse var synlig i nogle dele af USA, det meste af Canada, store dele af Europa og nordvestlige Afrika."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. august 2026",
+          "label": "Dato for formørkelsen"
+        }
+      ],
+      "detaljer": [
+        "NASA-fotograf Bill Ingalls tog billedet.",
+        "Kompositbilledet viser solformørkelsens progression.",
+        "Billedet er fra en solsikkemark i Spanien."
+      ],
+      "betydning": "For almindelige danskere er det en sjov og smuk nyhed om et sjældent astronomisk fænomen. Det minder os om, at solformørkelser er spektakulære begivenheder, som vækker undren og interesse for universet.",
+      "pointer": [
+        "Kompositbillede af total solformørkelse",
+        "Taget i Spanien den 12. august 2026",
+        "Var synlig i flere lande og dele af verden",
+        "NASA offentliggjorde billedet"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "New AI model detects hidden signs of solar eruptions hours before they emerge",
+      "link": "https://phys.org/news/2026-08-ai-hidden-solar-eruptions-hours.html",
+      "dato": "2026-08-14T13:00:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Long before dark sunspots appear on the sun's surface, a new active region—where powerful solar eruptions can originate—begins showing subtle signs of its formation. Now, researchers say a new artificial intelligence model can detect those early signals and forecast the emergence of solar active regions nearly nine hours in advance on average.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/solar-eruptions.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "AI forudsiger soludbrud timer før de sker",
+      "resume_da": "Forskere har udviklet en AI-model, der kan opdage skjulte tegn på soludbrud op til ni timer før de opstår.",
+      "sektioner": [
+        {
+          "overskrift": "Skjulte tegn opdaget",
+          "tekst": "Længe før mørke solpletter viser sig på solens overflade, begynder et nyt aktivt område at vise subtile tegn på sin dannelse. Forskere har nu fundet ud af, at en kunstig intelligens-model kan opdage disse tidlige signaler. Modellen kan forudsige, hvornår et aktivt område opstår, i gennemsnit næsten **ni timer** i forvejen."
+        },
+        {
+          "overskrift": "Hvordan AI'en virker",
+          "tekst": "AI-modellen analyserer data fra solen for at finde mønstre, der går forud for dannelsen af aktive områder. Den lærer at genkende de skjulte tegn, som mennesker ikke kan se. På den måde kan den advare om potentielle soludbrud, før de for alvor udvikler sig."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "~9 timer",
+          "label": "gennemsnitlig forudsigelsestid"
+        }
+      ],
+      "detaljer": [
+        "Aktive områder på solen kan give kraftige soludbrud.",
+        "Tegnene viser sig længe før synlige solpletter.",
+        "AI-modellen kan forudsige dannelse af aktive områder."
+      ],
+      "betydning": "For almindelige danskere betyder det bedre varsling om soludbrud, som kan påvirke satellitter, GPS og strømforsyning.",
+      "pointer": [
+        "AI opdager tidlige tegn på soludbrud.",
+        "Forudsiger i gennemsnit 9 timer før.",
+        "Kan beskytte teknologi mod solstorme.",
+        "Ny forskning inden for rumvejr."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.",
+      "link": "https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in/",
+      "dato": "2026-08-14T13:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "In the beginning, mass constrained spaceflight. We live at the bottom of a gravity well, and the rocket equation punishes every kilogram we try to lift out of it. Mass [&#8230;] The post Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in. appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/transporter16.jpeg?fit=1024%2C683&amp;ssl=1",
+      "billede_alt": "Transporter-16 launch",
+      "kategori": "Forskning",
+      "rubrik": "Rumfart: Nu er plads vigtigere end vægt",
+      "resume_da": "Billigere opsendelser har flyttet flasken fra vægt til overfladeareal. Det ændrer design af rumfartøjer.",
+      "sektioner": [
+        {
+          "overskrift": "Vægt var før i tiden",
+          "tekst": "Tidligere var vægt det største problem i rumfart. Jordens tyngdekraft gør det dyrt at sende tunge ting op. Raketligningen straffer hvert ekstra kilogram."
+        },
+        {
+          "overskrift": "Billigere opsendelser ændrer alt",
+          "tekst": "Nu er opsendelser blevet billigere. Derfor er vægt ikke længere den største begrænsning. I stedet er det overfladeareal, der er vigtigt. Det betyder, at designet af rumfartøjer ændrer sig."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Vægt var tidligere den største begrænsning i rumfart.",
+        "Billigere opsendelser har ændret fokus til overfladeareal."
+      ],
+      "betydning": "Det betyder, at fremtidens rumfartøjer kan blive designet anderledes og måske mere effektivt. Det kan gøre rumfart billigere og mere tilgængeligt.",
+      "pointer": [
+        "Vægt var tidligere afgørende.",
+        "Opsendelser er nu billigere.",
+        "Overfladeareal er den nye flaskehals.",
+        "Design ændrer sig."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Blue Origin outlines plans for second Cape Canaveral launch pad",
+      "link": "https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/",
+      "dato": "2026-08-14T12:08:33+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Blue Origin disclosed new details about its plans to not only rebuild but also expand its Florida launch site, adding a second pad for a larger version of New Glenn. The post Blue Origin outlines plans for second Cape Canaveral launch pad appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/lc36ab.jpeg?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "LC-36A and B",
+      "kategori": "Politik & penge",
+      "rubrik": "Blue Origin vil bygge ekstra affyringsrampe ved Cape Canaveral",
+      "resume_da": "Blue Origin har offentliggjort planer om at udvide sit affyringsområde i Florida med en ekstra rampe til en større udgave af New Glenn-raketten.",
+      "sektioner": [
+        {
+          "overskrift": "Planer for udvidelse",
+          "tekst": "Blue Origin vil ikke kun genopbygge, men også udvide deres affyringssted i Florida. Der tilføjes en anden affyringsrampe til en større version af New Glenn-raketten. Det nye anlæg skal klare flere opsendelser."
+        },
+        {
+          "overskrift": "Større New Glenn",
+          "tekst": "Den nye rampe er beregnet til en større udgave af New Glenn-raketten. Det giver mulighed for flere rummissioner. Blue Origin arbejder på at øge kapaciteten i deres raketprogram."
+        },
+        {
+          "overskrift": "Betydning for Florida",
+          "tekst": "Udvidelsen styrker Blue Origins aktiviteter ved Cape Canaveral. Det kan skabe arbejdspladser og økonomisk vækst i området. Det viser også, at virksomheden satser langsigtet på rumfart."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Blue Origin genopbygger og udvider sin affyringsbase i Florida.",
+        "Der bliver en ekstra affyringsrampe ved Cape Canaveral.",
+        "Rampen skal bruges til en større version af New Glenn-raketten.",
+        "Planen blev beskrevet i en nyhed på SpaceNews."
+      ],
+      "betydning": "For almindelige danskere viser det, at kommerciel rumfart er i vækst, hvilket kan føre til flere og billigere rummissioner i fremtiden. Det kan også styrke Europas og verdens adgang til rummet.",
+      "pointer": [
+        "Ny affyringsrampe i Florida",
+        "Større New Glenn-raket",
+        "Udvidelse af Blue Origin",
+        "Flere rummissioner mulige"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "India-US space ties deepen as NASA invites ISRO to join moon base program",
+      "link": "https://www.space.com/astronomy/moon/india-us-space-ties-deepen-as-nasa-invites-isro-to-join-moon-base-program",
+      "dato": "2026-08-14T12:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "NASA has invited the Indian Space Research Organisation to collaborate on its Moon Base program, which aims to build a permanent human outpost near the lunar south pole.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/iMpp9op7zEN4JccYsQDDCd-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "NASA inviterer Indien med i månebase-program",
+      "resume_da": "NASA har inviteret Indiens rumorganisation ISRO til at deltage i det internationale månebase-program Artemis. Det styrker samarbejdet mellem de to lande.",
+      "sektioner": [
+        {
+          "overskrift": "Tættere rum-samarbejde",
+          "tekst": "NASA har inviteret ISRO til at deltage i deres månebase-program. Det betyder, at Indien kan blive en del af Artemis-samarbejdet. Det er et stort skridt for de to landes rumforbindelser."
+        },
+        {
+          "overskrift": "Hvad programmet går ud på",
+          "tekst": "Artemis-programmet skal sende mennesker til Månen igen. Målet er at bygge en base, hvor astronauter kan bo og arbejde. Indien kan bidrage med teknologi og forskning."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1",
+          "label": "Invitation til månebase"
+        }
+      ],
+      "detaljer": [
+        "NASA har officielt inviteret ISRO til at deltage i deres månebase-program under Artemis.",
+        "Invitationen er en del af det styrkede rum-samarbejde mellem USA og Indien.",
+        "Artemis-programmet har til formål at etablere en bæredygtig tilstedeværelse på Månen.",
+        "Indien har tidligere haft succes med sine egne månemissioner, herunder Chandrayaan."
+      ],
+      "betydning": "For almindelige danskere viser det, hvordan rumfart bliver mere internationalt, og at flere nationer deler viden og teknologi. Det kan føre til nye opdagelser og hurtigere udvikling inden for rumforskning.",
+      "pointer": [
+        "NASA og ISRO styrker samarbejdet.",
+        "Indien kan blive del af månebase-programmet.",
+        "Det handler om at bo og arbejde på Månen.",
+        "Samarbejde kan accelerere rumforskningen."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Intuitive Machines wins contract for three GEO satellites",
+      "link": "https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/",
+      "dato": "2026-08-14T11:29:03+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Intuitive Machines announced Aug. 13 that it won a $600 million contract from an undisclosed customer for three geostationary orbit communications satellites. The post Intuitive Machines wins contract for three GEO satellites appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/im1300.jpeg?fit=1024%2C725&amp;ssl=1",
+      "billede_alt": "Im 1300 satellite",
+      "kategori": "Satellitter",
+      "rubrik": "Intuitive Machines får ordre på tre GEO-satellitter",
+      "resume_da": "Intuitive Machines har fået en kontrakt på 600 millioner dollars til at bygge tre kommunikationssatellitter i geostationær bane. Kunden er ikke offentliggjort.",
+      "sektioner": [
+        {
+          "overskrift": "Kontrakt på tre satellitter",
+          "tekst": "Intuitive Machines meddelte den 13. august, at de har vundet en kontrakt på 600 millioner dollars. Kontrakten går ud på at bygge tre kommunikationssatellitter til geostationær bane. Kunden ønsker ikke at blive navngivet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "600 mio. dollars",
+          "label": "Kontraktens størrelse"
+        },
+        {
+          "tal": "3",
+          "label": "Antal satellitter"
+        }
+      ],
+      "detaljer": [
+        "Kontrakten blev annonceret den 13. august.",
+        "Kunden er ikke offentliggjort.",
+        "Satellitterne skal placeres i geostationær bane."
+      ],
+      "betydning": "Det viser, at Intuitive Machines er ved at blive en stor aktør på markedet for kommercielle satellitter. Det kan betyde flere arbejdspladser og øget konkurrence i rumindustrien.",
+      "pointer": [
+        "Intuitive Machines får 600 mio. dollars",
+        "Bygger tre GEO-satellitter",
+        "Kunde er hemmelig"
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "A look back at the 2026 total solar eclipse",
+      "link": "https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse",
+      "dato": "2026-08-14T10:00:00+00:00",
+      "kilde": "ESA",
+      "resume": "On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun's bright disc, briefly turning day into night and revealing the Sun's outer atmosphere. Totality could be seen from Greenland, Iceland, Spain and Portugal, while most of the rest of Europe saw a partial eclipse.",
+      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/12_august_total_eclipse_imaged_by_miguel_claro/27418378-1-eng-GB/12_August_total_eclipse_imaged_by_Miguel_Claro_card_full.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Total solformørkelse i 2026: Europa oplevede mørke",
+      "resume_da": "Den 12. august 2026 oplevede Europa den første totale solformørkelse i over 20 år. Månen dækkede Solen helt, og dag blev til nat.",
+      "sektioner": [
+        {
+          "overskrift": "Historisk begivenhed",
+          "tekst": "Den 12. august 2026 oplevede Europa den første totale solformørkelse i over **20 år**. Mange mennesker blev fascinerede, da Månen helt dækkede Solens klare skive."
+        },
+        {
+          "overskrift": "Hvor var den synlig?",
+          "tekst": "Totaliteten kunne ses fra Grønland, Island, Spanien og Portugal. Resten af Europa så en delvis formørkelse."
+        },
+        {
+          "overskrift": "En sjælden oplevelse",
+          "tekst": "Formørkelsen gjorde dagen mørk og afslørede Solens ydre atmosfære. Det var en sjælden chance for mange europæere."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. august 2026",
+          "label": "Dato for formørkelsen"
+        },
+        {
+          "tal": "20 år",
+          "label": "Siden sidste totale formørkelse"
+        }
+      ],
+      "detaljer": [
+        "Total solformørkelse i Europa.",
+        "Månen dækkede Solen helt.",
+        "Synlig fra Grønland, Island, Spanien og Portugal.",
+        "Resten af Europa så delvis formørkelse."
+      ],
+      "betydning": "Formørkelsen minder os om Solens og Månens rolle i vores hverdag og vækker interesse for astronomi. For almindelige danskere var det en sjælden mulighed for at se et naturfænomen.",
+      "pointer": [
+        "Europa oplevede total solformørkelse i 2026.",
+        "Den var synlig fra flere europæiske lande.",
+        "Månen dækkede Solen helt.",
+        "Det var første gang i over 20 år."
+      ],
+      "prio": 7
+    },
     {
       "titel": "Bulgaria advances project to launch new space, defense innovation hub",
       "link": "https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/",
@@ -3938,352 +4268,6 @@
         "Aftalen er underskrevet."
       ],
       "prio": 5
-    },
-    {
-      "titel": "How ESA mimics and models the 2026 total solar eclipse",
-      "link": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse",
-      "dato": "2026-08-10T11:59:00+00:00",
-      "kilde": "ESA",
-      "resume": "On 12 August 2026 , parts of Europe will experience a total solar eclipse . With the Sun's bright disc covered, its surrounding atmosphere – the solar corona – will become visible to the naked eye. Unfortunately, total solar eclipses are rare and last at most a few minutes, giving scientists little time to study the Sun’s enigmatic halo. This is why ESA developed missions that create eclipses arti",
-      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/proba-3_mimics_the_2026_total_solar_eclipse/27410604-1-eng-GB/Proba-3_mimics_the_2026_total_solar_eclipse_card_full.png",
-      "billede_alt": "Artificial solar eclipse by Proba-3 mission",
-      "kategori": "Forskning",
-      "rubrik": "ESA forbereder sig til solformørkelse i 2026",
-      "resume_da": "Den 12. august 2026 kan dele af Europa opleve en total solformørkelse. ESA bruger modeller og missioner til at studere solens korona.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad sker der i 2026?",
-          "tekst": "Den 12. august 2026 vil en total solformørkelse ramme dele af Europa. Når solskiven er dækket, bliver solens atmosfære, koronaen, synlig. Denne begivenhed giver forskere en kort chance for at studere solen."
-        },
-        {
-          "overskrift": "Hvorfor er det vigtigt?",
-          "tekst": "Totale solformørkelser er sjældne og varer kun få minutter. Derfor har ESA udviklet missioner, der skaber kunstige formørkelser. Eksperter bruger også computermodeller til at simulere og forstå koronaen bedre."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "12. august 2026",
-          "label": "Dato for solformørkelsen"
-        }
-      ],
-      "detaljer": [
-        "Under en total solformørkelse bliver koronaen synlig for det blotte øje.",
-        "ESA har missioner, der kunstigt skaber formørkelser.",
-        "Computermodeller bruges til at lave digitale simuleringer."
-      ],
-      "betydning": "For almindelige danskere kan solformørkelsen i 2026 være en spektakulær oplevelse. Forskningen bag hjælper os med at forstå solen, som påvirker vores vejr og teknologi.",
-      "pointer": [
-        "Total solformørkelse i Europa i 2026.",
-        "Koronaen bliver synlig i få minutter.",
-        "ESA laver kunstige formørkelser.",
-        "Computermodeller hjælper med forskning."
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "Astronomers find a new object from the early universe using Webb data",
-      "link": "https://phys.org/news/2026-08-astronomers-early-universe-webb.html",
-      "dato": "2026-08-10T11:40:02+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Since it became operational in 2022, the James Webb Space Telescope (JWST) has released some truly breathtaking views of the cosmos. These images highlight how advancements since the days of the venerable Hubble Space Telescope are now providing the deepest and clearest views of the cosmos to date. The work is published on the arXiv preprint server.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-find-a-new.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "James Webb teleskop finder nyt objekt fra det tidlige univers",
-      "resume_da": "Astronomer har opdaget et nyt objekt fra det tidlige univers ved hjælp af James Webb-rumteleskopet. Opdagelsen giver et endnu dybere indblik i kosmos' barndom.",
-      "sektioner": [
-        {
-          "overskrift": "Ny opdagelse",
-          "tekst": "Astronomer har fundet et nyt objekt fra det tidlige univers. De brugte data fra James Webb-rumteleskopet. Objektet er fra en tid, hvor universet var meget ungt."
-        },
-        {
-          "overskrift": "James Webb's fordele",
-          "tekst": "James Webb-teleskopet har været i drift siden **2022**. Det giver de dybeste og klareste billeder af kosmos nogensinde. Det er en stor forbedring i forhold til Hubble-rumteleskopet."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2022",
-          "label": "År for JWST start"
-        }
-      ],
-      "detaljer": [
-        "Opdagelsen er publiceret på arXiv preprint-server.",
-        "James Webb efterfølger Hubble-teleskopet."
-      ],
-      "betydning": "Det hjælper forskere med at forstå, hvordan universet så ud lige efter Big Bang. For almindelige danskere er det fascinerende, at vi nu kan se så langt tilbage i tiden.",
-      "pointer": [
-        "Nyt objekt fundet med Webb-data",
-        "Fra det tidlige univers",
-        "Webb har været aktiv siden 2022",
-        "Giver dybere indsigt i kosmos"
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "APOD: 2026 August 10 – Three Galaxy Pairs",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/",
-      "dato": "2026-08-10T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 August 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD APOD: 2026 August 10 – Three Galaxy Pairs Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Three3GalaxyPairs_Sampaio_2784.jpg?w=2784&#038;h=3436&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "Three galaxy pairs are arranged vertically in the same field of view..",
-      "kategori": "Astronomi",
-      "rubrik": "Tre galaksepar fra Centaurus-hoben",
-      "resume_da": "Billedet viser tre par galakser. To af dem kolliderer og vil måske smelte sammen om en milliard år.",
-      "sektioner": [
-        {
-          "overskrift": "Parrene på billedet",
-          "tekst": "På billedet ses tre par galakser fra Centaurus-hoben. Hvert par er forskelligt. Det øverste par er nok ikke i vekselvirkning lige nu."
-        },
-        {
-          "overskrift": "Mærkelig galakse",
-          "tekst": "Den øverste galakse med blå stribe hedder NGC 4650A. Den er en polarringgalakse. Den kan være resultatet af et tidligere kollision."
-        },
-        {
-          "overskrift": "Aktiv kollision",
-          "tekst": "De nederste to galakser, NGC 4622A og NGC 4622B, er aktivt i vekselvirkning. Om cirka en milliard år kan de blive til én galakse."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1 milliard år",
-          "label": "Tid til sammenlægning"
-        }
-      ],
-      "detaljer": [
-        "NGC 4650A er en polarringgalakse.",
-        "NGC 4650 er en spiralgalakse med stærk stangstruktur.",
-        "Alle galakser er sandsynligvis i Centaurus-hoben."
-      ],
-      "betydning": "Billedet viser, hvordan galakser kan vekselvirke og ændre sig. Det hjælper os med at forstå universets udvikling.",
-      "pointer": [
-        "Tre par galakser i billedet",
-        "To galakser interagerer aktivt",
-        "Fremtidig fusion mulig",
-        "Del af Centaurus-hoben"
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "El Niño Alters Marine Life in the Pacific",
-      "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-alters-marine-life-in-the-pacific/",
-      "dato": "2026-08-10T04:01:00+00:00",
-      "kilde": "NASA",
-      "resume": "Satellite measurements of chlorophyll at the sea surface signal shifts in the ocean’s nutrient supplies in mid-2026.",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño alters-marine-life-in-the-pacific/chlorophyll_pace_202506.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "El Niño ændrer livet i Stillehavet",
-      "resume_da": "El Niño er nu officielt ankommet. Satellitter viser, at mindre fytoplankton i farvandet kan få konsekvenser for hele fødekæden.",
-      "sektioner": [
-        {
-          "overskrift": "El Niño er ankommet",
-          "tekst": "El Niño er et naturligt fænomen, hvor havoverfladen er varmere end normalt i det centrale og østlige Stillehav. Det påvirker vejr og havstrømme over hele kloden. NOAA forventer, at det bliver stærkere og varer til foråret 2027."
-        },
-        {
-          "overskrift": "Mindre fytoplankton",
-          "tekst": "Satellitbilleder viser, at der er markant mindre fytoplankton i det centrale Stillehav i juni 2026 sammenlignet med året før. Fytoplankton er mikroskopiske alger, som er basis for havets fødekæde. Årsagen er, at opvellingen af næringsrigt vand undertrykkes, fordi passatvindene er svagere."
-        },
-        {
-          "overskrift": "Konsekvenser for dyreliv",
-          "tekst": "Mindre fytoplankton betyder mindre mad for dyreplankton, fisk, havfugle og havpattedyr. Peru har suspenderet ansjosfiskeriet flere gange for at beskytte bestanden. Pelikaner er set søge ind til byer for at finde føde."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "97 procent",
-          "label": "Sandsynlighed for at vare til foråret"
-        },
-        {
-          "tal": "juni 2026",
-          "label": "Måned for El Niño-ankomst"
-        }
-      ],
-      "detaljer": [
-        "PACE-satellitten blev opsendt i februar 2024 og giver nu unikke målinger.",
-        "Efter El Niño kan der komme et 'klorofyl-opsving' med mere fytoplankton.",
-        "La Niña kan også øge fytoplanktonkoncentrationen.",
-        "Forskere kan nu observere El Niño med hidtil uset spektral opløsning."
-      ],
-      "betydning": "El Niño har globale konsekvenser for vejret og kan påvirke fødevarepriser og fiskerier. Det kan også medføre ekstreme vejrfænomener, der kan mærkes i Danmark gennem ændrede vejrmønstre og påvirkede økosystemer.",
-      "pointer": [
-        "El Niño er kommet og kan styrkes.",
-        "Mindre fytoplankton rammer havets fødekæde.",
-        "Peru har suspenderet ansjosfiskeri.",
-        "PACE-satellitten giver nye data."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Katalyst Space makes progress in restoring control of Swift servicing spacecraft",
-      "link": "https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/",
-      "dato": "2026-08-10T00:55:19+00:00",
-      "kilde": "SpaceNews",
-      "resume": "The company that developed a spacecraft to boost the orbit of a NASA observatory says it is making progress in recovering from its own spacecraft’s problems. The post Katalyst Space makes progress in restoring control of Swift servicing spacecraft appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/link-solarpanel.jpeg?fit=1024%2C670&amp;ssl=1",
-      "billede_alt": "Link solar panel",
-      "kategori": "Missioner",
-      "rubrik": "Katalyst fremskridt med Swift-servicefartøj",
-      "resume_da": "Katalyst Space arbejder på at genvinde kontrollen over sit Swift-servicefartøj efter problemer. Fremskridt meldes.",
-      "sektioner": [
-        {
-          "overskrift": "Problemer med Swift",
-          "tekst": "Katalyst Space udviklede Swift til at løfte en NASA-satellits bane. Nu er der problemer med Swift selv, men man er ved at få kontrol over det igen."
-        },
-        {
-          "overskrift": "Fremgang i arbejdet",
-          "tekst": "Firmaet siger, at de gør fremskridt med at genoprette kontrollen. De arbejder fortsat på at løse udfordringerne."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Katalyst Space har udviklet et rumfartøj kaldet Swift.",
-        "Swift skal booste omløbsbanen for en NASA-satellit.",
-        "Katalyst arbejder på at genoprette kontrollen over Swift."
-      ],
-      "betydning": "For almindelige danskere er det et eksempel på, at rumfart er komplekst, og at selv avancerede rumfartøjer kan have problemer. Det viser også, at service og vedligehold i rummet er en voksende industri.",
-      "pointer": [
-        "Swift er et servicefartøj.",
-        "Der har været problemer med Swift.",
-        "Katalyst gør fremskridt.",
-        "NASA-satellitten venter på hjælp."
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "Cosmic filaments help set first limits on dark matter's decay into gravitons",
-      "link": "https://phys.org/news/2026-08-cosmic-filaments-limits-dark-decay.html",
-      "dato": "2026-08-09T16:00:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Composing some 85% of the universe's total mass, dark matter betrays its presence only through gravity, unlike ordinary matter. Yet through new research published in Physical Review D, a team led by David Dunsky of New York University has proposed a new way to hunt for the elusive substance. Their approach involves searching for the decay of dark matter particles into gravitons: the hypothetical p",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-limits-placed-on.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Nyt spor i jagten på mørkt stof",
-      "resume_da": "Forskere har fundet en ny metode til at opspore mørkt stofs henfald til gravitoner ved at studere kosmiske filamenter.",
-      "sektioner": [
-        {
-          "overskrift": "Mørkt stofs mysterium",
-          "tekst": "Mørkt stof udgør omkring **85%** af universets masse, men vi kan kun se dets tyngdekraft. Det består af ukendte partikler, som forskerne nu forsøger at forstå."
-        },
-        {
-          "overskrift": "Ny jagtmetode",
-          "tekst": "Et forskerhold ledet af David Dunsky fra New York University har udviklet en ny måde at søge efter mørkt stof. Metoden går ud på at se efter henfald af mørkt stof til gravitoner, som er partikler, der menes at bære tyngdekraften."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "85%",
-          "label": "af universets masse er mørkt stof"
-        }
-      ],
-      "detaljer": [
-        "Forskningen er publiceret i tidsskriftet Physical Review D.",
-        "Holdet ledes af David Dunsky fra New York University.",
-        "Gravitoner er hypotetiske partikler, der formodes at formidle tyngdekraften."
-      ],
-      "betydning": "Forståelse af mørkt stof kan ændre vores billede af universet. Det kan også føre til ny fysik ud over den nuværende viden.",
-      "pointer": [
-        "Mørkt stof er usynligt, men påvirker via tyngdekraft.",
-        "Ny metode kan spore henfald til gravitoner.",
-        "Resultaterne er publiceret i et videnskabeligt tidsskrift."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Artemis progress building lunar return roadmap",
-      "link": "https://www.nasaspaceflight.com/2026/08/artemis-progress-lunar-return-roadmap/",
-      "dato": "2026-08-09T14:44:50+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "NASA has released a series of updates on the Artemis program, spanning commercial robotic lunar&#8230; The post Artemis progress building lunar return roadmap appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-09-15-21-11-686.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "NASA's Artemis-program skrider frem mod månen",
-      "resume_da": "NASA har frigivet opdateringer om Artemis-programmet, herunder kommercielle månelandere, teknologidemonstrationer og fremskridt på raket- og rumfartøjskomponenter til Artemis III og frem.",
-      "sektioner": [
-        {
-          "overskrift": "Kommercielle månelandere",
-          "tekst": "Fire virksomheder arbejder på månelandere under NASAs CLPS-initiativ. Blue Origin's første lander, Endurance, er planlagt til opsendelse i første kvartal af **2027**. Firefly's anden Blue Ghost-mission sigter mod at lande på Månens bagside – det ville være første gang for en amerikansk lander."
-        },
-        {
-          "overskrift": "Artemis III hardware",
-          "tekst": "Orion-kapslen er nu forbundet med sin europæiske servicemodul. NASA genbruger også komponenter fra Artemis II for at fremskynde byggeriet. En spacer, der skal erstatte ICPS på Artemis III, er blevet svejset ved Marshall Space Flight Center."
-        },
-        {
-          "overskrift": "Genbrug og fremdrift",
-          "tekst": "NASA genbruger mere end **250** komponenter fra Artemis II Orion til Artemis IV og V. Det reducerer produktionstid og omkostninger. På Michoud-faciliteten er begge hovedtanke til Artemis IV's kernefase færdige og testes i øjeblikket."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2027",
-          "label": "Planlagt opsendelse af Blue Moon lander"
-        },
-        {
-          "tal": "250",
-          "label": "Komponenter genbruges fra Artemis II"
-        }
-      ],
-      "detaljer": [
-        "Blue Origin's Endurance har gennemgået miljøtest og kommunikationstest.",
-        "Firefly's Blue Ghost skal lande på Månens bagside.",
-        "Intuitive Machines tester motor på deres næste lander, Trinity.",
-        "Voyager's Griffin-1 lander testes hos JPL og skal opsendes med Falcon Heavy.",
-        "NASA og Northrop Grumman flyver tre teknologidemonstrationsmissioner til Månen.",
-        "SLS-kernen og løfteraketter behandles parallelt for Artemis III."
-      ],
-      "betydning": "Artemis-programmet baner vejen for menneskelig tilstedeværelse på Månen, hvilket kan skabe nye teknologier og inspirere kommende generationer. For danskere kan det betyde øget interesse for rumfart og videnskab.",
-      "pointer": [
-        "NASA opdaterer om Artemis-programmet.",
-        "Fiere landere er under udvikling.",
-        "Genbrug af dele fremskynder tidsplanen.",
-        "Artemis III rykker tættere på opsendelse."
-      ],
-      "prio": 8
-    },
-    {
-      "titel": "Rare Mars meteorite preserves 1.27-billion-year-old clues to planet's deep interior",
-      "link": "https://phys.org/news/2026-08-rare-mars-meteorite-billion-year.html",
-      "dato": "2026-08-09T14:20:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Boston College scientists have determined that a newly discovered meteorite from Mars is 1.27 billion years old and derived from a previously unsampled, pristine source on the Red Planet. The study is published in the journal Geochimica et Cosmochimica Acta.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2016/mars.png",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Sjælden Mars-meteorit afslører hemmeligheder fra planetens indre",
-      "resume_da": "En nyopdaget meteorit fra Mars er 1,27 milliarder år gammel og kommer fra en hidtil ukendt, ren kilde på planeten. Fundet kan give ny viden om Mars' indre.",
-      "sektioner": [
-        {
-          "overskrift": "Meteorittens alder og oprindelse",
-          "tekst": "Forskere fra Boston College har fastslået, at en nyopdaget meteorit fra Mars er **1,27 milliarder** år gammel. Den stammer fra en kilde på Mars, som man ikke har prøver fra før. Det er en sjælden og vigtig opdagelse."
-        },
-        {
-          "overskrift": "Hvad betyder det?",
-          "tekst": "Meteoritten giver et unikt indblik i Mars' dybe indre. Den kan hjælpe forskere med at forstå planetens geologiske historie. Studiet er offentliggjort i tidsskriftet Geochimica et Cosmochimica Acta."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1,27 milliarder år",
-          "label": "Meteorittens alder"
-        }
-      ],
-      "detaljer": [
-        "Meteoritten er fra Mars og er en af de sjældne.",
-        "Den kommer fra en hidtil usamplet kilde på planeten.",
-        "Forskere fra Boston College har analyseret den.",
-        "Resultaterne er offentliggjort i et videnskabeligt tidsskrift."
-      ],
-      "betydning": "For almindelige danskere er det spændende, fordi det øger vores viden om Mars og solsystemets historie. Det kan også inspirere til fremtidige rummissioner.",
-      "pointer": [
-        "Sjælden Mars-meteorit fundet.",
-        "Den er 1,27 milliarder år gammel.",
-        "Stammer fra ukendt kilde.",
-        "Giver ny viden om Mars' indre."
-      ],
-      "prio": 6
     }
   ]
 }
