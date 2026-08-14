@@ -1,7 +1,79 @@
 {
-  "opdateret": "2026-08-14T06:57:22.886917+00:00",
+  "opdateret": "2026-08-14T11:10:24.185917+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Bulgaria advances project to launch new space, defense innovation hub",
+      "link": "https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/",
+      "dato": "2026-08-14T09:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "WARSAW, Poland — Bulgaria’s government has approved a draft memorandum of understanding with local company Starbase Europe to collaborate on the development of a new space and defense innovation hub [&#8230;] The post Bulgaria advances project to launch new space, defense innovation hub appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/EnduroSat-Doboslavtsi-Starbase-Europe-1920-1920x1080-1.jpg?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "Illustration of a space research and development hub planned for Dobroslavtsi Air Base in Bulgaria. Credit: EnduroSat",
+      "kategori": "Politik & penge",
+      "rubrik": "Bulgarien vil skabe nyt innovationscenter for rum og forsvar",
+      "resume_da": "Bulgariens regering har godkendt et udkast til en aftale med virksomheden Starbase Europe om at udvikle et nyt innovationscenter for rum og forsvar.",
+      "sektioner": [
+        {
+          "overskrift": "Godkendt samarbejde",
+          "tekst": "Den bulgarske regering har godkendt et udkast til en hensigtserklæring med den lokale virksomhed Starbase Europe. Aftalen skal samarbejde om at udvikle et nyt rum- og forsvarsinnovationscenter."
+        },
+        {
+          "overskrift": "Centrets formål",
+          "tekst": "Centret skal fokusere på innovation inden for rumfart og forsvar. Det er endnu ikke besluttet, hvor centret skal placeres, eller hvornår det åbner."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Den bulgarske regering har godkendt et udkast til en hensigtserklæring med selskabet Starbase Europe.",
+        "Samarbejdet skal udvikle et nyt innovationscenter for rum og forsvar.",
+        "Aftalen er et skridt mod at etablere centret."
+      ],
+      "betydning": "For en almindelig dansker viser det, at flere lande satser på rumfart og forsvar, hvilket kan skabe nye teknologiske muligheder og samarbejder på tværs af Europa.",
+      "pointer": [
+        "Bulgarien godkender aftale med Starbase Europe.",
+        "Innovationscenter for rum og forsvar planlægges.",
+        "Centret skal styrke rum- og forsvarsteknologi."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
+      "link": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
+      "dato": "2026-08-14T09:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Paris, France &#124; August 2026 – Novaspace’s latest In-Orbit Services Markets report projects that emerging in-orbit services will generate approximately $3 billion in cumulative service revenues over the next decade, highlighting the early development [&#8230;] The post In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&amp;ssl=1",
+      "billede_alt": "Novaspace logo",
+      "kategori": "Forskning",
+      "rubrik": "In-orbit services kan indbringe 3 milliarder dollars",
+      "resume_da": "En ny rapport fra Novaspace forudser, at tjenester i rummet vil skabe indtægter for omkring 3 milliarder dollars over de næste ti år.",
+      "sektioner": [
+        {
+          "overskrift": "Stort marked forventes",
+          "tekst": "Rapporten fra Novaspace viser, at tjenester i kredsløb kan blive en stor forretning. Indtægterne kan nå **3 milliarder dollars** over ti år. Det er et tegn på, at området er i vækst."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "3 milliarder dollars",
+          "label": "Forventede indtægter over 10 år"
+        }
+      ],
+      "detaljer": [
+        "Rapporten hedder In-Orbit Services Markets.",
+        "Den er udgivet af Novaspace.",
+        "Prognosen dækker de næste ti år.",
+        "Indtægterne kommer fra tjenester i kredsløb."
+      ],
+      "betydning": "Rumindustrien vokser, og det kan på sigt give billigere og bedre satellittjenester til os alle, fx bredbånd og vejrudsigt.",
+      "pointer": [
+        "Nye tjenester i rummet kan give milliarder i omsætning.",
+        "Rapporten kommer fra Novaspace.",
+        "Markedet er stadig tidligt i udviklingen."
+      ],
+      "prio": 6
+    },
     {
       "titel": "APOD: 2026 August 14 – Total Solar Eclipse from Greenland",
       "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/",
@@ -4212,81 +4284,6 @@
         "Giver ny viden om Mars' indre."
       ],
       "prio": 6
-    },
-    {
-      "titel": "Exploring 'very low Earth orbit': The world's 1st air-breathing satellite thruster could soon get a test run",
-      "link": "https://www.space.com/space-exploration/satellites/exploring-very-low-earth-orbit-the-worlds-1st-air-breathing-satellite-thruster-could-soon-get-a-test-run",
-      "dato": "2026-08-09T14:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "Air-breathing electric propulsion could help satellites explore a new frontier, one that lies quite close to our planet.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/PUW3aUWia8x3zjxJE3dJef-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Verden første luftåndende thruster kan testes snart",
-      "resume_da": "En ny type thruster, der bruger luft fra jordens atmosfære som brændstof, kan snart testes i meget lavt kredsløb om Jorden.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er en luftåndende thruster?",
-          "tekst": "En luftåndende thruster er en motor, der samler luftmolekyler fra den meget tynde atmosfære i lavt kredsløb. Den bruger dem som brændstof i stedet for at medbringe brændstof fra Jorden. Det kan gøre satellitter lettere og billigere at sende op."
-        },
-        {
-          "overskrift": "Test i meget lavt kredsløb",
-          "tekst": "Den første thruster af denne type kan snart blive testet i såkaldt 'very low Earth orbit'. Det er et område i 250-450 kilometers højde. Her er der nok luft til thrusteren, men også mere modstand fra atmosfæren."
-        },
-        {
-          "overskrift": "Hvorfor er det vigtigt?",
-          "tekst": "Hvis teknologien virker, kan satellitter i lavt kredsløb blive ved med at justere deres bane uden at skulle medbringe meget brændstof. Det kan forlænge deres levetid og give bedre billeder fra Jorden, fordi de er tættere på."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Thrusteren bruger luft fra atmosfæren som brændstof.",
-        "Den er designet til meget lavt kredsløb om Jorden.",
-        "Teknologien kan gøre satellitter lettere og billigere."
-      ],
-      "betydning": "For almindelige mennesker kan det betyde bedre og billigere satellitter, der fx giver skarpere billeder af Jorden og forbedrer vejrudsigter.",
-      "pointer": [
-        "En ny type thruster bruger luft som brændstof.",
-        "Den skal testes i meget lavt kredsløb.",
-        "Kan gøre satellitter lettere og billigere.",
-        "Kan forlænge satellitters levetid."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "The asteroid that may be three worlds",
-      "link": "https://phys.org/news/2026-08-asteroid-worlds.html",
-      "dato": "2026-08-09T10:40:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "What shape is an asteroid? For (44) Nysa, the honest answer until now has been that nobody knew. It is one of the brightest and largest E-type asteroids in the main belt, a class with a surface rich in enstatite, and its oddness has made it a favorite target for well over a hundred years. Successive observations hinted that it was elongated, perhaps even two lumps stuck together, but the picture s",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-asteroid-that-may.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Asteroide Nysa kan være tre verdener",
-      "resume_da": "Asteroide Nysa, en af de klareste og største E-type asteroider, er længere end hidtil antaget. Den kan være tre klumper samlet.",
-      "sektioner": [
-        {
-          "overskrift": "Ukendt form",
-          "tekst": "I over hundrede år har astronomer ikke vidst, hvordan asteroiden Nysa ser ud. Observationer har vist, at den er aflang, måske to klumper, men ikke klart."
-        },
-        {
-          "overskrift": "Tre klumper",
-          "tekst": "Nu tyder nye data på, at Nysa kan være tre verdener, der hænger sammen. Det gør den helt speciel blandt asteroider."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Nysa er en E-type asteroide med overflade rig på enstatit.",
-        "Den er en af de klareste og største i sit slag.",
-        "Observationer i over hundrede år har ikke kunnet afgøre formen."
-      ],
-      "betydning": "For almindelige mennesker viser det, at universet stadig rummer overraskelser. Selv kendte objekter som asteroider kan have uventede former.",
-      "pointer": [
-        "Nysa kan være tre klumper.",
-        "Det har været ukendt i 100+ år.",
-        "Overfladen er rig på enstatit."
-      ],
-      "prio": 5
     }
   ]
 }
