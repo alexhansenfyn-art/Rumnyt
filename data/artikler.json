@@ -1,7 +1,165 @@
 {
-  "opdateret": "2026-08-14T15:08:23.819497+00:00",
+  "opdateret": "2026-08-14T18:35:56.515538+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Mysterious Cygnus Bubble may trace back to microquasar, astronomers suggest",
+      "link": "https://phys.org/news/2026-08-mysterious-cygnus-microquasar-astronomers.html",
+      "dato": "2026-08-14T18:20:07+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Astronomers have proposed a new explanation for the mysterious Cygnus Bubble, a vast cloud of ultra-high-energy gamma rays stretching thousands of light-years across the sky. While the bubble has generally been linked to the Cygnus X star-forming region, the new study argues that a microquasar more naturally explains its highest-energy emission. The results were published in a paper in The Astroph",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-propose-ne.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Mikrokvasar kan forklare Cygnus-boblen",
+      "resume_da": "Astronomer foreslår, at en mikrokvasar er kilden til den gådefulde Cygnus-boble af gammastråling, ikke kun stjernedannelsesområdet.",
+      "sektioner": [
+        {
+          "overskrift": "Den mystiske boble",
+          "tekst": "Cygnus-boblen er en enorm sky af ultra-energiske gammastråler, der strækker sig tusindvis af lysår. Den har hidtil været forbundet med stjernedannelsesområdet Cygnus X. Men nye observationer peger på en anden forklaring."
+        },
+        {
+          "overskrift": "Mikrokvasarens rolle",
+          "tekst": "Forskerne mener, at en mikrokvasar bedre kan forklare den højeste energi i strålingen. En mikrokvasar er et sort hul, der sluger stof og sender stråler ud. Resultaterne er offentliggjort i et videnskabeligt tidsskrift."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "tusindvis af lysår",
+          "label": "Boblen er enorm"
+        },
+        {
+          "tal": "21. juli",
+          "label": "Artikel udgivet"
+        }
+      ],
+      "detaljer": [
+        "Cygnus-boblen er en kilde til ultra-energiske gammastråler.",
+        "Den er tidligere blevet kædet sammen med Cygnus X.",
+        "Ny forskning foreslår en mikrokvasar som kilde.",
+        "Studiet er publiceret i The Astrophysical Journal Letters."
+      ],
+      "betydning": "Det hjælper os med at forstå, hvordan ekstreme objekter som sorte huller påvirker rummet omkring dem. Det kan også ændre vores syn på, hvordan højenergistråling opstår i Mælkevejen.",
+      "pointer": [
+        "Ny forklaring på gammastråle-boble.",
+        "Mikrokvasar kan være kilden.",
+        "Offentliggjort i juli.",
+        "Vigtig for rumforståelsen."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Will the new moon race turn Earth's nearest neighbor into a dumping ground?",
+      "link": "https://www.space.com/astronomy/moon/will-the-new-moon-race-turn-earths-nearest-neighbor-into-a-dumping-ground",
+      "dato": "2026-08-14T18:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "We need rules to prevent space companies from dumping their old rockets onto the moon's surface in the future, experts say.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/87Rn3PeiFZcAVm73TeQ25n-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Måneløbet: bliver Månen en losseplads?",
+      "resume_da": "Flere lande og firmaer planlægger missioner til Månen. Der er risiko for, at Månen bliver et sted for affald.",
+      "sektioner": [
+        {
+          "overskrift": "Nye missioner til Månen",
+          "tekst": "Mange lande og private firmaer sender snart missioner til Månen. Det kan føre til mere affald på Månens overflade. Der er ingen fælles regler for, hvad man må efterlade."
+        },
+        {
+          "overskrift": "Ingen regler",
+          "tekst": "Der findes ingen internationale love, der beskytter Månen mod affald. Eksperter er bekymrede for, at Månen kan blive en losseplads. Der er behov for nye regler."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Artiklen nævner Teresa fra Tjekkiet som journalist, men ingen konkrete tal.",
+        "Flere lande og private firmaer planlægger missioner til Månen.",
+        "Der er ingen internationale regler for affald på Månen."
+      ],
+      "betydning": "Det er vigtigt for almindelige mennesker, fordi Månen er en fælles ressource for hele menneskeheden. Uden regler kan vi ødelægge den for fremtidige generationer.",
+      "pointer": [
+        "Mange nye måne-missioner er på vej.",
+        "Der er ingen regler for affald på Månen.",
+        "Eksperter er bekymrede."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun",
+      "link": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/",
+      "dato": "2026-08-14T17:00:23+00:00",
+      "kilde": "NASA",
+      "resume": "As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever. Now, a team of astrophysicists and data scientists with NASA’s COFFIES (Consequence Of Fields and Flows in the Interior and Exterior of the Sun) has developed a […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/space-weather/20260630_205556_4096_0131.jpg?w=4096&#038;h=4096&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "The Sun appears in shades of teal with some brighter and darker regions, set against a black background. In the upper right part of the Sun is a bright flash of white, a solar flare.",
+      "kategori": "Forskning",
+      "rubrik": "AI forudsiger solstorme 12 timer før",
+      "resume_da": "Forskere har med AI udviklet en model, der kan forudsige aktive solområder op til 12 timer før de opstår. Det kan beskytte astronauter og teknologi mod solstorme.",
+      "sektioner": [
+        {
+          "overskrift": "Solens skjulte aktive områder",
+          "tekst": "Aktive områder på Solen opstår, når magnetiske felter bryder igennem overfladen og skaber solpletter. Disse områder kan sende stråling og partikler mod Jorden, hvilket truer astronauter og satellitter. Forskere kan nu se tegn på dem under overfladen via lydbølger og magnetiske ændringer."
+        },
+        {
+          "overskrift": "AI-modellen og dens metode",
+          "tekst": "Modellen bruger data fra NASAs Solar Dynamics Observatory og en særlig AI-arkitektur, der kaldes sliding-window transformer. Den finder små ændringer i Solens akustiske aktivitet og magnetfelt, som afslører kommende aktive områder. Dette giver forudsigelser op til **12 timer** før områderne bliver synlige."
+        },
+        {
+          "overskrift": "Fremtidig beskyttelse",
+          "tekst": "Modellen er endnu ikke klar til daglig brug, men forskerne vil teste den med flere kendte hændelser. Målet er at forbedre rumvejrudsigter, så vi bedre kan beskytte både astronauter og teknologi på Jorden. Dette er vigtigt for kommende missioner til Månen og Mars."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12 timer",
+          "label": "Forudsigelse før aktive områder"
+        }
+      ],
+      "detaljer": [
+        "Modellen er udviklet af COFFIES-teamet med forskere fra NJIT, Princeton og NASA Ames.",
+        "Data kommer fra NASAs Solar Dynamics Observatory og supercomputere hos NASA Ames.",
+        "Forskningsresultaterne er offentliggjort i Journal of Geophysical Research: Machine Learning and Computation.",
+        "Tidligere metoder krævede, at solpletter allerede var synlige."
+      ],
+      "betydning": "For almindelige danskere betyder bedre rumvejrudsigter mindre risiko for, at solstorme forstyrrer vores kommunikation og GPS-systemer, som vi dagligt er afhængige af.",
+      "pointer": [
+        "AI forudsiger solstorme tidligere",
+        "Aktive områder opdages under overfladen",
+        "Kan beskytte astronauter og teknologi",
+        "Modellen testes yderligere før brug"
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Spire and PlanetiQ win NOAA radio-occultation contracts",
+      "link": "https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/",
+      "dato": "2026-08-14T16:33:58+00:00",
+      "kilde": "SpaceNews",
+      "resume": "SAN FRANCISCO – The National Oceanic and Atmospheric Administration has awarded contracts to Spire Global and PlanetiQ to provide radio occultation data for terrestrial and space weather forecasts. The NOAA [&#8230;] The post Spire and PlanetiQ win NOAA radio-occultation contracts appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_1chatgpt_image-planetiq.png?fit=879%2C586&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Satellitter",
+      "rubrik": "NOAA vælger Spire og PlanetiQ til vejrdata",
+      "resume_da": "NOAA har givet kontrakter til Spire Global og PlanetiQ om at levere data til vejr- og rumvejrsforudsigelser.",
+      "sektioner": [
+        {
+          "overskrift": "Kontrakter til vejrdata",
+          "tekst": "Det amerikanske NOAA har tildelt kontrakter til Spire Global og PlanetiQ. De skal levere radio-okkultationsdata. Dataene bruges til jord- og rumvejrsforudsigelser."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "NOAA er det amerikanske hav- og atmosfæreagentur",
+        "Radio-okkultation måler signaler fra GPS-satellitter gennem atmosfæren",
+        "Spire Global og PlanetiQ er begge satellitbaserede vejrdatavirksomheder"
+      ],
+      "betydning": "For almindelige danskere kan bedre vejrudsigter og rumvejrsvarsler komme fra disse data. Det kan påvirke alt fra navigation til mobilkommunikation.",
+      "pointer": [
+        "NOAA har valgt to leverandører",
+        "Data skal forbedre vejr- og rumvejrsforudsigelser",
+        "Kontrakterne er vigtige for kommerciel rumfart"
+      ],
+      "prio": 5
+    },
     {
       "titel": "Tiny satellite will use the dark side of the moon to eavesdrop on whispers from the early universe",
       "link": "https://phys.org/news/2026-08-tiny-satellite-dark-side-moon.html",
@@ -4103,171 +4261,6 @@
         "Nye missioner kan følges online."
       ],
       "prio": 8
-    },
-    {
-      "titel": "Chinese Long March 7A rocket explodes shortly after liftoff",
-      "link": "https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/",
-      "dato": "2026-08-10T13:24:02+00:00",
-      "kilde": "SpaceNews",
-      "resume": "HELSINKI — China appears to have lost an unknown payload after a Long March 7A rocket exploded less than 90 seconds into flight, according to amateur footage. The Long March [&#8230;] The post Chinese Long March 7A rocket explodes shortly after liftoff appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Shijian28-CZ7A-WSLSC-30nov2025-CASC.jpg?fit=1024%2C686&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Opsendelser",
-      "rubrik": "Kinesisk raket eksploderer efter affyring",
-      "resume_da": "En kinesisk Long March 7A-raket eksploderede under 90 sekunder efter start. Videooptagelser viser raketten gå til grunde.",
-      "sektioner": [
-        {
-          "overskrift": "Eksplosion under opstigning",
-          "tekst": "En kinesisk Long March 7A-raket eksploderede mindre end 90 sekunder efter affyring. Amatørvideoer viser raketten gå til grunde. Lasten er ukendt."
-        },
-        {
-          "overskrift": "Tabt last",
-          "tekst": "Det vides ikke, hvad raketten skulle have sendt i kredsløb. Hændelsen skete kort efter start. Kina har ikke officielt kommenteret."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "90 sekunder",
-          "label": "Tid til eksplosion"
-        }
-      ],
-      "detaljer": [
-        "Rakettypen er Long March 7A",
-        "Eksplosionen skete mindre end 90 sekunder efter affyring",
-        "Videooptagelser fra amatører viser hændelsen",
-        "Lasten er ukendt"
-      ],
-      "betydning": "Raketopsendelser er komplekse, og fejl kan ske. Denne hændelse viser, at selv store rumprogrammer kan opleve tilbageslag.",
-      "pointer": [
-        "Kinesisk raket eksploderede",
-        "Sker kort efter start",
-        "Lasten er ukendt",
-        "Video optaget af amatør"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "National security doesn’t need more maps or imagery; it needs measurement",
-      "link": "https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/",
-      "dato": "2026-08-10T13:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "A decade ago, a United States carrier strike group departing San Diego could cross the Pacific with only intermittent detection. China might catch a glimpse — a satellite pass here, [&#8230;] The post National security doesn&#8217;t need more maps or imagery; it needs measurement appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/EDC-california-scaled.png?fit=1024%2C562&amp;ssl=1",
-      "billede_alt": "Energy infrastructure in Imperial Valley, California, June 16, 2026. Daily, science-grade observation can help governments monitor critical infrastructure and detect change at scale. Credit: EarthDail",
-      "kategori": "Politik & penge",
-      "rubrik": "Sikkerhed har brug for målinger, ikke kun billeder",
-      "resume_da": "Ny analyse peger på, at national sikkerhed kræver præcise måledata, ikke kun kort og billeder. Det skriver SpaceNews i en ny artikel.",
-      "sektioner": [
-        {
-          "overskrift": "Baggrund",
-          "tekst": "For ti år siden kunne en amerikansk hangarskibsgruppe sejle over Stillehavet med kun sporadisk overvågning. Kina kunne få et glimt af den ved en satellitpassage."
-        },
-        {
-          "overskrift": "Behovet",
-          "tekst": "Artiklen argumenterer for, at forsvaret har brug for målinger frem for kun billeder. Målinger kan give mere præcise data om fjendtlige aktiviteter."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "For ti år siden var en hangarskibsgruppe svær at følge over Stillehavet.",
-        "Kina kunne kun få korte glimt af skibene via satellit.",
-        "Der er et øget behov for måledata i national sikkerhed."
-      ],
-      "betydning": "For almindelige danskere viser det, hvordan rumteknologi bruges til forsvar og sikkerhed. Det kan påvirke globale magtforhold og dermed også Danmark.",
-      "pointer": [
-        "Målinger er vigtigere end billeder for sikkerhed.",
-        "Overvågning af havområder er udfordret.",
-        "Rumdata er afgørende for forsvar.",
-        "Analysen fokuserer på USA og Kina."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Launch Preview: Chinese failure opens busy international launch salvo",
-      "link": "https://www.nasaspaceflight.com/2026/08/launch-preview-081026/",
-      "dato": "2026-08-10T12:49:20+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "The week of Aug. 10 opened with an extraordinary Monday, four launches across three countries&#8230; The post Launch Preview: Chinese failure opens busy international launch salvo appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2024/12/h3.jpg",
-      "billede_alt": "",
-      "kategori": "Opsendelser",
-      "rubrik": "Kinesisk raketeksplosion indleder travl uge med syv opsendelser",
-      "resume_da": "En kinesisk Chang Zheng 7A-raket eksploderede mandag, mens fire andre opsendelser fra flere lande fulgte. I alt er syv opsendelser planlagt i denne uge.",
-      "sektioner": [
-        {
-          "overskrift": "Kinesisk raket fejler",
-          "tekst": "En Chang Zheng 7A-raket eksploderede under første trins flyvning mandag. Raketten skulle have sendt en ukendt last i kredsløb, men missionen mislykkedes. Det var raketttens 18. mission i alt."
-        },
-        {
-          "overskrift": "Japansk navigation fuldføres",
-          "tekst": "Japans H3-raket sender den syvende Michibiki-satellit op. Dermed er det japanske navigationssystem QZSS komplet. Systemet kan nu fungere uafhængigt af GPS og bruges blandt andet til præcisionsnavigation."
-        },
-        {
-          "overskrift": "Kinesisk privat raket genopsendes",
-          "tekst": "LandSpace's ZhuQue-3-raket flyver sin anden mission. Første forsøg mislykkedes ved landingen, da raketten eksploderede tæt på landingspladsen. Nu forsøger de igen med software-opdateringer."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "7.000 kg",
-          "label": "Kapacitet for Chang Zheng 7A i GTO"
-        },
-        {
-          "tal": "4.900 kg",
-          "label": "Vægt af Michibiki No. 7"
-        },
-        {
-          "tal": "7",
-          "label": "Antal satellitter i QZSS-konstellationen"
-        }
-      ],
-      "detaljer": [
-        "Chang Zheng 7A eksploderede under Max Q-fasen af førstetrinsflyvningen.",
-        "Falcon 9 sender Starlink-satellitter op fra Florida med booster B1085.",
-        "Michibiki No. 7 er bygget af Mitsubishi Electric og vejer 4.900 kg.",
-        "ZhuQue-3 er 66 meter høj og drevet af metan.",
-        "H3-opsendelsen sker fra Tanegashima i Japan."
-      ],
-      "betydning": "Opsendelser og raketfejl påvirker satellitkommunikation og navigation, som mange danskere bruger dagligt. Japan's færdige navigationssystem kan øge pålideligheden af GPS-lignende tjenester i hele regionen.",
-      "pointer": [
-        "Kinesisk raketeksplosion",
-        "Japansk navigation færdig",
-        "Privat kinesisk raket forsøger landing",
-        "Syv opsendelser på en uge"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite",
-      "link": "https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite/",
-      "dato": "2026-08-10T12:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "WARSAW, Poland — The Lithuanian space laser communications company Astrolight has signed a memorandum of understanding with ATMOS Space Cargo, to demonstrate in-flight optical communications link between a reentry spacecraft [&#8230;] The post Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Photo-by-ATMOS-Space-Cargo.png?fit=1024%2C512&amp;ssl=1",
-      "billede_alt": "Illustration of an optical link between a satellite and ATMOS Space Cargo&#039;s reentry vehicle. Credit: ATMOS Space Cargo",
-      "kategori": "Missioner",
-      "rubrik": "Laserlink mellem rumkapsel og satellit testes",
-      "resume_da": "Astrolight og ATMOS vil demonstrere en laserforbindelse mellem en genindtrædelses-kapsel og en satellit under flyvning. Det er første gang.",
-      "sektioner": [
-        {
-          "overskrift": "Nyt partnerskab",
-          "tekst": "Det litauiske firma Astrolight har underskrevet en aftale med ATMOS Space Cargo. De vil teste en laserforbindelse mellem en genindtrædelses-kapsel og en satellit under flyvning. Det skulle være første gang nogensinde."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Astrolight er et litauisk firma, der laver laserkommunikation til rumfart.",
-        "ATMOS Space Cargo er et andet rumfartsfirma.",
-        "Aftalen er et memorandum of understanding."
-      ],
-      "betydning": "Laserkommunikation kan give hurtigere og mere sikker dataoverførsel i rummet. Det er vigtigt for fremtidige missioner.",
-      "pointer": [
-        "Astrolight og ATMOS tester laserforbindelse.",
-        "Det sker mellem en kapsel og en satellit.",
-        "Det er første gang i flyvning.",
-        "Aftalen er underskrevet."
-      ],
-      "prio": 5
     }
   ]
 }
