@@ -1,7 +1,144 @@
 {
-  "opdateret": "2026-08-14T00:08:59.325884+00:00",
+  "opdateret": "2026-08-14T06:57:22.886917+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "APOD: 2026 August 14 – Total Solar Eclipse from Greenland",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/",
+      "dato": "2026-08-14T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 14 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/TSE2026DR_Madhaven.jpeg?w=7616&#038;h=5080&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Total solformørkelse fotograferet fra Grønland",
+      "resume_da": "NASAs billede af dagen viser en total solformørkelse set fra Grønland. Billedet blev taget i et hul i skyerne og viser koronaen og diamantringen.",
+      "sektioner": [
+        {
+          "overskrift": "Formørkelsen den 12. august",
+          "tekst": "Den 12. august ramte Månens skygge Jorden. Skyggen bevægede sig fra det Arktiske Ocean over Grønland, Island, Atlanten, Portugal og det nordlige Spanien. Mange kunne se en total solformørkelse, hvis de havde klart vejr."
+        },
+        {
+          "overskrift": "Et tag fra Grønland",
+          "tekst": "Fotografen undgik dårligt vejr til søs og landede ved Rype Fjord på Grønlands østkyst. Billedet blev taget kl. 17:33:26 UTC. Det er sandsynligvis et af de første klare billeder af den totale formørkelse."
+        },
+        {
+          "overskrift": "Hvad billedet viser",
+          "tekst": "Gennem et hul i skyerne fangede billedet et af de såkaldte diamantringe. Det sker lige når totaliteten begynder. Billedet viser også solens imponerende korona."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. august",
+          "label": "Datoen for formørkelsen"
+        },
+        {
+          "tal": "17:33:26 UTC",
+          "label": "Tidspunkt for billedet"
+        }
+      ],
+      "detaljer": [
+        "Billedet er udgivet som Astronomy Picture of the Day den 14. august 2026.",
+        "Fotografen er Aditya Madhavan.",
+        "Billedet blev taget i nærheden af Rype Fjord på Grønlands østkyst."
+      ],
+      "betydning": "For en almindelig dansker er det en mulighed for at se et flot billede af en sjælden begivenhed, og det kan inspirere til at lære mere om astronomi og rumfart.",
+      "pointer": [
+        "Total solformørkelse den 12. august",
+        "Billede taget fra Grønland",
+        "Viser korona og diamantring",
+        "Første klare billede af totaliteten"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "A Sunflower’s View of Totality",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/",
+      "dato": "2026-08-14T04:01:00+00:00",
+      "kilde": "NASA",
+      "resume": "The Moon slid between the Sun and Earth to produce a stunning celestial show visible from Spain in August 2026.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-sunflower",
+      "billede_alt": "A composite photo shows the Sun at several times and locations during the progression of a total solar eclipse. The Sun’s path descends diagonally from the top left across a dimmed sky, with a field o",
+      "kategori": "Astronomi",
+      "rubrik": "Total solformørkelse set fra Spanien",
+      "resume_da": "Den 12. august 2026 oplevede dele af Nordspanien en total solformørkelse. NASA fotograferede begivenheden fra et blomsterfelt.",
+      "sektioner": [
+        {
+          "overskrift": "Sjælden total formørkelse",
+          "tekst": "En total solformørkelse ramte den 12. august 2026 en stribe af Nordspanien. Månen stod præcis mellem Solen og Jorden og skjulte Solen helt i et par minutter. Kun få steder på land, som Grønland, Island og Nordspanien, oplevede totaliteten."
+        },
+        {
+          "overskrift": "Foto fra blomsterfelt",
+          "tekst": "NASA-fotografen Bill Ingalls tog et sammensat billede af formørkelsen fra en mark med solsikker i San Millán de los Caballeros, en by omkring **40 kilometer** syd for León. Billedet viser forløbet før, under og efter totaliteten."
+        },
+        {
+          "overskrift": "Videnskabelige målinger",
+          "tekst": "Formørkelsen gav NASA mulighed for at studere Solens korona og Jordens atmosfære. Forskere fløj i jetfly fra Island for at fotografere koronaen, og ballonprojekter målte atmosfærens reaktion, da Solen blev blokeret. Næste totale formørkelse kommer den 2. august 2027."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "40 km",
+          "label": "Afstand fra León til byen"
+        },
+        {
+          "tal": "2 minutter",
+          "label": "Varighed af totaliteten"
+        },
+        {
+          "tal": "2. august 2027",
+          "label": "Næste totale formørkelse"
+        }
+      ],
+      "detaljer": [
+        "Billedet er taget i San Millán de los Caballeros, Spanien.",
+        "Formørkelsen startede som delvis kl. 19:32 og endte kl. 21:22 lokal tid i León.",
+        "I Spanien var totaliteten fra kl. 20:28 og varede ca. to minutter.",
+        "En solprominens var synlig under totaliteten.",
+        "NASA brugte WB-57-fly og videnskabelige balloner til målinger.",
+        "Delvis formørkelse var synlig i Europa, Afrika, Canada og USA."
+      ],
+      "betydning": "For danskere er dette en påmindelse om, at solformørkelser er spektakulære begivenheder, der kan ses i vores del af verden. Det viser også, hvordan rumforskning udnytter sjældne fænomener til at lære mere om Solen og Jorden.",
+      "pointer": [
+        "Total solformørkelse over Spanien den 12. august 2026.",
+        "NASA fotograferede fra et solsikkefelt.",
+        "Videnskabelige eksperimenter under formørkelsen.",
+        "Næste totale formørkelse i 2027."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "CesiumAstro buys semiconductor specialist to boost constellation plans",
+      "link": "https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/",
+      "dato": "2026-08-14T02:24:02+00:00",
+      "kilde": "SpaceNews",
+      "resume": "CesiumAstro is acquiring semiconductor specialist Jariet Technologies, adding more in-house capabilities behind the phased-array antenna specialist’s plans for a future communications constellation. The post CesiumAstro buys semiconductor specialist to boost constellation plans appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_1shey_2026.png?fit=879%2C494&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Satellitter",
+      "rubrik": "CesiumAstro køber chipproducent til satellitnet",
+      "resume_da": "CesiumAstro opkøber halvledervirksomheden Jariet Technologies for at styrke egne evner til deres kommende kommunikationssatellitnet.",
+      "sektioner": [
+        {
+          "overskrift": "Opkøb styrker kapacitet",
+          "tekst": "CesiumAstro, som laver antenner til satellitter, køber Jariet Technologies. Det giver dem flere interne muligheder. De planlægger et fremtidigt kommunikationssatellitnet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "CesiumAstro køber Jariet Technologies.",
+        "Jariet Technologies er en halvlederspecialist.",
+        "Opkøbet skal styrke CesiumAstros planer om et kommende kommunikationssatellitnet."
+      ],
+      "betydning": "For almindelige danskere betyder det måske bedre og mere pålidelig satellitkommunikation i fremtiden, men det er stadig et tidligt skridt.",
+      "pointer": [
+        "CesiumAstro køber chipproducent.",
+        "Skal styrke egen produktion.",
+        "Planer om satellitnet.",
+        "Mere kontrol over hardware."
+      ],
+      "prio": 4
+    },
     {
       "titel": "Synchronized star pairs unleash radio bursts via a Jupiter-Io-like mechanism",
       "link": "https://phys.org/news/2026-08-synchronized-star-pairs-unleash-radio.html",
@@ -4148,142 +4285,6 @@
         "Nysa kan være tre klumper.",
         "Det har været ukendt i 100+ år.",
         "Overfladen er rig på enstatit."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "APOD: 2026 August 9 – Contemplating the Sun",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-9-contemplating-the-sun/",
-      "dato": "2026-08-09T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 August 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Contemplating the Sun [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/sunsilhouettes_gilbert_1024.jpg?w=1024&#038;h=743&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Uge: Delvis solformørkelse og total formørkelse",
-      "resume_da": "NASA's daglige billede viser en solformørkelse fra 2012 og annoncerer en kommende i august 2026, synlig i Nordamerika, Europa og Afrika.",
-      "sektioner": [
-        {
-          "overskrift": "Billede fra 2012",
-          "tekst": "NASA's Astronomy Picture of the Day viser et foto fra 2012. Det blev taget i Glen Canyon, Arizona. Man ser Solen med Månen foran og mennesker, der kigger på."
-        },
-        {
-          "overskrift": "Kommende formørkelse",
-          "tekst": "Der er en ny solformørkelse i denne uge. Den bliver delvis i det nordøstlige Nordamerika, Europa og det nordvestlige Afrika. En tynd stribe fra Grønland til Portugal får en total formørkelse."
-        },
-        {
-          "overskrift": "Perseider i mørke",
-          "tekst": "Det er uvist, om man kan se meteorer fra Perseiderne under totaliteten. Det er et åbent spørgsmål."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2012",
-          "label": "År for billedet"
-        },
-        {
-          "tal": "2026",
-          "label": "År for kommende formørkelse"
-        }
-      ],
-      "detaljer": [
-        "Billedet er taget i Glen Canyon National Recreation Area, Arizona.",
-        "Amatører og astronomer forklarede begivenheden til tilskuere.",
-        "Solpletter er synlige på Solen i billedet.",
-        "Totaliteten er i en smal stribe fra Grønland til Portugal."
-      ],
-      "betydning": "For almindelige mennesker er det en chance for at se et sjældent himmelfænomen og lære om astronomi.",
-      "pointer": [
-        "Solformørkelse i august 2026",
-        "Delvis i Europa og Nordamerika",
-        "Total i Grønland og Portugal",
-        "Perseider kan ses under totaliteten"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Blue Origin working engine resolutions and dual pad future",
-      "link": "https://www.nasaspaceflight.com/2026/08/blue-origin-engine-resolutions-dual-pad/",
-      "dato": "2026-08-08T21:13:55+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "Blue Origin is nearing the end of its investigation into the catastrophic explosion of a&#8230; The post Blue Origin working engine resolutions and dual pad future appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-08-22-08-15-961.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "Blue Origin tæt på løsning efter New Glenn-ulykke",
-      "resume_da": "To måneder efter en eksplosion på New Glenn-raketten har Blue Origin fundet årsagen: en iltventil i en af motorene. Raketten skal flyve igen inden udgangen af 2026.",
-      "sektioner": [
-        {
-          "overskrift": "Eksplosionens årsag",
-          "tekst": "Eksplosionen skete under en test i maj 2026 og ødelagde raketten og rampeinfrastruktur. Undersøgelser peger på hovediltventilen i en BE-4-motor. Dele af hardwaren er fundet og inspiceret, hvilket bekræfter fejlen."
-        },
-        {
-          "overskrift": "Mindre ændringer nødvendige",
-          "tekst": "Kun små justeringer af ventilen kræves, og de kan installeres på eksisterende motorer. Nye ventiler er allerede i produktion og klar i slutningen af august. Blue Origin håber at flyve igen inden årets udgang."
-        },
-        {
-          "overskrift": "Affyringsrampen genopbygges",
-          "tekst": "Rampen bygges om med en ny metode: Raken delene samles vandret og løftes op på rampen. Den ødelagte transporter er erstattet af en kran. Der bygges også en ny rampe (36B) til en større version af raketten."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "7",
-          "label": "Antal motorer på forste trin"
-        },
-        {
-          "tal": "120 meter",
-          "label": "Højde på fremtidig raket"
-        }
-      ],
-      "detaljer": [
-        "Ulykken skete 28. maj 2026 under en statisk test.",
-        "Eksplosionen væltede lynafledertårnet og ødelagde transportøren.",
-        "Det er Blue Origins eneste opsendelsesrampe for New Glenn.",
-        "BE-4-motoren bruges også i ULA's Vulcan-raket.",
-        "Tre tidligere New Glenn-missioner var gennemført."
-      ],
-      "betydning": "For en almindelig dansker viser sagen, at selv erfarne rumfartsselskaber kan fejle, og at sikkerhedsarbejde tager tid. Det påvirker kommercielle opsendelser og fremtidens rumtransport.",
-      "pointer": [
-        "Iltventil skyld i eksplosion.",
-        "Raket kan flyve igen i 2026.",
-        "Rampen genopbygges med ny metode.",
-        "Ny større raket på vej."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
-      "link": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/",
-      "dato": "2026-08-08T17:45:40+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Northrop Grumman and the Canadian Space Agency will adapt what they had been working on for NASA’s lunar Gateway into applications for a planned lunar base, albeit with few specifics. The post Northrop Grumman, Canadian Space Agency repurpose their Gateway projects appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/northrop-lid.jpeg?fit=1024%2C576&amp;ssl=1",
-      "billede_alt": "Northrop LID",
-      "kategori": "Politik & penge",
-      "rubrik": "Gateway-projekter omstilles til månebase",
-      "resume_da": "Northrop Grumman og den canadiske rumfartsorganisation ændrer deres Gateway-projekter til at støtte en kommende månebase.",
-      "sektioner": [
-        {
-          "overskrift": "Projekter omstilles",
-          "tekst": "Northrop Grumman og den canadiske rumfartsorganisation har besluttet at tilpasse deres arbejde med NASA's rumstation Gateway. I stedet vil de bruge deres teknologi til en planlagt månebase. Der er dog ikke mange konkrete detaljer endnu."
-        },
-        {
-          "overskrift": "Få konkrete detaljer",
-          "tekst": "Selvom omstillingen er annonceret, er der endnu ikke mange oplysninger om, hvordan teknologien konkret skal bruges på månebasen. Det vides ikke, hvilke specifikke komponenter eller tidsplaner der er tale om."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Northrop Grumman og CSA ændrer deres Gateway-projekter.",
-        "Projekterne skal nu bruges til en planlagt månebase.",
-        "Der er få konkrete oplysninger om ændringerne."
-      ],
-      "betydning": "For almindelige danskere viser det, at rumfartsprojekter ændrer sig over tid, og at internationale samarbejder tilpasser sig nye mål som en permanent månebase.",
-      "pointer": [
-        "Omstilling fra Gateway til månebase",
-        "Få detaljer endnu",
-        "Northrop og Canada involveret"
       ],
       "prio": 5
     }
