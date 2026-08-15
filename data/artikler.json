@@ -1,7 +1,52 @@
 {
-  "opdateret": "2026-08-14T22:54:52.329470+00:00",
+  "opdateret": "2026-08-15T03:04:01.798091+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "'Starwashing': How space companies use the greenwashing playbook while causing environmental damage",
+      "link": "https://phys.org/news/2026-08-starwashing-space-companies-greenwashing-playbook.html",
+      "dato": "2026-08-15T01:00:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "From launchpads to low Earth orbit and beyond, space companies and their affiliates are deploying a familiar marketing tactic—with a new twist. In a space economy projected to reach US$1.8 trillion by 2035, they sell space exploration narratives by appealing to a desire to expand humankind beyond Earth—while downplaying or omitting the negative repercussions for Earth and the space environment. We",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/space-launch.jpg",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Starwashing: Rumfartens grønne facade",
+      "resume_da": "Rumfartsvirksomheder bruger grønne fortællinger om fremtid og udforskning for at skjule miljøskader. Det kaldes 'starwashing'.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er starwashing?",
+          "tekst": "Rumfartsvirksomheder og deres partnere bruger en velkendt marketingtaktik med et twist. De sælger rumudforskning som en drøm om at brede menneskeheden ud i rummet, mens de ignorerer eller nedtoner de negative konsekvenser for Jorden og rummiljøet."
+        },
+        {
+          "overskrift": "En milliardindustri",
+          "tekst": "Rumøkonomien forventes at nå **1,8 billioner dollars** i 2035. Det gør det endnu vigtigere at se kritisk på, hvordan virksomhederne kommunikerer om deres aktiviteter."
+        },
+        {
+          "overskrift": "Sammenligning med greenwashing",
+          "tekst": "Starwashing minder om greenwashing, hvor virksomheder fremstiller sig som mere miljøvenlige, end de er. Men i rummet handler det også om at skjule skader på selve rummiljøet, for eksempel efterladte dele og satellitter."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1,8 billioner dollars",
+          "label": "Forventet størrelse af rumøkonomien i 2035"
+        }
+      ],
+      "detaljer": [
+        "Rumfartsvirksomheder nedtoner negative konsekvenser for Jorden og rummiljøet.",
+        "De bruger fortællinger om at udvide menneskeheden ud over Jorden som marketing.",
+        "Rumøkonomien forventes at nå 1,8 billioner dollars i 2035."
+      ],
+      "betydning": "Det er vigtigt at gennemskue, når rumfart markedsføres som grøn og positiv, mens skaderne overses. For almindelige mennesker betyder det, at vi ikke altid får hele sandheden om rumfartens miljøomkostninger.",
+      "pointer": [
+        "Rumfart bruger grønne fortællinger for at skjule skader.",
+        "Rumøkonomien bliver enormt stor.",
+        "Starwashing ligner greenwashing, men i rummet.",
+        "Forbrugerne bør være kritiske over for rumfartsvirksomheders kommunikation."
+      ],
+      "prio": 5
+    },
     {
       "titel": "Airborne observatory improves views of solar corona during cloud-covered eclipse",
       "link": "https://phys.org/news/2026-08-airborne-observatory-views-solar-corona.html",
@@ -4203,46 +4248,6 @@
         "Satellitter overvåger naturen."
       ],
       "prio": 6
-    },
-    {
-      "titel": "Mars could have carried liquid water more recently than we thought",
-      "link": "https://phys.org/news/2026-08-mars-liquid-thought.html",
-      "dato": "2026-08-10T21:00:13+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "For decades, astronomers have assumed that the Martian surface froze solid around 3 billion years ago and has stayed that way ever since. If this were really the case, any liquid water would have long since either been locked away underground or lost to space.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/mars-could-have-carrie.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Mars kan have haft flydende vand for nylig",
-      "resume_da": "Ny forskning tyder på, at Mars kan have haft flydende vand for nylig, modsat hidtidig antagelse om, at overfladen frøs for 3 milliarder år siden. Det ændrer vores forståelse af planeten.",
-      "sektioner": [
-        {
-          "overskrift": "Ny forskning udfordrer gammel antagelse",
-          "tekst": "I årtier troede forskere, at Mars' overflade frøs for omkring **3 milliarder år siden** og har været frosset siden. Hvis det var tilfældet, ville flydende vand enten være låst i undergrunden eller forsvundet ud i rummet."
-        },
-        {
-          "overskrift": "Vand kan have været til stede",
-          "tekst": "Ny forskning antyder, at flydende vand kan have eksisteret på Mars for nylig. Det betyder, at planeten ikke nødvendigvis har været så gold, som vi troede."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "3 milliarder år",
-          "label": "Tid siden overfladen antages frosset"
-        }
-      ],
-      "detaljer": [
-        "Astronomer har antaget, at Mars overflade frøs for 3 milliarder år siden.",
-        "Flydende vand ville enten være låst under jorden eller gået tabt til rummet."
-      ],
-      "betydning": "For danskere kan det vække nysgerrighed om rumforskning og give håb om, at Mars engang kunne have haft liv.",
-      "pointer": [
-        "Mars kan have haft flydende vand for nylig.",
-        "Antagelsen om frossen overflade udfordres.",
-        "Vand kunne have været til stede.",
-        "Relevant for forståelse af Mars' historie."
-      ],
-      "prio": 7
     }
   ]
 }
