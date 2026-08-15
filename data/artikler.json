@@ -1,7 +1,111 @@
 {
-  "opdateret": "2026-08-15T03:04:01.798091+00:00",
+  "opdateret": "2026-08-15T05:01:30.252267+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "APOD: 2026 August 15 – Bright Perseids from Sweden",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/",
+      "dato": "2026-08-15T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 15 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Bright Perseids from [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/PerseidsAPOD_P-MHeden.jpg?w=1073&#038;h=1500&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "Two meteors flash through the night sky.  One is reflected in the water below.",
+      "kategori": "Astronomi",
+      "rubrik": "Lyse Perseider fotograferet over Sverige",
+      "resume_da": "Astronomisk billede viser to lyse Perseider og en refleksion i vand fra kysten ved Grisslehamn, Sverige. Meteorregnens top faldt sammen med nymåne, hvilket gav mørk himmel.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er Perseiderne?",
+          "tekst": "Perseiderne er et årligt meteorregn, der kommer fra kometen Swift-Tuttle. Meteorerne er kendt for at være lyse og hurtige. De ses fra stjernebilledet Perseus."
+        },
+        {
+          "overskrift": "Billedet fra Sverige",
+          "tekst": "Billedet er taget tæt på toppen af meteorregnen den 12. august. Det viser to lyse Perseider og en refleksion i vandet. Baggrunden viser Mælkevejens svage lys."
+        },
+        {
+          "overskrift": "Nymåne gav klart udsyn",
+          "tekst": "Meteorregnens top faldt sammen med nymåne. Det betød, at himlen var ekstra mørk, og meteorerne var nemme at se. For mange skywatchers fulgte meteorregnen efter en solformørkelse."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. august",
+          "label": "Dato for billedet"
+        }
+      ],
+      "detaljer": [
+        "Perseiderne kommer fra kometen Swift-Tuttle",
+        "Billedet er taget ved Grisslehamn i Sverige",
+        "To Perseider og en refleksion er synlige",
+        "Mælkevejen kan ses i baggrunden",
+        "Nymåne gjorde himlen mørk ved meteorregnens top",
+        "Natten efterfulgte en solformørkelse"
+      ],
+      "betydning": "Perseiderne er en populær meteorregn, som mange danskere kan se. Billedet viser, hvordan man kan opleve og fotografere fænomenet, især når forholdene er gode med ny måne.",
+      "pointer": [
+        "Årligt meteorregn fra kometen Swift-Tuttle",
+        "Lyse og hurtige meteorer",
+        "Billede fra Sverige med refleksion",
+        "Nymåne gav optimale observationsforhold"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Rocket Lab advances via series of announcements",
+      "link": "https://www.nasaspaceflight.com/2026/08/rocket-lab-advances-announcements/",
+      "dato": "2026-08-15T03:42:01+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "Rocket Lab has formally established a new subsidiary in Germany and introduced a containerized mobile&#8230; The post Rocket Lab advances via series of announcements appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-15-04-32-28-725.jpg",
+      "billede_alt": "",
+      "kategori": "Opsendelser",
+      "rubrik": "Rocket Lab udvider med tysk fabrik og mobil rumhavn",
+      "resume_da": "Rocket Lab etablerer datterselskab i Tyskland og præsenterer et mobilt affyringssystem i containere. Samtidig skrider arbejdet på Neutron-raketten frem.",
+      "sektioner": [
+        {
+          "overskrift": "Nyt tysk selskab",
+          "tekst": "Rocket Lab har oprettet Rocket Lab Germany med hovedkvarter i München. Selskabet skal bygge på ekspertisen fra Mynaric, som Rocket Lab købte i 2025. Udover laserterminaler skal de producere satellitter og komponenter til europæiske kunder."
+        },
+        {
+          "overskrift": "Mobil affyringsrampe",
+          "tekst": "Systemet GHOST kan pakkes i standardcontainere og gør det muligt at affyre Electron-raketter næsten hvor som helst i verden. Det er især rettet mod forsvar og sikkerhed, og den første faste placering bliver i Alaska. En demonstration er planlagt til **2027**."
+        },
+        {
+          "overskrift": "Neutron-raketten skrider frem",
+          "tekst": "Arkimedies-motorerne til Neutron har nu gennemgået over **400** testaffyringer. De ni motorer til den første flyvning er i produktion, og de store raketdele er ved at blive samlet. Andet trin skal snart sendes til affyringsstedet i Virginia."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2027",
+          "label": "År for demonstrationsflyvning"
+        },
+        {
+          "tal": "400+",
+          "label": "Antal motor-tests"
+        },
+        {
+          "tal": "9",
+          "label": "Motorer til første flyvning"
+        }
+      ],
+      "detaljer": [
+        "Rocket Lab Germany får hovedkvarter i München.",
+        "GHOST står for Global Hypersonic and Orbital Spaceport Technology.",
+        "Den mobile rampe kan bruges til Electron eller HASTE-varianter.",
+        "Kodiak, Alaska, bliver første faste placering for GHOST.",
+        "Neutron-affyring sker fra Wallops Island, Virginia.",
+        "Rocket Lab fik en kontrakt på 397 millioner dollars fra US Space Force."
+      ],
+      "betydning": "For almindelige danskere betyder det, at der bliver flere muligheder for at sende satellitter i rummet, hvilket kan forbedre kommunikation og forsvar. Det viser også, at rumindustrien vokser i Europa.",
+      "pointer": [
+        "Rocket Lab åbner tysk afdeling.",
+        "Mobil raketrampe i containere.",
+        "Neutron-raketten er tæt på første flyvning.",
+        "Stor kontrakt med US Space Force."
+      ],
+      "prio": 6
+    },
     {
       "titel": "'Starwashing': How space companies use the greenwashing playbook while causing environmental damage",
       "link": "https://phys.org/news/2026-08-starwashing-space-companies-greenwashing-playbook.html",
@@ -4138,114 +4242,6 @@
         "Roveren klatrede med 24 graders hældning.",
         "Undersøgelser fokuserer på lag, der kan afsløre miljøskift.",
         "Målinger inkluderer sten-, sand- og atmosfæreanalyser."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "APOD: 2026 August 11 – Six Moons of Saturn",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/",
-      "dato": "2026-08-11T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 August 11 – Six… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Six Moons [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/2026-08-05-0609_7-SaturnSystem_c.jpg?w=1000&#038;h=896&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A telescopic image of Saturn with rings and six moons.",
-      "kategori": "Astronomi",
-      "rubrik": "Saturn har 293 måner – seks ses på nyt billede",
-      "resume_da": "NASA har offentliggjort et billede af seks af Saturns største måner. Saturn har nu 293 kendte måner, flere end nogen anden planet.",
-      "sektioner": [
-        {
-          "overskrift": "Saturns månetal",
-          "tekst": "I juni 2026 havde Saturn **293** bekræftede måner. Det er langt flere end Jupiter, som kun har **115**. De fleste af Saturns måner er små og uregelmæssige."
-        },
-        {
-          "overskrift": "Det nye billede",
-          "tekst": "Billedet blev taget den 5. august og viser seks af de største måner. Titan er den største med en diameter på **5.150 km** – større end Merkur. De andre er Mimas, Tethys, Enceladus, Dione og Rhea."
-        },
-        {
-          "overskrift": "Historien om Titan",
-          "tekst": "Titan blev opdaget i **1655** af Christiaan Huygens. Senere har rumsonder som Voyager og Cassini fundet mange flere måner."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "293",
-          "label": "Saturns måner i juni 2026"
-        },
-        {
-          "tal": "115",
-          "label": "Jupiters måner"
-        },
-        {
-          "tal": "5.150 km",
-          "label": "Titans diameter"
-        }
-      ],
-      "detaljer": [
-        "Billedet er taget den 5. august 2026.",
-        "Titan er større end Jordens måne og Merkur.",
-        "De fleste af Saturns måner er kun få kilometer store.",
-        "Titan blev opdaget i 1655."
-      ],
-      "betydning": "Det viser, hvor mange måner der findes i vores solsystem, og hvor forskellige de er. Det kan vække interesse for rumforskning.",
-      "pointer": [
-        "Saturn har 293 måner.",
-        "Seks store måner er fotograferet.",
-        "Titan er kæmpe-stor.",
-        "Opdagelser fortsætter."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Bountiful Roebuck Bay",
-      "link": "https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/",
-      "dato": "2026-08-11T04:01:00+00:00",
-      "kilde": "NASA",
-      "resume": "Tidal and seasonal shifts leave their mark on this crescent-shaped, productive bay in Western Australia’s Kimberley region.",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/bountiful-roebuck-bay/broomewater_oli_20260318.jpg?w=720&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "Blue coastal waters border a fringe of dark green mangroves with branching, linear tidal creeks and pale tidal flats and drainage channels visible to the east.",
-      "kategori": "Forskning",
-      "rubrik": "Månens træk skaber liv i Roebuck Bay",
-      "resume_da": "Satellitbilleder afslører, hvordan ekstreme tidevand og monsunregn skaber et rigt økosystem i Australien, hvor millioner af fugle finder føde.",
-      "sektioner": [
-        {
-          "overskrift": "Månens tidevand",
-          "tekst": "Månens tyngdekraft trækker i Jordens have og skaber tidevand. I Roebuck Bay kan forskellen mellem høj- og lavvande nå op på **9 meter**. Det er meget mere end i resten af Australien, hvor det typisk er under 2 meter."
-        },
-        {
-          "overskrift": "Mangrover og vandløb",
-          "tekst": "Tidevandet oversvømmer store mudderflader og mangroveparker. Mangroverne vokser mod vest med næsten **2 meter om året**. Et netværk af tidevandskanaler giver bugten et fjerlignende udseende, og deres afstand skyldes sandklitter i området."
-        },
-        {
-          "overskrift": "Rigt dyreliv",
-          "tekst": "Mudderfladerne er fyldt med snegle, orme, krabber og muslinger, op til **2.500 per kvadratmeter**. Det tiltrækker enorme mængder af trækfugle, som gør bugten til et af Australiens vigtigste fugleområder. Mangroverne fungerer som børnehaver for fisk og krebsdyr."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "9 meter",
-          "label": "Tidevandsforskellen i bugten"
-        },
-        {
-          "tal": "2 meter pr. år",
-          "label": "Mangrovernes vækst mod vest"
-        },
-        {
-          "tal": "2.500 pr. kvadratmeter",
-          "label": "Antal snegle og muslinger"
-        }
-      ],
-      "detaljer": [
-        "Billederne er taget af Landsat 8 og 9 i 2026.",
-        "Monsunregn falder fra december til marts og gør landskabet grønt.",
-        "I tørsæsonen fra maj til juni visner græsset og bliver brunt.",
-        "Roebuck Bay ligger i Kimberley-regionen i det nordvestlige Australien."
-      ],
-      "betydning": "Historien viser, hvordan Månens tyngdekraft påvirker livet på Jorden på spektakulær vis. Det kan hjælpe os med at forstå og beskytte sårbare kystområder, og det er et godt eksempel på, hvordan satellitter overvåger naturen.",
-      "pointer": [
-        "Ekstreme tidevand i Australien.",
-        "Mangrover vokser hurtigt.",
-        "Massive mængder fugle og liv.",
-        "Satellitter overvåger naturen."
       ],
       "prio": 6
     }
