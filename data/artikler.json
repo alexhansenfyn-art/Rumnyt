@@ -1,7 +1,43 @@
 {
-  "opdateret": "2026-08-15T07:19:21.974345+00:00",
+  "opdateret": "2026-08-15T09:02:41.284619+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "We think these Nikon binoculars are excellent for variable magnification on the go",
+      "link": "https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-these-nikon-binoculars-are-brilliant-for-variable-magnification-on-the-go",
+      "dato": "2026-08-15T09:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "Get everything between 10x and 22x with Nikon’s new Action Zoom 10-22x50 binoculars",
+      "billede": "https://cdn.mos.cms.futurecdn.net/PzSi4SRiVZY2G2v52KKXoQ-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Nikon-kikkerter med variabel forstørrelse imponerer",
+      "resume_da": "Space.coms anmelder roser Nikon-kikkerter for deres variable forstørrelse, der er ideelle til brug på farten – både til natur- og stjernekiggeri.",
+      "sektioner": [
+        {
+          "overskrift": "Anmelderens vurdering",
+          "tekst": "Harry, der er e-commerce skribent hos Space.com, har testet kikkerterne. Han er selv ivrig fotograf og har erfaring med astrofotografering. Han anbefaler dem til dem, der vil have fleksibilitet i forstørrelsen."
+        },
+        {
+          "overskrift": "Ideelle til rejser",
+          "tekst": "Kikkerten er designet til at være nem at have med på farten. Den variable forstørrelse gør den velegnet til både korte og længere ture, hvor man vil observere både natur og himmel."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Anmeldelsen er skrevet af Harry, der startede hos Space.com i december 2024.",
+        "Harry har en bachelor i amerikansk litteratur med kreativ skrivning fra University of East Anglia.",
+        "Han har erfaring med at fotografere himmellegemer med forskellige kameraer."
+      ],
+      "betydning": "For almindelige danskere kan disse kikkerter være et godt valg, hvis man vil se på både natur og stjerner uden at skulle have flere forskellige kikkerter med.",
+      "pointer": [
+        "Nikon-kikkerter har variabel forstørrelse.",
+        "Velegnet til brug på farten.",
+        "Anbefalet af Space.coms skribent.",
+        "God til både natur- og stjernekiggeri."
+      ],
+      "prio": 4
+    },
     {
       "titel": "APOD: 2026 August 15 – Bright Perseids from Sweden",
       "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/",
@@ -4193,57 +4229,6 @@
         "Overraskende for videnskabsfolk."
       ],
       "prio": 7
-    },
-    {
-      "titel": "Curiosity Blog, Sols 4968-4974: Rock Climbing Towards the Discontinuity",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/",
-      "dato": "2026-08-11T06:50:07+00:00",
-      "kilde": "NASA",
-      "resume": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, July 31, 2026 As mentioned in the previous blog, Curiosity has been exploring a large-scale feature in Gale’s sedimentary record suspected to be an “erosional supersurface.” The “supersurface” represents a period in time when a net depositional environment changed […]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_msss_04972_mhli_4972MH0008410011802510C00_DXXX.jpg?w=1632&#038;h=1200&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A close-up color photograph taken by the Curiosity rover showing a rough, tan-colored rock surface on Mars. The rock is highly textured, covered in fine parallel layers, small raised ridges, and thin ",
-      "kategori": "Missioner",
-      "rubrik": "Curiosity klatrer mod Mars' gemte fortid",
-      "resume_da": "Curiosity har nærmet sig en vigtig grænse i Mars' klippelag, der kan afsløre fortidens miljø. Rovers klatrede op med 24 graders hældning.",
-      "sektioner": [
-        {
-          "overskrift": "På jagt efter superoverflade",
-          "tekst": "Curiosity udforsker en erosionsflade i Gale-krateret, som kaldes en supersurface. Den markerer en periode, hvor aflejring blev erstattet af erosion. Stenlagene omkring den kan gemme spor på skiftende miljø."
-        },
-        {
-          "overskrift": "Imponerende klatrepræstation",
-          "tekst": "Roveren klatrede op med en hældning på **24 grader**, tæt på missionens rekord på **27 grader**. Det lykkedes planlæggerne at ramme den rette vinkel for videnskabelige målinger."
-        },
-        {
-          "overskrift": "Detaljerede målinger",
-          "tekst": "Instrumenterne MAHLI, APXS og ChemCam analyserede flere stenmål. De undersøgte både lyse og mørke lag samt sand for at forstå sammensætningen. Mastcam tog store panoramabilleder af væggen ovenfra."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "24 grader",
-          "label": "Roverens hældning ved parkering"
-        },
-        {
-          "tal": "27 grader",
-          "label": "Missionens rekord for hældning"
-        }
-      ],
-      "detaljer": [
-        "Supersurface er en grænse mellem aflejring og erosion.",
-        "Målinger omfattede mål som Puyehue, Lago Palena og Piedras Juntas.",
-        "MAHLI tog mosaikbilleder af fine sedimentstrukturer.",
-        "Atmosfæriske målinger blev også udført.",
-        "Billeder blev taget i august 2026."
-      ],
-      "betydning": "Historien giver indblik i, hvordan Mars' klima og miljø har ændret sig. Det hjælper forskere med at forstå, om Mars engang kunne have været beboelig.",
-      "pointer": [
-        "Curiosity nærmer sig en vigtig klippegrænse på Mars.",
-        "Roveren klatrede med 24 graders hældning.",
-        "Undersøgelser fokuserer på lag, der kan afsløre miljøskift.",
-        "Målinger inkluderer sten-, sand- og atmosfæreanalyser."
-      ],
-      "prio": 6
     }
   ]
 }
