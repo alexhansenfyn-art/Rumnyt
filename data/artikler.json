@@ -1,7 +1,93 @@
 {
-  "opdateret": "2026-08-15T14:51:48.758874+00:00",
+  "opdateret": "2026-08-15T16:54:33.759312+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Early-universe plasma may have stopped dark photons from heating cosmos",
+      "link": "https://phys.org/news/2026-08-early-universe-plasma-dark-photons.html",
+      "dato": "2026-08-15T16:40:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "A new paper published in Physical Review Letters reveals that a leading dark matter candidate—the hypothetical \"dark photon\"—would not have heated the early universe as previously thought. The finding opens a vast region for experimental searches and could change the hunt for dark matter.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2025/early-universe.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Dark photon-kandidat undgår opvarmning af tidligt univers",
+      "resume_da": "Ny forskning viser, at mørke fotoner ikke opvarmede det tidlige univers som hidtil antaget. Det åbner nye muligheder for at finde mørkt stof.",
+      "sektioner": [
+        {
+          "overskrift": "Ny indsigt i mørkt stof",
+          "tekst": "Mørkt stof er en usynlig substans, der udgør det meste af universets masse. En førende kandidat er en hypotetisk partikel kaldet 'dark photon'. Hidtil troede forskerne, at disse partikler opvarmede det tidlige univers. Nu viser en ny undersøgelse, at det ikke var tilfældet."
+        },
+        {
+          "overskrift": "Større jagtområde for forskere",
+          "tekst": "Resultatet betyder, at forskere kan lede efter mørke fotoner i et meget større område. Det ændrer strategien for, hvordan man søger efter mørkt stof. Undersøgelsen er offentliggjort i tidsskriftet Physical Review Letters."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "New paper",
+          "label": "Ny videnskabelig artikel"
+        }
+      ],
+      "detaljer": [
+        "Undersøgelsen er offentliggjort i Physical Review Letters.",
+        "Mørke fotoner er en førende kandidat til mørkt stof.",
+        "Den nye viden åbner et stort område for eksperimenter."
+      ],
+      "betydning": "For almindelige mennesker er det vigtigt, fordi det bringer os tættere på at forstå, hvad mørkt stof er – noget, der udgør hovedparten af universet. Det kan i sidste ende give en dybere forståelse af kosmos.",
+      "pointer": [
+        "Mørke fotoner opvarmede ikke tidlige univers.",
+        "Forskere kan nu søge i større område.",
+        "Resultatet ændrer jagten på mørkt stof.",
+        "Publiceret i Physical Review Letters."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Neptune's tiny moons tell the story of Triton's destructive capture",
+      "link": "https://phys.org/news/2026-07-neptune-tiny-moons-story-triton.html",
+      "dato": "2026-08-15T15:20:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Neptune's moon and ring system stand out among the giant planets because of the strange imbalance between its one very large moon and its many tiny moons. Its largest moon, Triton, makes up more than 99% of the mass of all satellites orbiting the planet while orbiting retrograde compared with Neptune's rotation. The predominant theory is that Triton is a captured Kuiper Belt object that caused a m",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/neptunes-tiny-moons-te.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Neptuns små måner afslører Tritons voldsomme fortid",
+      "resume_da": "Ny forskning støtter teorien om, at Neptuns store måne Triton blev fanget fra Kuiperbæltet og ødelagde de oprindelige måner.",
+      "sektioner": [
+        {
+          "overskrift": "Tritons usædvanlige bane",
+          "tekst": "Triton er Neptuns største måne og udgør mere end **99%** af massen af alle måner om planeten. Den kredser i modsat retning af Neptuns rotation, hvilket er meget usædvanligt. Forskere mener derfor, at Triton oprindeligt var et objekt fra Kuiperbæltet."
+        },
+        {
+          "overskrift": "Bevis fra små måner",
+          "tekst": "En ny undersøgelse har analyseret lyset fra Neptuns små måner. Resultaterne viser, at de sandsynligvis er dannet af resterne efter en kollision. Denne kollision skete, da Triton blev fanget og ødelagde Neptuns oprindelige månesystem."
+        },
+        {
+          "overskrift": "Støtte til teorien",
+          "tekst": "Forskerne fandt spektroskopiske beviser, der støtter teorien om Tritons ødelæggende fangst. Det betyder, at de fleste af Neptuns nuværende små måner ikke er oprindelige, men blev skabt efter Tritons ankomst."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "99%",
+          "label": "Andel af månemassen, som Triton udgør"
+        }
+      ],
+      "detaljer": [
+        "Triton kredser retrograd, altså modsat planetens rotation.",
+        "Studiet er publiceret i tidsskriftet Science Advances.",
+        "Forskerne brugte spektroskopi til at analysere de små måners overflade."
+      ],
+      "betydning": "Historien om Solsystemets dannelse og udvikling bliver klarere. Det kan også give viden om, hvordan planeter og måner interagerer, hvilket har betydning for forståelsen af exoplaneter og potentielt livets betingelser.",
+      "pointer": [
+        "Triton blev fanget fra Kuiperbæltet.",
+        "Fangsten ødelagde de oprindelige måner.",
+        "Nye beviser fra små måner støtter teorien.",
+        "Forskningen er publiceret i Science Advances."
+      ],
+      "prio": 5
+    },
     {
       "titel": "We think these Nikon binoculars are excellent for variable magnification on the go",
       "link": "https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-these-nikon-binoculars-are-brilliant-for-variable-magnification-on-the-go",
@@ -4144,91 +4230,6 @@
         "Firmaet bruger AI i rumfart."
       ],
       "prio": 3
-    },
-    {
-      "titel": "A total solar eclipse is coming to Europe",
-      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_total_solar_eclipse_is_coming_to_Europe",
-      "dato": "2026-08-11T09:30:00+00:00",
-      "kilde": "ESA",
-      "resume": "Video: 00:01:24 When the Moon passes between Earth and the Sun, it casts a shadow onto Earth's surface. For people in the darkest part of this shadow, the face of the Sun is totally blocked out, and its wispy atmosphere becomes visible. On Wednesday 12 August, such a shadow will cross Greenland, Iceland, northeastern Portugal and Spain. With this being the first total eclipse visible from mainland",
-      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/a_total_solar_eclipse_is_coming_to_europe/27412432-3-eng-GB/A_total_solar_eclipse_is_coming_to_Europe_card_full.png",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Total solformørkelse rammer Europa 12. august",
-      "resume_da": "Månen dækker Solen helt over flere europæiske lande. ESA sender live fra Spanien, og der er gratis arrangement i León.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad sker der?",
-          "tekst": "Onsdag 12. august passerer Månen mellem Jorden og Solen. Skyggen rammer Grønland, Island, det nordøstlige Portugal og Spanien."
-        },
-        {
-          "overskrift": "ESA's live-udsendelse",
-          "tekst": "ESA sender live fra et observatorium i Spanien. Så alle kan opleve formørkelsen online."
-        },
-        {
-          "overskrift": "Gratis arrangement",
-          "tekst": "ESA og byen León inviterer til gratis indendørsarrangement. Der er workshops, foredrag og fælles observation."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "12. august",
-          "label": "Dato for formørkelsen"
-        },
-        {
-          "tal": "siden 1905",
-          "label": "Sidste totale formørkelse i Spanien"
-        }
-      ],
-      "detaljer": [
-        "Første totale solformørkelse siden 1905 på det spanske fastland.",
-        "Live-udsendelsen er fra Observatorio Astrofísico de Javalambre.",
-        "Arrangementet i León er gratis og åbent for alle."
-      ],
-      "betydning": "Det er en sjælden chance for at se et spektakulært naturfænomen, og ESA gør det nemt for alle at opleve det, uanset hvor man er.",
-      "pointer": [
-        "Total solformørkelse i Europa 12. august.",
-        "Skyggen går over bl.a. Spanien og Grønland.",
-        "ESA sender live så alle kan se med.",
-        "Gratis event i León med aktiviteter."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Dust and water spotted close to giant black hole",
-      "link": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole",
-      "dato": "2026-08-11T08:00:00+00:00",
-      "kilde": "ESA",
-      "resume": "Using the NASA/ESA/CSA James Webb Space Telescope , an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the centre of our Milky Way galaxy. The observations reveal that the evolved star IRS 3 continues to enrich its surroundings with newly formed material despite the intense radiation environment around ",
-      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/irs_3_field_nircam_and_miri_image/27410540-1-eng-GB/IRS_3_Field_NIRCam_and_MIRI_image_card_full.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Støv og vand fundet nær Mælkevejens sorte hul",
-      "resume_da": "Astronomer har med James Webb-teleskopet opdaget støv og vand meget tæt på det supermassive sorte hul i Mælkevejens centrum. Det viser, at stjerner kan danne nyt materiale selv i et så ekstremt miljø.",
-      "sektioner": [
-        {
-          "overskrift": "Overraskende opdagelse",
-          "tekst": "Et internationalt hold af astronomer har brugt James Webb-teleskopet til at kigge mod Mælkevejens centrum. De fandt støv og vand, som findes og dannes meget tæt på det supermassive sorte hul, der hedder Sagittarius A*. Det er overraskende, fordi strålingen der normalt ville ødelægge sådanne materialer."
-        },
-        {
-          "overskrift": "Stjernen IRS 3",
-          "tekst": "Den udviklede stjerne IRS 3 spiller en vigtig rolle. Den beriger sine omgivelser med nydannet materiale på trods af det intense strålingsmiljø. Det betyder, at stjerner kan skabe støv og vand selv under ekstreme forhold."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Brug af James Webb-rumteleskopet (NASA/ESA/CSA).",
-        "Observation af den udviklede stjerne IRS 3.",
-        "Tæt på det supermassive sorte hul Sagittarius A*."
-      ],
-      "betydning": "Opdagelsen hjælper forskere med at forstå, hvordan støv og vand kan dannes i selv de mest ekstreme miljøer i universet. Det bringer os nærmere på at forstå, hvordan byggestenene til planeter og liv kan opstå.",
-      "pointer": [
-        "Støv og vand findes tæt på Mælkevejens sorte hul.",
-        "James Webb-teleskopet gjorde opdagelsen.",
-        "Stjernen IRS 3 skaber nyt materiale trods stråling.",
-        "Overraskende for videnskabsfolk."
-      ],
-      "prio": 7
     }
   ]
 }
