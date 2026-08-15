@@ -1,5 +1,5 @@
 {
-  "opdateret": "2026-08-15T16:54:33.759312+00:00",
+  "opdateret": "2026-08-15T19:01:11.552183+00:00",
   "antal": 100,
   "artikler": [
     {
@@ -4046,6 +4046,56 @@
       "prio": 7
     },
     {
+      "titel": "A total solar eclipse is coming to Europe",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_total_solar_eclipse_is_coming_to_Europe",
+      "dato": "2026-08-11T12:30:00+00:00",
+      "kilde": "ESA",
+      "resume": "Video: 00:01:24 When the Moon passes between Earth and the Sun, it casts a shadow onto Earth's surface. For people in the darkest part of this shadow, the face of the Sun is totally blocked out, and its wispy atmosphere becomes visible. On Wednesday 12 August, such a shadow will cross Greenland, Iceland, northeastern Portugal and Spain. With this being the first total eclipse visible from mainland",
+      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/a_total_solar_eclipse_is_coming_to_europe/27412432-3-eng-GB/A_total_solar_eclipse_is_coming_to_Europe_card_full.png",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Total solformørkelse rammer Europa 12. august",
+      "resume_da": "Den 12. august vil en total solformørkelse være synlig fra bl.a. Spanien og Grønland. ESA sender live fra et observatorium, så alle kan opleve fænomenet.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er en total solformørkelse?",
+          "tekst": "Når Månen passerer mellem Jorden og Solen, kaster den skygge på Jorden. I skyggens mørkeste område bliver solen totalt dækket, og solens yderste atmosfære bliver synlig."
+        },
+        {
+          "overskrift": "Hvor og hvornår?",
+          "tekst": "Formørkelsen sker onsdag den 12. august. Den vil krydse Grønland, Island samt det nordøstlige Portugal og Spanien. Det er første gang siden 1905, at en total formørkelse er synlig fra det spanske fastland."
+        },
+        {
+          "overskrift": "Sådan kan du opleve den",
+          "tekst": "ESA sender live fra et observatorium i Spanien, så alle kan se formørkelsen online. Der er også et gratis arrangement i León med workshops, foredrag og fælles observationer."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. august",
+          "label": "Dato for formørkelsen"
+        },
+        {
+          "tal": "1905",
+          "label": "Sidste total formørkelse i Spanien"
+        }
+      ],
+      "detaljer": [
+        "Månen kaster skygge på Jorden under formørkelsen.",
+        "Den totale formørkelse er synlig fra Grønland, Island, Portugal og Spanien.",
+        "ESA sender live fra Observatorio Astrofísico de Javalambre.",
+        "Arrangement i León byder på workshops og observationer."
+      ],
+      "betydning": "En total solformørkelse er et sjældent og imponerende fænomen, som de fleste aldrig har oplevet. Takket være ESA's live-stream kan alle danskere følge med, selvom formørkelsen ikke er synlig fra Danmark.",
+      "pointer": [
+        "Total solformørkelse den 12. august.",
+        "Synlig i Spanien, Portugal, Island og Grønland.",
+        "ESA sender live fra Spanien.",
+        "Gratis arrangement i León."
+      ],
+      "prio": 7
+    },
+    {
       "titel": "BlackSky wins seven-figure, multiyear international contract",
       "link": "https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract/",
       "dato": "2026-08-11T12:30:00+00:00",
@@ -4200,36 +4250,6 @@
         "Automatisering reducerer manuelt arbejde med varmeskjold."
       ],
       "prio": 6
-    },
-    {
-      "titel": "Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors",
-      "link": "https://spacenews.com/proteus-space-names-maj-gen-kim-crider-usaf-ret-to-board-of-directors/",
-      "dato": "2026-08-11T10:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "LOS ANGELES, August 11th, 2026. Proteus Space, an AI-native aerospace company delivering rapid, end-to-end access to space, today announced that retired U.S. Air Force Maj. Gen. Kimberly &#8220;Kim&#8221; Crider has [&#8230;] The post Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/PROTEUS_Space-blk.png?fit=265%2C368&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Kim Crider i Proteus Space's bestyrelse",
-      "resume_da": "Proteus Space udnævner pensioneret air force-general Kim Crider til bestyrelsen.",
-      "sektioner": [
-        {
-          "overskrift": "Ny bestyrelsespost",
-          "tekst": "Proteus Space, et firma der arbejder med kunstig intelligens og rumfart, har udnævnt den pensionerede generalmajor Kim Crider til bestyrelsen. Hun har tidligere haft høje poster i det amerikanske luftvåben."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Proteus Space arbejder med AI og hurtig adgang til rummet.",
-        "Kim Crider er pensioneret generalmajor fra det amerikanske luftvåben."
-      ],
-      "betydning": "Det viser, at rumfartsindustrien trækker på militær erfaring til at styrke ledelsen.",
-      "pointer": [
-        "Proteus Space får ny bestyrelsespost.",
-        "Kim Crider er tidligere general.",
-        "Firmaet bruger AI i rumfart."
-      ],
-      "prio": 3
     }
   ]
 }
