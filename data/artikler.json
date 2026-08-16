@@ -1,7 +1,47 @@
 {
-  "opdateret": "2026-08-16T13:44:10.790619+00:00",
+  "opdateret": "2026-08-16T14:53:10.460384+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Einstein Probe catches rare X-ray flash from an exploding star",
+      "link": "https://phys.org/news/2026-08-einstein-probe-rare-ray-star.html",
+      "dato": "2026-08-16T14:00:02+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Astronomers have linked an X-ray flash discovered by the Einstein Probe to a known type of supernova with unusual features that point to the birth of an ultra-dense, rapidly spinning magnetar. The paper outlining this finding was published in The Astrophysical Journal Letters on July 22.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/einstein-probe-catches.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Sjældent røntgenblink fanges fra eksploderende stjerne",
+      "resume_da": "Astronomer har koblet et røntgenblink fra Einstein-proben til en supernova med usædvanlige træk, der peger på fødslen af en magnetar.",
+      "sektioner": [
+        {
+          "overskrift": "Et uventet fund",
+          "tekst": "Einstein-proben fangede et sjældent røntgenblink. Det blev knyttet til en kendt type supernova. Den har usædvanlige træk, der antyder fødslen af en magnetar."
+        },
+        {
+          "overskrift": "Hvad er en magnetar?",
+          "tekst": "En magnetar er en ultratæt, hurtigt roterende neutronstjerne. Den har et ekstremt stærkt magnetfelt. Sådanne objekter er sjældne og vigtige at studere."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "22. juli",
+          "label": "Artikel publiceret"
+        }
+      ],
+      "detaljer": [
+        "Opdagelsen blev offentliggjort i The Astrophysical Journal Letters",
+        "Fundet forbinder røntgenblink med en supernova"
+      ],
+      "betydning": "Det hjælper forskere med at forstå, hvordan ekstreme objekter som magnetarer dannes, hvilket kan give ny viden om stjerners livscyklus.",
+      "pointer": [
+        "Røntgenblink fanget af Einstein-probe",
+        "Knyttet til supernova",
+        "Peger på fødslen af magnetar",
+        "Sjældent fund"
+      ],
+      "prio": 5
+    },
     {
       "titel": "Black hole star: Astronomers discover a brand-new type of astrophysical object",
       "link": "https://phys.org/news/2026-08-black-hole-star-astronomers-brand.html",
@@ -4233,56 +4273,6 @@
         "Total solformørkelse",
         "Perseidernes meteorsværm",
         "Husk øjenbeskyttelse"
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "A total solar eclipse is coming to Europe",
-      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_total_solar_eclipse_is_coming_to_Europe",
-      "dato": "2026-08-11T12:30:00+00:00",
-      "kilde": "ESA",
-      "resume": "Video: 00:01:24 When the Moon passes between Earth and the Sun, it casts a shadow onto Earth's surface. For people in the darkest part of this shadow, the face of the Sun is totally blocked out, and its wispy atmosphere becomes visible. On Wednesday 12 August, such a shadow will cross Greenland, Iceland, northeastern Portugal and Spain. With this being the first total eclipse visible from mainland",
-      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/a_total_solar_eclipse_is_coming_to_europe/27412432-3-eng-GB/A_total_solar_eclipse_is_coming_to_Europe_card_full.png",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Total solformørkelse rammer Europa 12. august",
-      "resume_da": "Den 12. august vil en total solformørkelse være synlig fra bl.a. Spanien og Grønland. ESA sender live fra et observatorium, så alle kan opleve fænomenet.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er en total solformørkelse?",
-          "tekst": "Når Månen passerer mellem Jorden og Solen, kaster den skygge på Jorden. I skyggens mørkeste område bliver solen totalt dækket, og solens yderste atmosfære bliver synlig."
-        },
-        {
-          "overskrift": "Hvor og hvornår?",
-          "tekst": "Formørkelsen sker onsdag den 12. august. Den vil krydse Grønland, Island samt det nordøstlige Portugal og Spanien. Det er første gang siden 1905, at en total formørkelse er synlig fra det spanske fastland."
-        },
-        {
-          "overskrift": "Sådan kan du opleve den",
-          "tekst": "ESA sender live fra et observatorium i Spanien, så alle kan se formørkelsen online. Der er også et gratis arrangement i León med workshops, foredrag og fælles observationer."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "12. august",
-          "label": "Dato for formørkelsen"
-        },
-        {
-          "tal": "1905",
-          "label": "Sidste total formørkelse i Spanien"
-        }
-      ],
-      "detaljer": [
-        "Månen kaster skygge på Jorden under formørkelsen.",
-        "Den totale formørkelse er synlig fra Grønland, Island, Portugal og Spanien.",
-        "ESA sender live fra Observatorio Astrofísico de Javalambre.",
-        "Arrangement i León byder på workshops og observationer."
-      ],
-      "betydning": "En total solformørkelse er et sjældent og imponerende fænomen, som de fleste aldrig har oplevet. Takket være ESA's live-stream kan alle danskere følge med, selvom formørkelsen ikke er synlig fra Danmark.",
-      "pointer": [
-        "Total solformørkelse den 12. august.",
-        "Synlig i Spanien, Portugal, Island og Grønland.",
-        "ESA sender live fra Spanien.",
-        "Gratis arrangement i León."
       ],
       "prio": 7
     }
