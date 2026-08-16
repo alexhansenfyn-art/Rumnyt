@@ -1,7 +1,42 @@
 {
-  "opdateret": "2026-08-16T20:50:15.361963+00:00",
+  "opdateret": "2026-08-16T22:49:01.045335+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Radio telescopes help scientists map molecules in space and uncover where and how stars form",
+      "link": "https://phys.org/news/2026-08-radio-telescopes-scientists-molecules-space.html",
+      "dato": "2026-08-16T22:40:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "You may have heard the phrase \"we are made of star-stuff.\" This statement by the astronomer Carl Sagan refers to the fact that elements heavier than hydrogen and helium were forged in the centers of the first stars. But how does this star-stuff evolve into the chemistry of rocks, plants and people?",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/radio-telescopes-help-2.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Radioteleskoper kortlægger molekyler i rummet",
+      "resume_da": "Astronomer bruger radioteleskoper til at kortlægge molekyler i rummet og forstå, hvor og hvordan stjerner dannes.",
+      "sektioner": [
+        {
+          "overskrift": "Stjernestøvets oprindelse",
+          "tekst": "Astronomen Carl Sagan sagde, at vi er lavet af stjernestøv. Det betyder, at grundstoffer tungere end brint og helium blev skabt i de første stjerners centre. Men hvordan det stjernestøv udvikler sig til kemi i sten, planter og mennesker, er stadig et spørgsmål."
+        },
+        {
+          "overskrift": "Radioteleskopernes rolle",
+          "tekst": "Radioteleskoper hjælper forskere med at kortlægge molekyler i rummet. På den måde kan de finde ud af, hvor og hvordan stjerner dannes. Det giver ny viden om universets byggesten."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Carl Sagan udtrykte, at vi er lavet af stjernestøv.",
+        "Tunge grundstoffer blev dannet i de første stjerner.",
+        "Radioteleskoper bruges til at kortlægge molekyler i rummet."
+      ],
+      "betydning": "For almindelige mennesker giver det en forståelse af, hvordan livets byggesten opstår i universet. Det kobler os til kosmos og viser, at vores oprindelse er forbundet med stjernerne.",
+      "pointer": [
+        "Stjernestøv er grundlaget for alt liv.",
+        "Radioteleskoper afslører stjernedannelse.",
+        "Forskning forbinder os med universet."
+      ],
+      "prio": 5
+    },
     {
       "titel": "Firefly promote next block of Alpha amid Eclipse progress",
       "link": "https://www.nasaspaceflight.com/2026/08/firefly-block-alpha-eclipse-progress/",
@@ -4244,56 +4279,6 @@
         "Forskningen skal forberede mennesker til at bo og arbejde på Månen og Mars."
       ],
       "prio": 6
-    },
-    {
-      "titel": "SpaceX wants to put 1 million AI satellites in orbit. What would that do to Earth's climate?",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-put-1-million-ai-satellites-in-orbit-what-would-that-do-to-earths-climate",
-      "dato": "2026-08-11T13:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "Operating a million or more data centers in space would mean a massive increase in air pollution from rocket launches and concentrations of toxic ash from reentering satellites.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/Y2b9XP3PZ2w8rCDW9psmjS-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "SpaceX vil sende 1 million AI-satellitter i kredsløb",
-      "resume_da": "SpaceX har planer om at opsende en million AI-satellitter, hvilket kan påvirke Jordens klima og atmosfære.",
-      "sektioner": [
-        {
-          "overskrift": "Planen om 1 million satellitter",
-          "tekst": "SpaceX har store planer om at sende en million AI-satellitter i kredsløb om Jorden. Det vil være en kæmpe stigning i antallet af satellitter, da der i dag kun er omkring **8.000** aktive satellitter i kredsløb. En sådan udvidelse kan have konsekvenser for Jordens klima."
-        },
-        {
-          "overskrift": "Klimapåvirkning fra opsendelser",
-          "tekst": "Opsendelser af raketter udleder store mængder CO2 og andre stoffer i atmosfæren. Når man sender så mange satellitter op, vil det øge udledningen markant. Desuden kan satellitter, der vender tilbage i atmosfæren, efterlade partikler, der kan påvirke klimasystemet."
-        },
-        {
-          "overskrift": "Bekymringer om atmosfæren",
-          "tekst": "Forskere er bekymrede for, at de mange satellitter kan ændre sammensætningen af atmosfæren. Især kan aluminium fra satellitter, der brænder op, skabe et lag i stratosfæren, der kan have indflydelse på ozonlaget. Det er endnu uvist, hvor stor en effekt det vil have."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1 million",
-          "label": "Antal AI-satellitter, SpaceX ønsker at sende op"
-        },
-        {
-          "tal": "8.000",
-          "label": "Aktive satellitter i kredsløb i dag"
-        }
-      ],
-      "detaljer": [
-        "SpaceX vil opsende en million AI-satellitter.",
-        "Det kan påvirke Jordens klima og atmosfære.",
-        "Opsendelser udleder CO2 og andre stoffer.",
-        "Satellitter, der brænder op, kan efterlade partikler."
-      ],
-      "betydning": "Det er vigtigt at følge med i, fordi det kan have konsekvenser for vores klima og atmosfære, som vi alle er afhængige af.",
-      "pointer": [
-        "SpaceX planlægger en million satellitter.",
-        "Det kan øge udledningen i atmosfæren.",
-        "Satellitter kan påvirke ozonlaget.",
-        "Forskere er bekymrede for konsekvenserne."
-      ],
-      "prio": 7
     }
   ]
 }
