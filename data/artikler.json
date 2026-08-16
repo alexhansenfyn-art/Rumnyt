@@ -1,7 +1,104 @@
 {
-  "opdateret": "2026-08-15T22:50:52.072835+00:00",
+  "opdateret": "2026-08-16T03:16:19.632361+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Lunar orbiter among upcoming NASA CLPS task orders",
+      "link": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/",
+      "dato": "2026-08-15T23:49:58+00:00",
+      "kilde": "SpaceNews",
+      "resume": "NASA plans to award three more lunar missions this year through a commercial services program, including an orbiter that would replace the Lunar Reconnaissance Orbiter The post Lunar orbiter among upcoming NASA CLPS task orders appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/lro-illus.jpeg?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "LRO",
+      "kategori": "Politik & penge",
+      "rubrik": "NASA planlægger nye måne-missioner",
+      "resume_da": "NASA vil i år udvælge tre nye måne-missioner via kommercielt program, herunder en orbiter, der skal afløse Lunar Reconnaissance Orbiter.",
+      "sektioner": [
+        {
+          "overskrift": "Tre nye måne-missioner",
+          "tekst": "NASA planlægger at uddele tre nye opgaver i år gennem CLPS-programmet, hvor kommercielle firmaer står for måneleverancer. Det siger en topchef i NASA. Missionerne skal sendes til Månen i de kommende år."
+        },
+        {
+          "overskrift": "Afløser for gammel orbiter",
+          "tekst": "En af missionerne er en orbiter, der skal erstatte Lunar Reconnaissance Orbiter, som har kredset om Månen siden 2009. Den nye orbiter skal fortsætte med at kortlægge Månen og finde is og andre ressourcer."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2009",
+          "label": "år Lunar Reconnaissance Orbiter blev sendt op"
+        }
+      ],
+      "detaljer": [
+        "NASA uddeler tre nye CLPS-opgaver i år.",
+        "En opgave er en måne-orbiter, der afløser Lunar Reconnaissance Orbiter.",
+        "CLPS-programmet bruger kommercielle leverandører til måne-missioner.",
+        "Lunar Reconnaissance Orbiter har kredset om Månen siden 2009."
+      ],
+      "betydning": "Det betyder, at måneforskningen fortsætter med nye øjne. Det kan føre til mere viden om Månen, som kan bruges til fremtidige bemandede missioner.",
+      "pointer": [
+        "NASA udvælger tre måne-missioner i år.",
+        "Måne-orbiter skal afløse gammel satellit.",
+        "Kommercielle firmaer skal bygge missionerne.",
+        "Månen skal kortlægges igen."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Blue Origin overviews plan for dual pad ops at Cape Canaveral",
+      "link": "https://www.nasaspaceflight.com/2026/08/blue-origin-launch-pad-cape-canaveral/",
+      "dato": "2026-08-15T22:57:11+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "As Blue Origin continues restoring its primary launch pad at LC-36A, the company has released&#8230; The post Blue Origin overviews plan for dual pad ops at Cape Canaveral appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-15-23-52-07-432.jpg",
+      "billede_alt": "",
+      "kategori": "Opsendelser",
+      "rubrik": "Blue Origin planlægger dobbelt raketplatform",
+      "resume_da": "Blue Origin vil bygge en ny affyringsrampe, LC-36B, til sin større New Glenn-raket. Den skal arbejde sammen med den eksisterende rampe og øge antallet af opsendelser.",
+      "sektioner": [
+        {
+          "overskrift": "Ny platform til større raket",
+          "tekst": "Blue Origin har vist billeder af den nye affyringsrampe LC-36B ved Cape Canaveral. Den er til New Glenn-raketten med ni motorer på første trin og fire på andet trin. Den skal bruges til tunge nyttelaster."
+        },
+        {
+          "overskrift": "Reparation efter eksplosion",
+          "tekst": "Den eksisterende rampe LC-36A bliver repareret efter en eksplosion i maj. Blue Origin øver nu med simulatorer for at gøre klar. De bruger en mobil kran til at stable raketten lodret."
+        },
+        {
+          "overskrift": "Infrastruktur til højere tempo",
+          "tekst": "Der bygges også en bygning til lodret integration af raketter. En bygning til nyttelast planlægges længere mod syd. Det skal hjælpe med at sende flere raketter afsted."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "9",
+          "label": "BE-4-motorer på første trin"
+        },
+        {
+          "tal": "4",
+          "label": "BE-3U-motorer på øverste trin"
+        },
+        {
+          "tal": "7",
+          "label": "BE-4-motorer på nuværende raket"
+        }
+      ],
+      "detaljer": [
+        "Den nye rampe LC-36B bliver bygget nord for den eksisterende LC-36.",
+        "Den nye rampe minder om SpaceX's Starship-platform i Texas.",
+        "Raketten med syv motorer har fløjet tre gange.",
+        "Eksplosionen skete på rampen tidligere på året.",
+        "Blue Origin øver med simulatorer ved et gammelt affyringsområde."
+      ],
+      "betydning": "Historien viser, at Blue Origin satser på flere opsendelser og større raketter. Det kan betyde flere satellitter i rummet, hvilket påvirker blandt andet kommunikation og vejrudsigter.",
+      "pointer": [
+        "Ny rampe til større New Glenn",
+        "Reparation efter eksplosion",
+        "Øvelser med simulatorer",
+        "Byggeri af nye faciliteter"
+      ],
+      "prio": 6
+    },
     {
       "titel": "Early-universe plasma may have stopped dark photons from heating cosmos",
       "link": "https://phys.org/news/2026-08-early-universe-plasma-dark-photons.html",
@@ -4163,91 +4260,6 @@
         "USA planlægger nyt missilskjold.",
         "Forsvarsindustrien er ikke forberedt.",
         "Industriel fornyelse er nødvendig."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "First Neutron launch may slip to 2027",
-      "link": "https://spacenews.com/first-neutron-launch-may-slip-to-2027/",
-      "dato": "2026-08-11T11:13:24+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Rocket Lab warned that the chances of launching its Neutron rocket for the first time before the end of the year are “narrowing” despite progress on the vehicle’s development. The post First Neutron launch may slip to 2027 appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/53195468613_56d31cd71c_k.jpg?fit=1024%2C659&amp;ssl=1",
-      "billede_alt": "Neutron launch illustration",
-      "kategori": "Opsendelser",
-      "rubrik": "Rocket Labs Neutron-raket kan blive forsinket",
-      "resume_da": "Rocket Lab advarer om, at den første opsendelse af Neutron-raketten kan blive udskudt til 2027 på trods af fremskridt.",
-      "sektioner": [
-        {
-          "overskrift": "Tidsplanen er stram",
-          "tekst": "Rocket Lab siger, at chancen for at opsende Neutron-raketten for første gang inden årets udgang er ‘smallere’. Det sker på trods af, at udviklingen af raketten skrider frem."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Opsendelsen kan blive udskudt til 2027.",
-        "Rocket Lab advarer om, at tidsplanen er usikker."
-      ],
-      "betydning": "Forsinkelser i raketudvikling kan påvirke kommercielle satellitopsendelser og rumfartsindustrien generelt.",
-      "pointer": [
-        "Neutron-raketten kan blive forsinket.",
-        "Chancen for opsendelse i år er lille.",
-        "Udviklingen skrider frem, men tiden er knap."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Starbase Production lining up future vehicles",
-      "link": "https://www.nasaspaceflight.com/2026/08/starbase-lining-future-vehicles/",
-      "dato": "2026-08-11T10:12:00+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "At SpaceX’s Starbase production site, teams are progressing multiple Starship vehicles through the Production Site&#8230; The post Starbase Production lining up future vehicles appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-11-01-29-42-063.jpg",
-      "billede_alt": "",
-      "kategori": "Opsendelser",
-      "rubrik": "SpaceX stabler nye Starship- og Super Heavy-rumfartøjer",
-      "resume_da": "SpaceX gør klar til kommende test og flyvninger med nye Starship- og Super Heavy-enheder. Der bygges flere og mere automatiserede faciliteter for at øge opsendelsestakten.",
-      "sektioner": [
-        {
-          "overskrift": "Starship Ship 42 gøres klar",
-          "tekst": "I Mega Bay 2 bliver Ship 42 klargjort til kryogen test. Alle tønde-sektioner er stablet, og de forreste finner er monteret. De bagerste finner mangler dog endnu. Der er kun få huller i varmeskjoldet, hvilket er en forbedring."
-        },
-        {
-          "overskrift": "Super Heavy-boosteren får metantank",
-          "tekst": "I Mega Bay 1 er den sidste metantank-sektion på Booster 22 installeret. Dermed er boosterens primære struktur færdig. Der skal dog monteres trykrør og andet udstyr, før boosteren kan testes."
-        },
-        {
-          "overskrift": "Automatisering øger produktionen",
-          "tekst": "SpaceX automatiserer opsætningen af varmeskjold på næsekegler. Det gør processen hurtigere og mindre arbejdskrævende. I Gigabay, en ny stor produktionshal, kan flere rumfartøjer bygges samtidig."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "42",
-          "label": "Ship 42 til flyvning 15"
-        },
-        {
-          "tal": "43",
-          "label": "Ship 43 til flyvning 16"
-        },
-        {
-          "tal": "22",
-          "label": "Booster 22 til flyvning 15"
-        }
-      ],
-      "detaljer": [
-        "Ship 42 er stablet i Mega Bay 2 til kryogen test.",
-        "Booster 22's metantank er færdigbygget.",
-        "Ship 43 er klar til at blive rullet til Mega Bay 2.",
-        "En ny næsekegle-montagestation automatiserer varmeskjoldarbejde.",
-        "Gigabay får installeret tag og brokraner."
-      ],
-      "betydning": "For almindelige danskere betyder det, at SpaceX øger tempoet i deres Starship-program, hvilket kan føre til flere opsendelser og hurtigere udvikling af måne- og Mars-missioner. Det kan også betyde flere satellitter og bedre kommunikation på Jorden.",
-      "pointer": [
-        "Ship 42 og Booster 22 gøres klar til næste flyvning.",
-        "Ship 43 forberedes til at blive samlet.",
-        "SpaceX bygger en ny Gigabay for at øge produktionen.",
-        "Automatisering reducerer manuelt arbejde med varmeskjold."
       ],
       "prio": 6
     }
