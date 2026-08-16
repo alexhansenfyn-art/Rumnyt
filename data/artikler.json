@@ -1,7 +1,61 @@
 {
-  "opdateret": "2026-08-16T03:16:19.632361+00:00",
+  "opdateret": "2026-08-16T05:05:59.367156+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "APOD: 2026 August 16 – Milky Way over Yellowstone",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/",
+      "dato": "2026-08-16T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 16 – Milky… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Milky Way [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/mwyellowstone_lane_1800.jpg?w=1800&#038;h=1200&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A composite image of the night sky above the old faithful guyser in Yelowstone National Park.",
+      "kategori": "Astronomi",
+      "rubrik": "Mælkevejen over Yellowstone",
+      "resume_da": "Et flot billede viser Mælkevejen over en varm kilde i Yellowstone. Kilden er farvet af bakterier og damp.",
+      "sektioner": [
+        {
+          "overskrift": "Billedet",
+          "tekst": "Billedet er et panorama af **16** billeder taget i **2014**. Det viser Mælkevejen over Silex Spring, en varm kilde i Yellowstone. Kilden er cirka **10 meter** bred."
+        },
+        {
+          "overskrift": "Den varme kilde",
+          "tekst": "Silex Spring er farvet af lag af bakterier, der vokser i det varme vand. Dampen kommer fra magma under jorden, som varmer vandet op."
+        },
+        {
+          "overskrift": "Mælkevejen",
+          "tekst": "Mælkevejen er et bånd af lys fra milliarder af stjerner. Det er ikke skabt af søen, men ligger meget langt væk."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "10 meter",
+          "label": "Bredden på kilden"
+        },
+        {
+          "tal": "16",
+          "label": "Antal billeder i panoramaet"
+        },
+        {
+          "tal": "640.000 år",
+          "label": "Siden sidste superudbrud"
+        }
+      ],
+      "detaljer": [
+        "Billedet er taget i 2014.",
+        "Kilden hedder Silex Spring.",
+        "Yellowstone ligger i Wyoming, USA.",
+        "Mælkevejen er fyldt med stjerner."
+      ],
+      "betydning": "Billedet viser sammenhængen mellem Jordens geologi og universet. Det minder os om, at naturen både tæt på og langt væk er fascinerende.",
+      "pointer": [
+        "Smukt billede af Mælkevejen.",
+        "Varm kilde med bakterier.",
+        "Magma kan true med udbrud.",
+        "Panorama fra 2014."
+      ],
+      "prio": 3
+    },
     {
       "titel": "Lunar orbiter among upcoming NASA CLPS task orders",
       "link": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/",
@@ -4227,41 +4281,6 @@
         "On-demand satellitopgaver."
       ],
       "prio": 5
-    },
-    {
-      "titel": "Why Golden Dome Demands a Reimagined and Revitalized Industrial Base",
-      "link": "https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/",
-      "dato": "2026-08-11T12:02:48+00:00",
-      "kilde": "SpaceNews",
-      "resume": "For most of its history, the United States has been largely insulated from foreign threats. Vast oceans made it an impractical destination for invading armies before the advent of modern [&#8230;] The post Why Golden Dome Demands a Reimagined and Revitalized Industrial Base appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/golden-dome-1-1.jpg?fit=1024%2C794&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "USA's missilskjold kræver nyt industrigrundlag",
-      "resume_da": "Golden Dome, USAs kommende missilskjold, kræver en omfattende fornyelse af landets forsvarsindustri. Eksperter mener, at den nuværende industrielle base ikke er gearet til opgaven.",
-      "sektioner": [
-        {
-          "overskrift": "Hvorfor nu?",
-          "tekst": "USA har længe været beskyttet af havene omkring sig. Men nye trusler gør et missilskjold nødvendigt. Golden Dome skal beskytte hele landet mod missilangreb."
-        },
-        {
-          "overskrift": "Industriel udfordring",
-          "tekst": "Opbygningen af Golden Dome kræver en helt ny tilgang til forsvarsindustrien. Den nuværende industrielle base er ikke gearet til at levere den nødvendige teknologi og kapacitet. Der er behov for revitalisering."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Golden Dome er navnet på et nyt missilskjold for USA.",
-        "Artiklen argumenterer for, at den nuværende forsvarsindustri ikke kan levere det, der er brug for.",
-        "Der er behov for at gentænke og forny den industrielle base."
-      ],
-      "betydning": "Et stærkt missilskjold i USA kan påvirke global sikkerhed og dermed også Danmark. Industriel fornyelse kan skabe nye teknologier, der også kan få civile anvendelser.",
-      "pointer": [
-        "USA planlægger nyt missilskjold.",
-        "Forsvarsindustrien er ikke forberedt.",
-        "Industriel fornyelse er nødvendig."
-      ],
-      "prio": 6
     }
   ]
 }
