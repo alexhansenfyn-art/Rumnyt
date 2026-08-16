@@ -1,7 +1,47 @@
 {
-  "opdateret": "2026-08-16T10:52:22.084298+00:00",
+  "opdateret": "2026-08-16T13:44:10.790619+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Black hole star: Astronomers discover a brand-new type of astrophysical object",
+      "link": "https://phys.org/news/2026-08-black-hole-star-astronomers-brand.html",
+      "dato": "2026-08-16T11:00:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Astronomers at MIT and elsewhere have spotted an extremely bright red spot in the early universe. The object resembles an enormous star, roughly the size of our solar system. But it also is putting out 100 billion times more energy than any known star can physically produce. In fact, such energies are closer to what a black hole might generate.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-discover-a-6.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Nyt himmelobjekt: Stjerne og sort hul i ét?",
+      "resume_da": "Astronomer har fundet et ekstremt lyst rødt objekt i det tidlige univers. Det ligner en kæmpestjerne, men udsender langt mere energi, end en stjerne kan.",
+      "sektioner": [
+        {
+          "overskrift": "Et usædvanligt fund",
+          "tekst": "Forskere fra MIT og andre steder har opdaget et meget lyst rødt objekt i det tidlige univers. Det ligner en enorm stjerne på størrelse med vores solsystem. Men det udsender langt mere energi end nogen kendt stjerne kan."
+        },
+        {
+          "overskrift": "Energi som et sort hul",
+          "tekst": "Objektet udsender **100 milliarder gange** mere energi end en normal stjerne. Faktisk minder energien mere om det, et sort hul kan producere. Derfor tror forskerne, det kan være en helt ny type himmelobjekt."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "100 milliarder gange",
+          "label": "Mere energi end en stjerne"
+        }
+      ],
+      "detaljer": [
+        "Opdaget af astronomer fra MIT og andre institutioner.",
+        "Objektet er ekstremt lyst og rødt.",
+        "Det ligner en kæmpestjerne, men er måske noget helt nyt."
+      ],
+      "betydning": "Opdagelsen kan ændre vores forståelse af, hvad der findes i universet. Måske findes der objekter, der kombinerer egenskaber fra både stjerner og sorte huller.",
+      "pointer": [
+        "Nyt lyst rødt objekt fundet i det tidlige univers.",
+        "Udsender ekstremt meget energi.",
+        "Kan være en helt ny type himmelobjekt."
+      ],
+      "prio": 7
+    },
     {
       "titel": "APOD: 2026 August 16 – Milky Way over Yellowstone",
       "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/",
@@ -4245,42 +4285,6 @@
         "Gratis arrangement i León."
       ],
       "prio": 7
-    },
-    {
-      "titel": "BlackSky wins seven-figure, multiyear international contract",
-      "link": "https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract/",
-      "dato": "2026-08-11T12:30:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "SAN FRANCISCO &#8212; BlackSky announced Aug. 11 a seven-figure, multiyear contract to provide an international customer with persistent space-based monitoring and assured and on-demand satellite tasking. Prior to the award, [&#8230;] The post BlackSky wins seven-figure, multiyear international contract appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_blacksky_gen-3_farnborough_international_airshow_20260720.png?fit=879%2C494&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Satellitter",
-      "rubrik": "BlackSky får international kontrakt",
-      "resume_da": "BlackSky har fået en flerårig kontrakt i syv cifre på at levere løbende rumovervågning til en international kunde.",
-      "sektioner": [
-        {
-          "overskrift": "Kontraktens indhold",
-          "tekst": "Kontrakten inkluderer løbende overvågning fra rummet samt satellitopgaver, der kan udløses efter behov. Kunden er international, men ikke navngivet."
-        },
-        {
-          "overskrift": "Værdi og varighed",
-          "tekst": "Kontrakten er i syv cifre og løber over flere år. Det er en betydelig aftale for BlackSky, som specialiserer sig i jordobservation."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Kontrakten er flerårig og i syv cifre.",
-        "Kunden er international.",
-        "Tjenesten omfatter løbende overvågning og sikret, on-demand satellitopgaver."
-      ],
-      "betydning": "Det viser, at efterspørgslen på kommerciel rumovervågning vokser og har betydning for forsvar og sikkerhed.",
-      "pointer": [
-        "BlackSky får stor kontrakt.",
-        "International kunde.",
-        "Løbende overvågning fra rummet.",
-        "On-demand satellitopgaver."
-      ],
-      "prio": 5
     }
   ]
 }
