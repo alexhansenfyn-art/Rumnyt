@@ -1,7 +1,62 @@
 {
-  "opdateret": "2026-08-16T14:53:10.460384+00:00",
+  "opdateret": "2026-08-16T16:55:16.736768+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Firefly promote next block of Alpha amid Eclipse progress",
+      "link": "https://www.nasaspaceflight.com/2026/08/firefly-block-alpha-eclipse-progress/",
+      "dato": "2026-08-16T16:31:26+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "Firefly Aerospace is advancing on two fronts this month, pushing development of its next-generation medium-lift&#8230; The post Firefly promote next block of Alpha amid Eclipse progress appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-16-17-19-57-271.jpg",
+      "billede_alt": "",
+      "kategori": "Opsendelser",
+      "rubrik": "Firefly oppgraderer Alpha og tester ny motor",
+      "resume_da": "Firefly Aerospace tester sin nye Miranda-motor i næsten fire minutter og præsenterer en opgraderet Alpha-raket med hvidt ydre og større tanke.",
+      "sektioner": [
+        {
+          "overskrift": "Ny motor testet",
+          "tekst": "Firefly har afbrændt deres nye Miranda-motor i **226 sekunder** ved fuld kraft. Det er længere end en normal flyvning kræver. De har nu gennemført over **150** testafbrændinger, og motoren er klar til kvalifikation."
+        },
+        {
+          "overskrift": "Alpha får nyt udseende",
+          "tekst": "Alpha Block II får en hvid overflade i stedet for den tidligere sorte. Den hvide farve er en del af et nyt varmebeskyttelsessystem, der skal forhindre problemer som dem, der førte til en fejl på mission 6. Raketten bliver også **2 meter** højere med større tanke."
+        },
+        {
+          "overskrift": "Mange kommende opsendelser",
+          "tekst": "Lockheed Martin har udvidet deres aftale med Firefly til at omfatte op til **25** Alpha-opsendelser gennem **2031**. De første Block II-opsendelser er planlagt til fjerde kvartal i år. Eclipse, den nye større raket, skal efter planen flyve første gang næste år."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "226 sekunder",
+          "label": "Varighed af motortest"
+        },
+        {
+          "tal": "25",
+          "label": "Antal Alpha-opsendelser for Lockheed"
+        },
+        {
+          "tal": "2 meter",
+          "label": "Forøgelse af Alpha-højde"
+        }
+      ],
+      "detaljer": [
+        "Eclipse er Fireflys kommende mellemtunge raket, der kan løfte over 16 tons til lavt jordkredsløb.",
+        "Første trin på Eclipse er designet til at kunne genbruges og lande tilbage på affyringsrampen.",
+        "Alpha Block II har fået en hvid termisk beskyttelse, hvilket er en reaktion på en tidligere missionsfejl.",
+        "Den nye Miranda-motor bruger RP-1-kerosen og flydende ilt.",
+        "Lockheed Martin har udvidet sin kontrakt med Firefly til 2031."
+      ],
+      "betydning": "Historien viser, at Firefly er i vækst og kan blive en vigtig aktør inden for både små og mellemstore raketter. Det betyder flere muligheder for at sende satellitter op til blandt andet kommunikation og vejrovervågning, hvilket kan gavne os alle.",
+      "pointer": [
+        "Firefly tester ny motor i næsten 4 minutter.",
+        "Alpha-raketten får hvidt ydre og større tanke.",
+        "Lockheed Martin køber op til 25 opsendelser.",
+        "Ny mellemtung raket Eclipse planlægges til næste år."
+      ],
+      "prio": 5
+    },
     {
       "titel": "Einstein Probe catches rare X-ray flash from an exploding star",
       "link": "https://phys.org/news/2026-08-einstein-probe-rare-ray-star.html",
@@ -4237,42 +4292,6 @@
         "Det kan øge udledningen i atmosfæren.",
         "Satellitter kan påvirke ozonlaget.",
         "Forskere er bekymrede for konsekvenserne."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Rare Total Solar Eclipse-Perseid Meteor Shower Double-Header August 12th",
-      "link": "https://skyandtelescope.org/astronomy-news/rare-total-solar-eclipse-perseid-meteor-shower-double-header-on-august-12th/",
-      "dato": "2026-08-11T12:40:00+00:00",
-      "kilde": "Sky & Telescope",
-      "resume": "The only total solar eclipse of the year coincides with the Perseid meteor shower. Here's what you need to know to watch the eclipse. The post Rare Total Solar Eclipse-Perseid Meteor Shower Double-Header August 12th appeared first on Sky &amp; Telescope .",
-      "billede": null,
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Total solformørkelse og Perseider samme dag",
-      "resume_da": "Årets eneste totale solformørkelse falder samme dag som Perseidernes meteorsværm. Et sjældent dobbeltfænomen på himlen.",
-      "sektioner": [
-        {
-          "overskrift": "Sjældent dobbeltfænomen",
-          "tekst": "Den 12. august kan man opleve både en total solformørkelse og Perseidernes meteorsværm. Det sker kun sjældent, at de to fænomener falder sammen. Solformørkelsen er årets eneste totale."
-        },
-        {
-          "overskrift": "Sådan ser du med",
-          "tekst": "For at se solformørkelsen skal man have særlige briller. Meteorerne er nemmere at se med det blotte øje. Husk at beskytte øjnene, hvis du kigger mod solen."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Datoen er 12. august.",
-        "Det er årets eneste totale solformørkelse.",
-        "Perseiderne er en årlig meteorsværm."
-      ],
-      "betydning": "Det er en sjælden chance for at opleve to spektakulære himmelfænomener på samme dag. Selvom man måske ikke kan se det fra Danmark, er det en god anledning til at interessere sig for astronomi.",
-      "pointer": [
-        "Dato: 12. august",
-        "Total solformørkelse",
-        "Perseidernes meteorsværm",
-        "Husk øjenbeskyttelse"
       ],
       "prio": 7
     }
