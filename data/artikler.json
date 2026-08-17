@@ -1,7 +1,85 @@
 {
-  "opdateret": "2026-08-17T03:15:50.208666+00:00",
+  "opdateret": "2026-08-17T05:54:21.302938+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Lynk and Omnispace form Elveo Mobile to advance D2D services",
+      "link": "https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/",
+      "dato": "2026-08-17T04:30:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Lynk Global has completed its merger with Omnispace and rebranded as Elveo Mobile, adding globally coordinated S-band spectrum to expand direct-to-device satellite services beyond basic messaging. The post Lynk and Omnispace form Elveo Mobile to advance D2D services appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Elveo_image_handset-scaled.png?fit=1024%2C552&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Satellitter",
+      "rubrik": "Lynk og Omnispace fusionerer til Elveo Mobile",
+      "resume_da": "Lynk og Omnispace er fusioneret og skifter navn til Elveo Mobile for at udvide satellittjenester direkte til mobiltelefoner.",
+      "sektioner": [
+        {
+          "overskrift": "Fusionen er en realitet",
+          "tekst": "Lynk Global og Omnispace er nu ét selskab under navnet Elveo Mobile. Fusionen giver adgang til globalt koordineret S-båndsspektrum."
+        },
+        {
+          "overskrift": "Nye muligheder",
+          "tekst": "Med det nye spektrum kan Elveo Mobile udvide sine tjenester direkte til enheder. Tidligere var det kun basale beskeder, men nu åbnes der for mere."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Lynk Global og Omnispace er fusioneret",
+        "Nyt navn: Elveo Mobile",
+        "Globalt koordineret S-båndsspektrum er inkluderet",
+        "Tjenester udvides ud over basale beskeder"
+      ],
+      "betydning": "For almindelige danskere kan dette betyde bedre mobildækning i områder uden traditionelle master, da satellitter kan levere tjenester direkte til telefonen.",
+      "pointer": [
+        "Nyt selskab: Elveo Mobile",
+        "Mere spektrum til satellit-tjenester",
+        "Udvider fra kun beskeder"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "APOD: 2026 August 17 – A Golden Corona Eclipse",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/",
+      "dato": "2026-08-17T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Golden [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/GoldCorona_Santos_960.jpg?w=2101&#038;h=1401&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A total eclipse Sun is featured in the image center. Around the Sun is a filamentary gold-hued corona flowing out in all directions.  Please see the explanation for more detailed information.",
+      "kategori": "Astronomi",
+      "rubrik": "Total solformørkelse viste gylden korona",
+      "resume_da": "Ved solformørkelsen i august lyste solkoronaen gyldent fra Spanien. Røg fra skovbrande og lav solhøjde gav det usædvanlige lys.",
+      "sektioner": [
+        {
+          "overskrift": "Gylden korona overraskede",
+          "tekst": "Normalt er solkoronaen hvid, men denne gang oplevede observatører i Spanien en gylden farve. Årsagen var blandt andet, at solen stod lavt, og lyset skulle gennem meget luft. Røg fra skovbrande fjernede også blåt lys."
+        },
+        {
+          "overskrift": "Billede fra Spanien",
+          "tekst": "Astronomen Rui Santos tog billedet fra Benavente i Spanien. Han brugte HDR-teknik og flere eksponeringer for at vise detaljerne. Et lyserødt brintfremspring var stadig synligt ved solens kant."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. august 2026",
+          "label": "Dato for formørkelsen"
+        }
+      ],
+      "detaljer": [
+        "Billedet er dagens astronomibillede hos NASA.",
+        "Koronaen er solens ydre atmosfære.",
+        "Røg fra skovbrande virkede som et filter.",
+        "Brintfremspringet var lyserødt."
+      ],
+      "betydning": "Det viser, at selv en solformørkelse kan overraske med smukke og usædvanlige farver. Det gør astronomi spændende for alle.",
+      "pointer": [
+        "Koronaen var gylden, ikke hvid.",
+        "Røg og lav solhøjde gav farven.",
+        "Billedet er taget i Spanien.",
+        "Brintfremspring var lyserødt."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Satellite operators emphasize launch deals in a constrained market",
       "link": "https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/",
@@ -4175,92 +4253,6 @@
         "Teknologien skal dog testes grundigt."
       ],
       "prio": 4
-    },
-    {
-      "titel": "SpaceX increasing footprint in missile defense",
-      "link": "https://spacenews.com/spacex-increasing-footprint-in-missile-defense/",
-      "dato": "2026-08-11T14:34:01+00:00",
-      "kilde": "SpaceNews",
-      "resume": "With multibillion-dollar awards for satellite networks, sensing and launch services, SpaceX is leveraging its vertically integrated manufacturing model to win a share of the Pentagon's missile defense business The post SpaceX increasing footprint in missile defense appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/260716-X-X0813-1001-scaled.jpg?fit=1024%2C683&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "SpaceX vokser i missilforsvar",
-      "resume_da": "SpaceX vinder store Pentagon-kontrakter på satellitter og opsendelser til missilforsvar takket være sin effektive produktion.",
-      "sektioner": [
-        {
-          "overskrift": "Store kontrakter til SpaceX",
-          "tekst": "SpaceX har vundet kontrakter for flere milliarder dollars på satellitnetværk, sensorer og opsendelser. Det sker gennem Pentagon, USA's forsvarsministerium. SpaceX's egen produktion gør det billigere og hurtigere."
-        },
-        {
-          "overskrift": "Raketter og satellitter",
-          "tekst": "Firmaet bruger sine egne raketter til at sende satellitter op. De satellitter skal hjælpe med at opdage og spore missiler. Det styrker USA's forsvar mod angreb."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "flere milliarder dollars",
-          "label": "Kontraktværdi i alt"
-        }
-      ],
-      "detaljer": [
-        "SpaceX vinder opgaver til missilforsvar",
-        "Kontrakter dækker satellitter, sensorer og opsendelser",
-        "Vertikal integration giver fordel"
-      ],
-      "betydning": "Det viser, at private firmaer som SpaceX spiller en større rolle i militær teknologi. Det kan påvirke både rumindustri og sikkerhed.",
-      "pointer": [
-        "SpaceX får milliardkontrakter",
-        "Skal bygge satellitter til missilforsvar",
-        "Egen produktion giver fordel",
-        "Vigtigt for Pentagon"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Building the Moon Base: NASA Stories at the Ion",
-      "link": "https://www.nasa.gov/missions/moon-base/building-the-moon-base-nasa-stories-at-the-ion/",
-      "dato": "2026-08-11T14:16:45+00:00",
-      "kilde": "NASA",
-      "resume": "As NASA&#160;prepares&#160;to return astronauts to the lunar surface&#160;for&#160;longer stays and increasingly complex operations, building&#160;the&#160;Moon Base&#160;will require&#160;new&#160;ideas, advanced technologies, and&#160;expertise&#160;across many fields.&#160; During NASA Stories at the Ion on July 30,&#160;Shatel Bhakta, principal systems engineer for NASA’s Moon Base&#160;Progra",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/dsc03215-e1786419412406.jpg?w=1536",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "NASA: Månebase kræver nye løsninger uden for Apollo-stierne",
-      "resume_da": "NASA vil bygge en base ved Månens sydpol. Ekspert fortæller om udfordringer med støv, mørke og kommunikation – og om at samarbejde bredt.",
-      "sektioner": [
-        {
-          "overskrift": "NASA vil bygge månebase",
-          "tekst": "NASA arbejder på at sende astronauter til Månens sydpol for længere ophold. Programmet hedder Moon Base. Det sker trin for trin med robotmissioner og teknologitests først."
-        },
-        {
-          "overskrift": "Udfordringer ved sydpolen",
-          "tekst": "Sydpolen har stejle skråninger og dybe kratere. Solen står lavt, så skygger ændrer sig og solpaneler mister lys. Der er også områder, der altid er mørke, og hvor der kan være vand-is."
-        },
-        {
-          "overskrift": "Månestøv er et problem",
-          "tekst": "Månestøv er skarpt og klistret. Det kan skade udstyr og være sundhedsskadeligt for astronauter. Månestøv opfører sig forskelligt afhængigt af lys og miljø, og det skal undersøges nærmere."
-        },
-        {
-          "overskrift": "Mange kan bidrage",
-          "tekst": "Byggeriet af månebasen kræver flere end ingeniører og forskere. Kommunikatører, forretningsfolk og andre faggrupper er også nødvendige. Der er åbne muligheder for industri og internationale partnere."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Arrangementet fandt sted i Houston den 30. juli 2026.",
-        "Shatel Bhakta er ledende systemingeniør for NASAs Moon Base-program.",
-        "NASA samarbejder med Rice University og Ion om foredragsrækken.",
-        "NASA har en side med information om åbne udbud: www.nasa.gov/moonbase-solicitations."
-      ],
-      "betydning": "Månebasen kan bane vej for fremtidige missioner til Mars. Og det skaber muligheder for virksomheder og forskere i hele verden, også i Danmark.",
-      "pointer": [
-        "NASA vil bygge base på Månens sydpol.",
-        "Månestøv og mørke er store udfordringer.",
-        "Robotteknologi og tests kommer først.",
-        "Mange faggrupper kan bidrage."
-      ],
-      "prio": 5
     }
   ]
 }
