@@ -1,7 +1,235 @@
 {
-  "opdateret": "2026-08-17T14:57:54.858119+00:00",
+  "opdateret": "2026-08-17T17:00:48.049838+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Stellar explosions come into focus with new nuclear reaction measurements",
+      "link": "https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html",
+      "dato": "2026-08-17T17:00:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae and X-ray bursts—two of the universe's most powerful explosions. Together, the findings will help scientists build more accurate models of how stars explode and how newly formed elements are produced.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2025/type-ia-supernova.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Nye målinger afslører hemmeligheder bag stjerners eksplosioner",
+      "resume_da": "Ny forskning har målt kernereaktioner i supernovaer og røntgenudbrud, hvilket kan forbedre modeller for stjerneeksplosioner og grundstofproduktion.",
+      "sektioner": [
+        {
+          "overskrift": "Kernereaktioner i eksplosioner",
+          "tekst": "Fysikere har studeret kernereaktioner, der sker inde i supernovaer og røntgenudbrud. Disse er nogle af universets mest kraftfulde eksplosioner."
+        },
+        {
+          "overskrift": "Bedre modeller for stjerner",
+          "tekst": "Resultaterne, publiceret i Physical Review Letters, hjælper forskere med at bygge mere præcise modeller. Modellerne skal forudsige, hvordan stjerner eksploderer, og hvordan nye grundstoffer dannes."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "To separate artikler i Physical Review Letters",
+        "Undersøgte kernereaktioner i supernovaer og røntgenudbrud",
+        "Målingerne kan forbedre modeller for stjerneeksplosioner og grundstofproduktion"
+      ],
+      "betydning": "Forståelsen af, hvordan grundstoffer dannes, er grundlæggende for vores viden om universet og vores egen oprindelse. Det kan også inspirere fremtidig forskning og teknologi.",
+      "pointer": [
+        "Nye målinger af kernereaktioner i supernovaer og røntgenudbrud",
+        "Resultaterne kan forbedre modeller for stjerneeksplosioner",
+        "Hjælper med at forstå dannelse af grundstoffer",
+        "Publiceret i Physical Review Letters"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Colorful Collage of Tarantula Nebula",
+      "link": "https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/",
+      "dato": "2026-08-17T16:00:09+00:00",
+      "kilde": "NASA",
+      "resume": "Data from NASA’s Chandra X-ray Observatory, NASA’s James Webb Space Telescope, and NASA’s Hubble Space Telescope combine to reveal a vibrant view of 30 Doradus, or the Tarantula Nebula, in this Aug. 11, 2026, image. Located in the Large Magellanic Cloud, a small neighbor galaxy to the Milky Way about 160,000 light-years from Earth, the [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg?w=1280",
+      "billede_alt": "This multiwavelength image of the Tarantula Nebula, one of the brightest and largest regions of star formation to Earth, shows X-rays from Chandra that reveal gas that has been blown away in winds fro",
+      "kategori": "Astronomi",
+      "rubrik": "Tre rumteleskoper viser Tarantulatågen i nyt lys",
+      "resume_da": "NASA har kombineret data fra tre rumteleskoper og skabt et farverigt billede af Tarantulatågen, der ligger 160.000 lysår væk. Billedet viser tusindvis af unge stjerner og en kompleks struktur af gas og støv.",
+      "sektioner": [
+        {
+          "overskrift": "Et nyt billede",
+          "tekst": "NASA har lavet et nyt billede af Tarantulatågen ved at kombinere data fra røntgenteleskopet Chandra, James Webb-teleskopet og Hubble-teleskopet. Billedet er udgivet den 11. august 2026 og viser tågen i farver, som ikke kan ses med det blotte øje."
+        },
+        {
+          "overskrift": "Hvad viser billedet?",
+          "tekst": "Tarantulatågen ligger i Den Store Magellanske Sky, en lille nabo-galakse til Mælkevejen, omkring **160.000 lysår** fra Jorden. Tågen indeholder tusindvis af unge stjerner indlejret i en honeycomb-lignende struktur af gas og støv."
+        },
+        {
+          "overskrift": "Nye opdagelser",
+          "tekst": "Forskere har kombineret data fra Chandra, Hubble, Webb og det pensionerede Spitzer-teleskop for at forstå tågen bedre. De har fundet ud af, at Tarantulatågen mister energi fra flere kilder, blandt andet varm gas, der slipper ud af tågen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "160.000 lysår",
+          "label": "Afstand til tågen"
+        }
+      ],
+      "detaljer": [
+        "Billedet kombinerer data fra Chandra, James Webb og Hubble-teleskoperne.",
+        "Tarantulatågen er også kendt som 30 Doradus.",
+        "Tågen befinder sig i Den Store Magellanske Sky.",
+        "Data fra Spitzer-teleskopet blev også brugt i analysen.",
+        "Tågen har tusindvis af unge stjerner."
+      ],
+      "betydning": "Det nye billede og de nye data hjælper forskere med at forstå, hvordan stjerner dannes i store gas- og støvområder. Det kan også give viden om vores egen galakses udvikling.",
+      "pointer": [
+        "Tre teleskoper kombineret til ét billede.",
+        "Tarantulatågen er 160.000 lysår væk.",
+        "Tusindvis af unge stjerner i tågen.",
+        "Forskere har fundet ny viden om energitab."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "First pair of feeding supermassive black holes found in a Green Pea galaxy",
+      "link": "https://phys.org/news/2026-08-pair-supermassive-black-holes-green.html",
+      "dato": "2026-08-17T15:10:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Astronomers have discovered the first confirmed dual active galactic nucleus in a Green Pea galaxy, revealing two supermassive black holes growing at the same time inside a compact, intensely star-forming system. X-ray observations with Chandra resolved two actively accreting black holes, while Keck spectroscopy confirmed that both belong to the same merging galaxy. The paper outlining the researc",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-pair-of-feeding.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "To supermassive sorte huller fundet i dværggalakse",
+      "resume_da": "Astronomer har for første gang fundet to voksende supermassive sorte huller i en kompakt, stjernedannende 'Green Pea'-galakse. Opdagelsen kan hjælpe os med at forstå sorte hullers udvikling.",
+      "sektioner": [
+        {
+          "overskrift": "Første fund i Green Pea-galakse",
+          "tekst": "Forskere har opdaget to supermassive sorte huller, der vokser samtidig i en såkaldt Green Pea-galakse. Det er første gang, man ser dette i den type kompakte galakser. Røntgenobservationer fra Chandra-rumteleskopet afslørede de to aktive sorte huller."
+        },
+        {
+          "overskrift": "Bekræftet med spektroskopi",
+          "tekst": "Efterfølgende spektroskopiske målinger med Keck-teleskopet viste, at de to sorte huller tilhører den samme galakse, der er ved at smelte sammen med en anden. Begge sorte huller er aktive og trækker materiale til sig. Resultatet er offentliggjort på arXiv den 20. juli."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "To supermassive sorte huller i vækst i en Green Pea-galakse",
+        "Røntgenobservationer fra Chandra-rumteleskopet",
+        "Keck-spektroskopi bekræftede, at de er i samme galakse",
+        "Artiklen er på arXiv fra 20. juli"
+      ],
+      "betydning": "Opdagelsen hjælper forskere med at forstå, hvordan sorte huller vokser i kompakte galakser, og hvordan galakser smelter sammen. Det kan give ny viden om universets udvikling.",
+      "pointer": [
+        "To sorte huller fundet i dværggalakse",
+        "Første gang i Green Pea-galakse",
+        "Chandra og Keck står bag",
+        "Forskningsartikel på arXiv"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA Challenge Tests Wheel Designs for Moon Base Mobility",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/",
+      "dato": "2026-08-17T15:09:05+00:00",
+      "kilde": "NASA",
+      "resume": "As NASA prepares to&#160;establish&#160;the&#160;Moon Base,&#160;advancing surface mobility will be key to helping crews and robotic systems travel farther across&#160;the lunar surface.&#160; To help advance that capability, the&#160;Rock and Roll with NASA Challenge invited&#160;public&#160;innovators&#160;to design and build next-generation lunar rover wheels.&#160; Five teams from 128 submissi",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e406637.jpg?w=1536",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "NASA udfordrer offentligheden med måne-hjul",
+      "resume_da": "NASA inviterede offentligheden til at designe nye måne-roverhjul. Fem finalister testede deres prototyper til en kommende månebase.",
+      "sektioner": [
+        {
+          "overskrift": "Konkurrencen",
+          "tekst": "NASA udfordrede offentligheden til at designe nye hjul til månerovere. Fem hold fra 128 forslag og 49 lande nåede finalen. De testede deres hjul den 31. juli på NASA's Johnson Space Center."
+        },
+        {
+          "overskrift": "Prototyperne",
+          "tekst": "Fem forskellige designs blev testet. Vinderen var Scotch Pad Tyres fra Australien, som bruger et blødt materiale, der kan forme sig om terrænet. Et andet design brugte titanium, og et tredje brugte stramme kabler."
+        },
+        {
+          "overskrift": "Testen",
+          "tekst": "Hjulene blev monteret på en testrover kaldet MicroChariot, der vejer **45 kilo**. Den kørte på forskellige terræner i 'Rock Yard' for at se, hvordan hjulene klarede sig. Det viste, at forskellige underlag kræver forskellige hjultyper."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "45 kilo",
+          "label": "Vægten af testroveren"
+        },
+        {
+          "tal": "128 forslag",
+          "label": "Antal deltagende forslag"
+        },
+        {
+          "tal": "49 lande",
+          "label": "Deltagende lande"
+        }
+      ],
+      "detaljer": [
+        "Vinderhjulene er lavet af Nomex og aluminium.",
+        "Testen foregik på Johnson Space Center i Houston.",
+        "Næste skridt kan være test i vakuum og ekstreme temperaturer."
+      ],
+      "betydning": "Nye hjul kan hjælpe rovere med at køre længere på Månen, hvilket udvider videnskabelige opdagelser og opbygningen af en månebase. Det kan på sigt bane vejen for længere missioner i rummet.",
+      "pointer": [
+        "NASA inviterede offentligheden til at designe måne-hjul.",
+        "Fem finalister deltog i test.",
+        "Vinderdesignet er fleksibelt og har godt greb.",
+        "Testen viste, at forskellige terræner kræver forskellige hjul."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Hubble Solves Merger Mystery From Milky Way’s Early Years",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/",
+      "dato": "2026-08-17T15:00:11+00:00",
+      "kilde": "NASA",
+      "resume": "New Hubble data shows definitive evidence of a dwarf galaxy merging with the young Milky Way in the earliest phases of its evolution.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/08/STScI-01KZ4N4D8G9AK26CF28HD5NT5N.png?w=3840&#038;h=2160&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "An illustration of two galaxies in the midst of a collision against a dark, star-filled background.  The collision takes up the middle third of the illustration. On the right, a larger galaxy is viewe",
+      "kategori": "Forskning",
+      "rubrik": "Hubble finder spor efter Mælkevejens tidligste kollision",
+      "resume_da": "Hubble-teleskopet har fundet beviser for, at Mælkevejen kolliderede med en dværggalakse for 11,8 milliarder år siden. Fundet flytter vores viden om galaksens historie 1,8 milliarder år længere tilbage.",
+      "sektioner": [
+        {
+          "overskrift": "Mælkevejens fortid",
+          "tekst": "Mælkevejen er vokset ved at sluge mindre galakser. Tidligere kendte man til to store kollisioner, men nu har Hubble fundet en endnu ældre. Den skete for omkring **11,8 milliarder år** siden, kun 2 milliarder år efter Big Bang."
+        },
+        {
+          "overskrift": "Globale stjernehobe som arkiver",
+          "tekst": "Forskerne brugte Hubble til at studere **39** gamle stjernehobe i Mælkevejens indre. Ved at måle deres alder og metalindhold fandt de en gruppe, der ikke passede ind. Disse hobe kom fra en dværggalakse, de kalder LKH."
+        },
+        {
+          "overskrift": "En betydningsfuld kollision",
+          "tekst": "LKH havde omkring **500 millioner** solmasser i stjerner. Det var en stor del af Mælkevejens masse dengang. Kollisionen har haft stor betydning for, hvordan vores galakse udviklede sig."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "11,8 milliarder år",
+          "label": "Tidspunktet for kollisionen"
+        },
+        {
+          "tal": "39",
+          "label": "Antal stjernehobe studeret"
+        },
+        {
+          "tal": "500 millioner solmasser",
+          "label": "LKH's masse i stjerner"
+        }
+      ],
+      "detaljer": [
+        "Mælkevejen er vokset ved at samle stjerner, gas og mørkt stof fra andre galakser.",
+        "Den seneste store kollision var med Skytte-dværggalaksen for over 6 milliarder år siden.",
+        "For 10 milliarder år siden slugte Mælkevejen Gaia-Sausage-Enceladus.",
+        "Hubble kunne måle alder og metalindhold i stjernehobene med hidtil uset præcision.",
+        "Forskerne brugte data fra ESA's Gaia-mission til at adskille hobene fra LKH."
+      ],
+      "betydning": "Det giver os en bedre forståelse af, hvordan vores egen galakse blev til. Det hjælper os også med at forstå, hvordan galakser generelt udvikler sig.",
+      "pointer": [
+        "Hubble fandt beviser for en tidligere Mælkevejskollision.",
+        "Kollisionen skete for 11,8 milliarder år siden.",
+        "Dværggalaksen LKH blev slugt af Mælkevejen.",
+        "Fundet er publiceret i Nature Astronomy."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Hubble & Gaia solve our galaxy's merger mystery",
       "link": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery",
@@ -4046,205 +4274,6 @@
         "Stor interesse fra kunder.",
         "Opsendelserne halter bagefter.",
         "Virksomheden vil øge opsendelsestempoet."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "U.S. expands missile production as Army seeks more depth in its arsenal",
-      "link": "https://spacenews.com/u-s-expands-missile-production-as-army-seeks-more-depth-in-its-arsenal/",
-      "dato": "2026-08-12T01:34:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Recent Northrop, Lockheed and L3Harris agreements are aimed at expanding capacity across propulsion, structures and other constrained parts of the missile supply chain The post U.S. expands missile production as Army seeks more depth in its arsenal appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/mfc-thaad-sky-jpg-pc-adaptive-1280-medium-1116x627v1.jpeg?fit=1000%2C562&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "USA udvider missilproduktion for større arsenal",
-      "resume_da": "USA øger produktionen af missiler for at styrke hærens dybde i arsenalet. Aftaler med Northrop, Lockheed og L3Harris skal udvide kapaciteten i forsyningskæden.",
-      "sektioner": [
-        {
-          "overskrift": "Udvidelse af produktionen",
-          "tekst": "De seneste aftaler med Northrop, Lockheed og L3Harris har til formål at udvide kapaciteten inden for fremdrift, strukturer og andre begrænsede dele af missilforsyningskæden. Dette skal øge produktionen og give hæren flere våben."
-        },
-        {
-          "overskrift": "Behov for dybde",
-          "tekst": "Hæren ønsker mere dybde i sit arsenal. Det betyder, at de vil have flere missiler og en mere robust forsyningskæde for at kunne imødekomme fremtidige behov. Aftalerne er et skridt i den retning."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Aftalerne er med Northrop, Lockheed og L3Harris.",
-        "Målet er at udvide kapaciteten i forsyningskæden.",
-        "Områderne omfatter fremdrift og strukturer."
-      ],
-      "betydning": "For almindelige danskere er dette relevant, fordi USA’s forsvarsevne har betydning for global sikkerhed. Øget missilproduktion kan styrke NATO-alliancen og dermed også Danmarks sikkerhed.",
-      "pointer": [
-        "USA øger missilproduktionen.",
-        "Aftaler med store forsvarsvirksomheder.",
-        "Fokus på forsyningskæden.",
-        "Hæren vil have flere våben."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "The ESCAPE mission will study the evolution of exoplanet atmospheres",
-      "link": "https://phys.org/news/2026-08-mission-evolution-exoplanet-atmospheres.html",
-      "dato": "2026-08-12T01:00:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "The habitable zone concept is useful for understanding which worlds might, possibly, maybe, be habitable. It highlights exoplanets at the right distances from their stars for liquid water to potentially exist on their surfaces. But that alone can't determine habitability.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-escape-mission-wil.jpg",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "ESCAPE-mission skal studere exoplaneters atmosfærer",
-      "resume_da": "ESCAPE-missionen skal undersøge, hvordan atmosfærer på exoplaneter udvikler sig, og om de kan være beboelige.",
-      "sektioner": [
-        {
-          "overskrift": "Missionens formål",
-          "tekst": "ESCAPE-missionen skal studere, hvordan atmosfærer på exoplaneter udvikler sig over tid. Det kan hjælpe os med at forstå, om en planet kan være beboelig. Den beboelige zone er et vigtigt begreb, men den alene kan ikke afgøre, om en planet faktisk er beboelig."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "ESCAPE vil undersøge udviklingen af exoplanetatmosfærer.",
-        "Den beboelige zone angiver afstande fra en stjerne, hvor der kan være flydende vand på overfladen.",
-        "Den beboelige zone kan ikke alene afgøre beboelighed."
-      ],
-      "betydning": "Forskningen kan hjælpe os med at finde ud af, hvilke exoplaneter der kunne have liv.",
-      "pointer": [
-        "ESCAPE ser på atmosfærer.",
-        "Atmosfærer ændrer sig.",
-        "Beboelig zone er ikke nok.",
-        "Missionen kan finde beboelige planeter."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
-      "link": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/",
-      "dato": "2026-08-11T21:04:39+00:00",
-      "kilde": "NASA",
-      "resume": "This article is&#160;for students grades 5-8. The Nancy Grace Roman Space Telescope is NASA’s newest astrophysics observatory. The telescope will scan large sections of space. Roman will help astronomers answer questions about dark energy, dark matter, exoplanets, and more. ______________________________________________________________________ Words to Know Astrophysics: a branch of space science ",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2023/02/nancy-grace-roman-space-telescope-visualization.jpeg?w=1200",
-      "billede_alt": "Image shows an illustration of the Nancy Grace Roman Space Telescope with a galaxy illustration in the background. Formerly known as WFIRST, is an upcoming space telescope designed to perform wide-fie",
-      "kategori": "Missioner",
-      "rubrik": "Nasa's nye teleskop skal løse universets gåder",
-      "resume_da": "Nancy Grace Roman-teleskopet sendes op i 2026. Det skal undersøge mørkt stof, mørk energi og exoplaneter.",
-      "sektioner": [
-        {
-          "overskrift": "Opsendelse og placering",
-          "tekst": "Teleskopet sendes op den 30. august 2026 med en SpaceX Falcon Heavy-raket. Det vil blive placeret i et område i rummet kaldet Andet Sun-Earth Lagrange-punkt, omkring 930.000 miles fra Jorden."
-        },
-        {
-          "overskrift": "Instrumenter om bord",
-          "tekst": "Roman har et hovedspejl på 7,9 fod og to instrumenter. Wide Field Instrument er et infrarødt kamera på 300 megapixel, og Coronagraph Instrument kan blokere stjernelys for at se planeter."
-        },
-        {
-          "overskrift": "Forskningsmål",
-          "tekst": "Forskere vil bruge teleskopet til at studere mørk energi, som udgør 68% af universet. De vil også lede efter exoplaneter og undersøge mørkt stofs rolle i galaksedannelse."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "30. august 2026",
-          "label": "Planlagt opsendelsesdato"
-        },
-        {
-          "tal": "930.000 miles",
-          "label": "Afstand fra Jorden"
-        },
-        {
-          "tal": "7,9 fod",
-          "label": "Spejlets diameter"
-        }
-      ],
-      "detaljer": [
-        "Teleskopet er opkaldt efter Nancy Grace Roman, NASA's første chef-astronom.",
-        "Den er også kaldt 'moderen til Hubble-teleskopet'.",
-        "Coronagraph Instrumentet er det mest kraftfulde af sin slags i rummet."
-      ],
-      "betydning": "Dette teleskop kan hjælpe med at besvare fundamentale spørgsmål om universets opbygning og fremtid, hvilket kan have betydning for vores forståelse af livet og kosmos.",
-      "pointer": [
-        "Opsendes i 2026",
-        "Skal undersøge mørkt stof",
-        "Kigger efter exoplaneter",
-        "Opkaldt efter kvindelig pioner"
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "National lab visit boosts NASA’s confidence in space nuclear propulsion mission",
-      "link": "https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission/",
-      "dato": "2026-08-11T21:01:02+00:00",
-      "kilde": "SpaceNews",
-      "resume": "NASA officials say they are confident in plans to launch a nuclear electric propulsion demonstration mission by the end of 2028 after visiting the national lab building the mission’s reactor. The post National lab visit boosts NASA’s confidence in space nuclear propulsion mission appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/isaacman-inl.jpeg?fit=1024%2C768&amp;ssl=1",
-      "billede_alt": "Isaacman INL",
-      "kategori": "Missioner",
-      "rubrik": "NASA klar til atomdrevet rummission i 2028",
-      "resume_da": "NASA er sikre på at kunne sende en mission med atomkraft fremdrift inden udgangen af 2028 efter besøg på laboratoriet, der bygger reaktoren.",
-      "sektioner": [
-        {
-          "overskrift": "Tilliden er styrket",
-          "tekst": "NASA har besøgt det nationale laboratorium, som bygger reaktoren til missionen. Besøget har øget NASAs tillid til planerne. De forventer at kunne sende missionen af sted inden udgangen af **2028**."
-        },
-        {
-          "overskrift": "Reaktoren er nøglen",
-          "tekst": "Reaktoren er central for den elektriske fremdrift, som missionen skal bruge. Med atomkraft kan rumfartøjet rejse hurtigere og længere end med traditionelt brændstof. Laboratoriet har ansvaret for at bygge reaktoren."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2028",
-          "label": "Seneste tidspunkt for opsendelse"
-        }
-      ],
-      "detaljer": [
-        "NASA er nu mere sikre på planerne efter besøget på laboratoriet.",
-        "Reaktoren skal bygges af et nationalt laboratorium.",
-        "Missionen er en demonstration af atomkraft fremdrift."
-      ],
-      "betydning": "Atomkraft kan gøre fremtidige rumrejser hurtigere og mere effektive, hvilket kan åbne muligheder for at udforske solsystemet på nye måder. En vellykket mission vil være et stort skridt for rumfarten.",
-      "pointer": [
-        "NASA er nu sikrere på missionen.",
-        "Reaktoren er under konstruktion.",
-        "Opsendelse planlagt til 2028.",
-        "Atomkraft kan revolutionere rumrejser."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Three energy-loss routes may explain Tarantula Nebula's X-ray shortfall",
-      "link": "https://phys.org/news/2026-08-energy-loss-routes-tarantula-nebula.html",
-      "dato": "2026-08-11T20:50:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA's space telescopes. The resulting cosmic \"craft\" reveals new details about the star-forming region known as 30 Doradus, or the Tarantula Nebula.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasa-telescopes-create.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Ny forskning forklarer Taranteltågens X-ray-gåde",
-      "resume_da": "Forskere har fundet tre mulige årsager til, at Taranteltågen udsender færre røntgenstråler end forventet. Resultatet giver ny indsigt i stjernedannelse.",
-      "sektioner": [
-        {
-          "overskrift": "Billedet afslører detaljer",
-          "tekst": "NASA's rumteleskoper har lavet et nyt billede af stjernedannelsesområdet 30 Doradus, også kaldet Taranteltågen. Billedet er en kombination af observationer og viser nye detaljer om området."
-        },
-        {
-          "overskrift": "Røntgenmangel undersøgt",
-          "tekst": "Forskere har fundet tre måder, hvorpå energi kan forsvinde, hvilket kan forklare, hvorfor tågen udsender færre røntgenstråler end forventet. Disse ruter kan hjælpe med at forstå stjernedannelse bedre."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Billedet er lavet med NASA's rumteleskoper.",
-        "30 Doradus er også kendt som Taranteltågen.",
-        "Området er berømt for stjernedannelse.",
-        "Forskningen handler om tre energitabsruter."
-      ],
-      "betydning": "Ny viden om, hvordan stjerner dannes, kan øge vores forståelse af universet og vores egen galakse. Det kan også inspirere til ny forskning og teknologi.",
-      "pointer": [
-        "Taranteltågen er et aktivt stjernedannelsesområde.",
-        "Forskere har fundet tre mulige forklaringer på røntgenmangel.",
-        "NASA's teleskoper skaber detaljerede billeder.",
-        "Studiet giver ny indsigt i stjernedannelse."
       ],
       "prio": 5
     }
