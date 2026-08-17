@@ -1,7 +1,156 @@
 {
-  "opdateret": "2026-08-17T11:01:20.933886+00:00",
+  "opdateret": "2026-08-17T13:56:44.158879+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Dark matter may be gravitationally lensing a likely source of cosmic neutrinos",
+      "link": "https://phys.org/news/2026-08-dark-gravitationally-lensing-source-cosmic.html",
+      "dato": "2026-08-17T12:40:08+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Astronomers have discovered that the jet of a distant blazar has been gravitationally lensed by an unseen source of dark matter. Led by Silke Britzen at the Max Planck Institute for Radio Astronomy in Germany, the team's results could prove especially important for observations of cosmic neutrinos, which are likely produced in abundance alongside a broad spectrum of electromagnetic waves in blazar",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-detect-gra.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Mørkt stof bøjer lys fra fjern blazar",
+      "resume_da": "Astronomer har fundet, at en fjern blazars jetstråle bliver gravitationelt linset af usynligt mørkt stof. Det kan hjælpe med at forstå kosmiske neutrinoer.",
+      "sektioner": [
+        {
+          "overskrift": "Opdagelsen",
+          "tekst": "Forskere har opdaget, at lyset fra en fjern blazar bliver bøjet af usynligt mørkt stof. Det sker gennem såkaldt gravitationel linsning. Holdet bag opdagelsen ledes af Silke Britzen fra Max Planck Institutet for Radioastronomi i Tyskland."
+        },
+        {
+          "overskrift": "Vigtigt for neutrinoer",
+          "tekst": "Resultatet kan blive vigtigt for observationer af kosmiske neutrinoer. Disse partikler bliver sandsynligvis skabt i store mængder i blazarjets. Sammen med dem udsendes også elektromagnetiske bølger over et bredt spektrum."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "En blazar er en type galakse med en aktiv kerne, der sender en jetstråle mod Jorden.",
+        "Gravitationel linsning opstår, når massen fra et objekt (her mørkt stof) bøjer lyset fra et bagvedliggende objekt.",
+        "Opdagelsen kan hjælpe med at lokalisere kilden til kosmiske neutrinoer."
+      ],
+      "betydning": "Det hjælper forskere med at forstå, hvor kosmiske neutrinoer kommer fra, og hvordan mørkt stof påvirker lys fra fjerne objekter. Det kan give ny viden om universets opbygning.",
+      "pointer": [
+        "Mørkt stof kan bøje lys fra blazarer.",
+        "Fundet kan forklare oprindelsen af kosmiske neutrinoer.",
+        "Forskere ledes af Silke Britzen i Tyskland.",
+        "Blazarer er galakser med aktive kerner."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss",
+      "link": "https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/",
+      "dato": "2026-08-17T12:23:27+00:00",
+      "kilde": "SpaceNews",
+      "resume": "For more than 75 years, the International Astronautical Congress (IAC) has been the annual moment when the global space community comes together &#8211; not online, not in separate regional events, [&#8230;] The post The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/IAC-Stock-Gorsel-Kaleici-1-1-scaled.jpg?fit=1024%2C512&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "IAC 2026: Verdens største rumkongres",
+      "resume_da": "Den 77. internationale rumkongres (IAC 2026) samler hele den globale rumsektor. Det er et must-attend arrangement for fagfolk.",
+      "sektioner": [
+        {
+          "overskrift": "Tradition og betydning",
+          "tekst": "IAC har eksisteret i over **75 år**. Det er den årlige begivenhed, hvor rummiljøet mødes. Det sker ikke online eller i regionale møder."
+        },
+        {
+          "overskrift": "Global samling",
+          "tekst": "Kongressen samler deltagere fra hele verden. Det er et sted for videndeling og samarbejde. Den finder sted i 2026."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "75 år",
+          "label": "Kongressens historie"
+        },
+        {
+          "tal": "77. IAC",
+          "label": "Kongresnummer"
+        }
+      ],
+      "detaljer": [
+        "IAC 2026 er den 77. udgave.",
+        "Kongressen har været afholdt i over 75 år.",
+        "Det er en årlig begivenhed for hele rumsektoren."
+      ],
+      "betydning": "Selvom du ikke er rumforsker, påvirker rumindustrien din hverdag, fx via satellitter. IAC er med til at forme fremtidens rumaktiviteter.",
+      "pointer": [
+        "IAC er en årlig kongres.",
+        "Den samler globale rumaktører.",
+        "IAC 2026 er den 77. udgave.",
+        "Kongressen har lang tradition."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "California Teen Wins 2026 National Young Astronomer Award",
+      "link": "https://skyandtelescope.org/astronomy-news/california-teen-wins-2026-national-young-astronomer-award/",
+      "dato": "2026-08-17T12:00:00+00:00",
+      "kilde": "Sky & Telescope",
+      "resume": "Elizabeth Zhang of Cupertino, California, has earned the Astronomical League's National Young Astronomer award for her study of circumbinary planets. The post California Teen Wins 2026 National Young Astronomer Award appeared first on Sky &amp; Telescope .",
+      "billede": null,
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Californisk teenager vinder astronomipris",
+      "resume_da": "Elizabeth Zhang fra Californien har vundet en pris for sit studie af planeter, der kredser om to sole.",
+      "sektioner": [
+        {
+          "overskrift": "Prisen og vinderen",
+          "tekst": "Elizabeth Zhang fra Cupertino i Californien har vundet Astronomical League's National Young Astronomer Award. Hun får prisen for sit studie af circumbinære planeter, som er planeter, der kredser om to stjerner."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Prisen er for unge astronomer",
+        "Elizabeth studerer planeter omkring dobbeltstjerner",
+        "Hun er fra Californien"
+      ],
+      "betydning": "Det viser, at unge kan lave vigtig forskning, og at rumforskning er åben for alle med interesse.",
+      "pointer": [
+        "Elizabeth Zhang vinder pris",
+        "Studerer planeter om to sole",
+        "Pris fra Astronomical League"
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "The brightened night sky nobody actually wanted",
+      "link": "https://phys.org/news/2026-08-brightened-night-sky.html",
+      "dato": "2026-08-17T11:20:09+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "A new paper has put hard numbers on a plan that's been rattling around the astronomy community for a while now—a California company called Reflect Orbital wants to put giant mirrors in orbit and beam sunlight down to Earth after dark. The work is published on the arXiv preprint server and has been accepted for publication in Astrophysical Journal Letters.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-brightened-night-s.jpg",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Orbitale spejle skal lyse natten op",
+      "resume_da": "Et nyt studie ser på et kontroversielt forslag om at sende gigantiske spejle i kredsløb for at lyse Jorden op om natten. Forskerne kommer med konkrete tal, men ingen er begejstrede.",
+      "sektioner": [
+        {
+          "overskrift": "Et opsigtsvækkende forslag",
+          "tekst": "Et californisk firma, Reflect Orbital, har planer om at sende kæmpe spejle i kredsløb om Jorden. De skal reflektere sollys ned på Jorden efter mørkets frembrud. Det er et forslag, som astronomer har diskuteret i nogen tid."
+        },
+        {
+          "overskrift": "Nye tal i spil",
+          "tekst": "En ny undersøgelse har nu sat konkrete tal på, hvad det ville betyde. Forskere siger, at det vil gøre nattehimlen lysere. Det er publiceret på arXiv og er blevet accepteret i Astrophysical Journal Letters."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Firmaet Reflect Orbital er baseret i Californien.",
+        "Studiet er publiceret på arXiv preprint-serveren.",
+        "Artiklen er accepteret i tidsskriftet Astrophysical Journal Letters.",
+        "Forslaget har været diskuteret i astronomi-miljøet i et stykke tid."
+      ],
+      "betydning": "Hvis det bliver virkelighed, vil det ændre vores nattehimmel markant. Det kan få konsekvenser for både astronomer og almindelige mennesker, der nyder stjernehimmelen.",
+      "pointer": [
+        "Et firma vil sende spejle i kredsløb.",
+        "Spejlene skal lyse Jorden op om natten.",
+        "Et nyt studie kommer med tal på konsekvenserne.",
+        "Ingen er begejstrede ifølge artiklen."
+      ],
+      "prio": 7
+    },
     {
       "titel": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
       "link": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/",
@@ -159,6 +308,60 @@
         "Røg og lav solhøjde gav farven.",
         "Billedet er taget i Spanien.",
         "Brintfremspring var lyserødt."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Chasing Fire Clouds in Utah",
+      "link": "https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/",
+      "dato": "2026-08-17T04:01:00+00:00",
+      "kilde": "NASA",
+      "resume": "NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most formidable cloud types in the sky—towering, smoke-infused pyrocumulonimbus.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/chasing-fire-clouds-in-utah/utahpyrocb_amo_20260802.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "NASA jager vilde ildskyer i Utah",
+      "resume_da": "NASA-forskere undersøger pyroCb-skyer fra en skovbrand i Utah. Disse skyer kan sende røg op i stratosfæren og påvirke klimaet.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er en pyroCb?",
+          "tekst": "PyroCb er kæmpe skyr, der dannes over store skovbrande. De kan sende røg og partikler højt op i atmosfæren. Røgen kan blive hængende i måneder og påvirke jordens klima."
+        },
+        {
+          "overskrift": "Missionen INSPYRE",
+          "tekst": "NASA-missionen INSPYRE jagter disse skyer med specialfly og sensorer. Den 3. august 2026 fløj et fly gennem en røgsky fra Widemouth 2-branden i Utah. Målet er at forstå skyerne bedre."
+        },
+        {
+          "overskrift": "Brandens udvikling",
+          "tekst": "Branden blev tændt af lyn den 27. juli 2026. Den voksede hurtigt den 2. august og skabte flere pyroCb-udbrud. Satellitter målte temperaturer under -40°C i skylaget."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12 km",
+          "label": "Højde hvor flyet samplede røg"
+        },
+        {
+          "tal": "-40°C",
+          "label": "Tærskel for pyroCb-identifikation"
+        },
+        {
+          "tal": "70 pyroCbs",
+          "label": "Ca. årligt antal på verdensplan"
+        }
+      ],
+      "detaljer": [
+        "Branden blev antændt af lyn den 27. juli 2026.",
+        "Flyet fløj fra Colorado til New Mexico for at måle røgen.",
+        "Forskere har registreret over 700 pyroCb-hændelser siden begyndelsen af 2000'erne.",
+        "Morgenskyer er usædvanlige, fordi de ikke får hjælp fra dagens varme."
+      ],
+      "betydning": "Forskningen kan hjælpe med at forudsige vejr og klimaændringer. Den kan også forbedre varsler til brandfolk og myndigheder, så de bedre kan beskytte mennesker og ejendom.",
+      "pointer": [
+        "PyroCb-skyer kan påvirke atmosfæren i lang tid.",
+        "Forskere vil forstå, hvordan de dannes.",
+        "Målinger kan forbedre vejrudsigter.",
+        "Brande bliver hyppigere med varmere klima."
       ],
       "prio": 6
     },
@@ -599,6 +802,58 @@
         "Forskningen er publiceret i Science Advances."
       ],
       "prio": 5
+    },
+    {
+      "titel": "Summer Triangle Corner: Deneb",
+      "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-deneb/",
+      "dato": "2026-08-15T10:00:00+00:00",
+      "kilde": "NASA",
+      "resume": "Bird constellations abound in the night sky, including Cygnus, the majestic swan. Easy to find with its dazzling stars, it is one of the few constellations that look like its namesake, and it is full of treasures. Visible in the Northern Hemisphere all summer long, there’s so much to see and even some things that […]",
+      "billede": "https://science.nasa.gov/wp-content/uploads/2023/10/cygnusintriangleweb-896-e1698417309133.png?w=608",
+      "billede_alt": "Artist",
+      "kategori": "Astronomi",
+      "rubrik": "Sådan finder du stjernebilledet Svanen",
+      "resume_da": "Stjernebilledet Cygnus (Svanen) er let at finde på sommerhimlen. Her er guiden til dets stjerner, stjernetåger og sorte hul.",
+      "sektioner": [
+        {
+          "overskrift": "Find Svanen på himlen",
+          "tekst": "Start med den klare stjerne Deneb, som er en del af Sommertrekanten. Derfra kan du finde stjernen Albireo, som er svanens næb. Svanen har vinger ud til siderne og en hals langs Mælkevejen."
+        },
+        {
+          "overskrift": "Særlige syn med kikkert",
+          "tekst": "Med en kikkert kan du se stjernehoben Messier 29, som ligger tæt på svanens krop. Med et teleskop kan du se dobbeltstjernen Albireo, som er guld og blå. Og du kan se Cygnus Loop, en supernovarest, der ligner en lysende ring."
+        },
+        {
+          "overskrift": "Det sorte hul Cygnus X-1",
+          "tekst": "I Cygnus findes der et berømt sort hul kaldet Cygnus X-1. Det blev opdaget i 1971 og er det første sorte hul, man accepterede. Det har en masse på omkring **20 sole** og roterer over **800 gange i sekundet**."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "800 gange/sek",
+          "label": "rotation af sort hul"
+        },
+        {
+          "tal": "6.070 lysår",
+          "label": "afstand til sort hul"
+        }
+      ],
+      "detaljer": [
+        "Cygnus er latin for svane.",
+        "Deneb er en del af Sommertrekanten.",
+        "Albireo er en dobbeltstjerne.",
+        "Cygnus Loop kaldes også Slørtågen.",
+        "Cygnus X-1 blev opdaget i 1971.",
+        "Det sorte hul er 6.070 lysår væk."
+      ],
+      "betydning": "For almindelige danskere er det en mulighed for at se noget smukt på himlen og lære om universets ekstreme fænomener som sorte huller.",
+      "pointer": [
+        "Svanen er let at finde om sommeren.",
+        "Den indeholder smukke stjerner og tåger.",
+        "Der er et sort hul i nærheden.",
+        "Det er sikkert at observere fra Jorden."
+      ],
+      "prio": 6
     },
     {
       "titel": "We think these Nikon binoculars are excellent for variable magnification on the go",
@@ -3987,269 +4242,6 @@
         "Giver ny viden om stjernedannelse"
       ],
       "prio": 7
-    },
-    {
-      "titel": "Lion Nebula Roars in Webb’s Sights",
-      "link": "https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights/",
-      "dato": "2026-08-11T17:02:49+00:00",
-      "kilde": "NASA",
-      "resume": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. The nebula&#8217;s &#8220;mane&#8221; is clear and detailed in this image released on Aug. 10, 2026, due to Webb&#8217;s high-resolution imaging. See more images of the Lion Nebula from Webb. Image: NASA, ESA, [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/stsci-01kx6d0xbhsyp7q1em5qtc43rp.png?w=2048",
-      "billede_alt": "JWST’s Near Infrared Camera and Mid Infrared Instrument combined image of planetary nebula NGC 2392, the Lion Nebula, against the black background of space. The nebula is at center, circular in shape,",
-      "kategori": "Astronomi",
-      "rubrik": "James Webb fotograferer Løvenebulosen",
-      "resume_da": "James Webb-teleskopet har taget nye billeder af planetarisk tåge NGC 2392, kaldet Løvenebulosen, viser klare detaljer af dens manke.",
-      "sektioner": [
-        {
-          "overskrift": "Nye billeder af Løvenebulosen",
-          "tekst": "James Webb-teleskopet har taget nye billeder af planetarisk tåge NGC 2392, også kaldet Løvenebulosen. Billedet er taget med instrumenterne NIRCam og MIRI. Det viser tågens struktur i høj opløsning."
-        },
-        {
-          "overskrift": "Stjerneresten skaber strukturen",
-          "tekst": "Den centrale stjernes rester er ansvarlige for tågens struktur. Den har skabt en boble formet som et løveansigt med en manke af gas og støv. Tågen er ioniseret gas og støv."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "Aug. 10, 2026",
-          "label": "dato for offentliggørelse"
-        }
-      ],
-      "detaljer": [
-        "Billedet er taget med NIRCam og MIRI instrumenter.",
-        "Tågen kaldes også NGC 2392.",
-        "Billedet er behandlet af Alyssa Pagan."
-      ],
-      "betydning": "Det viser hvordan stjerner dør og skaber smukke strukturer, og James Webb kan se detaljer, vi ikke har set før.",
-      "pointer": [
-        "James Webb tog billeder i høj opløsning.",
-        "Tågen ligner et løveansigt.",
-        "Billedet blev offentliggjort 10. august.",
-        "Gas og støv danner manke."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Webb reveals oxygen-rich dust and water surviving near Milky Way's central black hole",
-      "link": "https://phys.org/news/2026-08-webb-reveals-oxygen-rich-surviving.html",
-      "dato": "2026-08-11T17:00:02+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers has discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the center of the Milky Way galaxy. The observations reveal that the evolved star IRS 3 continues to enrich its surroundings with newly formed material despite the intense radiation environment around Sa",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/webb-reveals-dust-and-1.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Webb finder støv og vand tæt på Mælkevejens sorte hul",
-      "resume_da": "Med James Webb-teleskopet har forskere opdaget, at støv og vand kan dannes og overleve meget tæt på det supermassive sorte hul i Mælkevejens centrum.",
-      "sektioner": [
-        {
-          "overskrift": "Overraskende fund",
-          "tekst": "Stjernen IRS 3 beriger stadig sine omgivelser med nyt materiale. Det sker trods den intense stråling tæt på Sagittarius A*."
-        },
-        {
-          "overskrift": "Tæt på det sorte hul",
-          "tekst": "Observationerne viser, at støv og vand kan dannes og overleve tættere på det sorte hul end hidtil troet. Det giver ny viden om forholdene i galaksens centrum."
-        },
-        {
-          "overskrift": "Betydning for forståelsen",
-          "tekst": "Fundet kan ændre forskernes forståelse af, hvor og hvordan stjerner og planeter kan opstå. Det viser, at selv ekstreme miljøer kan rumme livets byggesten."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "James Webb Space Telescope er et samarbejde mellem NASA, ESA og CSA.",
-        "Det sorte hul i Mælkevejens centrum kaldes Sagittarius A*.",
-        "Den udviklede stjerne IRS 3 er kilden til det nye støv og vand."
-      ],
-      "betydning": "For almindelige danskere viser det, at rumforskning hele tiden udvider vores viden om universet og livets byggesten, også selv i de mest ekstreme miljøer.",
-      "pointer": [
-        "Webb-teleskopet observerede støv og vand tæt på det sorte hul.",
-        "Stjernen IRS 3 leverer materialet trods hård stråling.",
-        "Fundet overrasker forskerne og ændrer forståelsen.",
-        "Viser at livets byggesten kan opstå mange steder."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "NASA will chase the Aug. 12 total solar eclipse with balloons and a high-altitude jet",
-      "link": "https://www.space.com/stargazing/solar-eclipses/nasa-will-chase-the-aug-12-total-solar-eclipse-with-balloons-and-a-high-altitude-jet",
-      "dato": "2026-08-11T16:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "\"Scientists can study the sun's corona in a way we can't from anywhere else in the solar system.\"",
-      "billede": "https://cdn.mos.cms.futurecdn.net/L7Y9cgR3RY6VU2vsUsqSv7-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "NASA jager solformørkelse med jet og balloner",
-      "resume_da": "Den 12. august vil NASA følge en total solformørkelse med højtflyvende jetfly og balloner for at studere solens atmosfære.",
-      "sektioner": [
-        {
-          "overskrift": "Jetfly og balloner",
-          "tekst": "NASA vil bruge et højtflyvende jetfly og flere balloner til at observere solformørkelsen. Jetflyet flyver højt for at undgå skyer og få et bedre billede. Ballonerne sender billeder ned til jorden i realtid."
-        },
-        {
-          "overskrift": "Hvad skal de studere?",
-          "tekst": "Forskerne vil især studere solens korona, som er solens ydre atmosfære. Den er normalt for lys til at se, men under en formørkelse bliver den synlig. De vil også undersøge, hvordan lyset påvirker jordens atmosfære."
-        },
-        {
-          "overskrift": "Hvordan foregår det?",
-          "tekst": "Jetflyet vil flyve i skyggen af månen for at forlænge observationstiden. Ballonerne slippes fra forskellige steder i USA. Dataene bliver samlet og analyseret bagefter for at lære mere om solen."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "12. august",
-          "label": "Dato for formørkelsen"
-        }
-      ],
-      "detaljer": [
-        "NASA deltager aktivt i at observere formørkelsen.",
-        "Formørkelsen er total, hvilket betyder at månen helt dækker solen.",
-        "Jetflyet flyver i en højde hvor skyer ikke er et problem.",
-        "Ballonerne giver mulighed for at filme formørkelsen fra højden."
-      ],
-      "betydning": "Det giver os ny viden om solen, som er vigtig for at forstå vejr og klima på jorden. Desuden er det flot og spændende at følge med i sådan et astronomisk fænomen.",
-      "pointer": [
-        "NASA sender jetfly op for at følge solformørkelsen.",
-        "Balloner filmer formørkelsen fra stratosfæren.",
-        "Forskningen kan give nye indsigter i solens korona."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula",
-      "link": "https://science.nasa.gov/missions/chandra/nasa-telescopes-create-colorful-craft-from-nearby-nebula/",
-      "dato": "2026-08-11T15:19:15+00:00",
-      "kilde": "NASA",
-      "resume": "Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic “craft” reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula. Located in the Large Magellanic Cloud, a small neighbor galaxy […]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/30dor_crop.jpg?w=8249&#038;h=7282&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "This multiwavelength image of the Tarantula Nebula, one of the brightest and largest regions of star formation to Earth, shows X-rays from Chandra that reveal gas that has been blown away in winds fro",
-      "kategori": "Astronomi",
-      "rubrik": "Nye NASA-billeder afslører Tarantula-tågens hemmeligheder",
-      "resume_da": "NASA har kombineret data fra tre rumteleskoper til et farverigt billede af Tarantula-tågen. Det viser, at tågen mister mere energi end forventet.",
-      "sektioner": [
-        {
-          "overskrift": "Et farverigt billede",
-          "tekst": "NASA har lavet et nyt billede af stjernedannelsesområdet 30 Doradus, også kaldet Tarantula-tågen. Billedet kombinerer røntgendata fra Chandra-teleskopet, infrarøde data fra James Webb og optiske data fra Hubble."
-        },
-        {
-          "overskrift": "Tågen mister energi",
-          "tekst": "Forskere blev overraskede over, at der er meget mindre røntgenlysende gas end forventet. De fandt ud af, at tågen mister energi gennem tre mekanismer: varm gas lækker ud, kold og varm gas blandes, og varme ledes væk ved direkte kontakt."
-        },
-        {
-          "overskrift": "Tre teleskoper i samarbejde",
-          "tekst": "Ved at kombinere data fra Chandra, Hubble og Webb kunne forskerne se detaljer, som ingen af teleskoperne kunne vise alene. Det blå i billedet er røntgenstråling, det røde er infrarød stråling, og det grønne er optisk lys."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "160.000 lysår",
-          "label": "Afstand fra Jorden"
-        },
-        {
-          "tal": "3",
-          "label": "Antal teleskoper i billedet"
-        }
-      ],
-      "detaljer": [
-        "Billedet er lavet af data fra Chandra, James Webb og Hubble-teleskoperne.",
-        "Tarantula-tågen ligger i Den Store Magellanske Sky.",
-        "Tågen indeholder tusindvis af unge stjerner.",
-        "Den varme gas kan nå temperaturer på millioner af grader.",
-        "Halvdelen af den varme gas lækker ud gennem skaller af gas og støv."
-      ],
-      "betydning": "Denne opdagelse hjælper forskere med at forstå, hvordan stjerner og galakser udvikler sig. Det viser, hvordan energien fra massive stjerner påvirker deres omgivelser, hvilket er vigtigt for at forstå universets historie.",
-      "pointer": [
-        "NASA har lavet et nyt billede af Tarantula-tågen.",
-        "Billedet kombinerer data fra tre teleskoper.",
-        "Tågen mister mere energi end forventet.",
-        "Forskerne har fundet tre årsager til energitabet."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "What history can teach us about the future of property rights in space (op-ed)",
-      "link": "https://www.space.com/space-exploration/what-history-can-teach-us-about-the-future-of-property-rights-in-space-op-ed",
-      "dato": "2026-08-11T15:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "Without property rights in space, one of the most important economic incentives for the commercial development — and ultimately the settlement — of celestial bodies is missing.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/gSbSdisEFG8AZZ2kTdJGBV-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Kan vi eje ejendom i rummet? Historien giver svar",
-      "resume_da": "En historiker ser på, hvordan ejendomsret har udviklet sig gennem tiden og giver perspektiv på fremtidens regler for ejendom i rummet.",
-      "sektioner": [
-        {
-          "overskrift": "Historie og ejendomsret",
-          "tekst": "Rainer Zitelmann, der er historiker og sociolog, mener, at vi kan lære af fortidens udvikling af ejendomsret. Han har skrevet mange bøger om kapitalisme og fattigdom. Historien viser ifølge ham, hvordan regler for ejerskab har ændret sig."
-        },
-        {
-          "overskrift": "Lektioner til rummet",
-          "tekst": "Zitelmann bruger erfaringer fra jorden til at pege på, hvordan ejendomsret i rummet kan blive til. Han argumenterer for, at klare regler er vigtige for investeringer og udvikling. Uden sikker ejendomsret kan der opstå konflikter."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Artiklen er en kommentar skrevet af Rainer Zitelmann.",
-        "Zitelmann har doktorgrader i historie og sociologi.",
-        "Han har skrevet 32 bøger og bidraget til mange medier."
-      ],
-      "betydning": "For almindelige danskere er debatten om ejendomsret i rummet relevant, fordi den kan påvirke fremtidige investeringer, konkurrence og muligheder i rumindustrien.",
-      "pointer": [
-        "Historien kan hjælpe os med at forstå ejendomsret i rummet.",
-        "Klare regler er nødvendige for at undgå konflikter.",
-        "Ejendomsret er vigtig for investeringer.",
-        "Artiklen er et debatindlæg fra en kendt forfatter."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026",
-      "link": "https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026/",
-      "dato": "2026-08-11T14:58:05+00:00",
-      "kilde": "SpaceNews",
-      "resume": "FOR IMMEDIATE RELEASE ISTO Space Systems MOSA Interface Standards Alliance Announces Industry Webinar: “MOSA Interoperability Standards for Space Systems” August 26, 2026 &#124; 9:00 AM – 1:00 PM PDT / [&#8230;] The post Webinar on MOSA Interoperability Standards for Space Systems &#8211; August 26, 2026 appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/mosa-logo.png?fit=190%2C190&amp;ssl=1",
-      "billede_alt": "MOSA logo square",
-      "kategori": "Forskning",
-      "rubrik": "Webinar om MOSA-standarder for rumfart",
-      "resume_da": "Den 26. august 2026 afholder ISTO Space Systems et webinar om MOSA-interoperabilitetsstandarder for rumfart. Webinaret er gratis.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er MOSA?",
-          "tekst": "MOSA står for Modular Open Systems Approach. Det er en måde at designe systemer på, så dele kan udskiftes og opgraderes nemt. Det gælder også for rumfart."
-        },
-        {
-          "overskrift": "Webinarets indhold",
-          "tekst": "Webinaret hedder “MOSA Interoperability Standards for Space Systems”. Det finder sted den 26. august fra kl. **9:00 til 13:00** (PDT – en tidszone i USA). Det er et industrievent, så det henvender sig til folk i rumfartsbranchen."
-        },
-        {
-          "overskrift": "Praktisk information",
-          "tekst": "Webinaret er arrangeret af ISTO Space Systems. Det er gratis at deltage. Mere information kan findes på SpaceNews."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "26. august 2026",
-          "label": "Startdato for webinar"
-        },
-        {
-          "tal": "9:00-13:00",
-          "label": "Tidsrum (PDT)"
-        }
-      ],
-      "detaljer": [
-        "Arrangør: ISTO Space Systems MOSA Interface Standards Alliance",
-        "Webinar om MOSA-interoperabilitetsstandarder",
-        "Gratis at deltage",
-        "Varighed: 4 timer"
-      ],
-      "betydning": "MOSA-standarder kan gøre rumfart mere fleksibel og billigere. Danske virksomheder og forskere kan få indblik i fremtidens standarder.",
-      "pointer": [
-        "Fokus på åbne standarder",
-        "Kun for branchen",
-        "Gratis webinar",
-        "Kort varighed"
-      ],
-      "prio": 5
     }
   ]
 }
