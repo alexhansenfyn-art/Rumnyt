@@ -1,7 +1,111 @@
 {
-  "opdateret": "2026-08-17T19:17:27.544531+00:00",
+  "opdateret": "2026-08-17T20:59:32.611076+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "NASA Selects Companies to Provide Payload Processing Services",
+      "link": "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/",
+      "dato": "2026-08-17T20:17:20+00:00",
+      "kilde": "NASA",
+      "resume": "NASA has selected four companies to provide payload processing facilities under the Spacecraft Processing Operations Contract on‑ramp provision. The provision enables qualified providers to offer commercial payload processing services for agency missions launching from multiple locations where capabilities were not available at the time of the initial contract award. Contract awardees are: Through",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg?w=1080",
+      "billede_alt": "NASA insignia",
+      "kategori": "Politik & penge",
+      "rubrik": "NASA vælger fire firmaer til at håndtere nyttelast",
+      "resume_da": "NASA har valgt fire virksomheder til at levere tjenester til håndtering af rumfartøjer før opsendelse. Kontrakten kan blive op til 100 millioner dollars.",
+      "sektioner": [
+        {
+          "overskrift": "Fire firmaer udvalgt",
+          "tekst": "NASA har valgt All Points Logistics, Blue Origin, Firefly Aerospace og L3Harris Technologies til at levere tjenester. De skal håndtere rumfartøjer og raketdele før opsendelse. Det sker fra flere forskellige opsendelsessteder."
+        },
+        {
+          "overskrift": "Kontraktens omfang",
+          "tekst": "Kontrakten er en såkaldt 'on-ramp' aftale. Det betyder, at flere firmaer kan blive tilføjet senere. Den samlede øvre grænse er på **100 millioner dollars**. Ordreperioden løber til **1. februar 2033**."
+        },
+        {
+          "overskrift": "Hvem styrer?",
+          "tekst": "Nasas Launch Services Program på Kennedy Space Center i Florida administrerer kontrakten. Programmet hjælper med at sende videnskabelige nyttelaster ud i rummet. Det inkluderer både små satellitter fra universiteter og store NASA-missioner."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "100 millioner dollars",
+          "label": "Kontraktens øvre grænse"
+        },
+        {
+          "tal": "1. februar 2033",
+          "label": "Ordreperiodens slutdato"
+        }
+      ],
+      "detaljer": [
+        "Fire firmaer er udvalgt: All Points Logistics, Blue Origin, Firefly Aerospace og L3Harris Technologies.",
+        "Tjenesterne omfatter forberedelse af rumfartøjer og raketdele før opsendelse.",
+        "Kontrakten er en fastpris-aftale med flere udbydere.",
+        "Administreres af Nasas Launch Services Program på Kennedy Space Center."
+      ],
+      "betydning": "For almindelige danskere betyder det, at flere virksomheder kan konkurrere om at håndtere rumudstyr, hvilket kan gøre opsendelser billigere og mere fleksible. Det kan også øge antallet af missioner fra USA.",
+      "pointer": [
+        "NASA har valgt fire firmaer til at håndtere rumfartøjer før opsendelse.",
+        "Kontrakten kan blive op til 100 millioner dollars.",
+        "Ordreperioden løber til 2033.",
+        "Launch Services Program administrerer aftalen."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "NASA Mission Studies Air Pollution Over Ethiopia",
+      "link": "https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/",
+      "dato": "2026-08-17T19:24:34+00:00",
+      "kilde": "NASA",
+      "resume": "A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in Ethiopia’s capital, Addis Ababa. The detailed measurements show how pollution changes by time of day and season, including increases associated with [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/1-addis-ababa-city-view.jpg?w=1920",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "NASA luftmålinger finder massiv sod i Etiopien",
+      "resume_da": "NASA's målinger i Addis Abeba viser, at luftforureningen er markant højere end i USA. Sodfyldte partikler udgør en alvorlig sundhedsrisiko.",
+      "sektioner": [
+        {
+          "overskrift": "Målinger over tre år",
+          "tekst": "Forskere analyserede data fra 10 målestationer i Addis Abeba fra 2022 til 2025. Det er det første langsigtede studie af denne type i Etiopien. Målingerne viser, hvordan luftforureningen varierer i løbet af dagen og årstiderne."
+        },
+        {
+          "overskrift": "Sundhedsfarlige partikler",
+          "tekst": "Fokus er på partikler, der er mindre end 2,5 mikrometer (PM2.5). Disse partikler er forbundet med omkring **4,9 millioner** dødsfald globalt hvert år. I Addis Abeba var gennemsnitsniveauet **30 mikrogram** pr. kubikmeter – over tre gange USAs grænseværdi."
+        },
+        {
+          "overskrift": "Nyt NASA-projekt",
+          "tekst": "MAIA-projektet kombinerede først i historien sundhedsforskere med et rumprojekt. En kommende satellit, der sendes op i 2027, skal kortlægge partikler fra rummet. Målingerne skal hjælpe med at forstå sundhedseffekterne og forbedre luftkvaliteten."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "30 mikrogram/m³",
+          "label": "Gennemsnitlig PM2.5-niveau"
+        },
+        {
+          "tal": "4,9 mio.",
+          "label": "Dødsfald årligt globalt"
+        },
+        {
+          "tal": "2027",
+          "label": "Satellitopsendelse"
+        }
+      ],
+      "detaljer": [
+        "Sodniveauet er 4-9 gange højere end i Los Angeles, Atlanta og Boston.",
+        "Etiopien er første land til at forbyde benzin- og dieselbiler.",
+        "Byen har omkring 6 mio. indbyggere, og tallet forventes at stige til 10 mio. i 2050.",
+        "Høje sodmålinger blev set under helligdage med bål."
+      ],
+      "betydning": "Luftforurening rammer også danske byer. Målingerne kan hjælpe med at forstå og bekæmpe forurening globalt.",
+      "pointer": [
+        "Langsigtet måling af luftforurening i Etiopien.",
+        "PM2.5-niveau tre gange over USAs grænse.",
+        "Sod fra trafik og bål er en stor kilde.",
+        "Satellit skal overvåge luftforurening fra rummet."
+      ],
+      "prio": 4
+    },
     {
       "titel": "Next Generation of Planetary Scientists Learn Public Engagement Skills",
       "link": "https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/",
@@ -4207,84 +4311,6 @@
         "Det handler om langsigtet tænkning."
       ],
       "prio": 5
-    },
-    {
-      "titel": "How to design a space habitat that supports its residents' mental health",
-      "link": "https://phys.org/news/2026-08-space-habitat-residents-mental-health.html",
-      "dato": "2026-08-12T09:00:04+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "In extreme environments, habitats are built for survival. Submarines, Antarctic bases and post-disaster dwellings are designed to prioritize health and safety. This is especially the case for habitats in space, where room is limited, contact with Earth is remote and hazards are numerous.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/spaceship.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Spacehabitat: Design og mental sundhed",
-      "resume_da": "Et nyt studie ser på, hvordan rumhabitater bør designes for at støtte astronauters mentale sundhed, ikke kun fysisk sikkerhed.",
-      "sektioner": [
-        {
-          "overskrift": "Design til overlevelse",
-          "tekst": "Ekstreme miljøer som ubåde og Antarktis-baser designes primært for sikkerhed. Det samme gælder rumhabitater, hvor pladsen er trang, og kontakten med Jorden er fjern. Men det er ikke nok – mental sundhed er også vigtig."
-        },
-        {
-          "overskrift": "Behovet for mental støtte",
-          "tekst": "Menneskets psykologiske velbefindende påvirkes af ophold i lukkede rum. Designet af rumhabitater bør derfor tage højde for beboernes mentale behov, ikke kun de fysiske. Det kan være alt fra farver, belysning og mulighed for privatliv."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Habitater i rummet er bygget for overlevelse",
-        "Submariner og Antarktis-baser er sammenlignelige ekstreme miljøer",
-        "Begrænset plads og fjern kommunikation med Jorden er udfordringer"
-      ],
-      "betydning": "For almindelige danskere er dette relevant, fordi forskning i rumhabitater kan give viden om, hvordan man designer boliger og arbejdsmiljøer, der fremmer mental trivsel – også på Jorden.",
-      "pointer": [
-        "Rumhabitater skal designes for både fysisk og mental sundhed",
-        "Ekstreme miljøer prioriterer sikkerhed, men glemmer ofte psykologi",
-        "Design kan påvirke astronauters trivsel og funktion",
-        "Lærdom kan bruges i andre lukkede miljøer på Jorden"
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "Stops Along the Path of Totality",
-      "link": "https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/",
-      "dato": "2026-08-12T04:01:00+00:00",
-      "kilde": "NASA",
-      "resume": "Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026.",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/stops-along-the-path-of-totality/iceland_oli2_20260725.jpg?w=2160&#038;h=1500&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A peninsula in Iceland stretches across the image to the left. A prominent glacier-capped volcano sits near its western end.",
-      "kategori": "Astronomi",
-      "rubrik": "Total solformørkelse i august 2026",
-      "resume_da": "Den 12. august 2026 vil en total solformørkelse kunne ses fra Island og Spanien. Her kan du læse om, hvor du kan se den, og hvad du skal vide.",
-      "sektioner": [
-        {
-          "overskrift": "Hvor og hvornår",
-          "tekst": "Den 12. august passerer Månens skygge først over Arktis, derefter Grønland og Island. Klokken 17:45 dansk tid rammer den Islands vestkyst, og den største formørkelse sker nær halvøen Snæfellsnes. Senere rammer skyggen det nordlige Spanien."
-        },
-        {
-          "overskrift": "Kendte steder på ruten",
-          "tekst": "På Island ligger Snæfellsjökull-vulkanen, som er dækket af is og sidst var aktiv for 1.800 år siden. Vulkanen er kendt fra Jules Vernes roman 'Rejsen til Jordens Indre'. I Spanien løber floden Ebro gennem vinområdet La Rioja, og deltaet ligger mellem Barcelona og Valencia."
-        },
-        {
-          "overskrift": "Bedste chancer for klart vejr",
-          "tekst": "Satellitdata viser, at der i Spanien er større chance for klart vejr end i Island i august. Uanset hvor du er, kan du opleve en delvis formørkelse i store dele af Europa, Afrika, Canada og dele af USA."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Den totale formørkelse sker den 12. august 2026",
-        "Stedet hvor månen er størst er nær Snæfellsnes-halvøen",
-        "Snæfellsjökull-vulkanen er i en nationalpark og er et UNESCO-biosfærereservat",
-        "Ebro-floden er cirka 400 kilometer lang",
-        "I Spanien er der større chance for klart vejr end i Island"
-      ],
-      "betydning": "For almindelige danskere er det en sjælden begivenhed at se en total solformørkelse, og selvom man ikke kan se den fra Danmark, kan man opleve en delvis formørkelse. Det er en god anledning til at interesere sig for astronomi og naturen.",
-      "pointer": [
-        "Total solformørkelse den 12. august 2026",
-        "Synlig fra Island og Spanien",
-        "Snæfellsjökull-vulkanen er et populært sted",
-        "Spanien har bedre vejrudsigt end Island"
-      ],
-      "prio": 7
     }
   ]
 }
