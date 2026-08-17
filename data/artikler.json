@@ -1,7 +1,98 @@
 {
-  "opdateret": "2026-08-17T13:56:44.158879+00:00",
+  "opdateret": "2026-08-17T14:57:54.858119+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Hubble & Gaia solve our galaxy's merger mystery",
+      "link": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery",
+      "dato": "2026-08-17T15:00:00+00:00",
+      "kilde": "ESA",
+      "resume": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the earliest phases of its evolution. This finding extends our knowledge of our galaxy’s history 1.8 billion years farther back in time than before.",
+      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/lkh_milky_way_merger_artist_s_impression/27417845-1-eng-GB/LKH_Milky_Way_merger_artist_s_impression_card_full.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Hubble og Gaia afslører Mælkevejens fortid",
+      "resume_da": "Nye data fra Hubble og Gaia viser, at Mælkevejen slugte en dværggalakse tidligt i sin historie. Det flytter vores viden om galaksens udvikling **1,8 milliarder år** tilbage i tiden.",
+      "sektioner": [
+        {
+          "overskrift": "Mælkevejens hemmelighed",
+          "tekst": "Astronomer har længe vidst, at Mælkevejen voksede ved at sluge mindre galakser. Nu viser nye data fra Hubble- og Gaia-teleskoperne klare beviser på, at en dværggalakse blev slugt, da Mælkevejen var ung. Det er det tidligste bevis på en sådan kollision."
+        },
+        {
+          "overskrift": "Data fra to teleskoper",
+          "tekst": "Forskerne brugte data fra både Hubble og ESA's Gaia-satellit. Hubble gav detaljerede billeder af stjerner, mens Gaia målte deres bevægelser præcist. Kombinationen gjorde det muligt at se spor af den gamle kollision."
+        },
+        {
+          "overskrift": "Ny tidslinje",
+          "tekst": "Opdagelsen rykker vores viden om Mælkevejens historie **1,8 milliarder år** længere tilbage i tiden. Det betyder, at galaksens tidligste fase var mere aktiv, end man troede."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1,8 milliarder år",
+          "label": "Længere tilbage i tiden"
+        }
+      ],
+      "detaljer": [
+        "Brug af Hubble og Gaia data",
+        "Bevis for dværggalakse-kollision",
+        "Mælkevejen voksede ved at sluge galakser",
+        "Tidligste fase af galaksens udvikling"
+      ],
+      "betydning": "Det giver os en bedre forståelse af, hvordan vores egen galakse blev til. Det hjælper os med at forstå, hvordan galakser generelt udvikler sig.",
+      "pointer": [
+        "Mælkevejen slugte en dværggalakse",
+        "Kollisionen skete tidligt",
+        "To teleskoper leverede beviserne",
+        "Viden rykket 1,8 mia. år tilbage"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Total solar eclipse 2026 (Official ESA broadcast)",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast",
+      "dato": "2026-08-17T14:00:00+00:00",
+      "kilde": "ESA",
+      "resume": "Video: 01:10:42 We broadcast live from the Observatorio Astrofísico de Javalambre in Spain as a total solar eclipse crossed Europe on 12 August 2026. The path of totality swept across Greenland, Iceland, Spain and a small area of northeastern Portugal, while much of Europe experienced a partial eclipse. A total solar eclipse occurs when the Moon passes directly between Earth and the Sun, completel",
+      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/total_solar_eclipse_2026_official_esa_broadcast/27417091-2-eng-GB/Total_solar_eclipse_2026_Official_ESA_broadcast_card_full.png",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "ESA sender direkte fra total solformørkelse i 2026",
+      "resume_da": "ESA sender live fra et observatorium i Spanien, når en total solformørkelse rammer Europa den 12. august 2026. Du kan se med og lære om solen og rummet.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er en total solformørkelse?",
+          "tekst": "En total solformørkelse sker, når Månen passerer direkte mellem Jorden og Solen og dækker Solen helt. Den 12. august 2026 vil totaliteten gå over Grønland, Island, Spanien og et lille område i det nordøstlige Portugal. Det meste af Europa vil se en delvis formørkelse."
+        },
+        {
+          "overskrift": "ESA's live-udsendelse",
+          "tekst": "ESA sender live fra Observatorio Astrofísico de Javalambre i Spanien, som ligger i totalitetens bane. Værten er Dame Dr. Maggie Aderin, og ESA's videnskabsdirektør Carole Mundell deltager også. Der vil være teleskopvisninger, ekspertkommentarer og interviews."
+        },
+        {
+          "overskrift": "Hvad vi lærer",
+          "tekst": "Under udsendelsen udforsker forskere videnskaben bag formørkelser, Solen og deres betydning for rumfart og Jorden. Der vil også være fokus på solvidenskab og rumvejr samt ESA's aktiviteter i forbindelse med formørkelsen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12. august 2026",
+          "label": "Dato for formørkelsen"
+        }
+      ],
+      "detaljer": [
+        "Udsendelsen varer 1 time, 10 minutter og 42 sekunder.",
+        "Observatoriet ligger i Spanien.",
+        "Der er også formørkelser i Europa i 2027 og 2028."
+      ],
+      "betydning": "For almindelige danskere er dette en chance for at se en sjælden astronomisk begivenhed live og forstå, hvordan solformørkelser påvirker vores viden om Solen og rumvejr, som kan påvirke teknologi på Jorden.",
+      "pointer": [
+        "Total solformørkelse den 12. august 2026.",
+        "ESA sender live fra Spanien.",
+        "Mest af Europa ser delvis formørkelse.",
+        "Lær om solen og rumvejr."
+      ],
+      "prio": 7
+    },
     {
       "titel": "Dark matter may be gravitationally lensing a likely source of cosmic neutrinos",
       "link": "https://phys.org/news/2026-08-dark-gravitationally-lensing-source-cosmic.html",
@@ -4156,92 +4247,6 @@
         "Studiet giver ny indsigt i stjernedannelse."
       ],
       "prio": 5
-    },
-    {
-      "titel": "NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface",
-      "link": "https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/",
-      "dato": "2026-08-11T19:41:34+00:00",
-      "kilde": "NASA",
-      "resume": "NASA has declared “wrenches down” on the first completed payload designed for Artemis astronauts to deploy on the Moon’s surface. Engineers working on NASA’s Lunar Environment Monitoring Station, or LEMS, have completed hardware development and testing and the payload is ready for its permanent home near the lunar South Pole. With the hardware complete, LEMS […]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/earths-moon/lunar-science/GSFC_20260130_LEMSA3_001911%201.jpg?w=4500&#038;h=3000&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "Rectangular box-shaped device resting on a metal table. The front face is covered with a grid of many small black rectangular panels bordered in white. Metal components, brackets, and small box units ",
-      "kategori": "Missioner",
-      "rubrik": "Nyt måleinstrument klar til Månen",
-      "resume_da": "NASA har færdiggjort LEMS, et kompakt instrument, der skal måle måneskælv. Det skal bruges af astronauter på Artemis-missioner.",
-      "sektioner": [
-        {
-          "overskrift": "Instrumentet er færdigt",
-          "tekst": "NASA har gjort det første videnskabelige instrument klar, som astronauter skal placere på Månen. Instrumentet hedder LEMS og skal overvåge rystelser i Månen. Det er bygget hos NASA Goddard."
-        },
-        {
-          "overskrift": "Måler måneskælv",
-          "tekst": "LEMS indeholder to følsomme seismometre, der skal opfange måneskælv og meteoritnedslag. Det giver viden om Månens indre og om, hvilke rystelser astronauter kan møde. Tidligere Apollo-missioner havde også seismometre, men de stoppede i 1977."
-        },
-        {
-          "overskrift": "Skal klare sig selv",
-          "tekst": "Instrumentet er på størrelse med en lille kuffert og vejer kun 11 pund på Månen. Det har solceller, kan holde sig varm og sende data til Jorden hver måned. Det er bygget til at overleve den lange månenat uden ekstern strøm."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "11 pund",
-          "label": "Vægt på Månen"
-        },
-        {
-          "tal": "-400 grader Fahrenheit",
-          "label": "Temperatur, den skal klare"
-        },
-        {
-          "tal": "13.000",
-          "label": "Måneskælv registreret af Apollo"
-        }
-      ],
-      "detaljer": [
-        "LEMS er klar til at blive sendt til Månens sydpol.",
-        "Den skal måle rystelser fra måneskælv og meteoritnedslag.",
-        "Instrumentet er designet til at fungere selvstændigt i årevis.",
-        "Det skal bruges i Artemis-programmet."
-      ],
-      "betydning": "For almindelige danskere viser det, at rumforskning gør fremskridt med at forstå Månen, hvilket kan bane vej for fremtidig udforskning og teknologi. Det er også et eksempel på, hvordan avanceret teknologi kan blive mere kompakt og energieffektiv.",
-      "pointer": [
-        "NASA færdiggør første instrument til Månen.",
-        "Det skal måle måneskælv.",
-        "Er designet til at overleve uden hjælp.",
-        "Skal bruges på fremtidige missioner."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Twisted magnetic field around newborn star confirms decades-old jet theory",
-      "link": "https://phys.org/news/2026-08-magnetic-field-newborn-star-decades.html",
-      "dato": "2026-08-11T17:20:07+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA), of which the U.S. National Science Foundation National Radio Astronomy Observatory (NSF NRAO) is a partner, have captured the first direct, high-resolution images of a magnetic field wrapped tightly around the outflow of gas streaming away from a forming star—evidence that solves a decades-old puzzle about how young stars s",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/twisted-physics-astron.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Ny opdagelse: Magnetfelt styrer stjerners jetstrømme",
-      "resume_da": "Astronomer har for første gang set et magnetfelt snoet omkring den gasstrøm, der dannes omkring en nyfødt stjerne. Det bekræfter en 40 år gammel teori om, hvordan unge stjerner skaber deres jetstrømme.",
-      "sektioner": [
-        {
-          "overskrift": "Første direkte billeder",
-          "tekst": "Ved hjælp af ALMA-teleskopet har forskere for første gang taget direkte, højopløselige billeder af et magnetfelt, der er viklet tæt omkring en gasstrøm fra en stjerne under dannelse. Observationen løser et årtier gammelt mysterium om, hvordan unge stjerner skaber deres kraftige jetstrømme."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Observationerne blev gjort med ALMA-teleskopet i Chile.",
-        "Billederne viser et magnetfelt, der er viklet omkring udstrømningen af gas.",
-        "Det bekræfter en teori, der er ældre end 40 år.",
-        "Forskningen er et samarbejde med NSF NRAO."
-      ],
-      "betydning": "Det hjælper os med at forstå, hvordan stjerner og planeter dannes, og dermed hvordan vores eget solsystem opstod.",
-      "pointer": [
-        "Første direkte billeder af magnetfelt omkring gasstrøm.",
-        "Bekræfter 40-årig teori",
-        "Giver ny viden om stjernedannelse"
-      ],
-      "prio": 7
     }
   ]
 }
