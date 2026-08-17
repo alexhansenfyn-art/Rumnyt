@@ -1,7 +1,57 @@
 {
-  "opdateret": "2026-08-17T17:00:48.049838+00:00",
+  "opdateret": "2026-08-17T19:17:27.544531+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Next Generation of Planetary Scientists Learn Public Engagement Skills",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/",
+      "dato": "2026-08-17T17:52:42+00:00",
+      "kilde": "NASA",
+      "resume": "FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other planetary bodies, enabling researchers to better understand how planets form, evolve, and behave under immense pressures.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/sciact/FORCE_leaders_sciact.jpg?w=2048&#038;h=1365&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "Undergraduate research interns and FORCE leaders pose together beside the Ichiban high-pressure machine and other laboratory equipment.",
+      "kategori": "Forskning",
+      "rubrik": "Unge forskere lærer at formidle rumforskning",
+      "resume_da": "NASA hjalp i sommeren 2026 syv studerende med at lære at fortælle om deres forskning, så alle kan forstå den. De øvede sig til både åbent hus og en posterpræsentation.",
+      "sektioner": [
+        {
+          "overskrift": "Workshops og træning",
+          "tekst": "I juni 2026 afholdt NASA workshops for syv bachelorstuderende. De lærte at finde hovedbudskabet i deres forskning og formidle det klart. De fik også råd om at lave gode plakater og stande."
+        },
+        {
+          "overskrift": "Åbent hus og poster",
+          "tekst": "De studerende afholdt et åbent hus, hvor omkring **50** gæster så laboratoriet. De lavede også en posterpræsentation for universitetsfolk. Her fik de feedback på deres formidling."
+        },
+        {
+          "overskrift": "Nyt for rumforskning",
+          "tekst": "Træningen skal hjælpe forskere med at dele deres viden med offentligheden. Det styrker båndet mellem forskning og samfund. NASA støtter programmet med en bevilling på nummer 80NSSC21M0006."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "7",
+          "label": "antal studerende"
+        },
+        {
+          "tal": "50",
+          "label": "gæster til åbent hus"
+        }
+      ],
+      "detaljer": [
+        "Workshops blev afholdt den 25.-26. juni 2026.",
+        "Efterfulgt af kontortid i ugen efter.",
+        "De studerende arbejdede på ASU's FORCE-laboratorium.",
+        "Formålet var at formidle teknisk forskning til ikke-eksperter."
+      ],
+      "betydning": "Det er vigtigt, at forskere kan fortælle om deres arbejde, så vi alle kan forstå, hvad rumforskning handler om. Det kan inspirere flere til at interessere sig for videnskab.",
+      "pointer": [
+        "Syv studerende fik træning.",
+        "De øvede sig i at formidle til offentligheden.",
+        "Åbent hus tiltrak 50 besøgende.",
+        "Programmet er støttet af NASA."
+      ],
+      "prio": 4
+    },
     {
       "titel": "Stellar explosions come into focus with new nuclear reaction measurements",
       "link": "https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html",
@@ -4235,47 +4285,6 @@
         "Spanien har bedre vejrudsigt end Island"
       ],
       "prio": 7
-    },
-    {
-      "titel": "Firefly increases vehicle production even as launches lag",
-      "link": "https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag/",
-      "dato": "2026-08-12T02:06:13+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Firefly Aerospace says it is seeing strong interest in its launch vehicles and is ramping up production, but those efforts have yet to translate into an increased launch rate. The post Firefly increases vehicle production even as launches lag appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55143071969_a1ed891f84_k.jpg?fit=1024%2C683&amp;ssl=1",
-      "billede_alt": "Alpha Flight 7 liftoff",
-      "kategori": "Opsendelser",
-      "rubrik": "Firefly øger produktion trods færre opsendelser",
-      "resume_da": "Firefly Aerospace øger produktionen af raketter, selvom antallet af opsendelser ikke er steget tilsvarende. Interessen er stor, men udfordringer med opsendelsestempoet fortsætter.",
-      "sektioner": [
-        {
-          "overskrift": "Stigende efterspørgsel",
-          "tekst": "Firefly Aerospace melder om stor interesse for deres raketter. Virksomheden øger derfor produktionen for at imødekomme efterspørgslen. Men flere raketter på lager betyder ikke automatisk flere opsendelser."
-        },
-        {
-          "overskrift": "Produktion vs. opsendelser",
-          "tekst": "Selvom produktionen er øget, er antallet af opsendelser ikke steget tilsvarende. Det skaber en ubalance mellem forberedelse og faktiske opsendelser. Virksomheden arbejder på at få opsendelsestempoet op."
-        },
-        {
-          "overskrift": "Fremtidige planer",
-          "tekst": "Firefly har planer om at øge antallet af opsendelser i de kommende år. Med en større flåde af raketter håber de at kunne levere oftere. Det skal ske ved at optimere processerne omkring opsendelser."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Firefly Aerospace producerer raketter i højere tempo end tidligere.",
-        "Interessen for deres raketter er stor.",
-        "Opsendelsesraten er ikke steget tilsvarende.",
-        "Virksomheden fokuserer på at øge antallet af opsendelser."
-      ],
-      "betydning": "For almindelige danskere betyder det, at markedet for rumopsendelser er i udvikling, hvilket kan føre til flere og billigere muligheder for satellitter og forskning. Fireflys situation viser, at der er udfordringer med at følge med efterspørgslen.",
-      "pointer": [
-        "Firefly øger produktionen af raketter.",
-        "Stor interesse fra kunder.",
-        "Opsendelserne halter bagefter.",
-        "Virksomheden vil øge opsendelsestempoet."
-      ],
-      "prio": 5
     }
   ]
 }
