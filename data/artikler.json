@@ -1,7 +1,89 @@
 {
-  "opdateret": "2026-08-17T08:07:32.483691+00:00",
+  "opdateret": "2026-08-17T11:01:20.933886+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
+      "link": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/",
+      "dato": "2026-08-17T11:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Earlier this month, a discarded SpaceX Falcon 9 upper stage crashed into the lunar surface at 8,700 kilometers per hour. This was not a controlled landing. The stage had been [&#8230;] The post A rocket crashed into the moon. It was harmless, but the next one might not be. appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/moon-base1-scaled.jpg?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "A concept for a later phase of NASA’s proposed lunar base. Credit: NASA",
+      "kategori": "Forskning",
+      "rubrik": "Raket styrtede ind i Månen – næste gang kan det gå galt",
+      "resume_da": "En brugt SpaceX-raket ramte Månen i høj fart. Det var harmløst, men flere rumaffald på kollisionskurs kan skabe problemer.",
+      "sektioner": [
+        {
+          "overskrift": "Raket ramte Månen",
+          "tekst": "En brugt SpaceX Falcon 9-raket ramte Månens overflade med en hastighed på **8.700 km/t**. Det skete tidligere på måneden. Det var ikke en kontrolleret landing."
+        },
+        {
+          "overskrift": "Ingen skade sket",
+          "tekst": "Kollisionen var harmløs. Der var ingen mennesker eller udstyr på Månen i nærheden. Men det viser, at der er meget rumaffald, der flyver rundt."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "8.700 km/t",
+          "label": "Rakettens hastighed ved nedslag"
+        }
+      ],
+      "detaljer": [
+        "Rakettrinnet var kasseret og ubrugt.",
+        "Nedslaget skete på Månens bagside eller andet sted, ikke nærmere præciseret.",
+        "Det er ikke første gang, at rumaffald rammer Månen."
+      ],
+      "betydning": "Det minder os om, at der er meget affald i rummet, og at vi skal være opmærksomme på fremtidige kollisioner, især når vi sender mere udstyr til Månen.",
+      "pointer": [
+        "Raket ramte Månen i høj fart.",
+        "Det skete ved et uheld.",
+        "Det var uskadeligt, men næste gang kan det ramme vigtigt udstyr.",
+        "Rumaffald er et voksende problem."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE",
+      "link": "https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae/",
+      "dato": "2026-08-17T09:56:15+00:00",
+      "kilde": "SpaceNews",
+      "resume": "HELSINKI — China launched a new batch of Guowang megaconstellation satellites over the weekend, following up with a separate launch of a developmental satellite for the UAE. The launch of [&#8230;] The post Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Guowang-group24-CZ12-HCSLC-16aug2026-CASC.jpg?fit=1024%2C679&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Opsendelser",
+      "rubrik": "Kina sender satellitter op for UAE og eget net",
+      "resume_da": "Kina har sendt flere satellitter i kredsløb: en ny portion til Guowang-nettet og en udviklingssatellit for UAE. Det sker trods en nylig mislykket raketopsendelse.",
+      "sektioner": [
+        {
+          "overskrift": "Guowang-satellitter sendt op",
+          "tekst": "Kina opsendte en ny gruppe satellitter til Guowang-megakonstellationen i weekenden. Guowang er Kinas eget satellitinternet-projekt. Opsendelsen fandt sted med en Long March 12-raket."
+        },
+        {
+          "overskrift": "UAE-satellit med på vej",
+          "tekst": "Kort efter fulgte en anden opsendelse med en udviklingssatellit for UAE. Den blev sendt op med en Long March 2C-raket. Det er et led i samarbejdet mellem Kina og UAE."
+        },
+        {
+          "overskrift": "Tidligere raketfejl overskygger",
+          "tekst": "Opsendelserne sker efter en nylig fejl på en Long March 7A-raket. Det afholder dog ikke kineserne fra at fortsætte med flere opsendelser. Fejlen er ikke nærmere beskrevet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Kina opsendte Guowang-satellitter med Long March 12.",
+        "UAE-satellitten blev sendt op med Long March 2C.",
+        "Der var en nylig fiasko med Long March 7A.",
+        "Guowang er Kinas megakonstellation til internet fra rummet."
+      ],
+      "betydning": "Kinas rumaktiviteter vokser, og flere lande samarbejder med Kina om satellitter. Det kan påvirke den globale rumdækning og markedet for internet fra rummet.",
+      "pointer": [
+        "Kina sender satellitter op for UAE.",
+        "Guowang-nettet udvides med nye satellitter.",
+        "Opsendelser fortsætter trods nylig raketfejl.",
+        "Kina styrker sin position i rummet."
+      ],
+      "prio": 4
+    },
     {
       "titel": "Lynk and Omnispace form Elveo Mobile to advance D2D services",
       "link": "https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/",
@@ -4168,91 +4250,6 @@
         "Kort varighed"
       ],
       "prio": 5
-    },
-    {
-      "titel": "TechnoMile’s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List",
-      "link": "https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list/",
-      "dato": "2026-08-11T14:53:22+00:00",
-      "kilde": "SpaceNews",
-      "resume": "TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, today announced it has been ranked No. 4,268 on the 2026 Inc. 5000 list, the annual list [&#8230;] The post TechnoMile’s Five-Year Sustained Growth Recognized with Place on the 2026 Inc. 5000 List appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/technomile.png?fit=1024%2C1024&amp;ssl=1",
-      "billede_alt": "technomile loog square",
-      "kategori": "Politik & penge",
-      "rubrik": "Dansk rumfart firma på Inc. 5000-liste",
-      "resume_da": "TechnoMile, et it-firma med AI-løsninger, er blevet nr. 4.268 på Inc. 5000-listen for 2026. Det er første gang, firmaet er med på listen.",
-      "sektioner": [
-        {
-          "overskrift": "Inc. 5000 anerkendelse",
-          "tekst": "TechnoMile er rangeret som nr. 4.268 på Inc. 5000-listen for 2026. Listen anerkender de hurtigst voksende private virksomheder i USA. Ifølge firmaet viser placeringen en vedvarende vækst over fem år."
-        },
-        {
-          "overskrift": "Hvad TechnoMile laver",
-          "tekst": "TechnoMile udvikler en AI-løsning, der samler arbejdsgange for vækst, kontrakter, overholdelse og sikkerhed. Det hjælper virksomheder med at administrere komplekse processer mere effektivt. Firmaet henvender sig blandt andet til rumfartsindustrien."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "4.268",
-          "label": "Placering på Inc. 5000-listen"
-        },
-        {
-          "tal": "5 år",
-          "label": "Vedvarende vækstperiode"
-        }
-      ],
-      "detaljer": [
-        "TechnoMile blev grundlagt for at levere AI-løsninger til virksomheder.",
-        "Det er firmaets første optræden på Inc. 5000-listen.",
-        "Løsningen fokuserer på at forene vækst, kontrakter, compliance og sikkerhed."
-      ],
-      "betydning": "Selvom det er et it-firma, viser det, at rumfartsindustrien trækker på avanceret teknologi. Det kan betyde flere arbejdspladser og innovation, som også kan påvirke danske virksomheder og samarbejdspartnere.",
-      "pointer": [
-        "TechnoMile er nr. 4.268 på Inc. 5000.",
-        "Vokset støt i fem år.",
-        "AI-løsning til kontrakter og sikkerhed.",
-        "Første gang på listen."
-      ],
-      "prio": 3
-    },
-    {
-      "titel": "The telescope that points itself",
-      "link": "https://phys.org/news/2026-08-telescope.html",
-      "dato": "2026-08-11T14:40:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "I'll admit to using AI for things it was probably never designed for. When my van threw a fault I couldn't immediately figure out—one that seems notorious for trips back and forth to a repair shop—I ended up in a long (but cheaper) back-and-forth with an AI system, working through the symptoms. The same happened with a run of gutters and with stud framing in my house. It isn't magic, and perhaps m",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-telescope-that-poi.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Teleskop der peger sig selv – banebrydende eller hype?",
-      "resume_da": "Et nyt teleskop kan selv finde og pege mod stjernerne. Det kan gøre astronomi lettere for alle.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad kan teleskopet?",
-          "tekst": "Teleskopet er designet til at pege sig selv mod himlen uden menneskelig hjælp. Det betyder, at selv uerfarne kan bruge det til at observere stjerner og planeter. Teknologien kan gøre astronomi mere tilgængelig."
-        },
-        {
-          "overskrift": "Hvem står bag?",
-          "tekst": "Historien er fra Phys.org, et anerkendt nyhedssite om videnskab. Artiklen er skrevet af en person, der selv bruger AI til at løse hverdagsproblemer. Det giver et interessant perspektiv på den nye teknologi."
-        },
-        {
-          "overskrift": "Hvorfor er det vigtigt?",
-          "tekst": "Hvis teleskopet virker, kan det ændre måden, vi lærer om rummet på. Det kan give flere lyst til at kigge op mod stjernerne. Men vi skal være opmærksomme på, om teknologien er pålidelig."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Teleskopet kan pege sig selv mod nattehimlen.",
-        "Det kan gøre astronomi lettere for begyndere.",
-        "Artiklen nævner, at AI kan bruges til at løse tekniske problemer."
-      ],
-      "betydning": "For almindelige danskere kan det betyde, at man nemmere kan komme i gang med at observere stjernerne derhjemme. Det kan også gøre astronomi mere attraktivt for unge.",
-      "pointer": [
-        "Nyt teleskop med selvstyringsteknologi.",
-        "Målrettet mod begyndere og hobbyfolk.",
-        "Kan øge interessen for astronomi.",
-        "Teknologien skal dog testes grundigt."
-      ],
-      "prio": 4
     }
   ]
 }
