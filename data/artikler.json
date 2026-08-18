@@ -1,7 +1,120 @@
 {
-  "opdateret": "2026-08-18T14:05:39.283621+00:00",
+  "opdateret": "2026-08-18T17:03:18.510735+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "NASA’s B777 Gets New Coat of Paint",
+      "link": "https://www.nasa.gov/image-article/nasas-b777-gets-new-coat-of-paint/",
+      "dato": "2026-08-18T15:10:36+00:00",
+      "kilde": "NASA",
+      "resume": "NASA&#8217;s Boeing 777 shows off a new paint job in this Aug. 11, 2026, photo. The B777 was acquired to replace and extend the capabilities of the NASA DC-8, which was retired in 2024. The B777, set to begin operations from NASA&#8217;s Langley Research Center in Hampton, Virginia in 2027, will be a unique flying [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg?w=1536",
+      "billede_alt": "A large airplane flies in the sky. It is painted white (the first two-thirds) and blue (the last one-third), with the NASA &quot;worm&quot; logo on the side and wing. The NASA &quot;meatball&quot; log",
+      "kategori": "Forskning",
+      "rubrik": "NASA's B777 får ny bemaling",
+      "resume_da": "NASA's Boeing 777 har fået en ny bemaling og bliver klar til at overtage efter DC-8-flyet. Det skal bruges som flyvende laboratorium fra 2027.",
+      "sektioner": [
+        {
+          "overskrift": "Nyt liv til B777",
+          "tekst": "NASA's Boeing 777 har fået en ny bemaling. Det skete i august 2026. Flyet skal erstatte NASA's DC-8, som gik på pension i 2024. B777 bliver et unikt flyvende laboratorium med global rækkevidde."
+        },
+        {
+          "overskrift": "Fra 2027 i luften",
+          "tekst": "Flyet skal i drift fra NASA's Langley Research Center i 2027. Det skal indsamle data til NASA-projekter. Det inkluderer sensorudvikling, kalibrering af satellitsensorer og validering af dataprodukter."
+        },
+        {
+          "overskrift": "Forstå jordsystemer",
+          "tekst": "B777 skal hjælpe med at forstå jordens processer bedre. Det skal forbedre modeller og beslutningstagning. Flyet kan nå hele verden og understøtte feltstudier."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2027",
+          "label": "Flyet starter drift"
+        },
+        {
+          "tal": "2024",
+          "label": "DC-8 pensioneret"
+        },
+        {
+          "tal": "2026",
+          "label": "Foto af ny maling"
+        }
+      ],
+      "detaljer": [
+        "B777 er erhvervet for at erstatte DC-8.",
+        "Flyet er baseret på Langley Research Center i Hampton, Virginia.",
+        "Bruges til dataindsamling for NASA-projekter.",
+        "Skal forbedre forståelsen af jordsystemer."
+      ],
+      "betydning": "Det er vigtigt, fordi NASA's flyvende laboratorium hjælper med at overvåge jorden og forbedre klima- og miljømodeller, hvilket kan få betydning for vejrudsigt og klimapolitik.",
+      "pointer": [
+        "Nyt fly til NASA",
+        "Erstatter DC-8",
+        "Global rækkevidde",
+        "Data til forskning"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
+      "link": "https://www.nasa.gov/general/nasa-glenn-inflight-research/",
+      "dato": "2026-08-18T14:00:00+00:00",
+      "kilde": "NASA",
+      "resume": "Many of NASA’s most important aerospace breakthroughs that began in the laboratory were&#160;ultimately proven&#160;in the sky. For decades, experts at NASA’s Glenn Research Center in Cleveland conducted flight tests — piloting&#160;aircraft&#160;into targeted environments such as icing clouds and carefully defined atmospheric routes. This approach allowed them to collect measurements directly in ",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/grc-1956-c-43327-feature-image.jpg?w=2048",
+      "billede_alt": "A pilot steps on a metal ladder to get onto a small, one-seater airplane. The NACA hangar is in background",
+      "kategori": "Forskning",
+      "rubrik": "NASA Glenns flyforskning har formet luftfarten",
+      "resume_da": "NASA Glenn Research Center har i årtier brugt fly som flyvende laboratorier til at teste alt fra motorer til solceller, hvilket har forbedret flysikkerhed og rumteknologi.",
+      "sektioner": [
+        {
+          "overskrift": "Fra laboratoriet til himlen",
+          "tekst": "NASA Glenn Research Center har siden 1940'erne brugt fly til at teste teknologier under virkelige forhold. Piloter og ingeniører fløj ind i iskolde skyer og andre miljøer for at måle og indsamle data. Det hjalp med at forbinde laboratorieforsøg med praktisk anvendelse."
+        },
+        {
+          "overskrift": "Pionerer og deres arv",
+          "tekst": "De første piloter på centret lagde grunden til mere end 25 andre piloter, inklusive astronauter som Neil Armstrong. De gjorde fly til flyvende laboratorier, der kunne måle, hvad der sker i luften. Deres arbejde er stadig vigtigt for NASA i dag."
+        },
+        {
+          "overskrift": "Forskning, der gjorde en forskel",
+          "tekst": "Flyene blev brugt til at studere ising på vinger, hvilket har gjort flyvning sikrere. De testede også brint som brændstof og målte solcellers ydeevne i højden. Det har hjulpet både luftfart og rumfart."
+        },
+        {
+          "overskrift": "Fra luften til rummet",
+          "tekst": "NASA brugte også fly til at skabe kortvarig vægtløshed, så forskere kunne studere, hvordan materialer opfører sig i rummet. Desuden overvågede de alger i søer for at forbedre satellitmålinger. Det viser, hvor alsidig flyforskningen er."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1940'erne",
+          "label": "Start på flyforskning"
+        },
+        {
+          "tal": "1957",
+          "label": "Test af brintbrændstof"
+        },
+        {
+          "tal": "1996",
+          "label": "Mikrotyngdekraftsforsøg"
+        }
+      ],
+      "detaljer": [
+        "De første piloter inkluderede Howard Lilly, Joseph Walker, William Swann og William Gough.",
+        "Neil Armstrong og Fred Haise var blandt de piloter, der kom senere.",
+        "En Twin Otter blev brugt i næsten 40 år til isingsforskning.",
+        "Solarceller blev testet i Learjets fra 1963.",
+        "DC-9-flyet skabte korte perioder med vægtløshed til forskning."
+      ],
+      "betydning": "Denne historie viser, hvordan grundforskning og test med fly har gjort flyvning sikrere og hjulpet med at udvikle rumteknologi. Det påvirker os alle, når vi flyver eller bruger satellitter i hverdagen.",
+      "pointer": [
+        "Flyforskning forbinder laboratorier med virkeligheden.",
+        "Piloter som Neil Armstrong startede på Glenn.",
+        "Forskning i ising og brint har stor betydning.",
+        "Teknologier testes i luften, før de bruges i rummet."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Ship 40 arrives at Christmas Island, Plans Return to Starbase",
       "link": "https://www.nasaspaceflight.com/2026/08/ship-40-christmas-island-plans-return-starbase/",
@@ -169,6 +282,107 @@
         "Firmaet er nu godkendt leverandør."
       ],
       "prio": 3
+    },
+    {
+      "titel": "APOD: 2026 August 18 – Perseids from Perseus",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-18-perseids-from-perseus/",
+      "dato": "2026-08-18T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APODScienceAPODAPOD: 2026 August 18 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Perseids from Perseus Explanation: This was a good year for the Perseids meteor sh",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Perseids_karuk_3000.jpg?w=3000&#038;h=3030&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A starfield is bounded by trees on three sides and a pond on the bottom. Amongst the stars are many streaks of light appearing to emanate from a place on the sky just above a foreground bridge.",
+      "kategori": "Astronomi",
+      "rubrik": "Perseider i flot meteorsværm uden Månen",
+      "resume_da": "I 2026 blev Perseiderne ekstra synlige, fordi Månen stod for Solen og skabte en total solformørkelse. Meteorsværmen stammer fra kometen Swift-Tuttle.",
+      "sektioner": [
+        {
+          "overskrift": "Usædvanligt gode forhold",
+          "tekst": "Perseiderne var i år ekstra synlige, fordi Månen ikke forstyrrede nattehimlen. Månen stod nemlig lige foran Solen og lavede en total solformørkelse, der kunne ses fra Grønland og Spanien."
+        },
+        {
+          "overskrift": "Hvor kommer meteoritterne fra?",
+          "tekst": "Perseiderne opstår, når Jorden rammer en strøm af støv fra kometen Swift-Tuttle. Selvom meteorerne kun er på størrelse med et sandkorn, er de hurtige og lyse, fordi kometens støv kredser om Solen i modsat retning af Jorden."
+        },
+        {
+          "overskrift": "Billedet fra Tjekkiet",
+          "tekst": "Fotografen Jakub Kuřák tog billeder over flere nætter fra Jizerka i Tjekkiet. På billedet kan man se, at alle meteorerne ser ud til at komme fra samme punkt på himlen – deres strålepunkt i stjernebilledet Perseus."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2026",
+          "label": "År for observationen"
+        }
+      ],
+      "detaljer": [
+        "Månen skabte total solformørkelse synlig fra Grønland og Spanien.",
+        "Meteorerne er typisk på størrelse med et sandkorn.",
+        "Kommet Swift-Tuttle er kilden til Perseiderne.",
+        "Billedet er taget fra Jizerka i Tjekkiet."
+      ],
+      "betydning": "Det er en påmindelse om, at nattehimlen kan byde på flotte fænomener, som alle kan opleve. Måske er du selv interesseret i at se en meteorsværm næste gang.",
+      "pointer": [
+        "Perseiderne var ekstra synlige i 2026.",
+        "Månen skabte solformørkelse under peak.",
+        "Meteorerne kommer fra kometen Swift-Tuttle.",
+        "Billedet viser meteorer fra Perseus."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Lala Batters Hawaii",
+      "link": "https://science.nasa.gov/earth/earth-observatory/lala-batters-hawaii/",
+      "dato": "2026-08-18T04:01:00+00:00",
+      "kilde": "NASA",
+      "resume": "The powerful storm delivered extreme rainfall and damaging winds to the state, passing the Island of Hawaiʻi as a category 1 hurricane.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lala-batters-hawaii/hurricanelala_virs2_20260816.jpg",
+      "billede_alt": "",
+      "kategori": "Rumvejr",
+      "rubrik": "Orkanen Lala ramte Hawaii med stor skade",
+      "resume_da": "Orkanen Lala passerede tæt forbi Hawaii og forårsagede oversvømmelser, strømafbrydelser og skader på bygninger. Målinger fra satellitter viser stormens udvikling.",
+      "sektioner": [
+        {
+          "overskrift": "Stormens vej og styrke",
+          "tekst": "Lala var en kategori 1-orkan, da den passerede syd for øen Hawaii den 15. august. Dagen efter var den svækket til en tropisk storm med vindhastigheder på 105 kilometer i timen."
+        },
+        {
+          "overskrift": "Store ødelæggelser",
+          "tekst": "Regnmængder på over 50 centimeter gav oversvømmelser og mudderstrømme. Træer væltede, broer blev beskadiget, og huse blev flyttet fra deres fundamenter. Mere end 220.000 kunder mistede strømmen."
+        },
+        {
+          "overskrift": "El Niño og vejret",
+          "tekst": "Det aktive stormvejr i Stillehavet hænger sammen med El Niño, som giver varmt vand og mindre vindforskydning. Det hjælper storme med at udvikle sig og blive stærkere."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "20 tommer (50 cm)",
+          "label": "Regn på dele af øen"
+        },
+        {
+          "tal": "43,55 tommer (110,6 cm)",
+          "label": "Højeste regnmængde målt"
+        },
+        {
+          "tal": "220.000",
+          "label": "Uden strøm på Hawaii"
+        }
+      ],
+      "detaljer": [
+        "Orkanen Lala passerede tæt forbi Hawaii i august 2026.",
+        "Den var kategori 1 på Saffir-Simpson-skalaen.",
+        "Målinger kom fra satellitterne Suomi NPP og NOAA-20.",
+        "Stormen gav også sneforhold på Mauna Kea.",
+        "El Niño har været aktiv siden midten af juni 2026."
+      ],
+      "betydning": "Selvom Danmark ikke er direkte påvirket, viser historien, hvordan vejrsatellitter overvåger ekstreme vejrfænomener. Det kan hjælpe med at forudsige og forberede sig på lignende hændelser andre steder i verden.",
+      "pointer": [
+        "Orkanen Lala ramte Hawaii med kraftig regn.",
+        "Store oversvømmelser og strømafbrydelser.",
+        "El Niño forstærker storme i Stillehavet.",
+        "Satellitter fulgte stormens udvikling."
+      ],
+      "prio": 5
     },
     {
       "titel": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
@@ -4111,205 +4325,6 @@
         "Forskere er stadig usikre på, hvad der gemmer sig inden i."
       ],
       "prio": 6
-    },
-    {
-      "titel": "NASA Upgrades Vertical Motion Simulator for Modern Mission Needs",
-      "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/",
-      "dato": "2026-08-12T17:55:36+00:00",
-      "kilde": "NASA",
-      "resume": "Imagine stepping into a machine that can make you feel like you’re flying a spacecraft, piloting a next generation air taxi, or landing on the Moon, all without leaving the ground. NASA’s Vertical Motion Simulator, the largest of its kind in the world, does exactly that. And now, with new upgrades, it’s more powerful and [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/arc-20260319-vms-cab-upgrade-exterior-motion-preview.mp4",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "NASA's flysimulator får digital opgradering",
-      "resume_da": "NASA har opgraderet verdens største flysimulator med digital teknologi og 4K-projektorer, så den kan simulere fremtidige missioner mere realistisk.",
-      "sektioner": [
-        {
-          "overskrift": "Nye billeder og lys",
-          "tekst": "Simulatoren har fået et nyt dom med 4K-projektorer, der giver næsten 20/20 synsstyrke. Det giver piloter et klarere og større billede af omverdenen. Før var systemet analogt, nu er det digitalt."
-        },
-        {
-          "overskrift": "Hurtigere at omstille",
-          "tekst": "Før skulle hele kabinen skiftes for at simulere forskellige fartøjer. Nu bruger man lette indsatser, der kun indeholder betjening og sæder. Det halverer tiden til at sætte en simulation op."
-        },
-        {
-          "overskrift": "Klar til fremtiden",
-          "tekst": "Opgraderingen gør det muligt at teste nye fly og rumfartøjer, før de sendes ud. Det er vigtigt for kommende missioner til Månen og Mars."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "60 feet",
-          "label": "Simulatorens lodrette slag"
-        },
-        {
-          "tal": "40 feet",
-          "label": "Simulatorens vandrette slag"
-        }
-      ],
-      "detaljer": [
-        "Simulatoren har været i brug siden 1979.",
-        "Den kan simulere alt fra helikoptere til rumfartøjer.",
-        "Indsatser erstatter tunge kabiner.",
-        "Manuelt farvematching tog tidligere timer eller dage."
-      ],
-      "betydning": "Opgraderingen betyder, at fremtidens fly og rumfartøjer kan testes mere grundigt, hvilket øger sikkerheden og effektiviteten for både passagerfly og rummissioner.",
-      "pointer": [
-        "Simulatoren er den største i verden.",
-        "Den kan simulere både fly og rumfartøjer.",
-        "Digital teknologi giver skarpere billeder.",
-        "Tiden til omstilling er halveret."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Famous oddball quasar isn't X-ray weak after all, astronomers say",
-      "link": "https://phys.org/news/2026-08-famous-oddball-quasar-isnt-ray.html",
-      "dato": "2026-08-12T16:40:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "For more than two decades, the quasar PHL 1811 has been considered the prototype of a rare class of \"intrinsically X-ray weak\" quasars, thought to produce unusually little X-ray radiation. But in 2024, the Einstein Probe spacecraft caught the object in a bright X-ray flare. In a new study, astronomers combined that observation with more than 20 years of archival data to revisit the mystery. The fi",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/famous-oddball-quasar.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Kvasar var ikke svag i røntgen trods alt",
-      "resume_da": "Kvasaren PHL 1811 blev i årtier anset for at være usædvanlig svag i røntgenstråling. Nu viser nye observationer, at den faktisk kan lyse kraftigt op, og at den tidligere opfattelse var forkert.",
-      "sektioner": [
-        {
-          "overskrift": "Overraskende opdagelse",
-          "tekst": "Kvasaren PHL 1811 har i mere end 20 år været kendt som et eksempel på en sjælden type med meget lidt røntgenstråling. Men i 2024 fangede Einstein Probe-rumfartøjet den i et kraftigt røntgenudbrud. Det ændrer billedet af kvasaren."
-        },
-        {
-          "overskrift": "Genbesøg med ny viden",
-          "tekst": "Astronomer har kombineret den nye observation med arkivdata fra mere end 20 år. De fandt, at kvasaren ikke er svag i røntgen hele tiden, men kan have perioder med kraftig aktivitet. Resultaterne er offentliggjort i The Astrophysical Journal den 28. juli."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "20 år",
-          "label": "Tidligere opfattet som svag"
-        }
-      ],
-      "detaljer": [
-        "PHL 1811 blev opdaget som 'intrinsisk røntgen-svag' kvasar",
-        "Einstein Probe observerede røntgenudbrud i 2024",
-        "Studiet kombinerer nye og gamle data"
-      ],
-      "betydning": "Det ændrer vores forståelse af, hvordan kvasarer fungerer, og viser, at selv velkendte objekter kan overraske. Det giver ny viden om universets mest energiske fænomener.",
-      "pointer": [
-        "Kvasar ikke altid røntgen-svag",
-        "Kraftigt udbrud fanget i 2024",
-        "Nye data kombineret med gamle",
-        "Publiceret i Astrophysical Journal"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights",
-      "link": "https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/",
-      "dato": "2026-08-12T16:03:05+00:00",
-      "kilde": "NASA",
-      "resume": "NASA astronaut Mike Fincke is departing the agency on Wednesday after 30 years of service. Throughout his career, he flew four missions, spent 549 days in space, and completed nine spacewalks in support of the International Space Station. “Few people have had the opportunity to shape as many chapters of NASA’s history as Mike Fincke,” [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/fincke.jpg?w=2048",
-      "billede_alt": "",
-      "kategori": "Missioner",
-      "rubrik": "NASA-astronaut Mike Fincke stopper efter 30 år",
-      "resume_da": "Mike Fincke har været i rummet fire gange og tilbragt 549 dage i kredsløb. Han forlader NASA efter 30 års tjeneste.",
-      "sektioner": [
-        {
-          "overskrift": "En imponerende karriere",
-          "tekst": "Mike Fincke har fløjet fire missioner og tilbragt **549 dage** i rummet. Han har lavet ni rumvandringer, i alt **48 timer og 37 minutter**. Han er nummer fire på listen over flest dage i rummet blandt NASA-astronauter."
-        },
-        {
-          "overskrift": "Sidste mission",
-          "tekst": "Hans seneste mission var SpaceX Crew-11, der fløj i august 2025 og vendte tilbage i januar. Han var både pilot og chef for Ekspedition 74 på Den Internationale Rumstation."
-        },
-        {
-          "overskrift": "Mange rumskibe",
-          "tekst": "Fincke har fløjet med to forskellige Soyuz-kapsler, rumfærgen Endeavour og SpaceX's Dragon. Han var også med til at udvikle NASA's kommercielle bemandede rumprogram og hjalp med at teste Boeing's Starliner."
-        },
-        {
-          "overskrift": "Fremtidens generation",
-          "tekst": "Fincke har undervist og mentoreret yngre astronauter. Han siger selv, at han er spændt på at hjælpe den næste generation af opdagelsesrejsende, ingeniører og ledere."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "549 dage",
-          "label": "Dage i rummet i alt"
-        },
-        {
-          "tal": "4",
-          "label": "Antal rummissioner"
-        },
-        {
-          "tal": "48 timer 37 min",
-          "label": "Samlet rumvandringstid"
-        }
-      ],
-      "detaljer": [
-        "Fincke blev udvalgt som astronaut i 1996.",
-        "Han var med på den sidste rumfærge-mission, STS-134, i 2011.",
-        "Han hjalp med at installere Alpha Magnetic Spectrometer på rumstationen.",
-        "Han er uddannet fra MIT, Stanford og University of Houston.",
-        "Han er pensioneret oberst i det amerikanske luftvåben.",
-        "Han har fløjet over 2.000 timer i mere end 30 flytyper."
-      ],
-      "betydning": "Finckes karriere viser, hvordan astronauter hjælper med at bygge og drive rumstationen og forberede fremtidens missioner. Hans arbejde med kommercielle rumfartøjer baner vejen for, at flere kan komme i rummet, hvilket kan have betydning for forskning og teknologi, som vi alle får gavn af.",
-      "pointer": [
-        "Mike Fincke stopper hos NASA efter 30 år.",
-        "Han har været i rummet fire gange og lavet ni rumvandringer.",
-        "Han var med til at udvikle kommercielle rumfartøjer.",
-        "Han vil hjælpe næste generation af opdagelsesrejsende."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Pursuing a Dream of Working for NASA",
-      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/pursuing-a-dream-of-working-for-nasa/",
-      "dato": "2026-08-12T15:38:51+00:00",
-      "kilde": "NASA",
-      "resume": "As a young girl raised in Worcester, Massachusetts, Lindsey Waitt dreamed of working for NASA. Her dream is now a reality as she embarks on her role as a NASA test project engineer with the Artemis launch team &#8211; an integral part of the agency’s missions that will enable humans to return to the surface [&#8230;]",
-      "billede": "https://images-assets.nasa.gov/image/KSC-20260806-PH-RCR01_0149/KSC-20260806-PH-RCR01_0149~large.jpg?w=1280&amp;h=1920&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-      "billede_alt": "A women with dark brown hair smiles at the camera for a photograph. The woman is wearing a grey jacket and a headset while she sits at the desk with a computer; ",
-      "kategori": "Missioner",
-      "rubrik": "Hun forlod sit job for at jagte NASA-drømmen",
-      "resume_da": "Lindsey Waitt fik som voksen opfyldt sin barndomsdrøm om at arbejde for NASA. Nu er hun testprojektingeniør på Artemis-missionen, der skal bringe mennesker til Månen.",
-      "sektioner": [
-        {
-          "overskrift": "Fra drøm til virkelighed",
-          "tekst": "Lindsey Waitt voksede op i Massachusetts og mødte som skolepige astronauter fra NASA, hvilket inspirerede hende. Hun studerede ingeniørvidenskab og arbejdede i forsvarsindustrien, men længtes efter rumfart. Efter at have fået børn og taget en kandidatgrad besluttede hun sig for at vende tilbage til sin oprindelige passion."
-        },
-        {
-          "overskrift": "Arbejdet på Artemis",
-          "tekst": "Hun er nu testprojektingeniør hos NASA og arbejder på Artemis III-missionen, som skal sende mennesker til Månen. Som problemløser koordinerer hun tekniske tests og opsendelsesaktiviteter. Hun er den eneste kvinde blandt de **14** testprojektingeniører på holdet."
-        },
-        {
-          "overskrift": "En personlig rejse",
-          "tekst": "Lindsey fulgte med familien, da NASA sendte astronauter til Den Internationale Rumstation i 2020, og senere Artemis I. Hun flyttede til Florida og fik job ved Kennedy Space Center, hvor hun nu er med til at forberede Artemis III."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "14",
-          "label": "testprojektingeniører på Artemis-holdet"
-        }
-      ],
-      "detaljer": [
-        "Lindsey Waitt mødte astronauterne Michael Lopez-Alegria og Albert Sacco Jr. som skolepige.",
-        "Hun har en bachelorgrad i maskinteknik med fokus på rumfartsteknik.",
-        "Hun arbejdede som systemingeniør på radar-flyvetestmissioner for en forsvarsleverandør.",
-        "Hun fik sin mastergrad i rumoperationer fra University of Colorado.",
-        "Hun blev certificeret til at sidde i kontrolrummet under Artemis II-opsendelsen.",
-        "Hun blev NASA-ansat efter at have søgt en stilling i forbindelse med et insourcing-initiativ."
-      ],
-      "betydning": "Historien viser, at det aldrig er for sent at forfølge sine drømme, og at NASA har brug for forskellige kompetencer. Det kan inspirere andre til at søge nye muligheder.",
-      "pointer": [
-        "Lindsey Waitt opfyldte sin barndomsdrøm om at arbejde for NASA.",
-        "Hun arbejder på Artemis III, som skal bringe mennesker til Månen.",
-        "Hun er eneste kvinde blandt 14 testprojektingeniører.",
-        "Hun skiftede fra forsvarsindustrien til rumfart efter mange år."
-      ],
-      "prio": 5
     }
   ]
 }
