@@ -1,7 +1,175 @@
 {
-  "opdateret": "2026-08-18T10:59:36.178205+00:00",
+  "opdateret": "2026-08-18T14:05:39.283621+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Ship 40 arrives at Christmas Island, Plans Return to Starbase",
+      "link": "https://www.nasaspaceflight.com/2026/08/ship-40-christmas-island-plans-return-starbase/",
+      "dato": "2026-08-18T12:59:38+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "SpaceX has successfully guided Starship Ship 40 to a location just off the coast of&#8230; The post Ship 40 arrives at Christmas Island, Plans Return to Starbase appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-18-13-53-12-564.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Starship-skib reddes efter landing i havet",
+      "resume_da": "SpaceX har bjærget Starship-skibet Ship 40 efter en vellykket landing i Det Indiske Ocean, og det skal nu undersøges, inden det returneres til Texas.",
+      "sektioner": [
+        {
+          "overskrift": "Vellykket landing og bjærgning",
+          "tekst": "Ship 40 fløj som en del af Starship Flight 13 og landede i havet den 24. juli 2026. Det var første gang, at et Starship-skib forblev intakt efter landing i vandet. SpaceX har nu bjærget skibet og bragt det til Christmas Island for yderligere undersøgelser."
+        },
+        {
+          "overskrift": "Vigtige data fra missionen",
+          "tekst": "Skibet udplacerede 20 Starlink V3-satellitter og udførte en motor-genstart i rummet. Det overlevede genindtræden i atmosfæren og udførte en kontrolleret landing. Droneoptagelser viste, at varmeskjoldet var stort set intakt, hvilket giver værdifulde data til fremtidige missioner."
+        },
+        {
+          "overskrift": "Planer om returnering",
+          "tekst": "Ingeniører vil nu undersøge skibet nærmere i rolige farvande, før det transporteres tilbage til Starbase i Texas. Elon Musk har udtalt, at bjærgningen giver vigtige data, og at de præcise landinger kan fremskynde planerne om at fange skibet allerede ved Flight 14."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "24 dage",
+          "label": "Tid til havs"
+        },
+        {
+          "tal": "400 km",
+          "label": "Afdrift efter landing"
+        },
+        {
+          "tal": "20 Starlink V3",
+          "label": "Satellitter udplaceret"
+        }
+      ],
+      "detaljer": [
+        "Ship 40 blev guidet til Christmas Island efter bjærgning.",
+        "Skibet overlevede landing og blev holdt flydende.",
+        "Redningsfartøjer hjalp med at stabilisere skibet.",
+        "Varmeskjoldet var stort set intakt efter turen.",
+        "Ingeniører skal undersøge skibet i rolige farvande."
+      ],
+      "betydning": "Det viser, at SpaceX gør fremskridt med genbrugelige raketter, hvilket kan gøre rumrejser billigere og mere bæredygtige for alle.",
+      "pointer": [
+        "Starship-skibet Ship 40 landede blødt i havet",
+        "Skibet forblev intakt og blev bjærget",
+        "SpaceX vil undersøge det og bringe det hjem",
+        "Succesen kan fremskynde planer om at genskabe skibet"
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Ruby-forming mineral found by Mars rover hints at violent impacts",
+      "link": "https://phys.org/news/2026-08-ruby-mineral-mars-rover-hints.html",
+      "dato": "2026-08-18T12:30:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "So far, most of the minerals found on Mars tell a story of lava poured out by ancient volcanoes, followed by long stretches in which water trickled through and slowly reshaped the rock. However, some rocks scattered across the Martian surface seem to hint at a different geological history—carrying the same material that forms rubies and sapphires.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/gemstone-like-minerals.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Mars-rover finder rubin-mineraler efter voldsomme nedslag",
+      "resume_da": "Mars-roveren har fundet mineralet korund, som danner rubiner og safirer. Det tyder på voldsomme nedslag på Mars.",
+      "sektioner": [
+        {
+          "overskrift": "Uventet fund på Mars",
+          "tekst": "De fleste mineraler på Mars stammer fra lava og vand, men nogle sten bærer korund. Korund er samme materiale som rubiner og safirer. Fundet blev gjort af roveren."
+        },
+        {
+          "overskrift": "Tegn på voldsomme nedslag",
+          "tekst": "Forskerne mener, at korund kan være dannet ved voldsomme nedslag. Disse nedslag har ændret klippernes struktur under højt tryk og varme. Det giver nyt indblik i Mars' geologiske historie."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Roveren har fundet korund på Mars' overflade.",
+        "Korund er mineralet bag rubiner og safirer.",
+        "Fundet antyder en anden geologisk historie end lava og vand."
+      ],
+      "betydning": "Det giver forskerne viden om, hvordan Mars har udviklet sig, og om der har været voldsomme begivenheder. Det kan også hjælpe med at forstå, hvor der kan findes værdifulde mineraler.",
+      "pointer": [
+        "Mars-rover fandt rubin-mineralet korund.",
+        "Korund dannes ofte ved voldsomme nedslag.",
+        "Fundet ændrer vores billede af Mars' fortid."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Nuking an asteroid on short notice could save us",
+      "link": "https://phys.org/news/2026-08-nuking-asteroid-short.html",
+      "dato": "2026-08-18T12:00:09+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Readers of a certain age will remember a golden era of asteroid films, capped by two with very different endings. \"Deep Impact\" drove home the devastating consequences of letting a large piece of rock hit our planet, whereas \"Armageddon,\" though arguably the kitschier of the two films, was an uplifting story about technical ingenuity and sacrifice.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/nuking-an-asteroid-on.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Ny forskning: Atomeksplosion kan redde Jorden fra asteroide",
+      "resume_da": "Forskere har studeret, hvordan en atombombe kan sprænge en asteroide i småstykker, hvis den truer Jorden. Det kan være vores bedste chance ved kort varsel.",
+      "sektioner": [
+        {
+          "overskrift": "Atomvåben mod asteroider",
+          "tekst": "Forskere har undersøgt, om en atomeksplosion kan ødelægge en asteroide, der er på kollisionskurs med Jorden. Ved kort varsel kan det være den eneste mulighed. Metoden minder om filmene 'Deep Impact' og 'Armageddon'."
+        },
+        {
+          "overskrift": "Simuleringer viser lovende resultater",
+          "tekst": "Ved hjælp af computersimuleringer har forskerne set på, hvordan en atombombe bedst placeres og detoneres. Resultaterne viser, at en eksplosion kan splintre asteroiden i mindre stykker. De mindre stykker vil brænde op i Jordens atmosfære."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Forskningen handler om at håndtere en asteroide, der opdages sent.",
+        "En atomeksplosion kan være den eneste mulighed ved kort varsel.",
+        "Simuleringer viser, at asteroiden kan splintres i små stykker.",
+        "De små stykker vil forbrænde i atmosfæren.",
+        "Metoden er inspireret af science fiction-film."
+      ],
+      "betydning": "For en almindelig dansker er det vigtigt at vide, at forskere arbejder på metoder til at beskytte Jorden mod asteroider. Selvom risikoen er lille, kan det redde os fra en katastrofe.",
+      "pointer": [
+        "Atombombe kan redde Jorden fra asteroide.",
+        "Metoden er nødvendig ved kort varsel.",
+        "Simuleringer viser, at den virker.",
+        "De små stykker brænder op i atmosfæren."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027",
+      "link": "https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027/",
+      "dato": "2026-08-18T12:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Rochester, NY – August 18, 2026 – Eoptic, Inc., a developer of advanced multi-spectral and multi-modal imaging systems, today announced it has been selected as an approved supplier in support of strategic [&#8230;] The post Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027 appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Eoptic_Blue_Square.png?fit=582%2C582&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Eoptic skal levere kameraer til rummission i 2027",
+      "resume_da": "Eoptic, Inc. er valgt til at levere DeepScan™ kameraer til en rummission, der skal opsendes i 2027. Det sker som led i en strategisk aftale.",
+      "sektioner": [
+        {
+          "overskrift": "Aftalen",
+          "tekst": "Eoptic er blevet udpeget som godkendt leverandør. Firmaet skal levere sine avancerede DeepScan™ kameraer. Opsendelsen er planlagt til **2027**."
+        },
+        {
+          "overskrift": "Kameraernes egenskaber",
+          "tekst": "DeepScan™ er et avanceret billedsystem. Det kan tage billeder i flere spektrale bånd. Det giver detaljerede observationer fra rummet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2027",
+          "label": "Planlagt opsendelsesår"
+        }
+      ],
+      "detaljer": [
+        "Eoptic, Inc. er baseret i Rochester, NY.",
+        "Selskabet udvikler multi-spektrale og multi-modale billedsystemer.",
+        "Aftalen blev offentliggjort den 18. august 2026."
+      ],
+      "betydning": "Missionen kan føre til bedre overvågning og forskning fra rummet, hvilket kan komme samfundet til gode gennem eksempelvis klima- eller miljøobservationer.",
+      "pointer": [
+        "Eoptic skal levere DeepScan™ kameraer.",
+        "Opsendelse i 2027.",
+        "Firmaet er nu godkendt leverandør."
+      ],
+      "prio": 3
+    },
     {
       "titel": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
       "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/",
@@ -4142,190 +4310,6 @@
         "Hun skiftede fra forsvarsindustrien til rumfart efter mange år."
       ],
       "prio": 5
-    },
-    {
-      "titel": "Mirage or miracle? JWST finds earliest known 'black hole star' at cosmic dawn",
-      "link": "https://phys.org/news/2026-08-mirage-miracle-jwst-earliest-black.html",
-      "dato": "2026-08-12T15:00:08+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Little red dots have puzzled astronomers since their discovery in James Webb Space Telescope (JWST) data from the universe's deep past. Their \"powering engines\" might resemble a newly discovered phenomenon dubbed a \"black hole star\"—an early, rapidly growing black hole wrapped in dense gas. This object, described in a study published today in Nature by researchers at the Institute of Science and T",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/mirage-or-miracle-jwst.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "JWST finder tidligste kendte 'sort hul-stjerne'",
-      "resume_da": "Astronomer har opdaget et hidtil ukendt fænomen kaldet en 'sort hul-stjerne' – et tidligt, hurtigt voksende sort hul omgivet af tæt gas. Det kan forklare, hvordan sorte huller blev så massive kort efter Big Bang.",
-      "sektioner": [
-        {
-          "overskrift": "Opdagelsen",
-          "tekst": "Fænomenet blev fundet i data fra James Webb-rumteleskopet. Det er beskrevet i en ny undersøgelse i tidsskriftet Nature. Forskere fra Institute of Science and Technology Austria og internationale kolleger står bag."
-        },
-        {
-          "overskrift": "Hvad er en sort hul-stjerne?",
-          "tekst": "En sort hul-stjerne er et tidligt, hurtigt voksende sort hul omgivet af tæt gas. Det minder om de såkaldte 'små røde prikker', som har undret forskere. Disse objekter kan være motoren bag de mystiske prikker."
-        },
-        {
-          "overskrift": "Betydning for sorte huller",
-          "tekst": "Opdagelsen kan hjælpe med at forklare, hvordan sorte huller på en milliard solmasser kunne dannes så hurtigt efter Big Bang. Forskningen giver nye fingerpeg om universets tidlige udvikling."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "en milliard solmasser",
-          "label": "Masse af sorte huller"
-        }
-      ],
-      "detaljer": [
-        "Fænomenet kaldes en 'sort hul-stjerne'.",
-        "Opdagelsen er publiceret i Nature.",
-        "Forskere fra ISTA og internationale samarbejdspartnere står bag."
-      ],
-      "betydning": "Det hjælper forskere med at forstå, hvordan sorte huller voksede så hurtigt i universets barndom. Det giver også ny viden om, hvordan galakser og sorte huller udvikler sig – noget der kan være relevant for at forstå vores eget kosmiske ophav.",
-      "pointer": [
-        "Fundet i JWST-data.",
-        "Nyt fænomen kaldet 'sort hul-stjerne'.",
-        "Kan forklare massive sorte huller tidligt i universet."
-      ],
-      "prio": 8
-    },
-    {
-      "titel": "The Helix Nebula is Hurling Clumps of Gas through Space",
-      "link": "https://skyandtelescope.org/astronomy-news/the-helix-nebula-is-hurling-clumps-of-gas-through-space/",
-      "dato": "2026-08-12T15:00:00+00:00",
-      "kilde": "Sky & Telescope",
-      "resume": "The star at the heart of the oft-observed Helix Nebula powered a clumpy wind before it died. Now, new images capture these clumps’ dissolution into the space between stars. The post The Helix Nebula is Hurling Clumps of Gas through Space appeared first on Sky &amp; Telescope .",
-      "billede": null,
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Helix-tågen kaster gas ud i rummet",
-      "resume_da": "Nye billeder viser, hvordan døde stjerners gas skyder ud i rummet.",
-      "sektioner": [
-        {
-          "overskrift": "Stjernens vinde",
-          "tekst": "Stjernen i midten af Helix-tågen sendte tidligere kraftige vinde ud. Disse vinde drev store klumper af gas og støv ud i rummet. Nu kan forskere se, hvordan klumperne bliver opløst."
-        },
-        {
-          "overskrift": "Nye billeder",
-          "tekst": "De nye billeder viser detaljer, som aldrig før er set. Klumperne bevæger sig gennem rummet og bliver langsomt nedbrudt. Det giver ny viden om stjerners død."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Stjernen i Helix-tågen havde en kraftig vind, før den døde.",
-        "Klumper af gas bliver nu set, mens de spredes i rummet.",
-        "Observationerne er offentliggjort i Sky & Telescope."
-      ],
-      "betydning": "Det hjælper os med at forstå, hvordan stjerner dør, og hvordan stoffer spredes i rummet. Det kan give viden om, hvordan livets byggesten opstår.",
-      "pointer": [
-        "Helix-tågen er velkendt blandt astronomer.",
-        "Nye billeder viser klumpernes opløsning.",
-        "Stjernens vinde var kraftige før dens død.",
-        "Forskningen øger vores forståelse."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "APOD: 2026 August 12 – Perseids over a Little Planet",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-12-perseids-over-a-little-planet/",
-      "dato": "2026-08-12T14:30:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 August 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Perseids over a [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/A_Planet_of_Meteors.jpg?w=4922&#038;h=5500&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "The ground is shown in a little planet perspective, surrounded by the sky with a diffuse glow. The Milky Way is visible in the sky, as well as some nebulae in red and over a hundred meteors. Most of t",
-      "kategori": "Astronomi",
-      "rubrik": "Perseider over Polen: Årets meteorsværm",
-      "resume_da": "Et billede fra 2024-viser Perseid-meteorsværmen, og i 2026 forventes den ekstra flot, da toppen falder sammen med nymåne.",
-      "sektioner": [
-        {
-          "overskrift": "Billedet",
-          "tekst": "Billedet ligner en udsigt fra Lille Prins' planet. Meteorer stråler op mod radiante i Bieszczady-bjergene i Polen. Mælkevejens bue og flere røde tåger er synlige."
-        },
-        {
-          "overskrift": "Årets meteorsværm",
-          "tekst": "Perseiderne forventes at være ekstra imponerende i år, fordi toppen falder sammen med nymåne. Den 12. august 2026 kan man se op til **50-100 meteorer i timen**."
-        },
-        {
-          "overskrift": "Sådan ser du den",
-          "tekst": "Bedst ser man meteorerne mellem midnat og før daggry. Man behøver ikke kikkert, men en liggestol og en mørk himmel hjælper. Jordens bane krydser støv fra kometen Swift-Tuttle."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "50-100",
-          "label": "Meteorer i timen"
-        },
-        {
-          "tal": "12. august 2026",
-          "label": "Dato for toppen"
-        }
-      ],
-      "detaljer": [
-        "Billedet er taget i Polen under Perseiderne i 2024.",
-        "Meteorsværmen er let at se og populær om sommeren på den nordlige halvkugle.",
-        "Over hundrede meteorer peger mod radiante."
-      ],
-      "betydning": "For en almindelig dansker er det en nem og flot naturoplevelse at se Perseiderne – og måske ekstra god i år.",
-      "pointer": [
-        "Perseiderne topper i nat",
-        "Op til 100 meteorer i timen",
-        "Nymåne giver mørk himmel",
-        "Ingen kikkert nødvendig"
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Quality Assessment Report Evaluates Polar Geospatial Center EarthDEM Elevation Products",
-      "link": "https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/",
-      "dato": "2026-08-12T14:13:13+00:00",
-      "kilde": "NASA",
-      "resume": "CSDA’s assessment reports help inform the user community about the quality of commercial Digital Elevation Models (DEMs).",
-      "billede": "https://science.nasa.gov/wp-content/uploads/2026/08/side-by-side-graphic-polargeospatial.jpg?w=2048",
-      "billede_alt": "At left, the cover of the rogram recently released Polar Geospatial Center EarthDEM Quality Assessment Report, which features an image of a satellite on a white field over an image of Earth from space",
-      "kategori": "Forskning",
-      "rubrik": "NASA vurderer ny kortlægning af Jordens overflade",
-      "resume_da": "NASA har undersøgt kvaliteten af digitale højdemodeller fra Polar Geospatial Center. Modellerne er gode nok til forskning, men den lodrette præcision er ikke helt i top.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er EarthDEM?",
-          "tekst": "EarthDEM er en type kort, der viser Jordens overflade i 3D. Det er lavet ud fra satellitbilleder fra Vantor-satellitterne. NASA har nu testet, hvor præcise kortene er."
-        },
-        {
-          "overskrift": "Testens resultater",
-          "tekst": "Forskere sammenlignede EarthDEM med flymålinger fra USA og Senegal. Den vandrette præcision er god: **0,3-0,5 meter** fejl. Den lodrette præcision er dog dårligere end forventet: **4,9-5,6 meter** fejl. Det varierer også med landskabstypen."
-        },
-        {
-          "overskrift": "Konklusion og brug",
-          "tekst": "Rapporten siger, at EarthDEM kan bruges til NASA's jordforskning, hvis man accepterer fejlene. Kortene er generelt godt dokumenterede, hvilket gør dem nemmere at bruge korrekt."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "0,3 m",
-          "label": "Vandret fejl (Mosaic Tile)"
-        },
-        {
-          "tal": "4,9 m",
-          "label": "Lodret fejl (Mosaic Tile)"
-        },
-        {
-          "tal": "5,6 m",
-          "label": "Lodret fejl (Strip)"
-        }
-      ],
-      "detaljer": [
-        "CSDA-programmet køber kommercielle data til NASA.",
-        "Rapporten blev udgivet 8. august 2026.",
-        "Sammenlignet med lidar-data fra fly.",
-        "Alle landskabstyper overskred specifikationen på 0,5 m lodret fejl.",
-        "Dokumentationen blev vurderet som god."
-      ],
-      "betydning": "For almindelige danskere er det relevant, fordi bedre højdemodeller kan forbedre kort og navigation. Desuden viser det, hvordan NASA sikrer kvaliteten af de data, de bruger til forskning i klima og miljø.",
-      "pointer": [
-        "NASA har testet kommercielle højdekort.",
-        "Vandret præcision er god.",
-        "Lodret præcision er middelmådig.",
-        "Kortene kan stadig bruges til forskning."
-      ],
-      "prio": 4
     }
   ]
 }
