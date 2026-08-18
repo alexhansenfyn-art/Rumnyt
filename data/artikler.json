@@ -1,7 +1,107 @@
 {
-  "opdateret": "2026-08-18T17:03:18.510735+00:00",
+  "opdateret": "2026-08-18T19:18:21.261027+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure",
+      "link": "https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/",
+      "dato": "2026-08-18T18:03:44+00:00",
+      "kilde": "NASA",
+      "resume": "NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and tunnels, to improve safety, reliability, and costs by 2035 or sooner. Infrastructure is the foundation of the nation’s strong economy, global competitiveness, and daily quality of life. When that infrastructure is [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/2027-gbs-email-header-cc.png?w=1500",
+      "billede_alt": "A photo collage showing drones and aeronautics structures for the Gateways to Blue Skies Challenge. The challenge name, InfraAir: Aviation for Infrastructure Inspection, is shown at the bottom.",
+      "kategori": "Politik & penge",
+      "rubrik": "NASA-konkurrence: Droner skal tjekke broer og tunneller",
+      "resume_da": "NASA inviterer studerende til at finde på nye måder, hvor flyvende fartøjer kan inspicere broer, tunneller og anden infrastruktur. Det kan gøre eftersyn billigere og sikrere.",
+      "sektioner": [
+        {
+          "overskrift": "Udfordringen med infrastruktur",
+          "tekst": "Broer og tunneller er svære at inspicere, fordi de er store og svært tilgængelige. Det kan kræve lukning af veje eller farligt arbejde. NASA vil have kreative løsninger med flyvende fartøjer."
+        },
+        {
+          "overskrift": "Sådan fungerer konkurrencen",
+          "tekst": "Studerende skal i grupper på 2-6 personer indsende et forslag og en to-minutters video. De bedste op til 8 hold får **9.000 dollars** hver og går videre til anden fase. Vinderne kan få praktik hos NASA."
+        },
+        {
+          "overskrift": "Vigtige datoer",
+          "tekst": "Interesserede hold kan melde deres interesse inden **12. oktober** (ikke-bindende). Selve forslagene skal være inde **22. februar 2027**. Finalen finder sted i maj 2027."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "9.000 dollars",
+          "label": "Præmie for finalister"
+        },
+        {
+          "tal": "2-6 studerende",
+          "label": "Størrelse på hold"
+        }
+      ],
+      "detaljer": [
+        "Konkurrencen hedder Gateways to Blue Skies.",
+        "Det er NASA's University Innovation Project, der står bag.",
+        "Målet er at forbedre eftersyn af broer, tunneller, jernbaner og elnet.",
+        "Både studerende fra alle fagområder kan deltage."
+      ],
+      "betydning": "Bedre inspektion kan betyde sikrere broer og tunneller og færre trafikale forstyrrelser. Det kan også skabe nye job og teknologier, som vi kan få glæde af i Danmark.",
+      "pointer": [
+        "NASA vil bruge droner til at tjekke veje og broer.",
+        "Studerende kan vinde penge og praktik.",
+        "Deadline for interesse er 12. oktober.",
+        "Konkurrencen kan gøre infrastruktur mere sikker."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "NASA's SkyFall Mars helicopters will feature a revolutionary antenna design",
+      "link": "https://phys.org/news/2026-08-nasa-skyfall-mars-helicopters-feature.html",
+      "dato": "2026-08-18T17:20:04+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "From 2021 to 2024, NASA's Ingenuity helicopter became the first vehicle of its kind to explore the Martian atmosphere and surface. With that proof of concept complete, NASA is preparing to send a trio of helicopters to search for the most precious resource for future astronaut missions: water. Known as the SkyFall trio, these helicopters will detect frozen water within the top few meters of Martia",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasas-skyfall-mars-hel.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "NASA's nye Mars-helikoptere skal finde vand med antenne af stof",
+      "resume_da": "NASA sender tre helikoptere til Mars for at finde frossent vand tæt på overfladen. De bruger en ny slags antenne af stof, der kan rulles ud under flyvningen.",
+      "sektioner": [
+        {
+          "overskrift": "Fra Ingenuity til SkyFall",
+          "tekst": "NASA's Ingenuity-helikopter beviste fra 2021 til 2024, at man kan flyve på Mars. Nu bygger NASA videre på succesen med tre nye helikoptere, der skal finde vand. Vand er afgørende for fremtidige astronautmissioner."
+        },
+        {
+          "overskrift": "Radar og stofantenne",
+          "tekst": "Hver helikopter får en radar, der kan se ned i jorden. Antennen er lavet af fleksibelt stof og hænger under helikopteren. Det gør det muligt at scanne de øverste meter af Mars-jorden efter is."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "3",
+          "label": "antal helikoptere"
+        },
+        {
+          "tal": "2021 til 2024",
+          "label": "Ingenuity's missionperiode"
+        },
+        {
+          "tal": "få meter",
+          "label": "dybde for vandjagt"
+        }
+      ],
+      "detaljer": [
+        "Helikopterne kaldes SkyFall-trioen.",
+        "De skal finde frosset vand i Mars-jorden.",
+        "Antennen er lavet af fleksibelt, stofbaseret materiale.",
+        "Den er placeret under helikopteren."
+      ],
+      "betydning": "Hvis vi finder vand på Mars, kan fremtidige astronauter bruge det til at drikke, lave ilt og raketbrændstof. Det gør missioner til Mars meget mere realistiske.",
+      "pointer": [
+        "NASA sender tre helikoptere til Mars.",
+        "De skal finde frossent vand nær overfladen.",
+        "Ny antenne af stof gør det muligt.",
+        "Vand er vigtigt for fremtidige astronauter."
+      ],
+      "prio": 8
+    },
     {
       "titel": "NASA’s B777 Gets New Coat of Paint",
       "link": "https://www.nasa.gov/image-article/nasas-b777-gets-new-coat-of-paint/",
@@ -4248,83 +4348,6 @@
         "Der er brug for nye regler."
       ],
       "prio": 8
-    },
-    {
-      "titel": "Chemical fingerprints reveal hidden binary pasts of massive stars",
-      "link": "https://phys.org/news/2026-08-chemical-fingerprints-reveal-hidden-binary.html",
-      "dato": "2026-08-12T18:40:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "More than 70% of massive stars are born in close binary systems, where gravitational tugs and mass transfer between companions dramatically alter their evolution. Yet once the interaction ends—whether through mass transfer, merger or the supernova explosion of one partner—the surviving star often appears as a solitary object, hiding its turbulent past. For decades, astronomers have struggled to de",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemical-fingerprints.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Kemiske fingeraftryk afslører massive stjerners fortid",
-      "resume_da": "Over 70% af massive stjerner fødes i tætte binaries, men mange ser ud som enlige. Nu kan forskere se deres skjulte fortid via kemiske fingeraftryk.",
-      "sektioner": [
-        {
-          "overskrift": "Skjulte binære fortider",
-          "tekst": "Mange massive stjerner starter i tætte binære systemer, hvor de påvirker hinanden. Efter interaktionen kan den overlevende stjerne se enlig ud. Nu kan forskere afsløre dens fortid."
-        },
-        {
-          "overskrift": "Kemiske fingeraftryk",
-          "tekst": "Forskere har fundet kemiske fingeraftryk, der afslører, om en stjerne har haft en binær fortid. Det kan ændre vores forståelse af stjerners udvikling."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "70%",
-          "label": "af massive stjerner fødes i binære"
-        }
-      ],
-      "detaljer": [
-        "Mere end 70% af massive stjerner fødes i tætte binære systemer.",
-        "Gravitationel påvirkning og masseoverførsel ændrer stjernernes udvikling.",
-        "Efter interaktionen kan den overlevende stjerne se enlig ud.",
-        "Astronomer har længe haft svært ved at afsløre disse skjulte fortider."
-      ],
-      "betydning": "Det hjælper os med at forstå, hvordan stjerner udvikler sig, og kan have betydning for vores viden om universets historie.",
-      "pointer": [
-        "Over 70% af massive stjerner er i binære systemer.",
-        "Interaktioner ændrer stjernernes udvikling.",
-        "Kemiske fingeraftryk afslører skjult fortid.",
-        "Ny metode kan ændre stjerneforskningen."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "What if there's a star inside a black hole?",
-      "link": "https://phys.org/news/2026-08-star-black-hole.html",
-      "dato": "2026-08-12T18:00:07+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "There is a question that often comes up at every public talk I do, and I have never had a good answer to it—well, not an entirely confident one. What's inside a black hole? The textbook reply is a singularity. Cross the event horizon, and everything falls inward to a point of infinite density where our equations return nonsense. It isn't so much an answer as an admission that we've run out of phys",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-if-theres-a-star.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Kan der gemme sig en stjerne i et sort hul?",
-      "resume_da": "En fysiker overvejer, om der inden i et sort hul kan være en stjerne i stedet for en singularitet – et punkt med uendelig tæthed.",
-      "sektioner": [
-        {
-          "overskrift": "Det klassiske svar",
-          "tekst": "Ifølge lærebøgerne er der en singularitet i midten af et sort hul. Alt, der krydser begivenhedshorisonten, falder mod et punkt med uendelig tæthed. Her bryder vores fysiske love sammen."
-        },
-        {
-          "overskrift": "Alternativ idé",
-          "tekst": "Forskeren, der skriver artiklen, undrer sig over, om der i stedet kan være en stjerne inden i et sort hul. Det er et spørgsmål, han ofte får, men aldrig har følt sig sikker på at kunne svare på."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Spørgsmålet om, hvad der er inden i et sort hul, er uafklaret.",
-        "Det klassiske svar er en singularitet.",
-        "En alternativ mulighed er en stjerne."
-      ],
-      "betydning": "Det er vigtigt at forstå sorte huller, fordi de er ekstreme fænomener i universet. Måske kan ny viden om dem ændre vores billede af virkeligheden.",
-      "pointer": [
-        "Sorte huller rummer måske ikke kun et uendeligt tæt punkt.",
-        "Vores fysiske love bryder sammen ved singulariteten.",
-        "Forskere er stadig usikre på, hvad der gemmer sig inden i."
-      ],
-      "prio": 6
     }
   ]
 }
