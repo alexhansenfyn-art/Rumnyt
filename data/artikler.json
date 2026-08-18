@@ -1,7 +1,61 @@
 {
-  "opdateret": "2026-08-17T22:55:14.399593+00:00",
+  "opdateret": "2026-08-18T03:11:18.722199+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/",
+      "dato": "2026-08-17T23:10:41+00:00",
+      "kilde": "NASA",
+      "resume": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Aug. 7, 2026 This week was very special for the Curiosity team here on Earth as we celebrated the 14th landing anniversary. I still remember watching the buildup to the entry phase on “Eyes on the Solar System” […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04976_opgs_edr_fcam_FLB_839253016EDR_F1240348FHAZ00337M_.jpg?w=1024&#038;h=1024&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A black-and-white image from the Curiosity rover on Mars. The rover",
+      "kategori": "Missioner",
+      "rubrik": "Curiosity fejrer 14 år på Mars",
+      "resume_da": "NASA's Marsrover Curiosity fejrede 14 år på Mars med videnskabelige målinger. Rovat kører op ad Mount Sharp og undersøger klippelag.",
+      "sektioner": [
+        {
+          "overskrift": "Jubilæum på Mars",
+          "tekst": "Curiosity landede på Mars den 6. august 2012. Denne uge fejrede holdet 14-årsdagen. Rovat fortsatte dog sit arbejde og målte på et mål kaldet \"Tunas Khasa\"."
+        },
+        {
+          "overskrift": "Kørsel op ad bjerg",
+          "tekst": "Rovat kører op ad Mount Sharp og undersøger klippelag. Undervejs var hældningen på 24 grader. Efter en kørsel på 14 meter stod den foran et særligt sted, hvor klippelag mødes."
+        },
+        {
+          "overskrift": "Videnskabelige målinger",
+          "tekst": "Rovat brugte instrumenter som APXS, MAHLI og ChemCam til at måle på klipper. Den undersøgte mål som \"Villarrica\" og \"Lago Rupanco\". Mastcam tog fem mosaikker af området."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "14 år",
+          "label": "Tid på Mars"
+        },
+        {
+          "tal": "24 grader",
+          "label": "Maksimal hældning"
+        },
+        {
+          "tal": "14 meter",
+          "label": "Kørsel i ugen"
+        }
+      ],
+      "detaljer": [
+        "Curiosity landede 6. august 2012",
+        "Rovat måler på klippen 'Tunas Khasa' med APXS",
+        "Holder sig ved et sted med krydslejrede klipper",
+        "Planlægger målinger på målene 'Salar de Gorbea' og 'Uriondo'"
+      ],
+      "betydning": "Missionen hjælper forskere med at forstå Mars' fortid, herunder om der har været vand. Det kan fortælle os om muligheden for liv på andre planeter.",
+      "pointer": [
+        "Fejrer 14 år på Mars",
+        "Undersøger bjerggrund",
+        "Kørte 14 meter",
+        "Finder spor af vand og vind"
+      ],
+      "prio": 6
+    },
     {
       "titel": "Hubble solves merger mystery from Milky Way's early years",
       "link": "https://phys.org/news/2026-08-hubble-merger-mystery-milky-early.html",
@@ -4272,41 +4326,6 @@
         "Kortene kan stadig bruges til forskning."
       ],
       "prio": 4
-    },
-    {
-      "titel": "Three supermassive black holes discovered in a single galaxy for the first time",
-      "link": "https://phys.org/news/2026-08-supermassive-black-holes-galaxy.html",
-      "dato": "2026-08-12T13:40:14+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "An international team of astronomers led by the Max Planck Institute for Extraterrestrial Physics has identified three actively accreting supermassive black holes in the galaxy J0148-4214. Matter is falling into the black holes from accretion disks surrounding them.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/three-supermassive-bla-1.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Tre sorte huller fundet i samme galakse",
-      "resume_da": "Astronomer har opdaget tre supermassive sorte huller i galaksen J0148-4214. Det er første gang, man ser det.",
-      "sektioner": [
-        {
-          "overskrift": "Ny opdagelse",
-          "tekst": "Et internationalt hold af astronomer har fundet tre supermassive sorte huller i galaksen J0148-4214. Det er første gang, man ser tre aktive sorte huller i samme galakse."
-        },
-        {
-          "overskrift": "Hvordan de blev fundet",
-          "tekst": "Holdet blev ledt af Max Planck Instituttet for Udenjordisk Fysik. De sorte huller er 'aktivt akkreterende', hvilket betyder, at de trækker stof til sig fra omkringliggende skiver."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Galaksen hedder J0148-4214.",
-        "Der er tre supermassive sorte huller i galaksen.",
-        "De er fundet for første gang."
-      ],
-      "betydning": "Opdagelsen kan hjælpe forskere med at forstå, hvordan galakser og sorte huller udvikler sig, og hvordan de interagerer.",
-      "pointer": [
-        "Tre sorte huller i én galakse.",
-        "Første gang nogensinde observeret.",
-        "Fundet af internationalt hold."
-      ],
-      "prio": 6
     }
   ]
 }
