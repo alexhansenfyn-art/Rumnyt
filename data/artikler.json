@@ -1,7 +1,128 @@
 {
-  "opdateret": "2026-08-18T20:54:11.550197+00:00",
+  "opdateret": "2026-08-18T22:56:09.582578+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "NASA's LRO images Falcon 9 crater on moon, learns new details",
+      "link": "https://phys.org/news/2026-08-nasa-lro-images-falcon-crater.html",
+      "dato": "2026-08-18T21:50:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Between Aug. 11–12, NASA's Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the moon. The crater formed Aug. 5, when a SpaceX Falcon 9 upper stage impacted the surface following its Jan. 2025 launch of the Firefly Blue Ghost 1 mission.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasas-lro-images-falco.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "NASA finder nyt krater på Månen",
+      "resume_da": "NASA's månesonde har fundet et nyt krater på Månen, skabt af en SpaceX-raketdel, og lært nye detaljer om nedslaget.",
+      "sektioner": [
+        {
+          "overskrift": "Krateret fundet",
+          "tekst": "NASA's rumsonde LRO tog billeder af et nyt krater på Månen i august. Krateret blev dannet, da en SpaceX Falcon 9 raketdel ramte overfladen den 5. august. Raketdelen var en del af en mission, der blev sendt op i januar 2025."
+        },
+        {
+          "overskrift": "Nye detaljer",
+          "tekst": "Billederne giver forskerne ny viden om, hvordan nedslag sker på Månen. De kan se, hvordan materiale er blevet kastet op og fordelt. Det hjælper med at forstå Månens historie og fremtidige missioner."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "august 11-12",
+          "label": "dato for billederne"
+        },
+        {
+          "tal": "5. august",
+          "label": "dato for nedslag"
+        }
+      ],
+      "detaljer": [
+        "Krateret blev dannet af en Falcon 9 øvre trin.",
+        "Raketdelen blev sendt op i januar 2025.",
+        "LRO er NASA's månesonde."
+      ],
+      "betydning": "Det viser, hvordan rumaffald kan påvirke Månen, og giver viden til fremtidige missioner.",
+      "pointer": [
+        "Nyt krater på Månen.",
+        "Skabt af SpaceX-raketdel.",
+        "LRO tog billeder.",
+        "Lært nye detaljer om nedslag."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "A single asteroid impact may explain the appearance of Mars' moon Deimos",
+      "link": "https://phys.org/news/2026-08-asteroid-impact-mars-moon-deimos.html",
+      "dato": "2026-08-18T21:20:06+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Deimos, the smaller and outermost of Mars' two moons, is roughly oval in shape and has a deep depression at its south pole. Unlike its heavily scarred sister moon, Phobos, Deimos is covered by a loose layer of dust and rubble—a so-called regolith layer—which gives it a smoother, dustier appearance. Although numerous space probes have provided increasingly detailed images of its surface over the pa",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/asteroid-impact-shaped.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Asteroide-nedslag kan forklare Mars-månen Deimos",
+      "resume_da": "Forskere foreslår, at et enkelt asteroide-nedslag kan forklare både Deimos' sydpolsdyb og dens løse støvlag.",
+      "sektioner": [
+        {
+          "overskrift": "Deimos' mysterier",
+          "tekst": "Deimos er den mindste og yderste af Mars' to måner. Den er oval og har en dyb fordybning ved sydpolen. Den er dækket af et løst lag af støv og kampesten, kaldet regolit."
+        },
+        {
+          "overskrift": "Nedslagsteorien",
+          "tekst": "Forskere mener nu, at et enkelt asteroide-nedslag kan have skabt både fordybningen og støvlaget. Tidligere var det uklart, hvordan disse træk var opstået."
+        },
+        {
+          "overskrift": "Sammenligning med Phobos",
+          "tekst": "Deimos' søstermåne Phobos er stærkt arret af nedslag. Deimos har derimod et glattere og mere støvet udseende. Forskellen kan nu forklares med det samme nedslag."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Deimos er den mindste og yderste af Mars' to måner.",
+        "Deimos har en dyb fordybning ved sydpolen.",
+        "Deimos er dækket af et løst lag af støv og kampesten.",
+        "Phobos er stærkt arret, mens Deimos er glattere."
+      ],
+      "betydning": "Forskningen kan ændre vores forståelse af, hvordan måner dannes og udvikler sig. Det kan også give viden om asteroide-nedslags effekter generelt.",
+      "pointer": [
+        "Et asteroide-nedslag kan forklare Deimos' træk.",
+        "Deimos har en dyb fordybning ved sydpolen.",
+        "Deimos er dækket af løst støv og kampesten.",
+        "Phobos er mere arret end Deimos."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "'Hidden stars' suggest that distant galaxies are much more massive than they appear",
+      "link": "https://phys.org/news/2026-08-hidden-stars-distant-galaxies-massive.html",
+      "dato": "2026-08-18T21:00:04+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Astronomers have discovered that the most massive galaxies in the early universe contain far more small stars than expected. As a result, these early galaxies were likely much more massive than initial measurements suggested. This discovery challenges current understanding about how the first galaxies formed. The results are published today in Nature Astronomy.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-stars-suggest-t.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Fjerne galakser er tungere end troet",
+      "resume_da": "Astronomer har opdaget, at de tidligste store galakser indeholder flere små stjerner end hidtil antaget. Derfor var de nok meget mere massive end målt.",
+      "sektioner": [
+        {
+          "overskrift": "Skjulte stjerner fundet",
+          "tekst": "Astronomer har fundet ud af, at de mest massive galakser i det tidlige univers har mange flere små stjerner end forventet. Det betyder, at disse galakser sandsynligvis var meget tungere, end man først troede. Resultatet er offentliggjort i tidsskriftet Nature Astronomy."
+        },
+        {
+          "overskrift": "Udfordrer galaksedannelse",
+          "tekst": "Opdagelsen udfordrer den nuværende forståelse af, hvordan de første galakser blev dannet. Forskere må nu overveje, at galakser kan være vokset på en anden måde end hidtil antaget."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Resultaterne er offentliggjort i Nature Astronomy.",
+        "Galakserne er blandt de mest massive i det tidlige univers."
+      ],
+      "betydning": "Det ændrer vores billede af universets barndom og hvordan galakser udviklede sig. Det kan også påvirke teorier om mørkt stof og galaksedannelse.",
+      "pointer": [
+        "Flere små stjerner end troet",
+        "Galakser mere massive end målt",
+        "Udfordrer nuværende modeller",
+        "Offentliggjort i Nature Astronomy"
+      ],
+      "prio": 6
+    },
     {
       "titel": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
       "link": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/",
@@ -4220,142 +4341,6 @@
         "Vandis blev fundet i 2009.",
         "Simulator tester mod stråling.",
         "Teknologien gavner også Jorden."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Stellar stream beyond Milky Way offers new tool to map dark matter",
-      "link": "https://phys.org/news/2026-08-stellar-stream-milky-tool-dark.html",
-      "dato": "2026-08-12T20:20:06+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "In the image above, a faint trail of stars can be seen stretching across the galaxy. These structures, known as globular cluster stellar streams, are coherent stellar structures that retain a record of their dynamical history and can provide unique insights into the evolution of galaxies and the nature of dark matter.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/breakthrough-in-unusua-1.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Stjernestrøm afslører mørkt stof",
-      "resume_da": "Astronomer har fundet en stjernestrøm i Mælkevejen, der kan hjælpe med at kortlægge mørkt stof. Strømmen er fra en kuglehob og bevarer spor af sin historie.",
-      "sektioner": [
-        {
-          "overskrift": "Opdagelsen",
-          "tekst": "Et billede viser en svag sti af stjerner, der strækker sig gennem galaksen. Den kaldes en kuglehob-stjernestrøm. Den er en sammenhængende struktur af stjerner."
-        },
-        {
-          "overskrift": "Hvad det betyder",
-          "tekst": "Sådanne stjernestrømme gemmer på information om deres dynamiske historie. De kan give unik indsigt i galaksers udvikling og naturen af mørkt stof."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Stjernestrømmen ses som en svag sti af stjerner på tværs af galaksen.",
-        "Den er dannet af en kuglehob.",
-        "Stjernestrømme er sammenhængende strukturer.",
-        "De bevarer et spor af deres dynamiske historie."
-      ],
-      "betydning": "For danskere betyder det, at vi lærer mere om det mystiske mørke stof, som udgør en stor del af universet. Det kan føre til ny viden om galaksers opbygning.",
-      "pointer": [
-        "Stjernestrøm fra kuglehob fundet",
-        "Kan kortlægge mørkt stof",
-        "Giver indsigt i galakseudvikling"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "2026 Total Solar Eclipse in Spain",
-      "link": "https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/",
-      "dato": "2026-08-12T20:08:28+00:00",
-      "kilde": "NASA",
-      "resume": "A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026. A total solar eclipse – the Moon passing between the Sun and Earth, completely blocking the face of the Sun – swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg?w=2048",
-      "billede_alt": "The light of the Sun makes a fiery yellow halo around the Moon during a total solar eclipse. There is a hint of red at the 9 o&#039;clock position on the Moon&#039;s edge.",
-      "kategori": "Astronomi",
-      "rubrik": "Total solformørkelse i Spanien 2026",
-      "resume_da": "En total solformørkelse blev set fra Spanien den 12. august 2026. Månen dækkede solen helt i flere områder.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad skete der?",
-          "tekst": "Den 12. august 2026 passerede Månen mellem Jorden og Solen og dækkede solen helt i visse områder. Den totale formørkelse var synlig fra dele af Grønland, Island, Nordrusland, Atlanterhavet, Spanien og en lille del af Portugal."
-        },
-        {
-          "overskrift": "Hvor var den synlig?",
-          "tekst": "I USA, Canada, det meste af Europa og nordvestlige Afrika kunne man se en delvis formørkelse. Mange mennesker rejste til Spanien for at opleve totaliteten."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "12. august 2026",
-          "label": "Dato for formørkelsen"
-        }
-      ],
-      "detaljer": [
-        "NASA's Bill Ingalls fotograferede formørkelsen fra San Millán de los Caballeros i Spanien.",
-        "Formørkelsen var en total solformørkelse, hvor Månen helt blokerer Solen.",
-        "Delvis formørkelse var synlig i USA, Canada, Europa og Nordvestafrika.",
-        "NASA lagde video af formørkelsen på deres YouTube-kanal."
-      ],
-      "betydning": "En total solformørkelse er en sjælden og spektakulær begivenhed, som mange danskere rejser til udlandet for at opleve. Det minder os om, hvor fantastisk vores solsystem er.",
-      "pointer": [
-        "Total formørkelse den 12. august 2026.",
-        "Synlig fra Spanien og flere andre steder.",
-        "Delvis synlig i Europa og USA.",
-        "NASA delte billeder og video."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission",
-      "link": "https://www.nasaspaceflight.com/2026/08/china-roundup-20260813/",
-      "dato": "2026-08-12T19:33:41+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "China&#8217;s Wenchang Space Launch Site reached its milestone 50th launch at the end of July,&#8230; The post Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/The-fifteeenth-Lijian-1-Kinetica-1-ascends-from-Site-130-at-the-Jiuquan-Satellite-Launch-Center-on-July-24-CAS-Space-scaled.png",
-      "billede_alt": "",
-      "kategori": "Opsendelser",
-      "rubrik": "Kinas rumhavn runder 50 opsendelser trods raketfejl",
-      "resume_da": "Kinas Wenchang-rumhavn fejrede sin 50. opsendelse, men oplevede også en tredje raketfejl. Kina sender flere AI-satellitter i kredsløb og forbereder måneopgave.",
-      "sektioner": [
-        {
-          "overskrift": "Wenchang når milepæl",
-          "tekst": "Wenchang-rumhavnen på øen Hainan nåede sin **50. opsendelse** den 29. juli. Det skete med en Chang Zheng 7A-raket, der sendte en Tianlian-3-relæsatellit i kredsløb. Relæsatellitter bruges til kommunikation med rumstationen Tiangong."
-        },
-        {
-          "overskrift": "Raketfejl i august",
-          "tekst": "Den 10. august led en Chang Zheng 7A-raket en strukturel fejl **83 sekunder** efter start, og den blev destrueret over det Sydkinesiske Hav. Det var rakettypens anden fejl i 18 missioner og Wenchangs tredje fejl nogensinde."
-        },
-        {
-          "overskrift": "AI-satellitter i fokus",
-          "tekst": "Kina sender flere og flere satellitter med kunstig intelligens (AI) i rummet. To satellitter opretholdt en laserforbindelse i **8 dage** og havde 99,99% oppetid. AI bruges til databehandling i kredsløb."
-        },
-        {
-          "overskrift": "Forberedelser til måne",
-          "tekst": "Kina forbereder sin syvende Chang'e-mission, der skal til Månens sydpol. Også flere kommercielle raketselskaber er tæt på at opsende deres første raketter."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "50",
-          "label": "Antal opsendelser fra Wenchang"
-        },
-        {
-          "tal": "83 sekunder",
-          "label": "Tid til raketfejl"
-        },
-        {
-          "tal": "99,99%",
-          "label": "Oppetid på laserlink"
-        }
-      ],
-      "detaljer": [
-        "Wenchang-rumhavnen har sendt moduler til rumstationen Tiangong, Tianzhou-forsyningsskibe, Mars-sonden Tianwen-1 og de seneste Chang'e-månefartøjer.",
-        "En Chang Zheng 3B-raket blev ramt af lynet den 23. juli, men gennemførte sin mission.",
-        "To virksomheder arbejder på store AI-satellitkonstellationer: ADA Space med 2.800 og Zhejiang Lab med 1.000 satellitter.",
-        "Kina har opsendt 53 missioner i 2026 indtil starten af august."
-      ],
-      "betydning": "Kinas rumprogram vokser hurtigt og påvirker globale rumaktiviteter. Det kan føre til ny teknologi og samarbejder, hvilket er relevant for alle, der følger rumfart.",
-      "pointer": [
-        "Wenchang fejrer 50 opsendelser.",
-        "Raketfejl i august sætter spor.",
-        "Kina satser på AI-satellitter.",
-        "Måneopgave under forberedelse."
       ],
       "prio": 5
     }
