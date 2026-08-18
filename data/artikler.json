@@ -1,7 +1,61 @@
 {
-  "opdateret": "2026-08-18T19:18:21.261027+00:00",
+  "opdateret": "2026-08-18T20:54:11.550197+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
+      "link": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/",
+      "dato": "2026-08-18T18:49:50+00:00",
+      "kilde": "NASA",
+      "resume": "Between Aug. 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon. The crater formed on Aug. 5, when a SpaceX Falcon 9 upper stage impacted the surface following its January 2025 launch of the Firefly Blue Ghost 1 mission. To capture imagery of the […]",
+      "billede": "https://assets.science.nasa.gov/content/dam/science/missions/lro/NASA_LRO_Falcon9impact_2026_GIF.gif?w=1200&#038;h=1200&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "Two-frame animation showing a new crater, with ejecta rays extending outward, appearing on the Moon.",
+      "kategori": "Missioner",
+      "rubrik": "Månekrater afslører nye detaljer om Falcon 9-nedslag",
+      "resume_da": "NASAs månesonde har fotograferet et nyt krater på Månen, dannet da en SpaceX-raketdel ramte overfladen i august. Billederne viser, at krateret er 60 fod bredt og under 10 fod dybt.",
+      "sektioner": [
+        {
+          "overskrift": "Krateret opdaget",
+          "tekst": "Den 5. august 2026 ramte en Falcon 9-raketdel fra SpaceX Månens overflade. NASAs månesonde Lunar Reconnaissance Orbiter (LRO) tog billeder af krateret den 11.-12. august. Krateret blev dannet efter en opsendelse i januar 2025."
+        },
+        {
+          "overskrift": "Sådan blev billederne taget",
+          "tekst": "For at fotografere krateret vippede ingeniørerne LRO, så kameraet pegede mod stedet. Månen drejer langsomt, så det tog seks dage, før krateret kom i syne. Timing var kritisk: et snapshot 10 sekunder for tidligt eller sent ville flytte målet 10 miles."
+        },
+        {
+          "overskrift": "Nye detaljer om krateret",
+          "tekst": "Billeder fra flere vinkler og lysforhold viste kraterets størrelse. Det er omkring **60 fod** bredt og mindre end **10 fod** dybt. Lyse og mørke streger omkring krateret afslører materiale fra forskellige dybder."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "60 fod",
+          "label": "Kraterets bredde"
+        },
+        {
+          "tal": "10 fod",
+          "label": "Maksimal dybde"
+        },
+        {
+          "tal": "6 dage",
+          "label": "Tid til at fotografere"
+        }
+      ],
+      "detaljer": [
+        "LRO kredser om Månen hver anden time.",
+        "Kameraet kan se objekter ned til 3 fod store.",
+        "Nedslagsstedet blev forudsagt inden for 0,6 miles af Danuri-sonden.",
+        "Kraterets koordinater: 19.4759°N, 266.7138°E."
+      ],
+      "betydning": "Historien viser, hvordan rumaffald kan ramme Månen, og hvordan forskere bruger det til at lære mere om Månens overflade og forbedre forudsigelser af nedslag.",
+      "pointer": [
+        "Nyt krater på Månen efter SpaceX-nedslag.",
+        "Størrelse og dybde målt fra billeder.",
+        "Samarbejde mellem NASA og andre rumfartsorganisationer.",
+        "Vigtigt for at forstå Månens geologi."
+      ],
+      "prio": 6
+    },
     {
       "titel": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure",
       "link": "https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/",
@@ -4304,50 +4358,6 @@
         "Måneopgave under forberedelse."
       ],
       "prio": 5
-    },
-    {
-      "titel": "Satellite constellations could create spiraling space debris",
-      "link": "https://phys.org/news/2026-08-satellite-constellations-spiraling-space-debris.html",
-      "dato": "2026-08-12T19:00:08+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "To date, close to 30,000 satellites have been launched into Earth's orbit, leading to mounting concerns over the debris created when they collide. In a new analysis posted to the preprint server arXiv, Hugh Lewis of the University of Birmingham shows that satellite constellations can grow so large that they cross a critical size beyond which they generate unstable, runaway amounts of debris. The f",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/satellites.jpg",
-      "billede_alt": "",
-      "kategori": "Rumvejr",
-      "rubrik": "Satellitklynger kan skabe løbsk rumaffald",
-      "resume_da": "En ny analyse viser, at satellitklynger kan blive så store, at de krydser en kritisk grænse, hvorefter de skaber ustabile mængder af rumaffald. Det haster med skrappere regler.",
-      "sektioner": [
-        {
-          "overskrift": "Voksende problem",
-          "tekst": "Næsten **30.000** satellitter er hidtil sendt i kredsløb om Jorden. Antallet øger risikoen for kollisioner, som skaber farligt affald."
-        },
-        {
-          "overskrift": "Kritisk størrelse",
-          "tekst": "Forskeren Hugh Lewis fra University of Birmingham viser, at satellitklynger kan vokse så meget, at de overskrider en kritisk størrelse. Herefter bliver affaldsmængden ustabil og vokser løbsk."
-        },
-        {
-          "overskrift": "Behov for regler",
-          "tekst": "Resultaterne peger på et akut behov for skrappere regler. Det skal overvejes nøje, hvilke satellitter der overhovedet får lov til at blive sendt op i rummet."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "30.000",
-          "label": "Satellitter sendt op i alt"
-        }
-      ],
-      "detaljer": [
-        "Analysen er lagt på preprint-serveren arXiv.",
-        "Forskeren hedder Hugh Lewis og er fra University of Birmingham.",
-        "Satellitklynger kan skabe ustabilt, løbsk affald."
-      ],
-      "betydning": "Rumaffald kan ramme satellitter, som vi bruger til kommunikation, vejr og navigation. Hvis affaldet løber løbsk, kan det true vores hverdag.",
-      "pointer": [
-        "Mange satellitter skaber affaldsrisiko.",
-        "Klynger kan nå en kritisk størrelse.",
-        "Der er brug for nye regler."
-      ],
-      "prio": 8
     }
   ]
 }
