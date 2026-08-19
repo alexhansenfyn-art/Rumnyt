@@ -1,7 +1,162 @@
 {
-  "opdateret": "2026-08-19T03:13:46.138956+00:00",
+  "opdateret": "2026-08-19T05:17:18.162905+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Behind the Lens: Meet NASA Johnson’s Photographers",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
+      "dato": "2026-08-19T05:02:06+00:00",
+      "kilde": "NASA",
+      "resume": "Photographers at NASA’s Johnson Space Center in Houston have documented some of the most defining moments in human spaceflight.&#160; From astronaut training and engineering tests to&#160;mission&#160;control operations and milestone celebrations, their images preserve the history&#160;of exploration while capturing the&#160;people and teams&#160;behind the missions shaping the&#160;next era.&#160",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e408024-alt.jpg?w=1536",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Mød NASA's fotografer bag rumfartens ikoniske billeder",
+      "resume_da": "NASA's fotografer ved Johnson Space Center har dokumenteret menneskelig rumflyvning i årtier. Lær dem at kende og se, hvordan de fanger historiens øjeblikke.",
+      "sektioner": [
+        {
+          "overskrift": "Robert Markowitz's karriere",
+          "tekst": "Robert Markowitz har i over **30 år** dokumenteret NASA's bemandede rumprogram. Han har fotograferet alt fra rumfærgen til Artemis II. Han var med til at filme 'Apollo 13' under nul-gravitationsflyvninger."
+        },
+        {
+          "overskrift": "Bill Stafford's tilgang",
+          "tekst": "Bill Stafford elsker at løse tekniske udfordringer og fortælle historier med billeder. Han bruger komposition og psykologi til at fange betydningen bag hvert øjeblik. Hans arbejde omfatter fotos af astronauter og udstyr til Artemis-missioner."
+        },
+        {
+          "overskrift": "Fotografernes betydning",
+          "tekst": "Fotograferne dokumenterer alt fra træning og test til missioner og fejringer. Deres billeder bevarer rumfartens historie og viser de mennesker, der arbejder bag missionerne. Det inspirerer og informerer offentligheden."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "30 år",
+          "label": "Markowitz's erfaring"
+        },
+        {
+          "tal": "25 år",
+          "label": "ISS-bemanding dokumenteret"
+        }
+      ],
+      "detaljer": [
+        "Robert Markowitz har fotograferet under rumfærgeprogrammet og Artemis II.",
+        "Bill Stafford begyndte efter et tip fra en ven under college.",
+        "Fotograferne arbejder med portrætter og store gruppebilleder.",
+        "De dokumenterer både træning og missioner i kontrolcentret."
+      ],
+      "betydning": "Det giver almindelige danskere et indblik i, hvordan rumfartshistorie bliver bevaret og formidlet. Det viser også de menneskelige historier bag de store missioner.",
+      "pointer": [
+        "Mød fotograferne bag NASA's billeder.",
+        "De har dokumenteret rumfart i årtier.",
+        "Deres arbejde fanger både tekniske og menneskelige øjeblikke.",
+        "Billederne inspirerer og informerer os om rumfart."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/",
+      "dato": "2026-08-19T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APODScienceAPODAPOD: 2026 August 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this video please enable JavaScript, and consider upgrading to a web b",
+      "billede": null,
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Mystisk objekt viste sig at være flykontrailt",
+      "resume_da": "En video fra Spanien viser et objekt, der krydser en delvist formørket sol. Det viste sig at være en flykontrailt, ikke en meteor.",
+      "sektioner": [
+        {
+          "overskrift": "Mysteriet opstår",
+          "tekst": "Den 12. august 2026 filmede en fotograf i Spanien solen under en delvis formørkelse. På videoen ses et objekt, der bevæger sig hen over solen. Var det en meteor fra Perseiderne?"
+        },
+        {
+          "overskrift": "Undersøgelse af objektet",
+          "tekst": "Forskere sammenlignede objektets bane med stjerneskud fra Perseiderne. Men objektet var for lille og lyste for svagt til at være en meteor. De kiggede derfor i en flydatabase."
+        },
+        {
+          "overskrift": "Løsningen",
+          "tekst": "Det viste sig, at objektet var en flykontrailt. Sollyset blev reflekteret fra den, så den lignede en meteor på videoen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "24 fps",
+          "label": "Videoens billedhastighed"
+        },
+        {
+          "tal": "0,5 grader",
+          "label": "Solens og månens størrelse"
+        }
+      ],
+      "detaljer": [
+        "Videoen blev optaget i Spanien den 12. august 2026 kl. 20:28 lokal tid.",
+        "Perseidernes meteorsværm var på sit højeste på det tidspunkt.",
+        "Objektets bane pegede mod Perseidernes radiantpunkt.",
+        "En flydatabase afslørede, at det var en flykontrailt."
+      ],
+      "betydning": "Historien viser, at ikke alt på himlen er, hvad det ser ud til. Selv forskere skal tjekke flere kilder, før de konkluderer noget.",
+      "pointer": [
+        "Objektet var en flykontrailt.",
+        "Videoen blev taget under en solformørkelse.",
+        "Meteorsværmen Perseiderne var aktiv.",
+        "Forskere brugte en flydatabase til at løse mysteriet."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Zhuque-3 Completes Second Flight with Successful First-Stage Landing",
+      "link": "https://www.nasaspaceflight.com/2026/08/zhuque-3-second-flight-successful-landing/",
+      "dato": "2026-08-19T03:23:54+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "Zhuque-3’s second flight marked a major milestone for LandSpace as the methalox rocket lifted off&#8230; The post Zhuque-3 Completes Second Flight with Successful First-Stage Landing appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-19-04-15-16-283.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Zhuque-3 anden flyvning: landing succes",
+      "resume_da": "Zhuque-3-racen gennemførte sin anden flyvning og landede første trin på en platform 390 km væk. Det er en milepæl for kinesisk rumfart.",
+      "sektioner": [
+        {
+          "overskrift": "Flyvningen og landing",
+          "tekst": "Zhuque-3 lettede fra Jiuquan den 18. august kl. 23:35 UTC. Efter at have leveret nyttelast til kredsløb, landede første trin blødt på en landingsplads cirka **390 km** væk. Det er anden gang, at raketten flyver, og første gang, at landingen lykkes."
+        },
+        {
+          "overskrift": "Sammenligning med andre raketter",
+          "tekst": "Zhuque-3 er bygget af LandSpace og er **66 meter** høj med en diameter på **4,5 meter**. Den bruger metan og ilt som brændstof. Den er designet til at lande på ben som Falcon 9, i modsætning til Chang Zheng 10B, som lander på havet. Zhuque-3 er nu en af kun fire raketter af sin slags."
+        },
+        {
+          "overskrift": "Betydningen",
+          "tekst": "Succesen viser, at Kina er med i kapløbet om genanvendelige raketter. LandSpace er et privat firma, hvilket er usædvanligt i Kina. Tidligere havde kun SpaceX landinger, men nu er der flere aktører. "
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "390 km",
+          "label": "Afstand til landingsplads"
+        },
+        {
+          "tal": "66 meter",
+          "label": "Rakettens højde"
+        },
+        {
+          "tal": "7.200 kN",
+          "label": "Tryk fra motorer"
+        }
+      ],
+      "detaljer": [
+        "Zhuque-3's anden flyvning var den 18. august 2026.",
+        "Første trin landede på ben på en platform.",
+        "Raketten er bygget af det kinesiske firma LandSpace.",
+        "Den er en af kun fire genanvendelige orbitalraketter.",
+        "Nytten af anden flyvning er ikke offentliggjort."
+      ],
+      "betydning": "For almindelige danskere viser det, at rumkapløbet er globalt, og at genanvendelige raketter gør rumfart billigere og mere bæredygtig. Det kan betyde flere satellitter og mere forskning.",
+      "pointer": [
+        "Kinas raket har succes med landing.",
+        "Kun fire raketter i verden kan det.",
+        "LandSpace er et privat firma.",
+        "Genanvendelige raketter er fremtiden."
+      ],
+      "prio": 8
+    },
     {
       "titel": "China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket",
       "link": "https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/",
@@ -4183,138 +4338,6 @@
         "Spanien så den første siden 1905.",
         "Forskere studerer koronaens temperatur.",
         "Borgere kan bidrage med observationer."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Cascade Volcanoes Shrouded in Smoke",
-      "link": "https://science.nasa.gov/earth/earth-observatory/cascade-volcanoes-shrouded-in-smoke/",
-      "dato": "2026-08-13T04:00:00+00:00",
-      "kilde": "NASA",
-      "resume": "From the International Space Station, astronauts photographed Mount Hood and Mount Rainier as wildfire smoke spread across the Pacific Northwest in summer 2026.",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cascade-volcanoes-shrouded-in-smoke/ISS075-E-1705.jpg?w=1440&#038;h=960&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "An ice-capped volcano stands at the center of the image, its surrounding terrain blanketed in brown-gray smoke.",
-      "kategori": "Forskning",
-      "rubrik": "Røg fra skovbrande lægger sig over vulkaner i USA",
-      "resume_da": "Astronauter på rumstationen ISS har fotograferet røg fra skovbrande, der blander sig med sneklædte vulkaner i Cascade-bjergene i USA.",
-      "sektioner": [
-        {
-          "overskrift": "Brand nær Mount Hood",
-          "tekst": "Et lyn antændte den 23. juli en brand øst for Mount Hood, Oregons højeste bjerg. Den 31. juli fotograferede astronauter på ISS røgen fra branden, der bredte sig hurtigt i varmt og tørt vejr. Den 12. august havde branden brændt omkring **84.000 acres** og tvunget flere lokalsamfund til at evakuere."
-        },
-        {
-          "overskrift": "Røg over Mount Rainier",
-          "tekst": "Længere mod nord i Washington var Mount Rainier den 4. august indhyllet i røg fra andre brande i staten. Luftkvaliteten i nationalparken blev målt til usund på grund af fine partikler. En ny brand, Grand Park 2, blev senere opdaget inde i parken og havde den 12. august brændt **223 acres** og var ikke under kontrol."
-        },
-        {
-          "overskrift": "Varmt og tørt vejr",
-          "tekst": "El Niño påvirker vejret og gør det varmere og tørrere end normalt. Det betyder, at vegetation er tør og let kan brænde. Eksperter forventer derfor flere og større brande i hele august i det nordvestlige USA."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "11.249 fod",
-          "label": "Mount Hoods højde"
-        },
-        {
-          "tal": "14.411 fod",
-          "label": "Mount Rainiers højde"
-        },
-        {
-          "tal": "84.000 acres",
-          "label": "Brændt areal ved Mount Hood"
-        }
-      ],
-      "detaljer": [
-        "Billederne blev taget af astronauter på ISS den 31. juli og 4. august 2026.",
-        "Grasshopper-branden blev startet af et lynnedslag.",
-        "Dufur og flere andre byer blev rådet til at evakuere.",
-        "Grand Park 2-branden i Mount Rainier National Park var ikke under kontrol den 12. august.",
-        "Den nationale brandprognose forventer øget brandfare i august."
-      ],
-      "betydning": "Historien viser, hvordan rumfartsteknologi kan overvåge og dokumentere miljøkatastrofer på Jorden. Det hjælper forskere og myndigheder med at forstå og håndtere brande, der påvirker luftkvalitet og lokalsamfund.",
-      "pointer": [
-        "Brandrøg blander sig med vulkaner i USA.",
-        "ISS-astronauter tager billeder fra rummet.",
-        "Brande er forårsaget af lynnedslag og tørt vejr.",
-        "Luftkvalitet bliver usund for beboere."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Pentagon missile buildup changing the factory floor",
-      "link": "https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/",
-      "dato": "2026-08-12T23:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Startups are bringing software, robotics and manufacturing methods developed around commercial space into a defense industry under pressure to produce weapons faster The post Pentagon missile buildup changing the factory floor appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Machine-Image-2.jpg.jpeg?fit=1024%2C576&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Pentagons missiloprustning ændrer fabriksgulvet",
-      "resume_da": "Nye virksomheder bruger kommerciel rumteknologi til at gøre forsvarsproduktionen hurtigere og mere fleksibel.",
-      "sektioner": [
-        {
-          "overskrift": "Nye spillere på banen",
-          "tekst": "Opstartsvirksomheder bringer software og robotteknologi fra kommerciel rumfart ind i forsvarsindustrien. De skal hjælpe med at producere våben hurtigere, fordi Pentagon lægger pres på. Det ændrer måden, fabrikkerne arbejder på."
-        },
-        {
-          "overskrift": "Pres for hurtigere produktion",
-          "tekst": "Forsvarsindustrien er under pres for at levere flere missiler og våben. De nye metoder skal gøre produktionen mere effektiv. Det kan betyde kortere leveringstider og mere fleksible fabrikker."
-        },
-        {
-          "overskrift": "Kommercielle metoder",
-          "tekst": "Mange af metoderne kommer fra kommerciel rumfart, hvor man er vant til at arbejde hurtigt og billigt. Robotteknologi og software spiller en stor rolle. Det giver nye muligheder for at skalere produktionen op."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Pentagon ønsker hurtigere våbenproduktion.",
-        "Startups bruger kommerciel rumteknologi i forsvarsindustrien.",
-        "Software og robotteknologi er centrale værktøjer.",
-        "Fabriksgulvet ændrer sig som følge af presset."
-      ],
-      "betydning": "For danskere betyder det, at forsvarsindustrien bliver mere effektiv, hvilket kan påvirke sikkerhedspolitik og økonomi i Vesten.",
-      "pointer": [
-        "Pentagon lægger pres på forsvarsindustrien.",
-        "Startups bringer ny teknologi ind.",
-        "Produktionen skal gå hurtigere.",
-        "Fabrikkerne bliver mere fleksible."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Space Command identifies capabilities it needs for the next space war",
-      "link": "https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/",
-      "dato": "2026-08-12T22:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Gen. Stephen Whiting said there is a demand for offensive capabilities and called on the industry to develop ways to disable the critical nodes of large satellite constellations The post Space Command identifies capabilities it needs for the next space war appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Screenshot-2026-08-12-at-3.23.57-PM.png?fit=1024%2C500&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Rumvåben til den næste krig i rummet",
-      "resume_da": "Den amerikanske rumkommando efterlyser offensive våben til at ødelægge fjendtlige satellitter. General Stephen Whiting opfordrer industrien til at udvikle våben mod store satellitkonstellationer.",
-      "sektioner": [
-        {
-          "overskrift": "Behov for offensive våben",
-          "tekst": "General Stephen Whiting siger, at der er brug for offensive evner. Han opfordrer industrien til at udvikle måder at ødelægge kritiske knudepunkter i store satellitkonstellationer."
-        },
-        {
-          "overskrift": "Opfordring til industrien",
-          "tekst": "Whiting henvender sig til forsvarsindustrien. Han ønsker nye våben, der kan lamme fjendens satellitter i en fremtidig rumkrig."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "General Stephen Whiting er chef for den amerikanske rumkommando.",
-        "Han nævner specifikt store satellitkonstellationer som mål.",
-        "Artiklen kommer fra SpaceNews."
-      ],
-      "betydning": "For en almindelig dansker betyder det, at rummet bliver et større militært område. Det kan påvirke danske interesser, da mange lande er afhængige af satellitter til kommunikation og navigation.",
-      "pointer": [
-        "USA vil have våben til rummet.",
-        "Fokus er på at ødelægge satellitter.",
-        "Industrien skal udvikle nye våben.",
-        "Store satellitkonstellationer er i søgelyset."
       ],
       "prio": 6
     }
