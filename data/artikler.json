@@ -1,7 +1,112 @@
 {
-  "opdateret": "2026-08-19T17:01:22.281111+00:00",
+  "opdateret": "2026-08-19T19:12:34.954419+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "NASA Updates Next Steps for Commercial Swift Boost Mission",
+      "link": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/",
+      "dato": "2026-08-19T18:08:25+00:00",
+      "kilde": "NASA",
+      "resume": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned. However, LINK still will attempt to conduct rendezvous and proximity operations with NASA’s Neil Gehrels Swift Observatory to [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/swift-over-earth-animation-2025.jpg?w=900",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "NASA's Swift-livsforlængelse mislykkes, men forsøget fortsætter",
+      "resume_da": "Et kommercielt rumfartøj skal ikke længere forsøge at løfte NASAs Swift-satellit til en højere bane. Men det vil stadig forsøge at mødes med satellitten for at demonstrere teknologi.",
+      "sektioner": [
+        {
+          "overskrift": "Missionen ændres",
+          "tekst": "NASA og Katalyst Space meddelte, at LINK-rumfartøjet ikke vil forsøge at løfte Swift-satellitten som planlagt. Årsagen er problemer med rumfartøjets holdningskontrol. LINK vil stadig forsøge at udføre rendezvous og næroperationer med Swift."
+        },
+        {
+          "overskrift": "Hvorfor det sker",
+          "tekst": "Missionen var et højrisiko-forsøg for at forlænge Swifts levetid. Uden indgriben forventes Swift at genindtræde i Jordens atmosfære senere i år. Øget solaktivitet har fået Swifts bane til at forfalde hurtigere end forventet."
+        },
+        {
+          "overskrift": "Vigtige erfaringer",
+          "tekst": "NASA vil lære af forsøget og bruge erfaringerne til fremtidige satellitservicemissioner. Agenturet roser teamets hurtige arbejde med at nå til opsendelse på rekordtid. Missionen har styrket den amerikanske rumindustri."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "20+ år",
+          "label": "Swift har kredset om Jorden i"
+        },
+        {
+          "tal": "2004",
+          "label": "Swift blev opsendt i"
+        },
+        {
+          "tal": "September 2025",
+          "label": "NASA gav Katalyst kontrakten i"
+        }
+      ],
+      "detaljer": [
+        "Swift blev opsendt i 2004 for at studere gammaglimt.",
+        "Den var designet til to års primær mission.",
+        "LINK blev opsendt den 3. juli på en Pegasus XL-raket fra Kwajalein Atoll.",
+        "Kommunikation og checkouts blev udført, før problemerne opstod."
+      ],
+      "betydning": "Historien viser kompleksiteten i satellitservicering og rumfart. For almindelige mennesker understreger den, at rumfart er svært, men at mislykkede forsøg stadig kan give værdifulde erfaringer.",
+      "pointer": [
+        "Rumfartøjet kan ikke løfte satellitten.",
+        "Møde mellem rumfartøjer vil stadig ske.",
+        "Swift forventes at brænde op senere i år.",
+        "Missionen giver vigtige erfaringer."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Human-Related Microbes May Survive Moon’s South Pole, NASA Finds",
+      "link": "https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/",
+      "dato": "2026-08-19T18:02:40+00:00",
+      "kilde": "NASA",
+      "resume": "Lee esta historia en español aquí. Some of Earth’s microbes likely to hitch a ride to space with human explorers could survive in the shaded nooks and crannies of the Moon’s South Pole region, NASA scientists say. Published on Aug. 19, 2026, in Science Advances, these findings highlight a need to better understand microbial persistence […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg?w=5568&#038;h=3712&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "The gray-brown, heavily cratered Moon dominates the frame against black space, with a partially lit crescent Earth setting behind its upper-left edge.",
+      "kategori": "Forskning",
+      "rubrik": "Mikrober kan overleve på Månens sydpol",
+      "resume_da": "NASA-forskere har fundet, at jordiske mikrober kan overleve i skyggefulde områder på Månens sydpol. Det kan påvirke søgen efter liv på Mars.",
+      "sektioner": [
+        {
+          "overskrift": "Mikrober overlever ekstreme forhold",
+          "tekst": "Forskere testede fem mikrober, herunder svampen Aspergillus niger, i simulerede månelandskaber. Mikroberne kunne overleve i skyggefulde områder, hvor de er beskyttet mod solens stråling. Selvom de ikke kan formere sig, kan de forblive i live i mindst et døgn."
+        },
+        {
+          "overskrift": "Sydpolen er unik",
+          "tekst": "På Månens sydpol står Solen lavt ved horisonten, hvilket skaber permanente skygger i kratere og dale. Disse skyggeområder er kolde og kan indeholde vandis, hvilket gør dem interessante for fremtidige baser. Samtidig giver de mikroberne et beskyttet levested."
+        },
+        {
+          "overskrift": "Konsekvenser for Mars",
+          "tekst": "Hvis mennesker bringer mikrober med til Månen, kan det forurene prøver og gøre det svært at skelne mellem ægte månemateriale og jordisk kontaminering. Det samme problem gælder for Mars, hvor forskere vil lede efter liv. Derfor er det vigtigt at kortlægge, hvad vi selv bringer med."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1 million",
+          "label": "bakterier per hudområde"
+        },
+        {
+          "tal": "400 grader Fahrenheit",
+          "label": "temperatur for sterilisation"
+        }
+      ],
+      "detaljer": [
+        "Mikroberne blev testet i simuleringer af tre områder nær Månens sydpol.",
+        "Undersøgelsen blev offentliggjort i tidsskriftet Science Advances den 19. august 2026.",
+        "Fem mikrober blev undersøgt, herunder bakterier og svampe.",
+        "Apollo-missionerne landede nær Månens ækvator, ikke ved sydpolen.",
+        "Mikrober kan overleve på rumstationens yderside, ifølge tidligere eksperimenter."
+      ],
+      "betydning": "Når mennesker vender tilbage til Månen, kan de uforvarende sprede jordiske mikrober, hvilket kan påvirke videnskabelige undersøgelser og fremtidig søgen efter liv på Mars.",
+      "pointer": [
+        "Mikrober kan overleve i skygger på Månen.",
+        "De kan forurene månelandskabet.",
+        "Det er vigtigt at forstå kontaminering.",
+        "Forskere vil bruge Månen som naturligt laboratorium."
+      ],
+      "prio": 7
+    },
     {
       "titel": "Ancient Milky Way Merger",
       "link": "https://www.nasa.gov/image-article/ancient-milky-way-merger/",
@@ -4286,93 +4391,6 @@
         "TESS står bag opdagelsen"
       ],
       "prio": 6
-    },
-    {
-      "titel": "Supermassive black hole spews energy 300,000 light years into deep space",
-      "link": "https://www.space.com/astronomy/black-holes/supermassive-black-hole-spews-energy-300-000-light-years-into-deep-space",
-      "dato": "2026-08-13T20:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "That's three times longer than the Milky Way galaxy.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/vfQjBgkAemsuvsrcsu5uwe-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Sort hul sender energi 300.000 lysår ud",
-      "resume_da": "Et supermassivt sort hul har udsendt en stråle af energi, der strækker sig 300.000 lysår ud i rummet. Opdagelsen er den længste, man har set fra et sort hul.",
-      "sektioner": [
-        {
-          "overskrift": "Enorm energiudladning",
-          "tekst": "Et supermassivt sort hul har spyttet energi ud, der når **300.000 lysår** ud i rummet. Det er længere end nogensinde før observeret fra et sort hul. Forskere er forbløffede over størrelsen."
-        },
-        {
-          "overskrift": "Hvad betyder det?",
-          "tekst": "Strålen viser, at sorte huller kan påvirke områder langt ud over deres egen galakse. Det udvider vores forståelse af, hvordan sorte huller former universet. Forskere vil nu undersøge, hvordan strålen interagerer med omgivelserne."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "300.000 lysår",
-          "label": "Længden af strålen"
-        }
-      ],
-      "detaljer": [
-        "Strålen er den længste, der er observeret fra et sort hul.",
-        "Den er opdaget ved hjælp af rumteleskoper.",
-        "Forskere kalder opdagelsen overraskende."
-      ],
-      "betydning": "Det viser, hvor kraftfulde sorte huller er, og hvordan de kan påvirke store dele af universet. Det giver os ny viden om, hvordan galakser udvikler sig.",
-      "pointer": [
-        "Rekordlang stråle fra sort hul",
-        "Påvirker områder langt væk",
-        "Ny indsigt i sorte huller"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "NASA’s 737 Reveals New Paint",
-      "link": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
-      "dato": "2026-08-13T19:41:23+00:00",
-      "kilde": "NASA",
-      "resume": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight Research Center in Edwards, California, took ownership of the aircraft from the United States Air Force in June.&#160; The aircraft will perform lunar-gravity parabolic flights to validate [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/20260813-nasa-737paint.jpg?w=2048",
-      "billede_alt": "A large, white aircraft sits on a concrete surface after being painted with new NASA logos in red, white and blue.",
-      "kategori": "Missioner",
-      "rubrik": "NASA's 737 får ny maling til månemissioner",
-      "resume_da": "NASA's 737-fly er blevet malet i Oklahoma og skal bruges til træning med lav tyngdekraft til Artemis-missioner.",
-      "sektioner": [
-        {
-          "overskrift": "Flyet males og klargøres",
-          "tekst": "NASA's 737-fly blev malet i Oklahoma i denne uge. Flyet er ved at blive ombygget til at blive brugt som testfly til reduceret tyngdekraft. NASA's Armstrong Flight Research Center overtog flyet fra det amerikanske luftvåben i juni."
-        },
-        {
-          "overskrift": "Skal træne astronauter",
-          "tekst": "Flyet skal lave parabelflyvninger med lav tyngdekraft, så astronauter kan teste deres månelandingsdragter. Det skal hjælpe med at forberede Artemis-missionerne. Flyvningerne foregår på NASA's Johnson Space Center i Houston, med tilsyn fra Armstrong."
-        },
-        {
-          "overskrift": "Andre formål",
-          "tekst": "Flyet skal også bruges til forskning i systemintegration. Det kan teste autonome systemer, sensorer og andre digitale teknologier. Dermed bliver det en vigtig ressource for NASA's forskning."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "13. august 2026",
-          "label": "Dato for malingen"
-        }
-      ],
-      "detaljer": [
-        "Flyet er en Boeing 737.",
-        "NASA's Armstrong Flight Research Center ejer flyet.",
-        "Flyet skal bruges til parabelflyvninger med lav tyngdekraft.",
-        "Formålet er at teste astronautdragter og systemer til Artemis-missioner.",
-        "Flyet vil også blive brugt til forskning i autonome systemer og sensorer."
-      ],
-      "betydning": "Artemis-missionerne skal sende mennesker til Månen igen. Denne flyvning hjælper med at forberede astronauterne og udstyret, så missionerne bliver sikre og vellykkede.",
-      "pointer": [
-        "NASA's 737 er blevet malet om.",
-        "Flyet skal bruges til træning med lav tyngdekraft.",
-        "Det understøtter Artemis-missionerne.",
-        "Flyet skal også teste nye teknologier."
-      ],
-      "prio": 5
     }
   ]
 }
