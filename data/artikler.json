@@ -1,7 +1,56 @@
 {
-  "opdateret": "2026-08-19T07:58:09.362415+00:00",
+  "opdateret": "2026-08-19T09:52:55.974316+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Fly around Schiaparelli Crater with Mars Express",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express",
+      "dato": "2026-08-19T09:00:00+00:00",
+      "kilde": "ESA",
+      "resume": "Video: 00:04:10 ESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars. Despite measuring a huge 460 km across, Schiaparelli Crater seems to be relatively shallow. Perhaps it has been filled in over the last few billion years by sediment blown by the wind or deposited by water, by lava – or by a combination of all three. Schiaparelli Crater i",
+      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/fly_around_schiaparelli_crater_with_mars_express/27423004-1-eng-GB/Fly_around_Schiaparelli_Crater_with_Mars_Express_card_full.png",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Flyv rundt om Schiaparelli-krateret på Mars",
+      "resume_da": "ESA's Mars Express har taget en video, der viser en tur rundt om Schiaparelli-krateret, et af de største kratere på Mars. Krateret er 460 km i diameter og er opkaldt efter en italiensk astronom.",
+      "sektioner": [
+        {
+          "overskrift": "Kæmpe krater",
+          "tekst": "Schiaparelli-krateret er **460 km** i diameter, men alligevel relativt lavvandet. Forskere mener, at det er blevet fyldt op gennem milliarder af år af sediment fra vind, vand eller lava."
+        },
+        {
+          "overskrift": "Historisk navn",
+          "tekst": "Krateret er opkaldt efter astronomen Giovanni Schiaparelli. I 1877 troede han, at han så vandfyldte kanaler på Mars, hvilket førte til teorier om, at der fandtes intelligente marsboere."
+        },
+        {
+          "overskrift": "Video og baggrund",
+          "tekst": "Videoen er lavet med data fra Mars Express og viser krateret i 3D. Den er tilgængelig med en voiceover-guide, og den giver et spektakulært indblik i Mars' overflade."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "460 km",
+          "label": "Kraterets diameter"
+        },
+        {
+          "tal": "1877",
+          "label": "År for Schiaparellis observation"
+        }
+      ],
+      "detaljer": [
+        "Krateret er opkaldt efter Giovanni Schiaparelli, der levede 1835-1910.",
+        "Videoen er skabt med data fra Mars Express' HRSC-kamera.",
+        "Den vertikale forstærkning i animationen er tre gange."
+      ],
+      "betydning": "Det er fascinerende for alle at se, hvordan Mars ser ud, og videoen øger interessen for rumforskning. Samtidig minder den os om, hvordan tidligere astronomer fejlagtigt troede på marsboere.",
+      "pointer": [
+        "Kæmpe krater på 460 km",
+        "Opkaldt efter berømt astronom",
+        "Video viser 3D-rundtur",
+        "Historien om kanaler på Mars"
+      ],
+      "prio": 6
+    },
     {
       "titel": "Behind the Lens: Meet NASA Johnson’s Photographers",
       "link": "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
@@ -4287,59 +4336,6 @@
         "Magisk og begejstrende."
       ],
       "prio": 7
-    },
-    {
-      "titel": "APOD: 2026 August 13 – Total Solar Eclipse Over Spain",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/",
-      "dato": "2026-08-13T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 August 13 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/total_eclipse_spain26.jpg?w=1708&#038;h=2560&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "The Moon covers the Sun in the middle of the sky above an ornate church. A ring of bright whisps from the Sun",
-      "kategori": "Astronomi",
-      "rubrik": "Total solformørkelse over Spanien fanget på billede",
-      "resume_da": "Den 12. august 2026 oplevede Spanien sin første store totale solformørkelse siden 1905. Et nyt billede viser fænomenet fra Zaragoza.",
-      "sektioner": [
-        {
-          "overskrift": "Sjælden begivenhed",
-          "tekst": "Den 12. august 2026 kastede Månen sin skygge over bl.a. Spanien. Det var landets første store totale solformørkelse siden **1905**. Billedet blev taget i Zaragoza ved Ebro-floden."
-        },
-        {
-          "overskrift": "Naturens reaktion",
-          "tekst": "Under totaliteten kan man mærke kulde i luften, fugle bliver stille, og insekter synger forvirret. Mange oplever en fælles ærefrygt, når solens skive dækkes."
-        },
-        {
-          "overskrift": "Videnskabelig værdi",
-          "tekst": "Formørkelser hjælper forskere med at forstå, hvorfor solens korona er **millioner** af grader varmere end overfladen. Almindelige mennesker kan bidrage ved at filme dyreliv, tage billeder af koronaen og måle temperatur."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1905",
-          "label": "Sidste store formørkelse i Spanien"
-        },
-        {
-          "tal": "2026",
-          "label": "Året for formørkelsen"
-        },
-        {
-          "tal": "12. august",
-          "label": "Dato for formørkelsen"
-        }
-      ],
-      "detaljer": [
-        "Formørkelsen sås i Sibirien, Grønland, Island, Spanien og Portugal.",
-        "Billedet viser to formørkelser: én over katedralen og én i floden.",
-        "Koronaen er synlig, når solskiven er blokeret."
-      ],
-      "betydning": "For danskere er det en påmindelse om, at solformørkelser er sjældne og fascinerende. Forskning i koronaen kan øge vores viden om solen og påvirke rumvejr, som kan påvirke teknologi på Jorden.",
-      "pointer": [
-        "Total solformørkelse den 12. august 2026.",
-        "Spanien så den første siden 1905.",
-        "Forskere studerer koronaens temperatur.",
-        "Borgere kan bidrage med observationer."
-      ],
-      "prio": 6
     }
   ]
 }
