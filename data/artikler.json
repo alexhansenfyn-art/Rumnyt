@@ -1,7 +1,78 @@
 {
-  "opdateret": "2026-08-18T22:56:09.582578+00:00",
+  "opdateret": "2026-08-19T03:13:46.138956+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket",
+      "link": "https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/",
+      "dato": "2026-08-19T01:05:21+00:00",
+      "kilde": "SpaceNews",
+      "resume": "HELSINKI — Landspace successfully landed the first stage of its Zhuque-3 rocket Tuesday following the second launch of the rocket from the Gobi Desert. The second Zhuque-3 rocket lifted off [&#8230;] The post China’s Landspace recovers booster with second orbital launch of Zhuque-3 rocket appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Zhuque-3-Y2-liftoff-18aug2026-Landspace.jpg?fit=1024%2C573&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Kina genbruger raket efter opsendelse",
+      "resume_da": "Kinas Landspace landede første trin af Zhuque-3 raketten efter en opsendelse fra Gobi-ørkenen. Det er anden gang raketten flyver.",
+      "sektioner": [
+        {
+          "overskrift": "Raketten landede",
+          "tekst": "Landspace fik tirsdag landede første trin af deres Zhuque-3 raket efter anden opsendelse fra Gobi-ørkenen. Det er et skridt mod genbrugelige raketter."
+        },
+        {
+          "overskrift": "Anden flyvning",
+          "tekst": "Det er anden gang Zhuque-3 raketten bliver sendt i rummet. Første trin landede sikkert efter at have løftet raketten."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Raketten blev sendt op fra Gobi-ørkenen.",
+        "Første trin landede tirsdag.",
+        "Det er anden orbital opsendelse af Zhuque-3."
+      ],
+      "betydning": "Det viser, at Kina er ved at udvikle genbrugelige raketter, hvilket kan gøre rumfart billigere og mere bæredygtig i fremtiden.",
+      "pointer": [
+        "Landing lykkedes i Gobi-ørkenen",
+        "Anden opsendelse af Zhuque-3",
+        "Skridt mod genbrugelige raketter",
+        "Kina satser på billigere rumfart"
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Mars attacks: How much dust from the red planet is safe to breathe?",
+      "link": "https://phys.org/news/2026-08-mars-red-planet-safe.html",
+      "dato": "2026-08-18T23:00:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "NASA has released a report recommending an initial health standard for the Martian dust that astronauts could inhale during future missions. Although sending people to Mars is still years away, NASA needs to establish safety limits now. Spacecraft, spacesuits and crew habitats take years to design and test, and engineers need a measurable target for developing air filters, airlocks and suit-cleani",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/mars-attacks-how-much.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "NASA sætter grænse for Mars-støv i astronauters lunger",
+      "resume_da": "NASA har fastsat en første sikkerhedsgrænse for, hvor meget Mars-støv astronauter må indånde på fremtidige missioner. Det skal hjælpe ingeniører med at designe filtre og rensningssystemer.",
+      "sektioner": [
+        {
+          "overskrift": "Hvorfor nu?",
+          "tekst": "Selvom vi først sender mennesker til Mars om mange år, skal sikkerhedsgrænser fastlægges nu. Rumfartøjer, rumdragter og habitater tager år at designe og teste."
+        },
+        {
+          "overskrift": "Hvad grænsen bruges til",
+          "tekst": "Ingeniører har brug for et målbart mål at udvikle efter. Det gælder luftfiltre, sluser og systemer til rensning af rumdragter, så astronauterne beskyttes mod støvet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "NASA har udgivet en rapport med anbefalet sundhedsgrænse for Mars-støv.",
+        "Missionsudstyr skal kunne håndtere støvet for at holde astronauter sikre."
+      ],
+      "betydning": "Selvom vi ikke selv skal til Mars, er det vigtigt for danske forskere og rumfartsentusiaster at følge med i, hvordan NASA forbereder fremtidens missioner. Det kan også inspirere til nye teknologier, som vi kan bruge på Jorden.",
+      "pointer": [
+        "NASA har fastsat en grænse for Mars-støv.",
+        "Grænsen skal beskytte astronauternes helbred.",
+        "Ingeniører har nu et mål for design.",
+        "Det tager år at udvikle udstyr."
+      ],
+      "prio": 4
+    },
     {
       "titel": "NASA's LRO images Falcon 9 crater on moon, learns new details",
       "link": "https://phys.org/news/2026-08-nasa-lro-images-falcon-crater.html",
@@ -4246,103 +4317,6 @@
         "Store satellitkonstellationer er i søgelyset."
       ],
       "prio": 6
-    },
-    {
-      "titel": "This year's 'Masters of the Universe' movie wasn't Hollywood's first attempt at capturing the power of He-Man; they tried back in 1987, and failed then too",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-years-masters-of-the-universe-movie-wasnt-hollywoods-first-attempt-at-capturing-the-power-of-he-man-they-tried-back-in-1987-and-failed-then-too",
-      "dato": "2026-08-12T21:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "How bad timing, a studio in financial turmoil, and a movie that looked nothing like the cartoon conspired to defeat the most powerful man in the universe.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/cHd4Rbtr9bexBQPqgzCWDH-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "He-Man-film floppede også i 1987",
-      "resume_da": "Den nye Masters of the Universe-film er ikke første forsøg. Allerede i 1987 fejlede en film med He-Man.",
-      "sektioner": [
-        {
-          "overskrift": "Tidligere forsøg",
-          "tekst": "Hollywood prøvede også at lave en He-Man-film i 1987. Den film fejlede også dengang. Det er ikke første gang, man har prøvet."
-        },
-        {
-          "overskrift": "Journalistens baggrund",
-          "tekst": "Historien kommer fra en journalist, der har skrevet om sci-fi i mange år. Han har blandt andet arbejdet på det britiske magasin SFX i 12 år."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1987",
-          "label": "År for første filmforsøg"
-        },
-        {
-          "tal": "12",
-          "label": "År hos SFX-magasinet"
-        }
-      ],
-      "detaljer": [
-        "Journalisten har mødt fem Doctorer fra Doctor Who",
-        "Har mødt to Starfleet-kaptajner",
-        "Har siddet i cockpittet på Starbug fra Red Dwarf"
-      ],
-      "betydning": "For almindelige danskere viser det, at film om kendte figurer ikke altid bliver en succes. Det er også en sjov historie for dem, der kan lide sci-fi.",
-      "pointer": [
-        "Filmfejl sker ofte",
-        "Ikke nyt med He-Man-flop",
-        "Journalist har lang erfaring",
-        "Sci-fi-fans kan relatere"
-      ],
-      "prio": 3
-    },
-    {
-      "titel": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
-      "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/",
-      "dato": "2026-08-12T20:40:27+00:00",
-      "kilde": "NASA",
-      "resume": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land and how to mine them. To help with that, Lunar Station Corp. is using a wealth of NASA [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/pia00132orig.jpg?w=1083",
-      "billede_alt": "A multicolored picture of Earth&#039;s Moon.",
-      "kategori": "Missioner",
-      "rubrik": "NASA-data hjælper firma med at planlægge måneudvinding",
-      "resume_da": "Lunar Station Corp. bruger 60 års NASA-data til at kortlægge månen og hjælpe kommercielle firmaer med at finde vand og mineraler samt planlægge missioner.",
-      "sektioner": [
-        {
-          "overskrift": "Data til måneplanlægning",
-          "tekst": "Lunar Station Corp. bruger NASA-data til at lave 3D-kort over månen. Det hjælper firmaer med at vælge landingssteder og finde ruter for robotter. Dataene kommer fra mange kilder, herunder satellitter og historiske billeder."
-        },
-        {
-          "overskrift": "Vand på månen",
-          "tekst": "I 2009 styrtede NASA en sonde ned på månens sydpol for at finde vandis. Det lykkedes, og resultaterne bruges nu til at finde lavvandede vandforekomster. Det er vigtigt, fordi vand kan bruges til at lave ilt og brændstof."
-        },
-        {
-          "overskrift": "Simulering af stråling",
-          "tekst": "Lunar Station har også en simulator, der tester udstyr mod stråling. Firmaet laver en digital kopi af rumfartøjet og udsætter den for stråling for at se, hvad der skal til for at beskytte det. Det er en del af NASA's spinoff-program, der viser, hvordan rumteknologi gavner livet på Jorden."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "60 år",
-          "label": "Månedata tilgængelige"
-        },
-        {
-          "tal": "2009",
-          "label": "År for vandis-opdagelse"
-        }
-      ],
-      "detaljer": [
-        "NASA har samlet data om månen i årtier.",
-        "Månen har ressourcer som vand, jern og titanium.",
-        "Lunar Station Corp. er baseret i Cambridge, Massachusetts.",
-        "Firmaet bruger open-source kode fra NASA til at lave 3D-modeller.",
-        "MoonHacker-programmet fletter data fra NASA's Planetary Data System.",
-        "NASA's Technology Transfer-program støtter sådanne kommercielle anvendelser."
-      ],
-      "betydning": "Det er relevant, fordi det viser, hvordan rumforskning kan føre til ny teknologi og økonomiske muligheder. Fremtidig udvinding på månen kan også bane vejen for mere bæredygtige løsninger på Jorden.",
-      "pointer": [
-        "NASA-data bruges til at kortlægge månen.",
-        "Vandis blev fundet i 2009.",
-        "Simulator tester mod stråling.",
-        "Teknologien gavner også Jorden."
-      ],
-      "prio": 5
     }
   ]
 }
