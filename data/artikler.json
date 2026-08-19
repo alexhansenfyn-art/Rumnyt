@@ -1,7 +1,178 @@
 {
-  "opdateret": "2026-08-19T10:59:35.346519+00:00",
+  "opdateret": "2026-08-19T14:07:03.296750+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Career Spotlight: Mechanic (Ages 14-18)",
+      "link": "https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/",
+      "dato": "2026-08-19T13:48:20+00:00",
+      "kilde": "NASA",
+      "resume": "What does a mechanic do? Machines and engines are all around us. They power everything from cars and boats to airplanes and even rockets. Mechanics are experts who know how machinery works, especially engines, and how to fix them. When you think of a mechanic, you might picture someone working on cars. But mechanics can [&#8230;]",
+      "billede": "https://www.youtube.com/embed/Ea3Oa6ybb_w",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Job hos NASA: Hvad laver en mekaniker?",
+      "resume_da": "Mekanikere hos NASA sørger for, at alt fra fly til raketkæmper virker. Her er, hvordan du kan blive en af dem.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad laver NASA-mekanikere?",
+          "tekst": "Mekanikere hos NASA arbejder på mange slags maskiner. De holder for eksempel forskningsfly vedlige på Armstrong-centret i Californien. På Kennedy Space Center reparerer de de enorme kæretøjer, der transporterer raketter til affyringsrampen."
+        },
+        {
+          "overskrift": "Sådan bliver du mekaniker",
+          "tekst": "Der er flere veje til at blive mekaniker. For bilmekanikere er en erhvervsuddannelse typisk. Tungt udstyr-mekanikere tager ofte en toårig uddannelse. Flymekanikere skal have en godkendt uddannelse fra luftfartsmyndighederne."
+        },
+        {
+          "overskrift": "Start nu i skolen",
+          "tekst": "I gymnasiet kan du tage fag som matematik og naturvidenskab. Du kan også læse manualer og finde online-tutorials. Et fritidsjob på et værksted kan give dig praktisk erfaring."
+        },
+        {
+          "overskrift": "Vigtige egenskaber",
+          "tekst": "Mekanikere skal være gode til at løse problemer. De skal være grundige og kunne bruge computerudstyr. Teknologien ændrer sig hele tiden, så man skal være nysgerrig."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Aerospace-mekanikere vedligeholder forskningsfly hos NASA's Armstrong Flight Research Center.",
+        "På Kennedy Space Center holder mekanikere crawler-transporterne i gang, som bringer raketter til affyringsrampen.",
+        "Tunge maskinmekanikere får typisk tre til fire års praktisk træning.",
+        "Militærtjeneste kan også give uddannelse og certificering som mekaniker.",
+        "Mekanikere bruger computere og elektroniske sensorer til at diagnosticere fejl."
+      ],
+      "betydning": "For almindelige danskere viser artiklen, hvordan man kan få en spændende karriere med mekanik, og at der er mange veje til at arbejde med avanceret teknologi – også i rumfart.",
+      "pointer": [
+        "Mekanikere er vigtige hos NASA.",
+        "De arbejder på fly, raketter og kæretøjer.",
+        "Uddannelse kan ske via skole eller militær.",
+        "Gode evner: problemløsning og detaljeorientering."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "The space industry’s next challenge: supply chain resilience",
+      "link": "https://spacenews.com/the-space-industrys-next-challenge-supply-chain-resilience/",
+      "dato": "2026-08-19T13:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "America&#8217;s space economy is scaling faster than its industrial base can support. Commercial constellations are proliferating, national security architectures are becoming more distributed and resilient and civil missions are growing [&#8230;] The post The space industry’s next challenge: supply chain resilience appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/260716-X-X0813-1001-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Rumindustriens nye udfordring: forsyningskæden",
+      "resume_da": "USA's rumøkonomi vokser hurtigere end den industrielle base kan følge med. Det skaber udfordringer i forsyningskæden.",
+      "sektioner": [
+        {
+          "overskrift": "Vækst og pres",
+          "tekst": "USA's rumøkonomi vokser hurtigt. Flere kommercielle satellitkonstellationer er på vej. Militære rumsystemer bliver mere spredte og modstandsdygtige."
+        },
+        {
+          "overskrift": "Industriel base halter",
+          "tekst": "Den industrielle base kan ikke følge med den stigende efterspørgsel. Det er en udfordring for hele rumindustrien. Artiklen fremhæver forsyningskæden som en central udfordring."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Kommercielle konstellationer vokser i antal.",
+        "Nationale sikkerhedsarkitekturer bliver mere distribuerede.",
+        "Civile missioner er også i vækst."
+      ],
+      "betydning": "Rumindustrien er vigtig for mange produkter og tjenester, vi bruger dagligt. Hvis forsyningskæden svigter, kan det forsinke missioner og øge omkostninger.",
+      "pointer": [
+        "Rumøkonomien vokser hurtigt.",
+        "Industrien kan ikke følge med.",
+        "Forsyningskæden er en udfordring.",
+        "Konsekvenser for missioner."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Astronomers catch hot birth of galaxy cluster more than 11 billion light-years away",
+      "link": "https://phys.org/news/2026-08-astronomers-hot-birth-galaxy-cluster.html",
+      "dato": "2026-08-19T12:00:02+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Astronomers have detected an enormous cloud of gas tens of millions of degrees hot surrounding one of the most extreme structures known in the early universe. The study offers one of the clearest views yet of a galaxy cluster in the making. Using more than 600,000 seconds of observations with NASA's Chandra X-ray Observatory, the team found diffuse, extended X-ray emission around a quasar embedded",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-catch-the-4.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Galaksehob fødes for 11 mia. år siden",
+      "resume_da": "Astronomer har fanget en enorm, glohed gassky omkring en kvasar, der viser en galaksehob i sin tidlige fødsel.",
+      "sektioner": [
+        {
+          "overskrift": "En varm opdagelse",
+          "tekst": "Astronomer har opdaget en kæmpe gassky med temperatur på titusinder af millioner grader. Skyen omgiver en af de mest ekstreme strukturer i det tidlige univers. Studiet giver et af de klareste billeder af en galaksehob under dannelse."
+        },
+        {
+          "overskrift": "Chandra røntgenøje",
+          "tekst": "Holdet brugte over 600.000 sekunders observationer med Chandra X-ray Observatory. De fandt diffus, udstrakt røntgenstråling omkring en kvasar, der ligger i en tæt samling af galakser. Kvasaren er mere end 11 milliarder lysår væk."
+        },
+        {
+          "overskrift": "Resultater offentliggjort",
+          "tekst": "Resultaterne blev offentliggjort i tidsskriftet Astronomy & Astrophysics den 24. juli. Opdagelsen kan hjælpe med at forstå, hvordan de største strukturer i universet dannes."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "11 milliarder lysår",
+          "label": "Afstand til kvasaren"
+        },
+        {
+          "tal": "titusinder af millioner grader",
+          "label": "Temperatur på gasskyen"
+        },
+        {
+          "tal": "600.000 sekunder",
+          "label": "Observationstid med Chandra"
+        }
+      ],
+      "detaljer": [
+        "Kvasaren er indlejret i en tæt koncentration af galakser.",
+        "Røntgenstrålingen er diffus og udstrakt.",
+        "Studiet er publiceret i Astronomy & Astrophysics.",
+        "Observationerne er foretaget med NASAs Chandra-observatorium."
+      ],
+      "betydning": "Det hjælper forskere med at forstå, hvordan universets største strukturer, som galaksehobe, opstår. Det giver indsigt i, hvordan vores eget kosmiske nabolag er blevet formet.",
+      "pointer": [
+        "Kæmpe varm gassky fundet i det tidlige univers.",
+        "Gasskyen er omkring en kvasar.",
+        "Observationer med Chandra i over 600.000 sekunder.",
+        "Offentliggjort i Astronomy & Astrophysics."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission",
+      "link": "https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/",
+      "dato": "2026-08-19T12:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Firefly Aerospace will fly a payload from Zeno Power on an upcoming lunar lander mission to test a radioisotope heat source to enable future missions to survive the lunar night. The post Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/fireflyzeno.jpeg?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "Zeno RHU on Firefly lander",
+      "kategori": "Missioner",
+      "rubrik": "Månelander tester radioisotop-varme til nætter",
+      "resume_da": "Firefly Aerospace sender en ny type varmekilde med på en månelander for at teste, om den kan overleve de iskolde månenætter.",
+      "sektioner": [
+        {
+          "overskrift": "Varmekilde til månenatten",
+          "tekst": "Firefly Aerospace skal flyve et eksperiment fra Zeno Power på en kommende månelander. Formålet er at teste en radioisotop-varmeenhed. Den skal hjælpe fremtidige missioner med at overleve den lange, kolde månenat."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "radioisotop",
+          "label": "type varmekilde"
+        }
+      ],
+      "detaljer": [
+        "Firefly Aerospace og Zeno Power samarbejder om testen.",
+        "Eksperimentet skal testes på en månelander."
+      ],
+      "betydning": "Det er vigtigt, fordi det kan gøre fremtidige måne-missioner mere holdbare og dermed åbne for flere opdagelser og opgaver på Månen.",
+      "pointer": [
+        "Test af varmekilde på Månen.",
+        "Samarbejde mellem to rumfirmaer.",
+        "Målet er at overleve månenat."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Fly around Schiaparelli Crater with Mars Express",
       "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express",
@@ -4183,159 +4354,6 @@
         "Teknologien er under udvikling hos Mbryonics."
       ],
       "prio": 4
-    },
-    {
-      "titel": "Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity",
-      "link": "https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity/",
-      "dato": "2026-08-13T14:27:27+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Paris, France &#124; July 2026 — The maritime satellite communications market is entering a new phase of growth as next-generation satellite networks transform connectivity at sea. According to Novaspace’s newly [&#8230;] The post Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&amp;ssl=1",
-      "billede_alt": "Novaspace logo",
-      "kategori": "Forskning",
-      "rubrik": "Satellitmarked til søs vokser mod 2035",
-      "resume_da": "Nye satellitnetværker ændrer kommunikation til søs. Markedet forventes at nå 3,79 milliarder dollar i 2035.",
-      "sektioner": [
-        {
-          "overskrift": "Markedet vokser",
-          "tekst": "Et nyt studie fra Novaspace viser, at omsætningen for satellitkommunikation til søs vil stige. I 2035 forventes den at nå **3,79 milliarder dollar**. Det skyldes først og fremmest nye satellitnetværk i lavt kredsløb (NGSO)."
-        },
-        {
-          "overskrift": "Nye netværk ændrer spillereglerne",
-          "tekst": "De nye satellitnetværk giver bedre dækning og hurtigere internet til skibe. Det ændrer måden, man kommunikerer på til søs. Traditionelle systemer får nu konkurrence fra nye aktører."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "3,79 milliarder dollar",
-          "label": "Forventet omsætning i 2035"
-        }
-      ],
-      "detaljer": [
-        "Kilden er et nyt studie fra Novaspace.",
-        "Studiet blev offentliggjort i juli 2026.",
-        "Artiklen er bragt på SpaceNews."
-      ],
-      "betydning": "For almindelige danskere betyder det bedre internet og kommunikation på færger og fragtskibe. Det kan også gøre søfarten mere effektiv og sikker.",
-      "pointer": [
-        "Markedet vokser mod 3,79 mia. dollar i 2035.",
-        "Nye NGSO-satellitter driver væksten.",
-        "Forbindelsen til søs forbedres markant.",
-        "Studiet er fra Novaspace."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "'Strange New Worlds' latest lookalike episode is part of a long line of 'Star Trek' doppelganger stories",
-      "link": "https://www.space.com/entertainment/space-movies-shows/number-ones-doppelganger-in-strange-new-worlds-latest-episode-is-part-of-a-long-line-of-star-trek-lookalikes",
-      "dato": "2026-08-13T13:15:04+00:00",
-      "kilde": "Space.com",
-      "resume": "Haven't we seen your face before? On the final frontier, your identical face twin is never far away…",
-      "billede": "https://cdn.mos.cms.futurecdn.net/E4U3YYdF6fDLVkYeZLeQmm-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Star Trek-genbo: Derfor elsker vi dobbeltgængere",
-      "resume_da": "En ny episode af 'Star Trek: Strange New Worlds' genbruger en klassisk dobbeltgænger-historie. Vi ser på, hvorfor Star Trek altid har elsket den slags fortællinger.",
-      "sektioner": [
-        {
-          "overskrift": "Genkendeligt mønster",
-          "tekst": "Star Trek har en lang tradition for historier om dobbeltgængere og parallelle verdener. Det er en fast bestanddel i serien, som nu også dukker op i 'Strange New Worlds'."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Artiklens forfatter er Richard, som har skrevet om sci-fi i mange år.",
-        "Han har mødt fem Doctorer, to stjerneflådekaptajner og én Luke Skywalker.",
-        "Han sad engang i cockpittet på Starbug fra 'Red Dwarf'."
-      ],
-      "betydning": "For almindelige danskere viser det, at Star Trek stadig er relevant og formår at fortælle spændende historier, som mange kan relatere til. Det er også en mulighed for at genopleve klassiske temaer i en ny indpakning.",
-      "pointer": [
-        "Dobbeltgænger-temaet er et klassisk Star Trek-genre.",
-        "Den nye episode er en del af en større trend.",
-        "Serien fortsætter med at udforske kreative fortællinger."
-      ],
-      "prio": 3
-    },
-    {
-      "titel": "Active supermassive black holes may help form massive planets",
-      "link": "https://phys.org/news/2026-08-supermassive-black-holes-massive-planets.html",
-      "dato": "2026-08-13T13:11:08+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "A popular myth about black holes is that they act like giant cosmic vacuum cleaners, sucking in everything around them. But Wladimir Lyra's research found a new mechanism around supermassive black holes that is more like a cosmic nursery, giving birth to planets more massive than Jupiter.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2024/twin-black-holes.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Supermassive sorte huller kan hjælpe med at danne gigantiske planeter",
-      "resume_da": "Ny forskning viser, at supermassive sorte huller kan virke som kosmiske planteskoler, hvor der dannes planeter, der er mere massive end Jupiter.",
-      "sektioner": [
-        {
-          "overskrift": "Sorte huller er ikke kun ødelæggere",
-          "tekst": "Sorte huller bliver ofte opfattet som kosmiske støvsugere, der suger alt til sig. Men ny forskning viser, at supermassive sorte huller også kan virke som en slags planteskole for planeter. Wladimir Lyra har fundet en ny mekanisme, hvor der dannes planeter, der er mere massive end Jupiter."
-        },
-        {
-          "overskrift": "Planeter omkring sorte huller",
-          "tekst": "Forskningen peger på, at der omkring supermassive sorte huller kan dannes planeter, der er mere massive end Jupiter. Dette er en overraskende opdagelse, der ændrer vores forståelse af, hvor planeter kan dannes. Måske er der flere planeter i universet end hidtil antaget."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "mere massive end Jupiter",
-          "label": "Planeternes masse"
-        }
-      ],
-      "detaljer": [
-        "Forskeren bag opdagelsen er Wladimir Lyra.",
-        "Mekanismen er sammenlignet med en kosmisk planteskole.",
-        "Planeterne dannes omkring supermassive sorte huller."
-      ],
-      "betydning": "Denne opdagelse udvider vores viden om, hvor og hvordan planeter kan dannes i universet. Det kan ændre vores forståelse af, hvor udbredt planetdannelse er.",
-      "pointer": [
-        "Sorte huller kan også skabe planeter.",
-        "Planeterne er større end Jupiter.",
-        "Forskningen er lavet af Wladimir Lyra."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Did You See the Solar Eclipse? Here’s What We Saw, from Around the World",
-      "link": "https://skyandtelescope.org/astronomy-news/did-you-see-the-solar-eclipse-heres-what-we-saw-from-around-the-world/",
-      "dato": "2026-08-13T13:03:50+00:00",
-      "kilde": "Sky & Telescope",
-      "resume": "Sky &#038; Telescope editors traveled the world, both literally and figuratively, to see the solar eclipse that darkened the world in the most magical way on August 12, 2026. Here are some of their stories. The post Did You See the Solar Eclipse? Here’s What We Saw, from Around the World appeared first on Sky &amp; Telescope .",
-      "billede": null,
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Måske så du solformørkelsen? Her er hvad vi så",
-      "resume_da": "Sky & Telescopes redaktører rejste verden rundt for at opleve solformørkelsen den 12. august 2026. De deler deres oplevelser og magiske øjeblikke fra forskellige steder på Jorden.",
-      "sektioner": [
-        {
-          "overskrift": "Redaktørernes rejser",
-          "tekst": "Redaktørerne fra Sky & Telescope rejste både fysisk og billedligt til forskellige steder for at se formørkelsen. De oplevede den på flere kontinenter. Hver oplevelse var unik."
-        },
-        {
-          "overskrift": "Det magiske øjeblik",
-          "tekst": "Formørkelsen formørkede verden på en magisk måde den 12. august 2026. Den skabte stor begejstring blandt både forskere og amatører. Mange delte deres historier og billeder."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "12. august 2026",
-          "label": "Dato for formørkelsen"
-        }
-      ],
-      "detaljer": [
-        "Sky & Telescope sendte redaktører ud i verden.",
-        "Formørkelsen blev set fra mange steder.",
-        "Oplevelserne blev delt i artikler og historier."
-      ],
-      "betydning": "En solformørkelse er en sjælden og spektakulær begivenhed, der kan ses mange steder. Det minder os om, hvor fantastisk universet er, og inspirerer folk til at interessere sig for astronomi.",
-      "pointer": [
-        "Formørkelse den 12. august 2026.",
-        "Set fra hele verden.",
-        "Redaktører delte oplevelser.",
-        "Magisk og begejstrende."
-      ],
-      "prio": 7
     }
   ]
 }
