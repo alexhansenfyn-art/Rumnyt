@@ -1,7 +1,265 @@
 {
-  "opdateret": "2026-08-19T14:07:03.296750+00:00",
+  "opdateret": "2026-08-19T17:01:22.281111+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Ancient Milky Way Merger",
+      "link": "https://www.nasa.gov/image-article/ancient-milky-way-merger/",
+      "dato": "2026-08-19T16:18:48+00:00",
+      "kilde": "NASA",
+      "resume": "This artist&#8217;s concept, released on Aug. 17, 2026, depicts a collision between our Milky Way galaxy and a dwarf galaxy known as LKH that happened about 12 billion years ago. A study of data from NASA’s Hubble Space Telescope, recently published in the journal Nature Astronomy, shows definitive evidence of a dwarf galaxy merging with the young [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/stsci-01kz4n4d8g9ak26cf28hd5nt5n-d2d764.png?w=2048",
+      "billede_alt": "An illustration of two galaxies in the midst of a collision against a dark, star-filled background. The collision takes up the middle third of the illustration. On the right, a larger galaxy is viewed",
+      "kategori": "Astronomi",
+      "rubrik": "Hubble finder spor af oldgammel kollision i Mælkevejen",
+      "resume_da": "For omkring 12 milliarder år siden stødte dværggalaksen LKH sammen med en ung Mælkevej. Hubble-teleskopet har nu fundet beviser på kollisionen.",
+      "sektioner": [
+        {
+          "overskrift": "Kollision i fortiden",
+          "tekst": "For omkring **12 milliarder år** siden kolliderede en dværggalakse ved navn LKH med en ung Mælkevej og smeltede sammen med den. Kollisionen skete tidligt i Mælkevejens udvikling."
+        },
+        {
+          "overskrift": "Hubble finder beviser",
+          "tekst": "Forskere har brugt data fra Hubble-teleskopet til at finde klare beviser på kollisionen. De studerede kuglehobe, som er tætte grupper af gamle stjerner. Beviserne er offentliggjort i tidsskriftet Nature Astronomy."
+        },
+        {
+          "overskrift": "Ny viden om galaksen",
+          "tekst": "Opdagelsen flytter vores viden om Mælkevejens historie **1,8 milliarder år** længere tilbage i tiden. Det har aldrig før været muligt at se så langt tilbage i galaksens fortid."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12 milliarder år",
+          "label": "Da kollisionen skete"
+        },
+        {
+          "tal": "1,8 milliarder år",
+          "label": "Længere tilbage i tiden"
+        }
+      ],
+      "detaljer": [
+        "Kollisionen skete mellem Mælkevejen og dværggalaksen LKH.",
+        "Hubble-teleskopet afslørede kollisionen ved at studere kuglehobe.",
+        "Resultaterne blev offentliggjort i Nature Astronomy den 17. august 2026.",
+        "Kollisionen fandt sted i Mælkevejens tidligste fase."
+      ],
+      "betydning": "Opdagelsen giver os en dybere forståelse af, hvordan vores galakse blev dannet. Det hjælper forskere med at forstå universets udvikling og kan inspirere til flere rumfartsmissioner.",
+      "pointer": [
+        "Dværggalakse kolliderede med Mælkevejen for 12 milliarder år siden.",
+        "Hubble fandt beviser ved at studere kuglehobe.",
+        "Viden om Mælkevejen er nu 1,8 milliarder år ældre."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA Establishes State Hubs to Grow Technical Aerospace Workforce",
+      "link": "https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce/",
+      "dato": "2026-08-19T15:55:10+00:00",
+      "kilde": "NASA",
+      "resume": "NASA has awarded approximately $10.5 million to seven institutions to help strengthen and streamline state-based pathways for students into skilled technical jobs in the aerospace industry. The awards were made through the new NASA Aerospace Skilled Technical Workforce Hubs initiative, or NASA State Hubs. This investment in state ecosystems is designed to accelerate the development [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/nasa-state-hubs-announcement-aug-19.jpg?w=1920",
+      "billede_alt": "Two people standing atop scaffolding wearing hard hats. They are facing a large white rectangular structure that has an outline of the Artemis logo in blue. The two are preparing to paint the logoSean",
+      "kategori": "Politik & penge",
+      "rubrik": "NASA styrker veje til tekniske rumfartsjob",
+      "resume_da": "NASA har givet cirka 10,5 millioner dollars til syv institutioner for at skabe flere veje til tekniske job i rumfartsindustrien.",
+      "sektioner": [
+        {
+          "overskrift": "Investeringer i fremtidens arbejdskraft",
+          "tekst": "NASA har tildelt omkring **10,5 millioner dollars** til syv institutioner. Pengene skal styrke uddannelsesveje til tekniske job i rumfartsindustrien. Initiativet kaldes NASA State Hubs."
+        },
+        {
+          "overskrift": "Behov for tekniske færdigheder",
+          "tekst": "Elaine Ho fra NASA siger, at behovet for teknisk talent haster og vil vokse. Målet er at vende tilbage til Månen og rejse til Mars. Derfor skal der uddannes flere teknikere."
+        },
+        {
+          "overskrift": "Syv institutioner i syv stater",
+          "tekst": "De udvalgte organisationer spænder over Californien, Georgia, Minnesota, Utah, Florida, Colorado og Texas. De skal samarbejde med virksomheder, community colleges og højskoler. Programmet løber over tre år og skal skabe bro mellem uddannelse og job."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "10,5 mio. dollars",
+          "label": "Samlet investering fra NASA"
+        },
+        {
+          "tal": "7",
+          "label": "Antal institutioner, der får støtte"
+        },
+        {
+          "tal": "3 år",
+          "label": "Varighed af programmet"
+        }
+      ],
+      "detaljer": [
+        "NASA har tildelt cirka 10,5 millioner dollars til syv institutioner.",
+        "Initiativet hedder NASA Aerospace Skilled Technical Workforce Hubs (NASA State Hubs).",
+        "Målet er at skabe flere veje til tekniske job i rumfartsindustrien.",
+        "De syv stater er Californien, Georgia, Minnesota, Utah, Florida, Colorado og Texas.",
+        "Programmet skal forløbe over tre år.",
+        "NASA's Office of STEM Engagement står bag initiativet."
+      ],
+      "betydning": "For almindelige danskere viser det, at USA investerer massivt i uddannelse af teknikere til rumfart. Det kan inspirere danske uddannelsesinstitutioner og understrege vigtigheden af tekniske færdigheder.",
+      "pointer": [
+        "NASA støtter uddannelse af teknikere med 10,5 mio. dollars.",
+        "Syv institutioner får del i midlerne.",
+        "Målet er at dække behovet for teknisk personale i rumfart.",
+        "Programmet skal skabe stærkere forbindelse mellem uddannelse og job."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions",
+      "link": "https://spacenews.com/moog-inc-expands-meteorite-satellite-bus-capacity-for-high-maneuverability-missions/",
+      "dato": "2026-08-19T15:11:52+00:00",
+      "kilde": "SpaceNews",
+      "resume": "East Aurora, NY &#8212; Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer and systems integrator of high-performance precision motion and fluid controls and control systems announces a new, [&#8230;] The post Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/12/Moog_logo_maroon.png?fit=1024%2C1024&amp;ssl=1",
+      "billede_alt": "Moog logo",
+      "kategori": "Satellitter",
+      "rubrik": "Moog udvider satellitbus kapacitet",
+      "resume_da": "Moog Inc. har udvidet deres METEORITE satellitbus til missioner med høj manøvredygtighed. Bussen kan nu klare større nyttelast og mere komplekse opgaver.",
+      "sektioner": [
+        {
+          "overskrift": "Udvidet kapacitet",
+          "tekst": "Moog Inc. har øget kapaciteten på deres METEORITE satellitbus. Det gør bussen velegnet til missioner, der kræver høj manøvredygtighed. Det fortæller virksomheden i en pressemeddelelse."
+        },
+        {
+          "overskrift": "Til højmanøvredygtige missioner",
+          "tekst": "Den nye bus kan håndtere flere opgaver i rummet. Det kan være missioner, hvor satellitten skal skifte bane eller position flere gange. Det giver flere muligheder for fremtidige rummissioner."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Moog Inc. er en global designer og producent af præcisionskontrolsystemer.",
+        "METEORITE satellitbussen er nu udvidet til missioner med høj manøvredygtighed."
+      ],
+      "betydning": "Det kan betyde mere fleksible og avancerede satellitter i fremtiden, hvilket kan forbedre kommunikation, vejrovervågning og forskning.",
+      "pointer": [
+        "Moog udvider METEORITE satellitbus",
+        "Til høj manøvredygtighed",
+        "Nye missionsmuligheder"
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Fastest known Milky Way star offers new test of supermassive black hole's spin",
+      "link": "https://phys.org/news/2026-08-fastest-milky-star-supermassive-black.html",
+      "dato": "2026-08-19T15:00:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Astronomers have discovered the fastest known star in our galaxy, the Milky Way, orbiting the black hole at its center. The star, named S301, was detected with the European Southern Observatory's Very Large Telescope Interferometer (ESO's VLTI) and reaches speeds of 25,000 km/s (15,500 miles per second) as it travels around the four-million-solar-mass black hole. It comes closer to it than any oth",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/fastest-known-milky-wa.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Rekordstjerne tester Mælkevejens sorte hul",
+      "resume_da": "Astronomer har fundet den hurtigste stjerne i Mælkevejen, S301, der kredser om det centrale sorte hul. Den når 25.000 km/s og er tættere på end nogen anden kendt stjerne.",
+      "sektioner": [
+        {
+          "overskrift": "Rekordstjerne fundet",
+          "tekst": "Forskere har opdaget den hurtigste stjerne i vores galakse. Stjernen hedder S301 og blev fundet med ESO's Very Large Telescope Interferometer. Den kredser om det supermassive sorte hul i Mælkevejens centrum."
+        },
+        {
+          "overskrift": "Tæt på det sorte hul",
+          "tekst": "S301 kommer tættere på det sorte hul end nogen anden observeret stjerne. Den når hastigheder på **25.000 km/s**. Det sorte hul har en masse på **4 millioner** gange solens."
+        },
+        {
+          "overskrift": "Test af rotation",
+          "tekst": "S301 er så tæt på, at den påvirkes af det sorte huls rotation. Det giver forskerne en ny mulighed for at teste, hvordan sorte huller roterer."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "25.000 km/s",
+          "label": "Stjernens maksimale hastighed"
+        },
+        {
+          "tal": "4 millioner solmasser",
+          "label": "Det sorte huls masse"
+        }
+      ],
+      "detaljer": [
+        "Stjernen S301 er den hurtigste kendte stjerne i Mælkevejen.",
+        "Den blev opdaget med ESO's Very Large Telescope Interferometer (VLTI).",
+        "Hastigheden er 25.000 km/s (15.500 miles per sekund).",
+        "Den kredser om det supermassive sorte hul i Mælkevejens centrum.",
+        "Den kommer tættere på end nogen anden observeret stjerne."
+      ],
+      "betydning": "Det giver forskere en unik mulighed for at studere, hvordan sorte huller roterer. Det kan hjælpe med at forstå, hvordan sorte huller påvirker deres omgivelser i galakser.",
+      "pointer": [
+        "Opdagelsen af S301 er et vigtigt skridt i forskningen i sorte huller.",
+        "Det kan give ny viden om gravitation og rumtid.",
+        "Det understøtter teorier om, hvordan sorte huller påvirker stjerner tæt på dem."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "13 sci-fi books that inspired our favorite shows and movies",
+      "link": "https://www.space.com/entertainment/read-13-books-that-inspired-our-favorite-sci-fi-shows-and-movies",
+      "dato": "2026-08-19T15:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "These are the books that inspired our favorite science fiction worlds on the big and small screens, including novels from Andy Weir, Emily St. John Mandel and Mary Shelley.",
+      "billede": "https://cdn.mos.cms.futurecdn.net/cgwccqUk7JfPrrknwbNw5N-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "13 sci-fi bøger bag dine yndlingsfilm og serier",
+      "resume_da": "Space.com har samlet 13 sci-fi bøger, der har inspireret populære film og serier. Artiklen nævner ingen specifikke titler, men giver generel inspiration.",
+      "sektioner": [
+        {
+          "overskrift": "Inspiration fra litteraturen",
+          "tekst": "Mange kendte film og serier bygger på sci-fi-bøger. Litteraturen har i årtier været en kilde til idéer. Forfattere har skabt verdener, som filmskabere siden har brugt."
+        },
+        {
+          "overskrift": "Vigtigheden af inspiration",
+          "tekst": "Uden bøgerne ville mange historier ikke eksistere. Sci-fi-litteratur har formet genren og givet os klassikere. Inspirationen strækker sig fra rumrejser til teknologiske dilemmaer."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Artiklen er skrevet af Harry, en medarbejder hos Space.com.",
+        "Harry har en bachelorgrad i amerikansk litteratur med kreativ skrivning.",
+        "Han har erfaring med astrofotografering og har fanget nattehimlen med kameraer."
+      ],
+      "betydning": "For almindelige danskere kan det være interessant at vide, hvordan sci-fi-film og -serier er påvirket af bøger. Det kan øge forståelsen for genren og dens oprindelse.",
+      "pointer": [
+        "Lister 13 inspirerende sci-fi-bøger.",
+        "Viser sammenhængen mellem litteratur og film.",
+        "Understreger betydningen af forfatternes fantasi."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "VR supports research into spaceflight-related mental health",
+      "link": "https://phys.org/news/2026-08-vr-spaceflight-mental-health.html",
+      "dato": "2026-08-19T14:58:23+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "As humanity gets closer to the possibility of long-term interplanetary travel, psychologists have started raising concerns about astronauts' mental health. Researchers at Texas A&amp;M University conducted research on sailors in an isolated environment to address these concerns using virtual reality technology and by introducing other senses to the experience, such as smell and touch.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/vr-supports-research-i.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "VR kan støtte astronauters mentale sundhed",
+      "resume_da": "Forskere tester virtual reality og andre sanser for at hjælpe astronauter med mentale udfordringer under lange rumrejser.",
+      "sektioner": [
+        {
+          "overskrift": "Problem med mental sundhed",
+          "tekst": "Psykologer er bekymrede for astronauters mentale helbred på lange rumrejser. Forskning på Texas A&M University undersøger dette ved at isolere søfolk i et kontrolleret miljø."
+        },
+        {
+          "overskrift": "VR og flere sanser",
+          "tekst": "Forskerne bruger virtual reality til at skabe oplevelser, der involverer flere sanser som lugt og følesans. Dette kan hjælpe med at reducere stress og forbedre trivslen i isolation."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Forskere fra Texas A&M University gennemførte undersøgelser på søfolk i et isoleret miljø.",
+        "Virtual reality bruges til at adressere psykologiske bekymringer ved langvarig rumrejse."
+      ],
+      "betydning": "Forskning i VR-teknologi kan forbedre mentalt velbefindende for astronauter, hvilket er vigtigt for fremtidige missioner til Mars og andre fjerne destinationer.",
+      "pointer": [
+        "Forskning ved Texas A&M University.",
+        "Bruger VR med lugt og følesans.",
+        "Mål: støtte astronauters mentale sundhed."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Career Spotlight: Mechanic (Ages 14-18)",
       "link": "https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/",
@@ -4115,245 +4373,6 @@
         "Flyet skal også teste nye teknologier."
       ],
       "prio": 5
-    },
-    {
-      "titel": "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
-      "link": "https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/",
-      "dato": "2026-08-13T19:03:19+00:00",
-      "kilde": "NASA",
-      "resume": "Growing up in Grafton, West Virginia, engrossed in Star Wars and all things science fiction, Fletcher Newell had an early interest in space exploration. That interest only grew when, in 2013, his fourth-grade class took a field trip to a nearby NASA facility he had not yet heard of – NASA’s Katherine Johnson Independent Verification [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/dsc-0453-2.jpg?w=2048",
-      "billede_alt": "New civil servants pose together.",
-      "kategori": "Forskning",
-      "rubrik": "NASA-ingeniør vender hjem til West Virginia",
-      "resume_da": "Fletcher Newell blev fastansat hos NASA efter at have vendt tilbage til sin hjemstat. Han arbejder med sikkerhed på månefartøjer.",
-      "sektioner": [
-        {
-          "overskrift": "Fra stjernekigger til ingeniør",
-          "tekst": "Fletcher Newell voksede op med science fiction og en tidlig interesse for rummet. Som skoleelev fik han øjnene op for NASA's lokale facilitet i Fairmont, West Virginia. Han lærte selv at programmere og kombinerede det med sin passion for rumfart."
-        },
-        {
-          "overskrift": "Tilbage til rødderne",
-          "tekst": "Efter studier på Stanford University kunne Newell have taget et job i Silicon Valley. I stedet valgte han at vende tilbage til West Virginia og arbejde hos NASA. Han har bidraget med at finde fejl i vigtige rumfartøjer og blev kåret som Årets Ingeniør i 2025."
-        },
-        {
-          "overskrift": "Sikkerhed på Månen",
-          "tekst": "Newell arbejder nu med at sikre NASAs månefartøjer, herunder Orion og Gateway. Han hjælper med at identificere problemer, der kan true besætningen og missions succes. Hans arbejde er en del af en større satsning på at styrke NASAs tekniske ekspertise."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "51",
-          "label": "nye medarbejdere blev ansat"
-        },
-        {
-          "tal": "70+",
-          "label": "problemer identificeret"
-        }
-      ],
-      "detaljer": [
-        "Newell blev del af NASA's IV&V-facilitet efter en skoleudflugt i 2013.",
-        "Han lærte at programmere i gymnasiet og byggede scripts.",
-        "Hans første praktikophold var som gymnasieelev i 2019.",
-        "Han tog en kandidatgrad i datalogi fra Stanford.",
-        "Navnet på faciliteten ærer Katherine Johnson, en af NASA's tidligere matematikere."
-      ],
-      "betydning": "Historien viser, hvordan lokalt talent kan gøre en forskel i rumfarten. Det understreger også, at sikkerheden på kommende månelandeopgaver er i gode hænder.",
-      "pointer": [
-        "Newell vendte hjem efter studier i Californien.",
-        "Han arbejder på at gøre månefartøjer sikre.",
-        "Hans arbejde blev belønnet i 2025.",
-        "NASA styrker sin tekniske ekspertise."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "What a dry meteorite tells us about water on Mars",
-      "link": "https://phys.org/news/2026-08-dry-meteorite-mars.html",
-      "dato": "2026-08-13T19:00:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Detecting water where none remains today: Neutron and X-ray tomography make it possible. In an international study conducted with the participation of the Paul Scherrer Institute PSI, researchers have brought to light macroscopic hydrogen-rich regions inside a Martian meteorite. The findings provide evidence for early water-rock interactions on Mars.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-a-dry-meteorite-t-1.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Mars-meteorit afslører spor af vand",
-      "resume_da": "Forskere har fundet hydrogenrige områder i en Mars-meteorit, hvilket tyder på, at vand har interageret med klipper på Mars tidligt i dens historie.",
-      "sektioner": [
-        {
-          "overskrift": "Ny teknologi afslører spor",
-          "tekst": "Forskere brugte neutron- og røntgentomografi til at undersøge en tør Mars-meteorit. De fandt makroskopiske områder rige på hydrogen i stenen. Det giver nyt bevis for tidligere vand-klippe-interaktioner på Mars."
-        },
-        {
-          "overskrift": "Betydningen af fundet",
-          "tekst": "Selvom Mars i dag er tør, viser fundet, at der har været vand til stede tidligere. Dette er vigtigt for at forstå Mars' klima- og geologiske historie. Det hjælper også forskere med at forstå, hvor vandet kan være blevet af."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Undersøgelsen er international med deltagelse af Paul Scherrer Institut (PSI).",
-        "Forskerne brugte neutron- og røntgentomografi.",
-        "De fandt hydrogenrige områder i en Mars-meteorit."
-      ],
-      "betydning": "Fundet giver ny viden om vandets historie på Mars, hvilket er relevant for at forstå planetens beboelighed og muligheden for liv.",
-      "pointer": [
-        "Hydrogenrige områder fundet i Mars-meteorit.",
-        "Bevis for tidligere vand-klippe-interaktioner.",
-        "Vigtigt for at forstå Mars' fortid."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "How to image the planets with a telescope and camera",
-      "link": "https://www.space.com/stargazing/skywatching-kit/how-to-image-the-planets-with-a-telescope-and-camera",
-      "dato": "2026-08-13T17:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "Follow our step-by-step tutorial to photographing Jupiter, Saturn, Mars and Venus",
-      "billede": "https://cdn.mos.cms.futurecdn.net/Wox4gfMhfNrP497VfW2ZGg-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Sådan fotograferer du planeter med teleskop",
-      "resume_da": "Amatør-astronomen Damian Peach deler ud af sin viden om planetfotografering – fra teleskop og kamera til teknikken bag flotte billeder.",
-      "sektioner": [
-        {
-          "overskrift": "Start med det rigtige udstyr",
-          "tekst": "Du behøver ikke dyrt professionelt udstyr for at komme i gang. Et almindeligt teleskop og et kamera kan give gode resultater. Det vigtigste er at øve sig og forstå himlen."
-        },
-        {
-          "overskrift": "Kend dine planeter",
-          "tekst": "Jupiter og Saturn er nemme at fotografere, fordi de er lyse og store på himlen. Mars kan være en udfordring, men giver flotte billeder, når den er tæt på. Brug gerne en planetguide til at finde dem."
-        },
-        {
-          "overskrift": "Teknikken bag gode billeder",
-          "tekst": "Tag flere billeder og læg dem sammen i et program. Det giver skarpere detaljer end ét enkelt billede. Sørg for at fokusere præcist, og brug et stativ for at undgå rystelser."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Brug gerne et teleskop med en blænde på mindst 60 mm.",
-        "Sæt kameraet til med et adapter, så det sidder fast på teleskopet.",
-        "Justér eksponeringstiden, så planeten ikke bliver overbelyst.",
-        "Tag billeder i råformat for at bevare flest detaljer."
-      ],
-      "betydning": "Det er en sjov og lærerig hobby, der kan give dig fantastiske billeder af vores naboplaneter – også selvom du ikke er ekspert.",
-      "pointer": [
-        "Begynd med Jupiter og Saturn.",
-        "Brug stativ og præcis fokus.",
-        "Læg mange billeder sammen for skarphed.",
-        "Øv dig – det bliver bedre med tiden."
-      ],
-      "prio": 2
-    },
-    {
-      "titel": "Space Command expands Alabama footprint as headquarters relocation advances",
-      "link": "https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/",
-      "dato": "2026-08-13T16:27:05+00:00",
-      "kilde": "SpaceNews",
-      "resume": "More than 100 personnel have already relocated to Redstone Arsenal as construction of billion-dollar Space Command facility is set to begin The post Space Command expands Alabama footprint as headquarters relocation advances appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/IMG_0400-scaled.jpg?fit=1024%2C768&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "US Space Command flytter til Alabama",
-      "resume_da": "Mere end 100 ansatte er allerede flyttet til Redstone Arsenal. Byggeriet af det nye hovedsæde begynder snart.",
-      "sektioner": [
-        {
-          "overskrift": "Flytningen er i gang",
-          "tekst": "Over **100** personer er allerede flyttet til Redstone Arsenal. Det nye hovedsæde skal bygges for milliarder af dollars."
-        },
-        {
-          "overskrift": "Fremtidens hovedkvarter",
-          "tekst": "Byggeriet af den nye facilitet begynder snart. Det er et stort projekt, der skal huse hele kommandoen."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "100",
-          "label": "medarbejdere er flyttet"
-        }
-      ],
-      "detaljer": [
-        "Mere end 100 ansatte er flyttet til Redstone Arsenal.",
-        "Byggeriet af det nye Space Command-hovedsæde begynder snart.",
-        "Anlægget forventes at koste milliarder af dollars."
-      ],
-      "betydning": "For en almindelig dansker er det relevant, fordi det viser, hvordan USA styrker deres rumkapaciteter, hvilket kan påvirke internationalt rumforsvar.",
-      "pointer": [
-        "Over 100 ansatte er flyttet.",
-        "Ny bygning til milliarder.",
-        "Byggeri starter snart."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Perseids Meteor Shower",
-      "link": "https://www.nasa.gov/image-article/perseids-meteor-shower-2/",
-      "dato": "2026-08-13T15:08:34+00:00",
-      "kilde": "NASA",
-      "resume": "The constellation Orion is framed by two Perseid meteors in this photo from Aug. 12, 2018, in Cedar Breaks National Monument, Utah. The Perseids – one of the year’s brightest and most popular meteor showers – has been ramping up since early July and will sparkle in the skies through the end of August. The [&#8230;]",
-      "billede": "https://www.youtube.com/embed/kVRkkrB4eS0",
-      "billede_alt": "The night sky is filled with stars. Looking toward the bottom left and top right, two streaks are visible. These are meteors. Between the two streaks is the constellation Orion. The bottom of the imag",
-      "kategori": "Astronomi",
-      "rubrik": "Perseidernes meteorsværm topper i august",
-      "resume_da": "Perseiderne er en af årets flotteste meteorsværme. Den er aktiv fra juli til august og havde sit højdepunkt natten til 13. august.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er Perseiderne?",
-          "tekst": "Perseiderne er en årligt tilbagevendende meteorsværm. Den er kendt for at være en af de klareste og mest populære. Meteorerne er synlige med det blotte øje."
-        },
-        {
-          "overskrift": "Hvornår kan man se dem?",
-          "tekst": "Sværmen begynder i starten af juli og varer til slutningen af august. Toppen var natten mellem den 12. og 13. august. I den periode kunne man se flest meteorer."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Perseiderne er aktive fra begyndelsen af juli til slutningen af august.",
-        "Toppen var natten mellem den 12. og 13. august.",
-        "Perseiderne er en af årets klareste og mest populære meteorsværme.",
-        "Et fotografi fra 2018 viser to Perseid-meteorer."
-      ],
-      "betydning": "For almindelige mennesker er det en mulighed for at se et imponerende naturfænomen. Man behøver ikke specielt udstyr, bare en klar himmel.",
-      "pointer": [
-        "Perseiderne er aktive fra juli til august.",
-        "Toppen var natten til 13. august.",
-        "De er blandt årets klareste meteorsværme.",
-        "Kan ses uden udstyr."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "An optical link ‘internet’ to connect networks in space",
-      "link": "https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space/",
-      "dato": "2026-08-13T14:39:26+00:00",
-      "kilde": "SpaceNews",
-      "resume": "In this episode, David Ariosto speaks with John Mackey, CEO, co-founder and director of Mbryonics. They discuss building optical links for satellites and other space infrastructure, and what it would [&#8230;] The post An optical link ‘internet’ to connect networks in space appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/space-minds-podcast-mbryonics-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Optisk internet i rummet kan forbinde satellitter",
-      "resume_da": "Mbryonics CEO John Mackey fortæller om at bygge optiske forbindelser til satellitter, som kan skabe et internet i rummet.",
-      "sektioner": [
-        {
-          "overskrift": "Optiske forbindelser i rummet",
-          "tekst": "Mbryonics arbejder på at lave optiske links til satellitter og andet rumudstyr. Det kan skabe et netværk, hvor enheder i rummet kan kommunikere med hinanden."
-        },
-        {
-          "overskrift": "En samtale om fremtiden",
-          "tekst": "I en podcast taler David Ariosto med John Mackey, der er chef og medstifter af Mbryonics. De diskuterer, hvordan denne teknologi kan forme fremtidens rumfart."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Mbryonics er et firma, der bygger optiske link-systemer.",
-        "Formålet er at forbinde satellitter og andet rumudstyr.",
-        "Det kan føre til et 'internet' i rummet."
-      ],
-      "betydning": "For almindelige danskere kan det betyde bedre og hurtigere kommunikation via satellitter, fx til internet i afsides områder eller forbedret satellitnavigation.",
-      "pointer": [
-        "Optiske links kan give hurtigere dataoverførsel i rummet.",
-        "Det kan skabe et netværk mellem rumfartøjer.",
-        "Teknologien er under udvikling hos Mbryonics."
-      ],
-      "prio": 4
     }
   ]
 }
