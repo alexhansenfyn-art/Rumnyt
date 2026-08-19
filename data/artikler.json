@@ -1,7 +1,48 @@
 {
-  "opdateret": "2026-08-19T20:58:58.716925+00:00",
+  "opdateret": "2026-08-19T22:55:38.335815+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Dark Stars may have left gravitational-wave echoes across the universe",
+      "link": "https://phys.org/news/2026-08-dark-stars-left-gravitational-echoes.html",
+      "dato": "2026-08-19T21:50:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "A mysterious background of extremely low-frequency gravitational waves detected by networks of pulsars may carry information about events that began more than 13 billion years ago—including the formation of some of the first supermassive black holes in the universe.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/black-hole-1.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Mørke stjerner kan have sat aftryk i rumtid",
+      "resume_da": "Forskere mener, at mørke stjerner fra universets begyndelse kan have efterladt gravitationsbølger, som nutidens pulsarteleskoper kan måle.",
+      "sektioner": [
+        {
+          "overskrift": "Mystiske gravitationsbølger",
+          "tekst": "Astronomer har opdaget en svag baggrund af meget lavfrekvente gravitationsbølger. De kan komme fra begivenheder for over **13 milliarder år** siden. Måske fra dannelsen af de første supermassive sorte huller."
+        },
+        {
+          "overskrift": "Mørke stjerner som kilde",
+          "tekst": "Mørke stjerner er en hypotetisk type stjerne, der kunne have eksisteret i det tidlige univers. De kunne have udsendt gravitationsbølger, som stadig kan måles i dag. Det vil i givet fald give ny viden om universets barndom."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "13 milliarder år",
+          "label": "Tid siden universets begyndelse"
+        }
+      ],
+      "detaljer": [
+        "Signalet er en baggrund af meget lavfrekvente gravitationsbølger.",
+        "Det er opdaget med netværk af radioteleskoper, der måler pulsarer.",
+        "Forskerne mener, at mørke stjerner kan have dannet nogle af de første supermassive sorte huller."
+      ],
+      "betydning": "Historien er spændende, fordi den kan afsløre, hvordan de første sorte huller opstod. Det giver os en dybere forståelse af, hvordan vores univers blev til.",
+      "pointer": [
+        "Gravitationsbølger kan måles med pulsarer.",
+        "Mørke stjerner er en teori om tidlige stjerner.",
+        "Signalet kan være 13 milliarder år gammelt.",
+        "Forskningen kan forklare supermassive sorte huller."
+      ],
+      "prio": 7
+    },
     {
       "titel": "Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut",
       "link": "https://www.nasaspaceflight.com/2026/08/stoke-update-081926/",
@@ -4385,38 +4426,6 @@
         "Næste totale formørkelse i 2027."
       ],
       "prio": 7
-    },
-    {
-      "titel": "CesiumAstro buys semiconductor specialist to boost constellation plans",
-      "link": "https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/",
-      "dato": "2026-08-14T02:24:02+00:00",
-      "kilde": "SpaceNews",
-      "resume": "CesiumAstro is acquiring semiconductor specialist Jariet Technologies, adding more in-house capabilities behind the phased-array antenna specialist’s plans for a future communications constellation. The post CesiumAstro buys semiconductor specialist to boost constellation plans appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_1shey_2026.png?fit=879%2C494&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Satellitter",
-      "rubrik": "CesiumAstro køber chipproducent til satellitnet",
-      "resume_da": "CesiumAstro opkøber halvledervirksomheden Jariet Technologies for at styrke egne evner til deres kommende kommunikationssatellitnet.",
-      "sektioner": [
-        {
-          "overskrift": "Opkøb styrker kapacitet",
-          "tekst": "CesiumAstro, som laver antenner til satellitter, køber Jariet Technologies. Det giver dem flere interne muligheder. De planlægger et fremtidigt kommunikationssatellitnet."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "CesiumAstro køber Jariet Technologies.",
-        "Jariet Technologies er en halvlederspecialist.",
-        "Opkøbet skal styrke CesiumAstros planer om et kommende kommunikationssatellitnet."
-      ],
-      "betydning": "For almindelige danskere betyder det måske bedre og mere pålidelig satellitkommunikation i fremtiden, men det er stadig et tidligt skridt.",
-      "pointer": [
-        "CesiumAstro køber chipproducent.",
-        "Skal styrke egen produktion.",
-        "Planer om satellitnet.",
-        "Mere kontrol over hardware."
-      ],
-      "prio": 4
     }
   ]
 }
