@@ -1,7 +1,366 @@
 {
-  "opdateret": "2026-08-20T14:10:17.198059+00:00",
+  "opdateret": "2026-08-20T17:15:27.218136+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Ludicrous, nonsensical, an affront to canon — 'Strange New Worlds'' puppet episode is an instant classic",
+      "link": "https://www.space.com/entertainment/space-movies-shows/ludicrous-nonsensical-an-affront-to-canon-strange-new-worlds-puppet-episode-is-an-instant-classic",
+      "dato": "2026-08-20T17:00:00+00:00",
+      "kilde": "Space.com",
+      "resume": "It could have been a disaster, but \"Star Trek\"'s collaboration with the Jim Henson Company is a hilarious masterpiece",
+      "billede": "https://cdn.mos.cms.futurecdn.net/bwbVvmjXvQWLAGoswdTkrJ-1280-80.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Anmeldelse: Star Treks dukkeafsnit er en klassiker",
+      "resume_da": "Star Trek: Strange New Worlds har lavet et afsnit med dukker. Det lyder skørt, men det er faktisk en rigtig god oplevelse.",
+      "sektioner": [
+        {
+          "overskrift": "Et overraskende afsnit",
+          "tekst": "Star Trek: Strange New Worlds har lavet et afsnit med dukker. Det er et modigt valg. Mange fans var nok skeptiske, men resultatet er blevet rigtig godt."
+        },
+        {
+          "overskrift": "Instant klassiker",
+          "tekst": "Anmelderen kalder afsnittet for en klassiker med det samme. Han siger, at det er vanvittigt og noget pjat. Men det er også en fornærmelse mod Star Trek-kanonen. Alligevel fungerer det hele."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "12 år",
+          "label": "Anmelder arbejdede for magasin"
+        }
+      ],
+      "detaljer": [
+        "Afsnittet indeholder dukker.",
+        "Det er en del af serien Strange New Worlds.",
+        "Anmelderen har set mange sci-fi-serier før."
+      ],
+      "betydning": "For almindelige danskere er det en sjov nyhed, fordi Star Trek er kendt. Det viser, at serien tør at eksperimentere, hvilket kan give nye og anderledes oplevelser.",
+      "pointer": [
+        "Dukkeafsnit i Star Trek.",
+        "Fans var skeptiske på forhånd.",
+        "Anmelderen synes, det er godt.",
+        "Afsnittet er en klassiker."
+      ],
+      "prio": 2
+    },
+    {
+      "titel": "Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium",
+      "link": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/",
+      "dato": "2026-08-20T16:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Huntsville, AL &#8212; Moog Inc. (NYSE: MOG.A and MOG.B) announces a significant expansion at its Huntsville, AL facility that now includes a new secure Hypersonic/Interceptor Hardware-in-the-Loop (HWIL) lab. It is [&#8230;] The post Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/12/Moog_logo_maroon-1.png?fit=1024%2C1024&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Moog udvider i Huntsville med nyt testlaboratorium",
+      "resume_da": "Moog har udvidet sin fabrik i Huntsville, Alabama, med et nyt sikkert laboratorium til test af hypersoniske våben og interceptor-missiler.",
+      "sektioner": [
+        {
+          "overskrift": "Udvidelse i Huntsville",
+          "tekst": "Moog har udvidet sin facilitet i Huntsville, Alabama. Udvidelsen omfatter et nyt sikkert laboratorium til hardware-in-the-loop-testning. Dette laboratorium er designet til at teste hypersoniske våben og interceptor-missiler."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Moog Inc. er et amerikansk firma, der handler på NYSE under MOG.A og MOG.B.",
+        "Det nye laboratorium er for hypersoniske våben og interceptor-missiler.",
+        "Laboratoriet er sikkert (secure)."
+      ],
+      "betydning": "For almindelige danskere er dette relevant, fordi det viser, at forsvarsindustrien investerer i ny teknologi, hvilket kan påvirke den globale sikkerhedssituation og dermed også Danmark.",
+      "pointer": [
+        "Moog udvider i Huntsville, Alabama.",
+        "Nyt testlaboratorium er åbnet.",
+        "Laboratoriet tester hypersoniske våben.",
+        "Det er et sikkert anlæg."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "Artemis Mission Patches",
+      "link": "https://www.nasa.gov/image-article/artemis-mission-patches/",
+      "dato": "2026-08-20T15:13:51+00:00",
+      "kilde": "NASA",
+      "resume": "A jacket decorated with Artemis I and II mission patches, along with other NASA patches hangs on the back of a chair on Thursday, Aug. 6, 2026, inside the Rocco A. Petrone Launch Control Center at NASA’s Kennedy Space Center in Florida during a terminal countdown simulation for the Artemis III mission. NASA’s Exploration Ground [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260806-ph-rcr01-0010orig.jpg?w=2048",
+      "billede_alt": "A gray colored jacket with five Artemis mission patches and a NASA insignia hangs on a chair.",
+      "kategori": "Missioner",
+      "rubrik": "NASAs Artemis III gennemfører afprøvning af opsendelsestælling",
+      "resume_da": "NASAs Exploration Ground Systems-team gennemførte en terminal nedtællingssimulering for Artemis III-missionen ved Kennedy Space Center i Florida.",
+      "sektioner": [
+        {
+          "overskrift": "Simulering af opsendelse",
+          "tekst": "Den 6. august 2026 gennemførte NASAs team en terminal nedtællingssimulering. Den dækkede de sidste fem timer af nedtællingen, inklusive de sidste **10 minutter**. Testen fandt sted i Rocco A. Petrone Launch Control Center."
+        },
+        {
+          "overskrift": "Artemis III's mål",
+          "tekst": "Artemis III skal udføre en række opgaver i lavt jordkredsløb. Formålet er at demonstrere kritiske systemer, der er nødvendige for fremtidige månelandinger. Disse landinger begynder med Artemis IV."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "5 timer",
+          "label": "Varighed af nedtællingssimuleringen"
+        },
+        {
+          "tal": "10 minutter",
+          "label": "Terminal nedtællingsperiode"
+        },
+        {
+          "tal": "6. august 2026",
+          "label": "Dato for simuleringen"
+        }
+      ],
+      "detaljer": [
+        "Simuleringen blev udført af NASA's Exploration Ground Systems-team.",
+        "Den fandt sted i Rocco A. Petrone Launch Control Center ved Kennedy Space Center i Florida.",
+        "Artemis III vil demonstrere systemer til fremtidige månelandinger."
+      ],
+      "betydning": "Denne test er vigtig for at sikre, at fremtidige månemissioner bliver sikre og vellykkede. Det bringer os tættere på at sende mennesker til Månen igen.",
+      "pointer": [
+        "NASA testede nedtællingsprocedurer for Artemis III.",
+        "Simuleringen dækkede de sidste 5 timer af nedtællingen.",
+        "Målet er at forberede fremtidige månelandinger."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "NASA Selects University Teams to Help Advance Aviation Research",
+      "link": "https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/",
+      "dato": "2026-08-20T14:57:01+00:00",
+      "kilde": "NASA",
+      "resume": "NASA has selected four university teams to help the agency transform the future of aviation through projects ranging from high-supersonic propulsion systems to low-noise routes for small aircraft flying through cities. The agency made awards through&#160;its&#160;University Leadership Initiative, which offers&#160;&#160;student teams the opportunity to contribute to real-world flight research that",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/uli-round-9-awards.jpg?w=1400",
+      "billede_alt": "Aviation Research ULI Round 9 Awards wreath graphic.",
+      "kategori": "Forskning",
+      "rubrik": "NASA vælger universitetshold til avanceret luftfartsforskning",
+      "resume_da": "NASA har udvalgt fire universitetshold til at forske i fremtidens flyvning, fra supersoniske motorer til støjsvage ruter i byer.",
+      "sektioner": [
+        {
+          "overskrift": "Fire projekter valgt",
+          "tekst": "NASA har givet fire universitetshold opgaver med at forske i fremtidens luftfart. Projekterne handler om alt fra supersoniske motorer til støjsvage flyruter i byer. Holdene får støtte i flere år til at bygge deres forskningsteams."
+        },
+        {
+          "overskrift": "Minnesota og Stanford",
+          "tekst": "University of Minnesota skal udvikle en motor, der kan skifte til supersonisk fart. Stanford University arbejder på to projekter: et med kunstig intelligens i flysystemer og et med støjsvage ruter i byer. Virginia Tech vil forbedre flydesign med computer-modeller."
+        },
+        {
+          "overskrift": "Hvad det betyder",
+          "tekst": "Projekterne sigter mod at gøre flyvning hurtigere, mere støjsvag og mere effektiv. De kan også hjælpe med at forberede lufttrafikken til nye typer af fly i fremtiden. Det er en del af NASAs satsning på at uddanne nye forskere."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "4",
+          "label": "antal projekter"
+        },
+        {
+          "tal": "30 mio. dollars",
+          "label": "samlet støttebeløb"
+        }
+      ],
+      "detaljer": [
+        "Projekterne er udvalgt gennem NASAs University Leadership Initiative.",
+        "University of Minnesota udvikler en motor, der kan skifte til ramjet og flyve med Mach 4.",
+        "Stanford Universitys projekt med kunstig intelligens skal sikre sikkerhed i avionik.",
+        "Stanford Universitys andet projekt fokuserer på at reducere støj fra byflyvning.",
+        "Virginia Techs projekt handler om at bruge avancerede computer-modeller til at designe fly."
+      ],
+      "betydning": "Forskningen kan føre til mere støjsvage fly i byer og hurtigere flyvning, hvilket kan påvirke fremtidens rejser og godstransport. Den kan også sikre, at nye flytyper er sikre at flyve med.",
+      "pointer": [
+        "NASA støtter fire universitetsprojekter.",
+        "Projekterne dækker supersoniske motorer, AI, støj og design.",
+        "Støtten er på ca. 30 mio. dollars.",
+        "Formålet er at udvikle fremtidens luftfart."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "The View from Above: The Gemini Visual Acuity Experiments",
+      "link": "https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/",
+      "dato": "2026-08-20T14:30:00+00:00",
+      "kilde": "NASA",
+      "resume": "NASA astronaut L. Gordon Cooper, Jr. took 29 color photographs of the Earth with a 70mm camera as he orbited our planet during the Mercury-Atlas 9 mission in May 1963. Cooper’s view from the window of his Faith 7 spacecraft was spectacular, and he reported that he could see vehicles motoring on dirt roads, smoke-belching&#160;trains, [&#8230;]",
+      "billede": "https://images-assets.nasa.gov/image/s65-45683/s65-45683~large.jpg?w=1920&amp;h=1920&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+      "billede_alt": "Pete Conrad in the Gemini 5 spacecraft",
+      "kategori": "Forskning",
+      "rubrik": "Astronauters syn testet i rummet",
+      "resume_da": "NASA testede i 1960'erne, hvad astronauter kunne se fra kredsløb. Resultaterne førte til Landsat-satellitterne, der overvåger Jorden den dag i dag.",
+      "sektioner": [
+        {
+          "overskrift": "Tvivl om synet",
+          "tekst": "I 1963 sagde astronaut Gordon Cooper, at han fra rummet kunne se biler, tog og huse på Jorden. Mange eksperter tvivlede på det, og nogle psykiatere troede, at astronauterne hallucinerede på grund af vægtløshed. Derfor designede NASA forsøg for at teste astronauternes syn."
+        },
+        {
+          "overskrift": "Forsøgene i Gemini",
+          "tekst": "Under Gemini V og VII lavede astronauterne to slags test. De kiggede i et apparat med små rektangler og skulle bestemme deres retning. På Jorden lavede man store hvide rektangler, fra **150** til **600** fod lange, som astronauterne skulle se fra kredsløb. Vejr og andre forhold gjorde det svært, men de kunne se delene af forsøgsområdet i Texas."
+        },
+        {
+          "overskrift": "Resultater og følger",
+          "tekst": "Forsøgene viste, at astronauter godt kunne se veje og skibe med kølvand fra rummet. Deres syn blev heller ikke dårligere under en to ugers rumflyvning. Den viden og billederne fra missionerne gjorde, at forskere ville have satellitter til at observere Jorden. Det førte til Landsat 1, der blev sendt op i **1972** for at overvåge bl.a. landbrug, geologi og hav."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "150-600 fod",
+          "label": "Størrelse på jordrektangler"
+        },
+        {
+          "tal": "1972",
+          "label": "Landsat 1 opsendt"
+        },
+        {
+          "tal": "70%",
+          "label": "Astronauter med øjensygdom"
+        }
+      ],
+      "detaljer": [
+        "Gordon Cooper tog 29 farvebilleder fra Mercury-Atlas 9 i 1963.",
+        "Cooper havde usædvanlig godt syn: 20/12.",
+        "Forsøgene blev udført på Gemini V og VII i 1965.",
+        "Dow Chemical Corporation lavede rektanglerne til forsøgene.",
+        "Landsat 1 blev oprindeligt kaldt Earth Resources Technology Satellite (ERTS)."
+      ],
+      "betydning": "Historien viser, hvordan tidlige rumforsøg førte til de satellitter, der i dag overvåger klima, landbrug og katastrofer på Jorden. Det er direkte med til at løse problemer, som også påvirker almindelige mennesker.",
+      "pointer": [
+        "Astronauters syn blev testet i rummet.",
+        "De kunne se detaljer som veje og skibe.",
+        "Resultaterne førte til Landsat-satellitterne.",
+        "Landsat overvåger stadig Jorden i dag."
+      ],
+      "prio": 6
+    },
+    {
+      "titel": "Interstellar travel IV: Solar, magnetic, & directed-energy sails",
+      "link": "https://phys.org/news/2026-08-interstellar-iv-solar-magnetic-energy.html",
+      "dato": "2026-08-20T14:20:09+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Welcome back to our series on interstellar travel! In our first installment, we examined attempts to realize nuclear propulsion and how the technology could be used to reach the nearest star. In our second, we examined how fusion power has also been considered a means of propelling spacecraft to relativistic speeds (a fraction of the speed of light). In both cases, these proposals paralleled Cold ",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/interstellar-travel-iv.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Rumsejl kan bringe os til stjernerne",
+      "resume_da": "Forskere undersøger sejl, der bruger sollys, magnetfelter eller laser til at drive rumskibe. De kan nå en brøkdel af lysets hastighed og bane vej til nærmeste stjerne.",
+      "sektioner": [
+        {
+          "overskrift": "Nye sejltyper",
+          "tekst": "Artiklen gennemgår tre slags sejl: solsejl, magnetsejl og lasersegl. De kan alle drive et rumskib uden brændstof."
+        },
+        {
+          "overskrift": "Hastighed mod lyset",
+          "tekst": "Disse sejl kan accelerere et rumskib til en brøkdel af lysets hastighed. Det gør rejser til nærmeste stjerne mulige."
+        },
+        {
+          "overskrift": "Kold krigs arv",
+          "tekst": "Ligesom tidligere forslag om atomdrevne raketter bygger også disse ideer på teknologi fra Den Kolde Krig. Men de er meget lettere og mere effektive."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Serien handler om interstellar rejser.",
+        "Tidligere artikler dækkede atom- og fusionsfremdrift.",
+        "Sejl kan bruge sollys, magnetfelter eller laser.",
+        "De kan nå en brøkdel af lysets hastighed.",
+        "Nærmeste stjerne er et muligt mål."
+      ],
+      "betydning": "Artiklen giver et letforståeligt indblik i, hvordan fremtidens rumrejser til andre stjerner kan blive til noget. Det kan inspirere til større interesse for rumfart og teknologi.",
+      "pointer": [
+        "Tre slags sejl undersøges.",
+        "De kan nå høj hastighed.",
+        "Bygger på ældre teknologi.",
+        "Målet er nærmeste stjerne."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Global sand dunes map reveals clues to distant worlds, including Mars",
+      "link": "https://phys.org/news/2026-08-global-sand-dunes-reveals-clues.html",
+      "dato": "2026-08-20T14:20:03+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "A new study from Monash University has delivered the most complete and accurate digital map of Earth's windblown sand dunes to date. The research, published in Nature Communications, answers long-standing questions about why dunes form where they do, unlocking key insights into climate conditions on Earth and other planets.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/world-first-global-san-1.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Nyt kort over Jordens sandklitter kan hjælpe med at forstå Mars",
+      "resume_da": "Forskere har lavet det mest detaljerede digitale kort over Jordens sandklitter. Det kan give ny viden om klimaet på Jorden og andre planeter som Mars.",
+      "sektioner": [
+        {
+          "overskrift": "Det største klitkort",
+          "tekst": "Forskere fra Monash University har lavet det mest komplette og præcise digitale kort over Jordens sandklitter. Det er offentliggjort i tidsskriftet Nature Communications. Kortet viser, hvor klitterne er, og hvorfor de er der."
+        },
+        {
+          "overskrift": "Svar på gamle spørgsmål",
+          "tekst": "Kortet svarer på spørgsmål om, hvorfor klitter dannes netop visse steder. Det giver ny indsigt i klimaforhold på Jorden. Den viden kan også bruges til at forstå andre planeter, især Mars."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Kortet er det mest komplette og præcise digitale kort over Jordens sandklitter.",
+        "Forskningen er lavet af Monash University.",
+        "Kortet er offentliggjort i Nature Communications."
+      ],
+      "betydning": "Forståelse af klitter på Jorden kan hjælpe os med at lære mere om Mars og andre planeter. Det kan også give indsigt i klimaforandringer på Jorden.",
+      "pointer": [
+        "Nyt digitalt kort over alle Jordens klitter.",
+        "Svar på gamle spørgsmål om klitdannelse.",
+        "Viden kan bruges til at forstå Mars.",
+        "Offentliggjort i Nature Communications."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "NASA Data Feeds River Forecasts as Snow Drought Effects Linger",
+      "link": "https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/",
+      "dato": "2026-08-20T14:12:09+00:00",
+      "kilde": "NASA",
+      "resume": "NASA Earth science data is supporting machine-learning forecasts that inform decisions about water, power, and public safety in Washington state.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/washing_water_extremes2.png?w=3840&#038;h=1920&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "NASA-data hjælper med at forudsige floder i tørke",
+      "resume_da": "NASA-satellitdata bruges nu til at forudsige flodstrømme i Washington, hvor sne-tørke har skabt ekstreme vandforhold. Det hjælper et vandkraftværk med at planlægge.",
+      "sektioner": [
+        {
+          "overskrift": "Tørke rammer vinteren",
+          "tekst": "I vinteren 2025-26 faldt der mere regn end sne i det vestlige USA. Sne-dækket i januar, februar og marts var det laveste målt siden 2001. "
+        },
+        {
+          "overskrift": "Vandkraftværk bruger data",
+          "tekst": "Tacoma Power bruger HydroForecast, der kombinerer NASA-satellitdata med vejr- og flodmålinger. Det giver forudsigelser af flodstrømme, der opdateres hver anden time. "
+        },
+        {
+          "overskrift": "Fra rum til nytte",
+          "tekst": "NASA-data om sne og vegetation hjælper med at forudsige vandmængder. Det giver bedre planlægning for vandkraft, oversvømmelser og vandforsyning. "
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "151.000 hjem",
+          "label": "Forsynes med elektricitet"
+        },
+        {
+          "tal": "20-50%",
+          "label": "Sne-dække i forhold til normalt"
+        },
+        {
+          "tal": "2 timer",
+          "label": "Opdatering af forudsigelser"
+        }
+      ],
+      "detaljer": [
+        "NASA's GEOS-system viste en atmosfærisk flod i december 2025.",
+        "Washington erklærede undtagelsestilstand for tørke den 8. april 2026.",
+        "HydroForecast er udviklet af virksomheden Upstream Tech.",
+        "NASA's VIIRS-instrument på Suomi-NPP-satellitten leverer data."
+      ],
+      "betydning": "Det viser, hvordan rumdata kan bruges i hverdagen til at håndtere vand og strøm. Det kan hjælpe med at forberede sig på både oversvømmelser og tørke.",
+      "pointer": [
+        "NASA-data forudsiger flodstrømme.",
+        "Tørke fører til ekstreme vandforhold.",
+        "Vandkraftværk bruger forudsigelser.",
+        "Ny teknologi hjælper med at planlægge."
+      ],
+      "prio": 5
+    },
     {
       "titel": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
       "link": "https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html",
@@ -289,6 +648,56 @@
         "Billedet er taget af en amatør?"
       ],
       "prio": 5
+    },
+    {
+      "titel": "An Uncommon Drifter in the Denmark Strait",
+      "link": "https://science.nasa.gov/earth/earth-observatory/an-uncommon-drifter-in-the-denmark-strait/",
+      "dato": "2026-08-20T04:00:00+00:00",
+      "kilde": "NASA",
+      "resume": "A large iceberg, observed in summer 2026, had drifted more than 1,000 kilometers south from the northeastern Greenland bay where it likely originated.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-uncommon-drifter-in-the-denmark-strait/greenlandberg_oli2_20260612.jpg?w=1440&#038;h=1440&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A satellite image shows the dark blue waters of the Denmark Strait with swirling sea ice to the right of eastern Greenland. A bright white iceberg sits amid the sea ice in the middle-left of the scene",
+      "kategori": "Forskning",
+      "rubrik": "Kæmpe isbjerg driver gennem Danmarkstrædet",
+      "resume_da": "Et usædvanligt stort isbjerg blev set i Danmarkstrædet i juni 2026. Det stammer fra et isområde i det nordøstlige Grønland.",
+      "sektioner": [
+        {
+          "overskrift": "Et stort isbjerg",
+          "tekst": "Den 12. juni 2026 opdagede forskere et kæmpe isbjerg i Danmarkstrædet mellem Grønland og Island. Det målte omkring **17 kvadratkilometer**, hvilket er omkring fem gange så stort som Central Park i New York. Det er stort for Grønland, selvom isbjerge fra Antarktis kan være meget større."
+        },
+        {
+          "overskrift": "Hvor kommer det fra?",
+          "tekst": "Forskere mener, at isbjerget kommer fra Jøkelbugten i det nordøstlige Grønland. Det er muligt, at det brækkede af fra Zachariæ Isstrøm eller dens resterende ishylde. Ishylden mistede sin støtte, da gletsjeren trak sig hurtigt tilbage i starten af 2000'erne."
+        },
+        {
+          "overskrift": "Rejsen og opløsningen",
+          "tekst": "Isbjerget blev sporet tilbage via satellitbilleder, men det var svært, fordi fjorden er fyldt med havis og isstykker om foråret. I august 2026 var isbjerget omkring **1.500 kilometer** fra sin oprindelse og drev sydpå. Forventningen var, at det ville gå i opløsning i løbet af august og ikke true skibsruter."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "17 kvadratkilometer",
+          "label": "Isbjergets størrelse"
+        },
+        {
+          "tal": "1.500 kilometer",
+          "label": "Afstand fra oprindelsen"
+        }
+      ],
+      "detaljer": [
+        "Isbjerget blev set lige syd for Kangikajiip Appalia på Grønlands østkyst.",
+        "Det havde tydelige smeltevandsdamme på overfladen.",
+        "Forskere brugte satellitten Landsat 9 til at observere isbjerget.",
+        "Isbjerget drev med Grønlands kyststrøm."
+      ],
+      "betydning": "Historien viser, hvordan klimaændringer påvirker isen i Grønland, og at isbjerge kan bevæge sig langt. Det er vigtigt for skibsfart og for at forstå polarområdernes dynamik.",
+      "pointer": [
+        "Et stort isbjerg blev set i Danmarkstrædet.",
+        "Det stammer fra en gletsjer i nordøst Grønland.",
+        "Isbjerget drev over 1.000 kilometer sydpå.",
+        "Det forventes at smelte uden at true skibsruter."
+      ],
+      "prio": 6
     },
     {
       "titel": "Racing to build a radio telescope on the moon",
@@ -4029,376 +4438,6 @@
         "Forfatteren er erfaren journalist."
       ],
       "prio": 4
-    },
-    {
-      "titel": "Constipation is common in astronauts—blood tests provide new answers",
-      "link": "https://phys.org/news/2026-08-constipation-common-astronauts-blood.html",
-      "dato": "2026-08-14T19:20:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "For astronauts in space, constipation is a well-known problem. But why this happens has long been unclear. Now, a new study from the University of Copenhagen in collaboration with NASA provides an idea of what happens in the stomach without the influence of gravity.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/constipation-is-common.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Astronauter og forstoppelse: Blodprøver giver nyt svar",
-      "resume_da": "Ny forskning fra Københavns Universitet og NASA viser, hvad der sker i maven hos astronauter uden tyngdekraft – og hvorfor forstoppelse er et problem.",
-      "sektioner": [
-        {
-          "overskrift": "Problemet i rummet",
-          "tekst": "Forstoppelse er et velkendt problem for astronauter i rummet. Men hvorfor det sker, har længe været uklart. Nu har forskere fra Københavns Universitet sammen med NASA undersøgt sagen."
-        },
-        {
-          "overskrift": "Hvad blodprøver viser",
-          "tekst": "Ved at analysere blodprøver fra astronauter har forskerne fået en idé om, hvad der sker i maven uden tyngdekraftens påvirkning. Det giver ny viden om kroppens reaktioner i rummet."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Studiet er lavet af Københavns Universitet i samarbejde med NASA.",
-        "Forstoppelse har længe været et kendt problem for astronauter.",
-        "Forskerne har brugt blodprøver til at finde svar."
-      ],
-      "betydning": "Det er vigtigt at forstå kroppens reaktioner i rummet, så astronauter kan få det bedre under lange missioner. Det kan også hjælpe med at forstå fordøjelsesproblemer på Jorden.",
-      "pointer": [
-        "Forstoppelse er almindeligt i rummet.",
-        "Årsagen har været ukendt.",
-        "Ny forskning giver indsigt via blodprøver."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
-      "link": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/",
-      "dato": "2026-08-14T18:44:36+00:00",
-      "kilde": "NASA",
-      "resume": "In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event will showcase the next-generation aircraft, spacecraft, autonomous vehicles, and technologies that will help define [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/26-nasa-event-maxpower-fm-16x9-blue.jpg?w=1920",
-      "billede_alt": "MaxPower logo",
-      "kategori": "Politik & penge",
-      "rubrik": "NASA fejrer USA's 250-årsdag med kæmpe rum- og luftshow",
-      "resume_da": "NASA afholder MAX POWER den 7.-8. november i Florida. Det er et stort, familievenligt show med fly, raketter og meget mere.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er MAX POWER?",
-          "tekst": "MAX POWER er et stort udendørs event i Florida. Det fejrer USA's 250-årsdag. Showet viser fremtidens fly, rumskibe og robotter. Der vil også være gamle rumfartøjer fra NASA."
-        },
-        {
-          "overskrift": "Hvad kan man opleve?",
-          "tekst": "Der bliver flyopvisning med blandt andet US Air Force Thunderbirds. NASA-eksperter og astronauter holder foredrag. Man kan også tage på bustur bag portene til Kennedy Space Center. Der er særlige udstillinger og aktiviteter for hele familien."
-        },
-        {
-          "overskrift": "Hvem står bag?",
-          "tekst": "NASA arrangerer eventet sammen med flere samarbejdspartnere. Det er blandt andet Space Florida og Kennedy Space Center Visitor Complex. Showet finder sted på NASAs historiske Shuttle Landing Facility."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "7.-8. november",
-          "label": "Dato for eventet"
-        },
-        {
-          "tal": "250 år",
-          "label": "USA's jubilæum"
-        },
-        {
-          "tal": "5. oktober",
-          "label": "Frist for medier"
-        }
-      ],
-      "detaljer": [
-        "Eventet fejrer USA's 250-årsdag.",
-        "Det finder sted ved Kennedy Space Center i Florida.",
-        "Der bliver flyopvisning med Thunderbirds og NASA-fly.",
-        "Der er foredrag med astronauter og eksperter.",
-        "Man kan se udstillinger med både gamle og nye rumfartøjer.",
-        "Der er busture bag portene til Kennedy Space Center."
-      ],
-      "betydning": "Det er en sjov måde for familier at opleve rumfart og luftfart tæt på. Det viser også, hvordan NASA inspirerer til nye opdagelser.",
-      "pointer": [
-        "Stort event i Florida i november.",
-        "Fejrer USA's 250-årsdag.",
-        "Med flyshow, foredrag og udstillinger.",
-        "Åbent for almindelige mennesker mod billet."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Mysterious Cygnus Bubble may trace back to microquasar, astronomers suggest",
-      "link": "https://phys.org/news/2026-08-mysterious-cygnus-microquasar-astronomers.html",
-      "dato": "2026-08-14T18:20:07+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Astronomers have proposed a new explanation for the mysterious Cygnus Bubble, a vast cloud of ultra-high-energy gamma rays stretching thousands of light-years across the sky. While the bubble has generally been linked to the Cygnus X star-forming region, the new study argues that a microquasar more naturally explains its highest-energy emission. The results were published in a paper in The Astroph",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-propose-ne.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Mikrokvasar kan forklare Cygnus-boblen",
-      "resume_da": "Astronomer foreslår, at en mikrokvasar er kilden til den gådefulde Cygnus-boble af gammastråling, ikke kun stjernedannelsesområdet.",
-      "sektioner": [
-        {
-          "overskrift": "Den mystiske boble",
-          "tekst": "Cygnus-boblen er en enorm sky af ultra-energiske gammastråler, der strækker sig tusindvis af lysår. Den har hidtil været forbundet med stjernedannelsesområdet Cygnus X. Men nye observationer peger på en anden forklaring."
-        },
-        {
-          "overskrift": "Mikrokvasarens rolle",
-          "tekst": "Forskerne mener, at en mikrokvasar bedre kan forklare den højeste energi i strålingen. En mikrokvasar er et sort hul, der sluger stof og sender stråler ud. Resultaterne er offentliggjort i et videnskabeligt tidsskrift."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "tusindvis af lysår",
-          "label": "Boblen er enorm"
-        },
-        {
-          "tal": "21. juli",
-          "label": "Artikel udgivet"
-        }
-      ],
-      "detaljer": [
-        "Cygnus-boblen er en kilde til ultra-energiske gammastråler.",
-        "Den er tidligere blevet kædet sammen med Cygnus X.",
-        "Ny forskning foreslår en mikrokvasar som kilde.",
-        "Studiet er publiceret i The Astrophysical Journal Letters."
-      ],
-      "betydning": "Det hjælper os med at forstå, hvordan ekstreme objekter som sorte huller påvirker rummet omkring dem. Det kan også ændre vores syn på, hvordan højenergistråling opstår i Mælkevejen.",
-      "pointer": [
-        "Ny forklaring på gammastråle-boble.",
-        "Mikrokvasar kan være kilden.",
-        "Offentliggjort i juli.",
-        "Vigtig for rumforståelsen."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Will the new moon race turn Earth's nearest neighbor into a dumping ground?",
-      "link": "https://www.space.com/astronomy/moon/will-the-new-moon-race-turn-earths-nearest-neighbor-into-a-dumping-ground",
-      "dato": "2026-08-14T18:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "We need rules to prevent space companies from dumping their old rockets onto the moon's surface in the future, experts say.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/87Rn3PeiFZcAVm73TeQ25n-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Måneløbet: bliver Månen en losseplads?",
-      "resume_da": "Flere lande og firmaer planlægger missioner til Månen. Der er risiko for, at Månen bliver et sted for affald.",
-      "sektioner": [
-        {
-          "overskrift": "Nye missioner til Månen",
-          "tekst": "Mange lande og private firmaer sender snart missioner til Månen. Det kan føre til mere affald på Månens overflade. Der er ingen fælles regler for, hvad man må efterlade."
-        },
-        {
-          "overskrift": "Ingen regler",
-          "tekst": "Der findes ingen internationale love, der beskytter Månen mod affald. Eksperter er bekymrede for, at Månen kan blive en losseplads. Der er behov for nye regler."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Artiklen nævner Teresa fra Tjekkiet som journalist, men ingen konkrete tal.",
-        "Flere lande og private firmaer planlægger missioner til Månen.",
-        "Der er ingen internationale regler for affald på Månen."
-      ],
-      "betydning": "Det er vigtigt for almindelige mennesker, fordi Månen er en fælles ressource for hele menneskeheden. Uden regler kan vi ødelægge den for fremtidige generationer.",
-      "pointer": [
-        "Mange nye måne-missioner er på vej.",
-        "Der er ingen regler for affald på Månen.",
-        "Eksperter er bekymrede."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Volunteer Develops Machine-Learning Tool to Identify Rare Clouds",
-      "link": "https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/",
-      "dato": "2026-08-14T17:35:46+00:00",
-      "kilde": "NASA",
-      "resume": "Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to. To help identify the factors influencing these changes, scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project.",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Noctilucent_Cloud_Detector_CitSci.jpg?w=1230&#038;h=2048&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "Portrait of a smiling person with dark hair sitting indoors..",
-      "kategori": "Forskning",
-      "rubrik": "Frivillig udvikler AI-værktøj til at spotte natskyer",
-      "resume_da": "En frivillig i NASA-projektet Space Cloud Watch har lavet et machine learning-værktøj, der hjælper med at identificere de sjældne natskyer.",
-      "sektioner": [
-        {
-          "overskrift": "Problemet med natskyer",
-          "tekst": "Natskyer bliver sværere at genkende, fordi de ligner andre skyer i lavere højde. Det har skabt ekstra arbejde for forskerne, som skal tjekke billederne manuelt."
-        },
-        {
-          "overskrift": "Frivilliges løsning",
-          "tekst": "Frivillige Namai Chandra lavede et værktøj, der først sorterer billeder og så klassificerer skyerne. Værktøjet lader forskerne fokusere på de billeder, der er svære at vurdere."
-        },
-        {
-          "overskrift": "Værktøjet i brug",
-          "tekst": "Værktøjet bruges nu af både bidragydere og forskere. Det gør det lettere at være med, selvom man ikke er helt sikker på, hvad man har fotograferet."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Natskyer kaldes også noktilucente skyer.",
-        "De lyser sølvagtigt efter solnedgang og før solopgang.",
-        "Værktøjet blev udviklet i flere omgange med test og forbedringer."
-      ],
-      "betydning": "For almindelige mennesker betyder det, at man nu kan være med i et forskningsprojekt uden at være ekspert. Man kan tage billeder af himlen og få hjælp til at afgøre, om man har set en natsky.",
-      "pointer": [
-        "Frivillig lavede AI-værktøj",
-        "Værktøjet genkender natskyer",
-        "Lettere at deltage i projektet",
-        "Bruges af forskere og bidragydere"
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun",
-      "link": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/",
-      "dato": "2026-08-14T17:00:23+00:00",
-      "kilde": "NASA",
-      "resume": "As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever. Now, a team of astrophysicists and data scientists with NASA’s COFFIES (Consequence Of Fields and Flows in the Interior and Exterior of the Sun) has developed a […]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/space-weather/20260630_205556_4096_0131.jpg?w=4096&#038;h=4096&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "The Sun appears in shades of teal with some brighter and darker regions, set against a black background. In the upper right part of the Sun is a bright flash of white, a solar flare.",
-      "kategori": "Forskning",
-      "rubrik": "AI forudsiger solstorme 12 timer før",
-      "resume_da": "Forskere har med AI udviklet en model, der kan forudsige aktive solområder op til 12 timer før de opstår. Det kan beskytte astronauter og teknologi mod solstorme.",
-      "sektioner": [
-        {
-          "overskrift": "Solens skjulte aktive områder",
-          "tekst": "Aktive områder på Solen opstår, når magnetiske felter bryder igennem overfladen og skaber solpletter. Disse områder kan sende stråling og partikler mod Jorden, hvilket truer astronauter og satellitter. Forskere kan nu se tegn på dem under overfladen via lydbølger og magnetiske ændringer."
-        },
-        {
-          "overskrift": "AI-modellen og dens metode",
-          "tekst": "Modellen bruger data fra NASAs Solar Dynamics Observatory og en særlig AI-arkitektur, der kaldes sliding-window transformer. Den finder små ændringer i Solens akustiske aktivitet og magnetfelt, som afslører kommende aktive områder. Dette giver forudsigelser op til **12 timer** før områderne bliver synlige."
-        },
-        {
-          "overskrift": "Fremtidig beskyttelse",
-          "tekst": "Modellen er endnu ikke klar til daglig brug, men forskerne vil teste den med flere kendte hændelser. Målet er at forbedre rumvejrudsigter, så vi bedre kan beskytte både astronauter og teknologi på Jorden. Dette er vigtigt for kommende missioner til Månen og Mars."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "12 timer",
-          "label": "Forudsigelse før aktive områder"
-        }
-      ],
-      "detaljer": [
-        "Modellen er udviklet af COFFIES-teamet med forskere fra NJIT, Princeton og NASA Ames.",
-        "Data kommer fra NASAs Solar Dynamics Observatory og supercomputere hos NASA Ames.",
-        "Forskningsresultaterne er offentliggjort i Journal of Geophysical Research: Machine Learning and Computation.",
-        "Tidligere metoder krævede, at solpletter allerede var synlige."
-      ],
-      "betydning": "For almindelige danskere betyder bedre rumvejrudsigter mindre risiko for, at solstorme forstyrrer vores kommunikation og GPS-systemer, som vi dagligt er afhængige af.",
-      "pointer": [
-        "AI forudsiger solstorme tidligere",
-        "Aktive områder opdages under overfladen",
-        "Kan beskytte astronauter og teknologi",
-        "Modellen testes yderligere før brug"
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Spire and PlanetiQ win NOAA radio-occultation contracts",
-      "link": "https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/",
-      "dato": "2026-08-14T16:33:58+00:00",
-      "kilde": "SpaceNews",
-      "resume": "SAN FRANCISCO – The National Oceanic and Atmospheric Administration has awarded contracts to Spire Global and PlanetiQ to provide radio occultation data for terrestrial and space weather forecasts. The NOAA [&#8230;] The post Spire and PlanetiQ win NOAA radio-occultation contracts appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_1chatgpt_image-planetiq.png?fit=879%2C586&amp;ssl=1",
-      "billede_alt": "",
-      "kategori": "Satellitter",
-      "rubrik": "NOAA vælger Spire og PlanetiQ til vejrdata",
-      "resume_da": "NOAA har givet kontrakter til Spire Global og PlanetiQ om at levere data til vejr- og rumvejrsforudsigelser.",
-      "sektioner": [
-        {
-          "overskrift": "Kontrakter til vejrdata",
-          "tekst": "Det amerikanske NOAA har tildelt kontrakter til Spire Global og PlanetiQ. De skal levere radio-okkultationsdata. Dataene bruges til jord- og rumvejrsforudsigelser."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "NOAA er det amerikanske hav- og atmosfæreagentur",
-        "Radio-okkultation måler signaler fra GPS-satellitter gennem atmosfæren",
-        "Spire Global og PlanetiQ er begge satellitbaserede vejrdatavirksomheder"
-      ],
-      "betydning": "For almindelige danskere kan bedre vejrudsigter og rumvejrsvarsler komme fra disse data. Det kan påvirke alt fra navigation til mobilkommunikation.",
-      "pointer": [
-        "NOAA har valgt to leverandører",
-        "Data skal forbedre vejr- og rumvejrsforudsigelser",
-        "Kontrakterne er vigtige for kommerciel rumfart"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Tiny satellite will use the dark side of the moon to eavesdrop on whispers from the early universe",
-      "link": "https://phys.org/news/2026-08-tiny-satellite-dark-side-moon.html",
-      "dato": "2026-08-14T15:00:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "A tiny UK-developed satellite, roughly the size of a small carry-on suitcase, could help answer one of the biggest questions in cosmology: What happened during the roughly 150 million years of the cosmic dark ages, before the universe's first stars appeared?",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-satellite-will-us.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Lille satellit skal lytte til det tidlige univers",
-      "resume_da": "En britisk mini-satellit på størrelse med en kabinekuffert skal bruge månens bagside til at lytte efter signaler fra det tidlige univers.",
-      "sektioner": [
-        {
-          "overskrift": "Månen som skjold",
-          "tekst": "Satellitten skal kredse bag månen. Månen blokerer for støj fra Jorden. Det giver mulighed for at lytte til svage signaler fra universets barndom."
-        },
-        {
-          "overskrift": "De kosmiske mørke tidsaldre",
-          "tekst": "Forskere vil undersøge en periode på omkring **150 millioner år** efter Big Bang. Dengang var der ingen stjerner. Universet var mørkt, og der findes stadig mysterier om den tid."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "150 mio. år",
-          "label": "Varighed af kosmiske mørke tidsaldre"
-        }
-      ],
-      "detaljer": [
-        "Satellitten er udviklet i Storbritannien.",
-        "Den er på størrelse med en lille kabinekuffert.",
-        "Den skal bruge månens bagside som skjold mod støj."
-      ],
-      "betydning": "Det kan hjælpe os med at forstå, hvordan universet udviklede sig, og hvor de første stjerner kom fra. Det er grundlæggende viden om vores oprindelse.",
-      "pointer": [
-        "Mini-satellit fra UK skal lytte til universets barndom.",
-        "Månens bagside blokerer for støj fra Jorden.",
-        "Undersøger perioden før de første stjerner opstod."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Total Solar Eclipse in Sunflower Field",
-      "link": "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/",
-      "dato": "2026-08-14T14:48:55+00:00",
-      "kilde": "NASA",
-      "resume": "This composite image shows the progression of a total solar eclipse over San Millán de los Caballeros, Spain on, Wednesday, Aug. 12, 2026. A total solar eclipse swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. A partial eclipse was visible in parts of the U.S., [&#8230;]",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/55460226954-564d105934-o.jpg?w=1810",
-      "billede_alt": "This composite image shows the progression of a total solar eclipse over a sunflower field in Spain. Credit: NASA/Bill Ingalls",
-      "kategori": "Astronomi",
-      "rubrik": "Total solformørkelse over Spanien i smuk billedserie",
-      "resume_da": "NASA har offentliggjort et imponerende kompositbillede af den totale solformørkelse, som fandt sted den 12. august 2026 over Spanien. Formørkelsen var synlig fra flere lande og dele af verden.",
-      "sektioner": [
-        {
-          "overskrift": "Billedet",
-          "tekst": "NASA har lavet et kompositbillede, der viser hele forløbet af den totale solformørkelse. Billedet er taget i San Millán de los Caballeros i Spanien. Det blev taget den 12. august 2026."
-        },
-        {
-          "overskrift": "Hvor den var synlig",
-          "tekst": "Totalfasen af formørkelsen kunne ses over flere områder: Grønland, Island, det nordlige Rusland, Atlanterhavet, Spanien og en lille del af Portugal. En delvis formørkelse var synlig i nogle dele af USA, det meste af Canada, store dele af Europa og nordvestlige Afrika."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "12. august 2026",
-          "label": "Dato for formørkelsen"
-        }
-      ],
-      "detaljer": [
-        "NASA-fotograf Bill Ingalls tog billedet.",
-        "Kompositbilledet viser solformørkelsens progression.",
-        "Billedet er fra en solsikkemark i Spanien."
-      ],
-      "betydning": "For almindelige danskere er det en sjov og smuk nyhed om et sjældent astronomisk fænomen. Det minder os om, at solformørkelser er spektakulære begivenheder, som vækker undren og interesse for universet.",
-      "pointer": [
-        "Kompositbillede af total solformørkelse",
-        "Taget i Spanien den 12. august 2026",
-        "Var synlig i flere lande og dele af verden",
-        "NASA offentliggjorde billedet"
-      ],
-      "prio": 5
     }
   ]
 }
