@@ -1,7 +1,118 @@
 {
-  "opdateret": "2026-08-19T22:55:38.335815+00:00",
+  "opdateret": "2026-08-20T03:12:48.555807+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Racing to build a radio telescope on the moon",
+      "link": "https://phys.org/news/2026-08-radio-telescope-moon.html",
+      "dato": "2026-08-20T02:00:01+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Remember the \"Wow!\" signal? That high-energy radio signature occurred in 1977, when Earth was much \"quieter\" in the radio band. If it happened today, it probably wouldn't even move the needle on the background noise of human radio chatter. Signals from satellites, radar and other human technology have crowded out extraterrestrial radio signals, limiting our ability to monitor the heavens for signa",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/racing-to-build-a-radi.jpg",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Radioteleskop på Månen skal finde rum-signaler",
+      "resume_da": "Forskere vil bygge et radioteleskop på Månens bagside for at undgå Jordens radiostøj og finde signaler fra fremmede civilisationer.",
+      "sektioner": [
+        {
+          "overskrift": "Jordens radiostøj et problem",
+          "tekst": "Det berømte 'Wow!'-signal blev opfanget i 1977, men i dag ville det drukne i al den menneskelige radiostøj fra satellitter og radar. Derfor er det svært at fange svage signaler fra rummet med teleskoper på Jorden."
+        },
+        {
+          "overskrift": "Månen som løsning",
+          "tekst": "På Månens bagside er der ingen radiostøj fra Jorden, og ionosfæren blokerer ikke for lave radiofrekvenser. Derfor vil forskere bygge et radioteleskop der, så de kan lytte efter signaler fra andre civilisationer."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1977",
+          "label": "År for 'Wow!'-signalet"
+        }
+      ],
+      "detaljer": [
+        "Ionosfæren blokerer delvist for lave radiofrekvenser.",
+        "Menneskelig radiostøj gør det sværere at opdage fremmede signaler."
+      ],
+      "betydning": "Hvis vi finder udenjordiske signaler, kan det ændre vores forståelse af universet og vores plads i det.",
+      "pointer": [
+        "Jordens radiostøj skjuler rum-signaler",
+        "Månen kan give ro til at lytte",
+        "Forskere vil bygge teleskop der"
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Hypersonic missile startup Castelion raises $1 billion",
+      "link": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/",
+      "dato": "2026-08-19T23:12:41+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Company founded by former SpaceX executives aims to produce a low-cost hypersonic weapon and a broader portfolio of longer-range strike and missile defense weapons The post Hypersonic missile startup Castelion raises $1 billion appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/081926-Castelion-Blackbeard.jpg-scaled.jpeg?fit=1024%2C683&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Hypersonisk missil-startup rejser en milliard dollar",
+      "resume_da": "SpaceX-veteraner har rejst en milliard dollar til at udvikle et billigt hypersonisk missil og andre våben.",
+      "sektioner": [
+        {
+          "overskrift": "Ny kapital til våbenudvikling",
+          "tekst": "Virksomheden Castelion er stiftet af tidligere SpaceX-ledere. De vil lave et billigt hypersonisk våben. Derudover vil de lave flere våben til langdistanceangreb og missilforsvar."
+        },
+        {
+          "overskrift": "Investorer tror på planen",
+          "tekst": "Startuppen har fået en milliard dollar fra investorer. Det svarer til cirka 6,9 milliarder danske kroner. Pengene skal bruges til at udvikle og producere de nye våben."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1 milliard dollar",
+          "label": "Rejst kapital"
+        }
+      ],
+      "detaljer": [
+        "Stiftet af tidligere SpaceX-ledere",
+        "Fokus på billige hypersoniske våben",
+        "Udvider til andre våbentyper"
+      ],
+      "betydning": "Det viser, at der er store penge i forsvarsindustrien, og at hypersoniske våben bliver vigtige. Det kan påvirke global sikkerhed og danske forhold.",
+      "pointer": [
+        "Milliardinvestering i missil-startup",
+        "Eks-SpaceX-ansatte står bag",
+        "Mål: billige hypersoniske våben",
+        "Bredere våbenprogram planlagt"
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Eartheye Space forges strategic partnership with IN2",
+      "link": "https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2/",
+      "dato": "2026-08-19T23:07:16+00:00",
+      "kilde": "SpaceNews",
+      "resume": "SAN FRANCISCO – Strategic communications and consulting firm IN2 will have access to Eartheye Space multi-sensor satellite tasking and analytics through a memorandum of understanding signed Aug. 19. IN2 will [&#8230;] The post Eartheye Space forges strategic partnership with IN2 appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_eartheye_in2.png?fit=879%2C689&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Eartheye Space indgår strategisk partnerskab",
+      "resume_da": "Eartheye Space og konsulentfirmaet IN2 har underskrevet en aftale, så IN2 får adgang til satellitdata og -analyser.",
+      "sektioner": [
+        {
+          "overskrift": "Aftalen",
+          "tekst": "Eartheye Space og IN2 har underskrevet en aftale den 19. august. Aftalen giver IN2 adgang til Eartheye Spaces satellitdata og -analyser. Det skal styrke deres rådgivning og kommunikation."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Aftalen er et memorandum of understanding underskrevet 19. august.",
+        "IN2 er et strategisk kommunikations- og konsulentfirma.",
+        "IN2 får adgang til Eartheye Spaces multi-sensor satellitopgaver."
+      ],
+      "betydning": "Partnerskabet kan gøre satellitdata mere tilgængelige for virksomheder og offentlige aktører, hvilket kan få betydning for eksempelvis miljøovervågning og byplanlægning.",
+      "pointer": [
+        "Eartheye og IN2 har indgået aftale.",
+        "IN2 får adgang til satellitdata.",
+        "Aftalen blev underskrevet 19. august."
+      ],
+      "prio": 3
+    },
     {
       "titel": "Dark Stars may have left gravitational-wave echoes across the universe",
       "link": "https://phys.org/news/2026-08-dark-stars-left-gravitational-echoes.html",
@@ -4284,148 +4395,6 @@
         "Centret skal styrke rum- og forsvarsteknologi."
       ],
       "prio": 4
-    },
-    {
-      "titel": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
-      "link": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
-      "dato": "2026-08-14T09:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Paris, France &#124; August 2026 – Novaspace’s latest In-Orbit Services Markets report projects that emerging in-orbit services will generate approximately $3 billion in cumulative service revenues over the next decade, highlighting the early development [&#8230;] The post In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&amp;ssl=1",
-      "billede_alt": "Novaspace logo",
-      "kategori": "Forskning",
-      "rubrik": "In-orbit services kan indbringe 3 milliarder dollars",
-      "resume_da": "En ny rapport fra Novaspace forudser, at tjenester i rummet vil skabe indtægter for omkring 3 milliarder dollars over de næste ti år.",
-      "sektioner": [
-        {
-          "overskrift": "Stort marked forventes",
-          "tekst": "Rapporten fra Novaspace viser, at tjenester i kredsløb kan blive en stor forretning. Indtægterne kan nå **3 milliarder dollars** over ti år. Det er et tegn på, at området er i vækst."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "3 milliarder dollars",
-          "label": "Forventede indtægter over 10 år"
-        }
-      ],
-      "detaljer": [
-        "Rapporten hedder In-Orbit Services Markets.",
-        "Den er udgivet af Novaspace.",
-        "Prognosen dækker de næste ti år.",
-        "Indtægterne kommer fra tjenester i kredsløb."
-      ],
-      "betydning": "Rumindustrien vokser, og det kan på sigt give billigere og bedre satellittjenester til os alle, fx bredbånd og vejrudsigt.",
-      "pointer": [
-        "Nye tjenester i rummet kan give milliarder i omsætning.",
-        "Rapporten kommer fra Novaspace.",
-        "Markedet er stadig tidligt i udviklingen."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "APOD: 2026 August 14 – Total Solar Eclipse from Greenland",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/",
-      "dato": "2026-08-14T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 August 14 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/TSE2026DR_Madhaven.jpeg?w=7616&#038;h=5080&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Total solformørkelse fotograferet fra Grønland",
-      "resume_da": "NASAs billede af dagen viser en total solformørkelse set fra Grønland. Billedet blev taget i et hul i skyerne og viser koronaen og diamantringen.",
-      "sektioner": [
-        {
-          "overskrift": "Formørkelsen den 12. august",
-          "tekst": "Den 12. august ramte Månens skygge Jorden. Skyggen bevægede sig fra det Arktiske Ocean over Grønland, Island, Atlanten, Portugal og det nordlige Spanien. Mange kunne se en total solformørkelse, hvis de havde klart vejr."
-        },
-        {
-          "overskrift": "Et tag fra Grønland",
-          "tekst": "Fotografen undgik dårligt vejr til søs og landede ved Rype Fjord på Grønlands østkyst. Billedet blev taget kl. 17:33:26 UTC. Det er sandsynligvis et af de første klare billeder af den totale formørkelse."
-        },
-        {
-          "overskrift": "Hvad billedet viser",
-          "tekst": "Gennem et hul i skyerne fangede billedet et af de såkaldte diamantringe. Det sker lige når totaliteten begynder. Billedet viser også solens imponerende korona."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "12. august",
-          "label": "Datoen for formørkelsen"
-        },
-        {
-          "tal": "17:33:26 UTC",
-          "label": "Tidspunkt for billedet"
-        }
-      ],
-      "detaljer": [
-        "Billedet er udgivet som Astronomy Picture of the Day den 14. august 2026.",
-        "Fotografen er Aditya Madhavan.",
-        "Billedet blev taget i nærheden af Rype Fjord på Grønlands østkyst."
-      ],
-      "betydning": "For en almindelig dansker er det en mulighed for at se et flot billede af en sjælden begivenhed, og det kan inspirere til at lære mere om astronomi og rumfart.",
-      "pointer": [
-        "Total solformørkelse den 12. august",
-        "Billede taget fra Grønland",
-        "Viser korona og diamantring",
-        "Første klare billede af totaliteten"
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "A Sunflower’s View of Totality",
-      "link": "https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/",
-      "dato": "2026-08-14T04:01:00+00:00",
-      "kilde": "NASA",
-      "resume": "The Moon slid between the Sun and Earth to produce a stunning celestial show visible from Spain in August 2026.",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-sunflower",
-      "billede_alt": "A composite photo shows the Sun at several times and locations during the progression of a total solar eclipse. The Sun’s path descends diagonally from the top left across a dimmed sky, with a field o",
-      "kategori": "Astronomi",
-      "rubrik": "Total solformørkelse set fra Spanien",
-      "resume_da": "Den 12. august 2026 oplevede dele af Nordspanien en total solformørkelse. NASA fotograferede begivenheden fra et blomsterfelt.",
-      "sektioner": [
-        {
-          "overskrift": "Sjælden total formørkelse",
-          "tekst": "En total solformørkelse ramte den 12. august 2026 en stribe af Nordspanien. Månen stod præcis mellem Solen og Jorden og skjulte Solen helt i et par minutter. Kun få steder på land, som Grønland, Island og Nordspanien, oplevede totaliteten."
-        },
-        {
-          "overskrift": "Foto fra blomsterfelt",
-          "tekst": "NASA-fotografen Bill Ingalls tog et sammensat billede af formørkelsen fra en mark med solsikker i San Millán de los Caballeros, en by omkring **40 kilometer** syd for León. Billedet viser forløbet før, under og efter totaliteten."
-        },
-        {
-          "overskrift": "Videnskabelige målinger",
-          "tekst": "Formørkelsen gav NASA mulighed for at studere Solens korona og Jordens atmosfære. Forskere fløj i jetfly fra Island for at fotografere koronaen, og ballonprojekter målte atmosfærens reaktion, da Solen blev blokeret. Næste totale formørkelse kommer den 2. august 2027."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "40 km",
-          "label": "Afstand fra León til byen"
-        },
-        {
-          "tal": "2 minutter",
-          "label": "Varighed af totaliteten"
-        },
-        {
-          "tal": "2. august 2027",
-          "label": "Næste totale formørkelse"
-        }
-      ],
-      "detaljer": [
-        "Billedet er taget i San Millán de los Caballeros, Spanien.",
-        "Formørkelsen startede som delvis kl. 19:32 og endte kl. 21:22 lokal tid i León.",
-        "I Spanien var totaliteten fra kl. 20:28 og varede ca. to minutter.",
-        "En solprominens var synlig under totaliteten.",
-        "NASA brugte WB-57-fly og videnskabelige balloner til målinger.",
-        "Delvis formørkelse var synlig i Europa, Afrika, Canada og USA."
-      ],
-      "betydning": "For danskere er dette en påmindelse om, at solformørkelser er spektakulære begivenheder, der kan ses i vores del af verden. Det viser også, hvordan rumforskning udnytter sjældne fænomener til at lære mere om Solen og Jorden.",
-      "pointer": [
-        "Total solformørkelse over Spanien den 12. august 2026.",
-        "NASA fotograferede fra et solsikkefelt.",
-        "Videnskabelige eksperimenter under formørkelsen.",
-        "Næste totale formørkelse i 2027."
-      ],
-      "prio": 7
     }
   ]
 }
