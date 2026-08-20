@@ -1,7 +1,57 @@
 {
-  "opdateret": "2026-08-20T17:15:27.218136+00:00",
+  "opdateret": "2026-08-20T19:45:20.128760+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "What’s next for ISR in space",
+      "link": "https://spacenews.com/whats-next-for-isr-in-space/",
+      "dato": "2026-08-20T17:21:33+00:00",
+      "kilde": "SpaceNews",
+      "resume": "In this episode, SpaceNews correspondent Debra Werner leads a panel of experts to discuss the role of ISR in space and what comes next. This session was recorded in May [&#8230;] The post What&#8217;s next for ISR in space appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/space-minds-podcast-ICEYE-ISR-2000-1500.jpg?fit=1024%2C768&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Fremtiden for efterretning og overvågning fra rummet",
+      "resume_da": "En paneldebat fra maj undersøger, hvordan rummet bruges til efterretning, overvågning og rekognoscering, og hvad der kommer næste. Eksperter diskuterer teknologiske og strategiske fremskridt.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad er ISR i rummet?",
+          "tekst": "ISR står for Intelligence, Surveillance og Reconnaissance – altså efterretning, overvågning og rekognoscering. I rummet handler det om at bruge satellitter til at observere jorden og indsamle information. Det er vigtigt for både forsvar og civil brug."
+        },
+        {
+          "overskrift": "Eksperternes panel",
+          "tekst": "SpaceNews' korrespondent Debra Werner leder panelet. Eksperterne diskuterer, hvordan ISR udvikler sig med ny teknologi og trusler. De ser også på fremtidige udfordringer og muligheder for rummet. Panelet blev optaget i maj."
+        },
+        {
+          "overskrift": "Hvad kommer næste?",
+          "tekst": "Mange lande og virksomheder investerer i ISR-satellitter. Nye teknologier som kunstig intelligens og små satellitter gør det billigere og hurtigere. Det giver bedre overvågning, men også nye dilemmaer om privatliv og sikkerhed."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1",
+          "label": "muligvis antal paneler"
+        },
+        {
+          "tal": "1",
+          "label": "antal korrespondenter"
+        }
+      ],
+      "detaljer": [
+        "Panelet blev optaget i maj.",
+        "Paneldebatten handler om ISR i rummet.",
+        "ISR står for Intelligence, Surveillance og Reconnaissance.",
+        "SpaceNews-korrespondent Debra Werner førte panelet."
+      ],
+      "betydning": "Rummet bliver i stigende grad brugt til overvågning, hvilket påvirker sikkerhed og privatliv også for almindelige mennesker. Debatten viser, at nye teknologier gør overvågning billigere, hvilket kan få konsekvenser for os alle.",
+      "pointer": [
+        "ISR er vigtigt for forsvar og overvågning.",
+        "Teknologien udvikler sig hurtigt.",
+        "Debatten fandt sted i maj.",
+        "Rummet bliver mere centralt i efterretning."
+      ],
+      "prio": 5
+    },
     {
       "titel": "Ludicrous, nonsensical, an affront to canon — 'Strange New Worlds'' puppet episode is an instant classic",
       "link": "https://www.space.com/entertainment/space-movies-shows/ludicrous-nonsensical-an-affront-to-canon-strange-new-worlds-puppet-episode-is-an-instant-classic",
@@ -4396,46 +4446,6 @@
         "Fire temaer: ekstrem udforskning, transitveje, ressourceudforskning, bolig.",
         "Finalister får 7.500 dollars og mulighed for at præsentere i 2027.",
         "Konkurrencen har eksisteret siden 2002."
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "6 space board games to channel the political drama of 'For All Mankind' and 'Star City'",
-      "link": "https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city",
-      "dato": "2026-08-14T20:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "“Whoever controls space will control the Earth.”",
-      "billede": "https://cdn.mos.cms.futurecdn.net/kpcwBrwbGHaRuR2h4gQBBb-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "6 rumspil til politisk drama som For All Mankind",
-      "resume_da": "Leder du efter brætspil med rum-politik og drama? Her er seks anbefalinger inspireret af serier som 'For All Mankind'.",
-      "sektioner": [
-        {
-          "overskrift": "Spil til rum-politik",
-          "tekst": "Artiklen anbefaler seks brætspil til dem, der elsker politisk drama i rummet. Spillene er inspireret af serier som 'For All Mankind' og 'Star City'. De fokuserer på strategi, magt og beslutninger i rumkapløbet."
-        },
-        {
-          "overskrift": "Forfatterens baggrund",
-          "tekst": "Anmeldelsen er skrevet af Alan Bradley, en erfaren tech- og kulturjournalist. Han har skrevet for medier som Rolling Stone og PCMag. Han er også romanforfatter med bogen 'The Sixth Borough'."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "6",
-          "label": "antal anbefalede spil"
-        }
-      ],
-      "detaljer": [
-        "Spillene henvender sig til voksne med interesse for strategi og rumfart.",
-        "Anmeldelsen er fra Space.com.",
-        "Artiklen er skrevet af Alan Bradley."
-      ],
-      "betydning": "For almindelige mennesker kan det være en sjov måde at dykke ned i rumfartens politiske og strategiske aspekter på. Det kan også føre til hyggelige spilaftener med venner eller familie.",
-      "pointer": [
-        "Seks brætspil anbefalet.",
-        "Tema: rum-politisk drama.",
-        "Forfatteren er erfaren journalist."
       ],
       "prio": 4
     }
