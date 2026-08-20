@@ -1,7 +1,164 @@
 {
-  "opdateret": "2026-08-20T11:02:51.233238+00:00",
+  "opdateret": "2026-08-20T14:10:17.198059+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
+      "link": "https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html",
+      "dato": "2026-08-20T13:20:07+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B[e] supergiant. The paper was published in The Astrophysical Journal Letters on July 1.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/alma-uncovers-sulfur-f.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "ALMA finder svovl omkring sjælden superkæmpe",
+      "resume_da": "Astronomer har for første gang fundet svovlholdige molekyler omkring en sjælden type superkæmpestjerne. Opdagelsen kan kaste lys over, hvordan elementer dannes i universet.",
+      "sektioner": [
+        {
+          "overskrift": "Første fund",
+          "tekst": "Ved hjælp af ALMA-teleskopet har forskere fundet svovlmonoxid og svovldioxid omkring stjernen HD 87643. Det er første gang, disse molekyler ses ved en såkaldt B[e]-superkæmpe."
+        },
+        {
+          "overskrift": "Sjælden stjernetype",
+          "tekst": "HD 87643 er en massiv og sjælden stjernetype, som er i en kort overgangsfase. Den mister meget masse og er omgivet af store mængder støv og gas."
+        },
+        {
+          "overskrift": "Forskningsresultat",
+          "tekst": "Fundet blev offentliggjort i The Astrophysical Journal Letters i juli. Det giver ny viden om, hvordan tunge grundstoffer som svovl spredes i rummet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1. juli",
+          "label": "offentliggørelsesdato"
+        }
+      ],
+      "detaljer": [
+        "Opdagelsen blev gjort med ALMA-teleskopet.",
+        "Stjernen HD 87643 er en B[e]-superkæmpe.",
+        "Der blev fundet flere svovlholdige molekyler."
+      ],
+      "betydning": "Denne opdagelse hjælper forskere med at forstå, hvordan grundstoffer som svovl opstår og spreder sig i universet. Det kan have betydning for vores viden om livets byggesten.",
+      "pointer": [
+        "Nyt fund med ALMA-teleskopet.",
+        "Svovlmolekyler set ved superkæmpe.",
+        "Offentliggjort i juli."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova",
+      "link": "https://spacenews.com/portal-space-systems-to-include-rideshare-payloads-on-falcon-9-launch-of-supernova/",
+      "dato": "2026-08-20T13:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Portal Space Systems has acquired a Falcon 9 to launch its first Supernova spacecraft and will offer excess capacity on the vehicle for rideshare payloads. The post Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/portal-supernova-starburst.jpeg?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "Portal spacecraft",
+      "kategori": "Opsendelser",
+      "rubrik": "Portal sender Supernova-satellit med Falcon 9",
+      "resume_da": "Portal Space Systems har købt en Falcon 9-raket til deres første Supernova-rumfartøj. De vil byde andre aktører plads på raketten.",
+      "sektioner": [
+        {
+          "overskrift": "Falcon 9 til Supernova",
+          "tekst": "Portal Space Systems har købt en Falcon 9-raket til deres første Supernova-rumfartøj. Det er første gang, de sender en satellit op. Opsendelsen forventes at ske i den nærmeste fremtid."
+        },
+        {
+          "overskrift": "Rideshare for andre",
+          "tekst": "Raketten vil have ekstra kapacitet. Portal vil tilbyde plads til andre nyttelaster mod betaling. Det gør det billigere for mindre aktører at komme i rummet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Falcon 9 er en raket fra SpaceX.",
+        "Supernova er navnet på Portal's første rumfartøj.",
+        "Rideshare betyder, at flere nyttelaster deler en raket."
+      ],
+      "betydning": "Det kan gøre rummet mere tilgængeligt for danske forskere og virksomheder, fordi der bliver billigere muligheder for at sende ting op.",
+      "pointer": [
+        "Falcon 9 til første Supernova.",
+        "Andre kan købe plads.",
+        "Billigere adgang til rummet.",
+        "Portal satser på kommercielle opsendelser."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference",
+      "link": "https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference/",
+      "dato": "2026-08-20T13:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "San Diego, CA – Rock West Composites (RWC) is premiering its recently launched space-grade STRATOPultrusion™ product line at the 2026 Small Satellite Conference this August in Salt Lake City, Utah. [&#8230;] The post Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/RWC-square.jpg?fit=1024%2C1024&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Nyt materiale til små satellitter",
+      "resume_da": "Rock West Composites viser sin nye serie af rumklassificerede materialer frem på Small Satellite Conference. Materialerne er til små satellitter.",
+      "sektioner": [
+        {
+          "overskrift": "Produktlancering",
+          "tekst": "Rock West Composites præsenterer sin nye STRATopultrusion™-serie af materialer, som er lavet til rummet. Det sker på Small Satellite Conference i august 2026 i Salt Lake City, Utah."
+        },
+        {
+          "overskrift": "Anvendelse",
+          "tekst": "Materialerne er beregnet til små satellitter. De er designet til at klare de hårde forhold i rummet."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "2026",
+          "label": "År for konferencen"
+        }
+      ],
+      "detaljer": [
+        "Produktlinjen hedder STRATopultrusion™.",
+        "Virksomheden er Rock West Composites.",
+        "Konferencen er Small Satellite Conference."
+      ],
+      "betydning": "Historien er vigtig for folk, der følger med i rumfart, fordi den viser, hvordan ny teknologi til satellitter udvikles. Det kan føre til billigere og bedre små satellitter.",
+      "pointer": [
+        "Nyt materiale til små satellitter.",
+        "Præsenteres på konference i 2026.",
+        "Designet til rummet."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch",
+      "link": "https://spacenews.com/chinas-change-7-lunar-ice-hunting-mission-set-for-sunday-launch/",
+      "dato": "2026-08-20T12:48:21+00:00",
+      "kilde": "SpaceNews",
+      "resume": "HELSINKI — China will launch a complex, multi-spacecraft mission late Sunday to study and land near the lunar south pole, including a search for evidence of water-ice. A Long March [&#8230;] The post China&#8217;s Chang&#8217;e-7 lunar ice-hunting mission set for Sunday launch appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/01/shackleton-crater-mosaic-LRO-ShadowCam-NASA-KARI-ASU.jpg?fit=862%2C500&amp;ssl=1",
+      "billede_alt": "A mosaic of Shackleton Crater near the luanr south pole, showing the depths of the crater. The illuminated rim area will be targeted by China&#039;s Chang&#039;e-7 mission.",
+      "kategori": "Missioner",
+      "rubrik": "Kinas Chang'e-7-mission letter mod Månens is",
+      "resume_da": "Kina sender søndag en avanceret mission mod Månens sydpol for at lede efter vandis.",
+      "sektioner": [
+        {
+          "overskrift": "Missionens mål",
+          "tekst": "Chang'e-7 skal lande nær Månens sydpol og lede efter vandis. Missionen består af flere rumfartøjer, der arbejder sammen."
+        },
+        {
+          "overskrift": "Opsendelse og raket",
+          "tekst": "Opsendelsen sker søndag med en Long March-raket. Det er en kompleks mission med flere dele, der skal udføre forskellige opgaver."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Missionen hedder Chang'e-7.",
+        "Den skal undersøge Månens sydpol.",
+        "Der er flere rumfartøjer i missionen.",
+        "De skal lede efter vandis."
+      ],
+      "betydning": "Missionen kan hjælpe os med at forstå, hvor der er vand på Månen, hvilket er vigtigt for fremtidige basebyggerier.",
+      "pointer": [
+        "Kina sender mission til Månens sydpol.",
+        "Den skal lede efter vandis.",
+        "Flere rumfartøjer er involveret.",
+        "Opsendelse søndag."
+      ],
+      "prio": 7
+    },
     {
       "titel": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
       "link": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation/",
@@ -4242,165 +4399,6 @@
         "NASA offentliggjorde billedet"
       ],
       "prio": 5
-    },
-    {
-      "titel": "New AI model detects hidden signs of solar eruptions hours before they emerge",
-      "link": "https://phys.org/news/2026-08-ai-hidden-solar-eruptions-hours.html",
-      "dato": "2026-08-14T13:00:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Long before dark sunspots appear on the sun's surface, a new active region—where powerful solar eruptions can originate—begins showing subtle signs of its formation. Now, researchers say a new artificial intelligence model can detect those early signals and forecast the emergence of solar active regions nearly nine hours in advance on average.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/solar-eruptions.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "AI forudsiger soludbrud timer før de sker",
-      "resume_da": "Forskere har udviklet en AI-model, der kan opdage skjulte tegn på soludbrud op til ni timer før de opstår.",
-      "sektioner": [
-        {
-          "overskrift": "Skjulte tegn opdaget",
-          "tekst": "Længe før mørke solpletter viser sig på solens overflade, begynder et nyt aktivt område at vise subtile tegn på sin dannelse. Forskere har nu fundet ud af, at en kunstig intelligens-model kan opdage disse tidlige signaler. Modellen kan forudsige, hvornår et aktivt område opstår, i gennemsnit næsten **ni timer** i forvejen."
-        },
-        {
-          "overskrift": "Hvordan AI'en virker",
-          "tekst": "AI-modellen analyserer data fra solen for at finde mønstre, der går forud for dannelsen af aktive områder. Den lærer at genkende de skjulte tegn, som mennesker ikke kan se. På den måde kan den advare om potentielle soludbrud, før de for alvor udvikler sig."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "~9 timer",
-          "label": "gennemsnitlig forudsigelsestid"
-        }
-      ],
-      "detaljer": [
-        "Aktive områder på solen kan give kraftige soludbrud.",
-        "Tegnene viser sig længe før synlige solpletter.",
-        "AI-modellen kan forudsige dannelse af aktive områder."
-      ],
-      "betydning": "For almindelige danskere betyder det bedre varsling om soludbrud, som kan påvirke satellitter, GPS og strømforsyning.",
-      "pointer": [
-        "AI opdager tidlige tegn på soludbrud.",
-        "Forudsiger i gennemsnit 9 timer før.",
-        "Kan beskytte teknologi mod solstorme.",
-        "Ny forskning inden for rumvejr."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.",
-      "link": "https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in/",
-      "dato": "2026-08-14T13:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "In the beginning, mass constrained spaceflight. We live at the bottom of a gravity well, and the rocket equation punishes every kilogram we try to lift out of it. Mass [&#8230;] The post Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in. appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/transporter16.jpeg?fit=1024%2C683&amp;ssl=1",
-      "billede_alt": "Transporter-16 launch",
-      "kategori": "Forskning",
-      "rubrik": "Rumfart: Nu er plads vigtigere end vægt",
-      "resume_da": "Billigere opsendelser har flyttet flasken fra vægt til overfladeareal. Det ændrer design af rumfartøjer.",
-      "sektioner": [
-        {
-          "overskrift": "Vægt var før i tiden",
-          "tekst": "Tidligere var vægt det største problem i rumfart. Jordens tyngdekraft gør det dyrt at sende tunge ting op. Raketligningen straffer hvert ekstra kilogram."
-        },
-        {
-          "overskrift": "Billigere opsendelser ændrer alt",
-          "tekst": "Nu er opsendelser blevet billigere. Derfor er vægt ikke længere den største begrænsning. I stedet er det overfladeareal, der er vigtigt. Det betyder, at designet af rumfartøjer ændrer sig."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Vægt var tidligere den største begrænsning i rumfart.",
-        "Billigere opsendelser har ændret fokus til overfladeareal."
-      ],
-      "betydning": "Det betyder, at fremtidens rumfartøjer kan blive designet anderledes og måske mere effektivt. Det kan gøre rumfart billigere og mere tilgængeligt.",
-      "pointer": [
-        "Vægt var tidligere afgørende.",
-        "Opsendelser er nu billigere.",
-        "Overfladeareal er den nye flaskehals.",
-        "Design ændrer sig."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Blue Origin outlines plans for second Cape Canaveral launch pad",
-      "link": "https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/",
-      "dato": "2026-08-14T12:08:33+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Blue Origin disclosed new details about its plans to not only rebuild but also expand its Florida launch site, adding a second pad for a larger version of New Glenn. The post Blue Origin outlines plans for second Cape Canaveral launch pad appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/lc36ab.jpeg?fit=1024%2C576&amp;ssl=1",
-      "billede_alt": "LC-36A and B",
-      "kategori": "Politik & penge",
-      "rubrik": "Blue Origin vil bygge ekstra affyringsrampe ved Cape Canaveral",
-      "resume_da": "Blue Origin har offentliggjort planer om at udvide sit affyringsområde i Florida med en ekstra rampe til en større udgave af New Glenn-raketten.",
-      "sektioner": [
-        {
-          "overskrift": "Planer for udvidelse",
-          "tekst": "Blue Origin vil ikke kun genopbygge, men også udvide deres affyringssted i Florida. Der tilføjes en anden affyringsrampe til en større version af New Glenn-raketten. Det nye anlæg skal klare flere opsendelser."
-        },
-        {
-          "overskrift": "Større New Glenn",
-          "tekst": "Den nye rampe er beregnet til en større udgave af New Glenn-raketten. Det giver mulighed for flere rummissioner. Blue Origin arbejder på at øge kapaciteten i deres raketprogram."
-        },
-        {
-          "overskrift": "Betydning for Florida",
-          "tekst": "Udvidelsen styrker Blue Origins aktiviteter ved Cape Canaveral. Det kan skabe arbejdspladser og økonomisk vækst i området. Det viser også, at virksomheden satser langsigtet på rumfart."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Blue Origin genopbygger og udvider sin affyringsbase i Florida.",
-        "Der bliver en ekstra affyringsrampe ved Cape Canaveral.",
-        "Rampen skal bruges til en større version af New Glenn-raketten.",
-        "Planen blev beskrevet i en nyhed på SpaceNews."
-      ],
-      "betydning": "For almindelige danskere viser det, at kommerciel rumfart er i vækst, hvilket kan føre til flere og billigere rummissioner i fremtiden. Det kan også styrke Europas og verdens adgang til rummet.",
-      "pointer": [
-        "Ny affyringsrampe i Florida",
-        "Større New Glenn-raket",
-        "Udvidelse af Blue Origin",
-        "Flere rummissioner mulige"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "India-US space ties deepen as NASA invites ISRO to join moon base program",
-      "link": "https://www.space.com/astronomy/moon/india-us-space-ties-deepen-as-nasa-invites-isro-to-join-moon-base-program",
-      "dato": "2026-08-14T12:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "NASA has invited the Indian Space Research Organisation to collaborate on its Moon Base program, which aims to build a permanent human outpost near the lunar south pole.",
-      "billede": "https://cdn.mos.cms.futurecdn.net/iMpp9op7zEN4JccYsQDDCd-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "NASA inviterer Indien med i månebase-program",
-      "resume_da": "NASA har inviteret Indiens rumorganisation ISRO til at deltage i det internationale månebase-program Artemis. Det styrker samarbejdet mellem de to lande.",
-      "sektioner": [
-        {
-          "overskrift": "Tættere rum-samarbejde",
-          "tekst": "NASA har inviteret ISRO til at deltage i deres månebase-program. Det betyder, at Indien kan blive en del af Artemis-samarbejdet. Det er et stort skridt for de to landes rumforbindelser."
-        },
-        {
-          "overskrift": "Hvad programmet går ud på",
-          "tekst": "Artemis-programmet skal sende mennesker til Månen igen. Målet er at bygge en base, hvor astronauter kan bo og arbejde. Indien kan bidrage med teknologi og forskning."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1",
-          "label": "Invitation til månebase"
-        }
-      ],
-      "detaljer": [
-        "NASA har officielt inviteret ISRO til at deltage i deres månebase-program under Artemis.",
-        "Invitationen er en del af det styrkede rum-samarbejde mellem USA og Indien.",
-        "Artemis-programmet har til formål at etablere en bæredygtig tilstedeværelse på Månen.",
-        "Indien har tidligere haft succes med sine egne månemissioner, herunder Chandrayaan."
-      ],
-      "betydning": "For almindelige danskere viser det, hvordan rumfart bliver mere internationalt, og at flere nationer deler viden og teknologi. Det kan føre til nye opdagelser og hurtigere udvikling inden for rumforskning.",
-      "pointer": [
-        "NASA og ISRO styrker samarbejdet.",
-        "Indien kan blive del af månebase-programmet.",
-        "Det handler om at bo og arbejde på Månen.",
-        "Samarbejde kan accelerere rumforskningen."
-      ],
-      "prio": 6
     }
   ]
 }
