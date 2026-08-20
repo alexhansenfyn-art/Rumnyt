@@ -1,7 +1,61 @@
 {
-  "opdateret": "2026-08-20T03:12:48.555807+00:00",
+  "opdateret": "2026-08-20T05:19:15.207917+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/",
+      "dato": "2026-08-20T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 20 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Elephant&#8217;s [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/IMG_5201_sgarbossa.jpeg?w=1208&#038;h=1800&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "An image of a long, trunk-like interstellar cloud.",
+      "kategori": "Astronomi",
+      "rubrik": "Elefantens snabel i Cepheus: Et kosmisk syn",
+      "resume_da": "NASAs daglige billede viser Elefantens snabel-tågen, hvor stjerner fødes i støv og gas 3.000 lysår væk.",
+      "sektioner": [
+        {
+          "overskrift": "En kosmisk snabel",
+          "tekst": "Elefantens snabel-tågen snor sig gennem stjernedannelsesområdet IC 1396. Den er over **20 lysår** lang. Tågen er også kendt som vdB 142."
+        },
+        {
+          "overskrift": "Stjerners fødested",
+          "tekst": "De mørke, trådformede skyer indeholder materiale til nye stjerner. Inde i dem gemmer der sig protostjerner. Området ligger næsten **3.000 lysår** fra Jorden."
+        },
+        {
+          "overskrift": "Stort på himlen",
+          "tekst": "IC 1396 dækker et stort område på himlen, over **5 grader**. På billedet ses en del på næsten **1 grad**, hvilket er lidt mindre end to fuldmåner."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "20 lysår",
+          "label": "Længden af tågen"
+        },
+        {
+          "tal": "3.000 lysår",
+          "label": "Afstand fra Jorden"
+        },
+        {
+          "tal": "5 grader",
+          "label": "Områdets størrelse på himlen"
+        }
+      ],
+      "detaljer": [
+        "Tågen kaldes også vdB 142.",
+        "Billedet er taget af Eddie Sgarbossa.",
+        "IC 1396 er et stjernedannelsesområde med unge stjerner.",
+        "Billedet er vist på APOD den 20. august 2026."
+      ],
+      "betydning": "Det viser hvordan stjerner dannes, og giver et flot billede af universet. Det kan inspirere til interesse for astronomi.",
+      "pointer": [
+        "Tågen er over 20 lysår lang.",
+        "Den ligger 3.000 lysår væk.",
+        "Her dannes nye stjerner.",
+        "Billedet er taget af en amatør?"
+      ],
+      "prio": 5
+    },
     {
       "titel": "Racing to build a radio telescope on the moon",
       "link": "https://phys.org/news/2026-08-radio-telescope-moon.html",
@@ -4360,41 +4414,6 @@
         "Det var første gang i over 20 år."
       ],
       "prio": 7
-    },
-    {
-      "titel": "Bulgaria advances project to launch new space, defense innovation hub",
-      "link": "https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/",
-      "dato": "2026-08-14T09:00:00+00:00",
-      "kilde": "SpaceNews",
-      "resume": "WARSAW, Poland — Bulgaria’s government has approved a draft memorandum of understanding with local company Starbase Europe to collaborate on the development of a new space and defense innovation hub [&#8230;] The post Bulgaria advances project to launch new space, defense innovation hub appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/EnduroSat-Doboslavtsi-Starbase-Europe-1920-1920x1080-1.jpg?fit=1024%2C576&amp;ssl=1",
-      "billede_alt": "Illustration of a space research and development hub planned for Dobroslavtsi Air Base in Bulgaria. Credit: EnduroSat",
-      "kategori": "Politik & penge",
-      "rubrik": "Bulgarien vil skabe nyt innovationscenter for rum og forsvar",
-      "resume_da": "Bulgariens regering har godkendt et udkast til en aftale med virksomheden Starbase Europe om at udvikle et nyt innovationscenter for rum og forsvar.",
-      "sektioner": [
-        {
-          "overskrift": "Godkendt samarbejde",
-          "tekst": "Den bulgarske regering har godkendt et udkast til en hensigtserklæring med den lokale virksomhed Starbase Europe. Aftalen skal samarbejde om at udvikle et nyt rum- og forsvarsinnovationscenter."
-        },
-        {
-          "overskrift": "Centrets formål",
-          "tekst": "Centret skal fokusere på innovation inden for rumfart og forsvar. Det er endnu ikke besluttet, hvor centret skal placeres, eller hvornår det åbner."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Den bulgarske regering har godkendt et udkast til en hensigtserklæring med selskabet Starbase Europe.",
-        "Samarbejdet skal udvikle et nyt innovationscenter for rum og forsvar.",
-        "Aftalen er et skridt mod at etablere centret."
-      ],
-      "betydning": "For en almindelig dansker viser det, at flere lande satser på rumfart og forsvar, hvilket kan skabe nye teknologiske muligheder og samarbejder på tværs af Europa.",
-      "pointer": [
-        "Bulgarien godkender aftale med Starbase Europe.",
-        "Innovationscenter for rum og forsvar planlægges.",
-        "Centret skal styrke rum- og forsvarsteknologi."
-      ],
-      "prio": 4
     }
   ]
 }
