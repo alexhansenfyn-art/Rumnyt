@@ -1,7 +1,84 @@
 {
-  "opdateret": "2026-08-20T08:04:37.095344+00:00",
+  "opdateret": "2026-08-20T11:02:51.233238+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
+      "link": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation/",
+      "dato": "2026-08-20T10:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "SAN FRANCISCO / PERTH, 20 AUGUST 2026: LatConnect 60 (LC60) has signed a commercial contract with Transcelestial for an optical communications terminal on its SWIRSAT-1 mission, plus access to Transcelestial&#8217;s [&#8230;] The post LatConnect 60 selects Transcelestial&#8217;s Space Optical Network for SWIRSAT imaging constellation appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/latconnect60-logo.png?fit=388%2C388&amp;ssl=1",
+      "billede_alt": "latconnect 60 logo",
+      "kategori": "Satellitter",
+      "rubrik": "LatConnect 60 bruger laser til satellitdata",
+      "resume_da": "LatConnect 60 har indgået aftale om at bruge Transcelestials laserterminal til sin SWIRSAT-1-mission, så satellitten kan sende billeder hurtigere.",
+      "sektioner": [
+        {
+          "overskrift": "Aftalen i korte træk",
+          "tekst": "LatConnect 60 har skrevet under på en kommerciel kontrakt med Transcelestial. Aftalen gælder en optisk kommunikationsterminal til SWIRSAT-1-missionen. Den giver også adgang til Transcelestials Space Optical Network."
+        },
+        {
+          "overskrift": "Hvad det betyder",
+          "tekst": "Med laserteknologi kan satellitten overføre data meget hurtigere end med traditionel radiokommunikation. Det er vigtigt for billeddannelseskonstellationer, der skal sende mange data til Jorden."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Kontrakten er mellem LatConnect 60 og Transcelestial.",
+        "Den vedrører SWIRSAT-1-missionen.",
+        "Der er også adgang til Space Optical Network."
+      ],
+      "betydning": "For almindelige danskere betyder det, at satellitbilleder kan blive hurtigere og mere effektive, hvilket kan gavne alt fra vejrudsigt til miljøovervågning.",
+      "pointer": [
+        "LatConnect 60 vælger laser til dataoverførsel.",
+        "SWIRSAT-1 får optisk terminal.",
+        "Aftalen inkluderer netværksadgang.",
+        "Skal give hurtigere dataoverførsel."
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
+      "link": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission/",
+      "dato": "2026-08-20T10:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "LOS ANGELES, CA, September 8th, 2026. Proteus Space, a dual-use aerospace company delivering rapid, end-to-end access to space, today announced it has been selected by The Charles Stark Draper Laboratory, [&#8230;] The post Draper Selects Proteus Space for Advanced On-Orbit Mission appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Draper750px.png?fit=750%2C750&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Satellitter",
+      "rubrik": "Draper vælger Proteus Space til avanceret rummission",
+      "resume_da": "Proteus Space skal levere en satellit til Draper Laboratory til en avanceret mission i kredsløb. Det skal gå hurtigt fra kontrakt til opsendelse.",
+      "sektioner": [
+        {
+          "overskrift": "Hurtig adgang til rummet",
+          "tekst": "Proteus Space er et firma, der leverer hurtig og komplet adgang til rummet. De er blevet valgt af Draper Laboratory til en avanceret mission i kredsløb. Det står i en meddelelse fra 8. september 2026."
+        },
+        {
+          "overskrift": "Missionens formål",
+          "tekst": "Draper Laboratory er et kendt forskningsinstitut, der udvikler teknologi til blandt andet forsvar og rumfart. Missionen skal teste avanceret teknologi i rummet. Proteus Space skal bygge og levere satellitten."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "8. september 2026",
+          "label": "Dato for annonceringen"
+        }
+      ],
+      "detaljer": [
+        "Proteus Space er et 'dual-use' firma, hvilket betyder, at det arbejder for både civile og militære formål.",
+        "Draper Laboratory er et nonprofit forskningsinstitut med base i USA.",
+        "Missionen skal foregå i kredsløb om Jorden."
+      ],
+      "betydning": "Det viser, at private firmaer i stigende grad leverer hurtige og fleksible rumløsninger. Det kan gøre rumteknologi billigere og hurtigere at udvikle.",
+      "pointer": [
+        "Draper har valgt Proteus Space til en satellitmission.",
+        "Proteus Space laver hurtige rumfartøjer.",
+        "Missionen er avanceret og skal i kredsløb.",
+        "Det blev offentliggjort 8. september 2026."
+      ],
+      "prio": 5
+    },
     {
       "titel": "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus",
       "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/",
@@ -4324,96 +4401,6 @@
         "Samarbejde kan accelerere rumforskningen."
       ],
       "prio": 6
-    },
-    {
-      "titel": "Intuitive Machines wins contract for three GEO satellites",
-      "link": "https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/",
-      "dato": "2026-08-14T11:29:03+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Intuitive Machines announced Aug. 13 that it won a $600 million contract from an undisclosed customer for three geostationary orbit communications satellites. The post Intuitive Machines wins contract for three GEO satellites appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/im1300.jpeg?fit=1024%2C725&amp;ssl=1",
-      "billede_alt": "Im 1300 satellite",
-      "kategori": "Satellitter",
-      "rubrik": "Intuitive Machines får ordre på tre GEO-satellitter",
-      "resume_da": "Intuitive Machines har fået en kontrakt på 600 millioner dollars til at bygge tre kommunikationssatellitter i geostationær bane. Kunden er ikke offentliggjort.",
-      "sektioner": [
-        {
-          "overskrift": "Kontrakt på tre satellitter",
-          "tekst": "Intuitive Machines meddelte den 13. august, at de har vundet en kontrakt på 600 millioner dollars. Kontrakten går ud på at bygge tre kommunikationssatellitter til geostationær bane. Kunden ønsker ikke at blive navngivet."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "600 mio. dollars",
-          "label": "Kontraktens størrelse"
-        },
-        {
-          "tal": "3",
-          "label": "Antal satellitter"
-        }
-      ],
-      "detaljer": [
-        "Kontrakten blev annonceret den 13. august.",
-        "Kunden er ikke offentliggjort.",
-        "Satellitterne skal placeres i geostationær bane."
-      ],
-      "betydning": "Det viser, at Intuitive Machines er ved at blive en stor aktør på markedet for kommercielle satellitter. Det kan betyde flere arbejdspladser og øget konkurrence i rumindustrien.",
-      "pointer": [
-        "Intuitive Machines får 600 mio. dollars",
-        "Bygger tre GEO-satellitter",
-        "Kunde er hemmelig"
-      ],
-      "prio": 3
-    },
-    {
-      "titel": "A look back at the 2026 total solar eclipse",
-      "link": "https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse",
-      "dato": "2026-08-14T10:00:00+00:00",
-      "kilde": "ESA",
-      "resume": "On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun's bright disc, briefly turning day into night and revealing the Sun's outer atmosphere. Totality could be seen from Greenland, Iceland, Spain and Portugal, while most of the rest of Europe saw a partial eclipse.",
-      "billede": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/12_august_total_eclipse_imaged_by_miguel_claro/27418378-1-eng-GB/12_August_total_eclipse_imaged_by_Miguel_Claro_card_full.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Total solformørkelse i 2026: Europa oplevede mørke",
-      "resume_da": "Den 12. august 2026 oplevede Europa den første totale solformørkelse i over 20 år. Månen dækkede Solen helt, og dag blev til nat.",
-      "sektioner": [
-        {
-          "overskrift": "Historisk begivenhed",
-          "tekst": "Den 12. august 2026 oplevede Europa den første totale solformørkelse i over **20 år**. Mange mennesker blev fascinerede, da Månen helt dækkede Solens klare skive."
-        },
-        {
-          "overskrift": "Hvor var den synlig?",
-          "tekst": "Totaliteten kunne ses fra Grønland, Island, Spanien og Portugal. Resten af Europa så en delvis formørkelse."
-        },
-        {
-          "overskrift": "En sjælden oplevelse",
-          "tekst": "Formørkelsen gjorde dagen mørk og afslørede Solens ydre atmosfære. Det var en sjælden chance for mange europæere."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "12. august 2026",
-          "label": "Dato for formørkelsen"
-        },
-        {
-          "tal": "20 år",
-          "label": "Siden sidste totale formørkelse"
-        }
-      ],
-      "detaljer": [
-        "Total solformørkelse i Europa.",
-        "Månen dækkede Solen helt.",
-        "Synlig fra Grønland, Island, Spanien og Portugal.",
-        "Resten af Europa så delvis formørkelse."
-      ],
-      "betydning": "Formørkelsen minder os om Solens og Månens rolle i vores hverdag og vækker interesse for astronomi. For almindelige danskere var det en sjælden mulighed for at se et naturfænomen.",
-      "pointer": [
-        "Europa oplevede total solformørkelse i 2026.",
-        "Den var synlig fra flere europæiske lande.",
-        "Månen dækkede Solen helt.",
-        "Det var første gang i over 20 år."
-      ],
-      "prio": 7
     }
   ]
 }
