@@ -1,7 +1,59 @@
 {
-  "opdateret": "2026-08-20T19:45:20.128760+00:00",
+  "opdateret": "2026-08-20T21:01:54.056167+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "SmallSat 2026",
+      "link": "https://science.nasa.gov/earth/smallsat-2026/",
+      "dato": "2026-08-20T20:05:41+00:00",
+      "kilde": "NASA",
+      "resume": "SmallSat 2026 Join NASA in the Exhibit Hall (Booth # 635, 835, 641, and 940) for Storytelling by NASA experts. Full Agenda below. MONDAY, AUGUST 24, 9:00 – 10:00 AM WelcomeJose NunezBryceTech’s Smallsats by the Numbers: 2026Fletcher FranklinSupply Chain ObservationsBruce YostTechnology Shortfall Rudy de RoseeSPARCS Camera and Early Science ObservationsKaitlyn AshcroftJPL: SkyfallTim CanhamSWIFT LI",
+      "billede": null,
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "NASA SmallSat 2026: Små satellitter i fokus",
+      "resume_da": "NASA holder konference om små satellitter i august 2026. Eksperter deler viden om missioner, teknologi og samarbejde.",
+      "sektioner": [
+        {
+          "overskrift": "Konference og deltagelse",
+          "tekst": "NASA inviterer til SmallSat 2026 i august. De er til stede i flere udstillingshaller. Deltagerne kan høre oplæg fra NASA-eksperter."
+        },
+        {
+          "overskrift": "Programhøjdepunkter",
+          "tekst": "Mandag og tirsdag byder på oplæg om små satellitter. Emner som forsyning og teknologi er på programmet. Onsdag er der fokus på missioner som ESCAPADE og SunRISE."
+        },
+        {
+          "overskrift": "Missioner og innovation",
+          "tekst": "Flere missioner præsenteres, bl.a. INCUS og CAPSTONE 02. DiskSat og R5-serien er også emner. Der er fokus på at maksimere videnskab fra små satellitter."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "650",
+          "label": "udstillingsbås nummer?"
+        },
+        {
+          "tal": "835",
+          "label": "udstillingsbås nummer?"
+        },
+        {
+          "tal": "641",
+          "label": "udstillingsbås nummer?"
+        }
+      ],
+      "detaljer": [
+        "Konferencen finder sted fra 24. til 26. august 2026.",
+        "NASA har stande i hal 635, 835, 641 og 940.",
+        "Der er oplæg om alt fra forsyning til videnskabelige missioner."
+      ],
+      "betydning": "Små satellitter er vigtige for forskning og teknologi. Konferencen viser, hvordan de bruges til at udforske rummet.",
+      "pointer": [
+        "SmallSat 2026 er i august.",
+        "NASA præsenterer nye missioner.",
+        "Små satellitter er i fokus."
+      ],
+      "prio": 5
+    },
     {
       "titel": "What’s next for ISR in space",
       "link": "https://spacenews.com/whats-next-for-isr-in-space/",
@@ -4393,61 +4445,6 @@
         "Stort for astronomien"
       ],
       "prio": 7
-    },
-    {
-      "titel": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
-      "dato": "2026-08-14T20:00:38+00:00",
-      "kilde": "NASA",
-      "resume": "NASA is asking U.S.-based collegiate teams to&#160;submit&#160;bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could&#160;help the agency envision&#160;a future on the Moon shaped by&#160;new technology.&#160; The latest NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition&#160;invites&#160;student teams to e",
-      "billede": "https://www.nasa.gov/wp-content/uploads/2026/05/liveenable-im3-sustainabilitylogistics-withastros-1.png?w=2048",
-      "billede_alt": "Artist concept of various technologies on a moon base.",
-      "kategori": "Politik & penge",
-      "rubrik": "NASA udfordrer studerende til at designe månefremtid",
-      "resume_da": "NASA inviterer amerikanske studerende til at udvikle koncepter for fremtidens månebase i et nyt RASC-AL-konkurrence. Holdene kan konkurrere om præmier og deltagelse i et forum i 2027.",
-      "sektioner": [
-        {
-          "overskrift": "Ny RASC-AL-runde",
-          "tekst": "NASA har åbnet for ansøgninger til 2027-udgaven af RASC-AL-konkurrencen. Opgaven er at forestille sig, hvordan ny teknologi kan forme en fremtidig base ved Månens sydpol. Siden 2002 har konkurrencen skabt forbindelser mellem universiteter, NASA og industrien."
-        },
-        {
-          "overskrift": "Fire temaer",
-          "tekst": "Deltagerne kan vælge mellem fire temaer: at muliggøre ekstrem udforskning, opførelse af transitveje, udforskning af månens ressourcer og en intelligent og modstandsdygtig månebolig. Forslagene skal være innovative og bygge på originalt ingeniørarbejde."
-        },
-        {
-          "overskrift": "Præmier og muligheder",
-          "tekst": "Op til 14 hold går videre til finalen og modtager hver **7.500 dollars**. De to bedste hold får ekstra præmier og bliver inviteret til at præsentere deres koncept på en rumkonference i 2027. Finalen finder sted i Cocoa Beach, Florida, i juni 2027."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "7.500 dollars",
-          "label": "Præmie til finalister"
-        },
-        {
-          "tal": "14 hold",
-          "label": "Hold der går videre"
-        },
-        {
-          "tal": "2027",
-          "label": "År for konkurrencen"
-        }
-      ],
-      "detaljer": [
-        "Ansøgningsfrist for deltagelse er 13. oktober 2026.",
-        "Spørgsmålssession med NASA-eksperter er 27. oktober 2026.",
-        "Forslag og videoer skal indsendes senest 24. februar 2027.",
-        "RASC-AL har afholdt konkurrencer siden 2002.",
-        "Konkurrencen administreres af National Institute of Aerospace."
-      ],
-      "betydning": "Selvom konkurrencen er rettet mod studerende i USA, kan dens resultater påvirke fremtidens rumforskning, som også har betydning for Danmark. Innovationer fra konkurrencen kan bidrage til nye teknologier og inspiration til unge forskere globalt.",
-      "pointer": [
-        "NASA udfordrer studerende til at designe månefremtid.",
-        "Fire temaer: ekstrem udforskning, transitveje, ressourceudforskning, bolig.",
-        "Finalister får 7.500 dollars og mulighed for at præsentere i 2027.",
-        "Konkurrencen har eksisteret siden 2002."
-      ],
-      "prio": 4
     }
   ]
 }
