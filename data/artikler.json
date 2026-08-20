@@ -1,7 +1,88 @@
 {
-  "opdateret": "2026-08-20T21:01:54.056167+00:00",
+  "opdateret": "2026-08-20T23:00:15.270202+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Elve qualifies millimeter-wave amplifiers for spaceflight",
+      "link": "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/",
+      "dato": "2026-08-20T22:51:53+00:00",
+      "kilde": "SpaceNews",
+      "resume": "SAN FRANCISCO – California startup Elve has qualified its 100-watt millimeter-wave Traveling Wave Tube Amplifier platform for spaceflight. With U.S. Space Force Small Business Innovation Research funding, Elve “didn&#8217;t just [&#8230;] The post Elve qualifies millimeter-wave amplifiers for spaceflight appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/02/rsz_elve.jpg?fit=879%2C532&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Kalifornisk firma klarer rumtest af forstærkere",
+      "resume_da": "Elve har kvalificeret sine 100-watt millimeter-bølgeforstærkere til rumfart med støtte fra U.S. Space Force.",
+      "sektioner": [
+        {
+          "overskrift": "Kvalificeret til rummet",
+          "tekst": "Elve, et nystartet firma i Californien, har gennemført test af sine forstærkere. De er nu godkendt til brug i rummet. Testene blev støttet af U.S. Space Force."
+        },
+        {
+          "overskrift": "Teknologien bag",
+          "tekst": "Forstærkerne bruger millimeter-bølger og yder **100 watt**. De er af typen Traveling Wave Tube, som er kendt for at være pålidelige i rumfart."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "100 watt",
+          "label": "Effekten af forstærkerne"
+        }
+      ],
+      "detaljer": [
+        "Elve er et startup i Californien.",
+        "U.S. Space Force har givet økonomisk støtte via Small Business Innovation Research.",
+        "Forstærkerne er af typen millimeter-wave Traveling Wave Tube Amplifier."
+      ],
+      "betydning": "Forstærkere er vigtige for kommunikation med satellitter. Det kan betyde bedre og hurtigere forbindelser i fremtiden, også til almindelige menneskers brug.",
+      "pointer": [
+        "Elve har kvalificeret forstærkere til rummet.",
+        "Forstærkerne har 100 watt effekt.",
+        "Støtte fra U.S. Space Force."
+      ],
+      "prio": 5
+    },
+    {
+      "titel": "SpaceWERX selects 11 firms to scale technologies for military space",
+      "link": "https://spacenews.com/spacewerx-selects-11-firms-to-scale-technologies-for-military-space/",
+      "dato": "2026-08-20T21:44:35+00:00",
+      "kilde": "SpaceNews",
+      "resume": "The new round of STRATFIs were awarded to Agile Space Industries, Antares Nuclear, EO Solutions, Hydrosat, Kall Morris, Method Security, Muon Space, Scout Space, Sedaro, Star Catcher Industries and ThinkOrbital The post SpaceWERX selects 11 firms to scale technologies for military space appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1787257527937.jpeg?fit=1024%2C576&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "SpaceWERX vælger 11 firmaer til militært rumfart",
+      "resume_da": "SpaceWERX har udvalgt 11 virksomheder til at skalere teknologier til militær brug i rummet, herunder nukleart fremstød og satellitservice.",
+      "sektioner": [
+        {
+          "overskrift": "Nye STRATFI-kontrakter",
+          "tekst": "SpaceWERX har tildelt nye STRATFI-kontrakter til **11** virksomheder. Disse kontrakter skal hjælpe med at skalere teknologier til militær brug i rummet. Virksomhederne spænder fra nukleare fremdriftssystemer til satellitservice."
+        },
+        {
+          "overskrift": "Deltagende virksomheder",
+          "tekst": "Blandt de udvalgte er Agile Space Industries, Antares Nuclear og EO Solutions. Også Hydrosat, Kall Morris og Method Security er med. Desuden Muon Space, Scout Space, Sedaro, Star Catcher Industries og ThinkOrbital."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "11",
+          "label": "Antal udvalgte virksomheder"
+        }
+      ],
+      "detaljer": [
+        "STRATFI står for Strategic Funding Increase.",
+        "Kontrakterne er en del af et initiativ for at fremme innovation inden for militært rumfart.",
+        "Virksomhederne arbejder med teknologier som nukleart fremstød, satellitservice og rumobservations."
+      ],
+      "betydning": "For almindelige danskere er dette et tegn på, at rummet bliver stadig vigtigere for forsvar og sikkerhed, hvilket kan påvirke både økonomi og teknologisk udvikling.",
+      "pointer": [
+        "11 virksomheder udvalgt.",
+        "Skal skalere militære rumteknologier.",
+        "Inkluderer nuklear fremdrift og satellitservice.",
+        "En del af SpaceWERX-initiativ."
+      ],
+      "prio": 6
+    },
     {
       "titel": "SmallSat 2026",
       "link": "https://science.nasa.gov/earth/smallsat-2026/",
@@ -4369,82 +4450,6 @@
         "Fløj i 15 kilometers højde."
       ],
       "prio": 5
-    },
-    {
-      "titel": "Wallops gears up for an increase in launches",
-      "link": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/",
-      "dato": "2026-08-14T22:02:28+00:00",
-      "kilde": "SpaceNews",
-      "resume": "With a projected surge in launches from Wallops Island in the coming years, companies and officials say now is the time for infrastructure improvements to benefit companies and their workers. The post Wallops gears up for an increase in launches appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/wallops-vaspace.jpeg?fit=1024%2C576&amp;ssl=1",
-      "billede_alt": "Wallops",
-      "kategori": "Opsendelser",
-      "rubrik": "Wallops øger antallet af opsendelser",
-      "resume_da": "Wallops Island forbereder sig på flere opsendelser. Infrastrukturforbedringer er nødvendige for at støtte virksomheder og medarbejdere.",
-      "sektioner": [
-        {
-          "overskrift": "Forventet vækst i opsendelser",
-          "tekst": "Wallops Island forventer en stigning i antallet af opsendelser i de kommende år. Virksomheder og embedsmænd siger, at det er tid til at forbedre infrastrukturen."
-        },
-        {
-          "overskrift": "Behov for infrastrukturforbedringer",
-          "tekst": "Forbedringer er nødvendige for at gavne virksomheder og deres medarbejdere. Dette vil hjælpe med at håndtere den øgede aktivitet."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Wallops Island forventer en stigning i opsendelser.",
-        "Virksomheder og embedsmænd siger, at infrastrukturforbedringer er nødvendige.",
-        "Forbedringerne skal gavne virksomheder og deres medarbejdere."
-      ],
-      "betydning": "For almindelige danskere kan flere opsendelser fra Wallops betyde flere kommercielle rummissioner og dermed flere danske virksomheder kan få mulighed for at sende udstyr i rummet.",
-      "pointer": [
-        "Flere opsendelser fra Wallops Island.",
-        "Infrastruktur skal forbedres.",
-        "Skal gavne virksomheder og medarbejdere.",
-        "Forberedelse til fremtidig vækst."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Is empty space really empty? This magnetic star may finally solve a 90-year-old mystery",
-      "link": "https://www.space.com/astronomy/stars/is-empty-space-really-empty-this-magnetic-star-may-finally-solve-a-90-year-old-mystery",
-      "dato": "2026-08-14T21:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "\"We're not just studying astronomical objects anymore; we're using them to test the laws of nature.\"",
-      "billede": "https://cdn.mos.cms.futurecdn.net/5bi8AGL5Fzx2YTAEvfqtFD-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Magnetisk stjerne kan løse 90 år gammelt mysterium",
-      "resume_da": "Forskere har fundet en magnetisk stjerne, der måske kan forklare, hvad der sker i det tomme rum – et mysterium, der har varet i 90 år.",
-      "sektioner": [
-        {
-          "overskrift": "Det tomme rum er ikke tomt",
-          "tekst": "Selv i det tilsyneladende tomme rum mellem stjerner er der små partikler og felter. Den nye opdagelse kan hjælpe os med at forstå, hvordan disse usynlige ting opfører sig."
-        },
-        {
-          "overskrift": "En magnetisk stjerne som nøgle",
-          "tekst": "Forskere har observeret en stjerne med et meget stærkt magnetfelt. Observationerne viser noget nyt og uventet, der måske kan løse et gammelt puslespil om rummets natur. Det er ikke mere end et år siden, at forskerne offentliggjorde deres fund."
-        },
-        {
-          "overskrift": "Hvad betyder det?",
-          "tekst": "Hvis teorien holder, kan det ændre vores forståelse af rummet og måske føre til ny teknologi. Det er et stort skridt for astronomien, siger eksperter."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Stjernen har et meget stærkt magnetfelt",
-        "Opdagelsen kan forklare noget om tomt rum",
-        "Forskergruppen bag er ikke navngivet i kilden"
-      ],
-      "betydning": "Det hjælper os med at forstå universets grundlæggende byggesten og kan inspirere til ny teknologi, som vi måske får glæde af i Danmark.",
-      "pointer": [
-        "Tomt rum er ikke helt tomt",
-        "Magnetisk stjerne er nøglen",
-        "Kan løse 90 år gammelt mysterium",
-        "Stort for astronomien"
-      ],
-      "prio": 7
     }
   ]
 }
