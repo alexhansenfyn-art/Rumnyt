@@ -1,7 +1,81 @@
 {
-  "opdateret": "2026-08-21T11:02:22.904790+00:00",
+  "opdateret": "2026-08-21T14:06:41.344576+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "The COSMOSIS framework can ensure that Washington governs space with its complexity in mind.",
+      "link": "https://spacenews.com/the-cosmosis-framework-can-ensure-that-washington-governs-space-with-its-complexity-in-mind/",
+      "dato": "2026-08-21T13:00:00+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Policy documents from both the White House and the Office of Space Commerce this summer acknowledge that space is a complex system, as to which forms of adaptive governance should [&#8230;] The post The COSMOSIS framework can ensure that Washington governs space with its complexity in mind. appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/artemis2-earth.jpeg?fit=1024%2C683&amp;ssl=1",
+      "billede_alt": "Artemis 2 image of Earth",
+      "kategori": "Politik & penge",
+      "rubrik": "Ny metode skal hjælpe USA med at styre rummet",
+      "resume_da": "En ny analysemetode kaldet COSMOSIS skal hjælpe amerikanske myndigheder med at forstå og styre rummets kompleksitet.",
+      "sektioner": [
+        {
+          "overskrift": "Kompleksitet i rummet",
+          "tekst": "Rummet er et komplekst system, og det kræver nye måder at styre det på. Både Det Hvide Hus og Office of Space Commerce har anerkendt dette i dokumenter fra denne sommer. COSMOSIS er en ramme, der skal hjælpe med at håndtere denne kompleksitet."
+        },
+        {
+          "overskrift": "Hvad er COSMOSIS?",
+          "tekst": "COSMOSIS er en metode til at analysere og styre rummet. Den skal sikre, at beslutningstagere tager højde for rummets kompleksitet i deres politikker. Det er et værktøj til adaptive styreformer."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Dokumenter fra Hvide Hus og Office of Space Commerce anerkender rummets kompleksitet.",
+        "COSMOSIS er en ramme til adaptiv styring af rummet.",
+        "Artiklen er fra SpaceNews."
+      ],
+      "betydning": "For en almindelig dansker er det relevant, fordi rummet bliver mere og mere brugt, og god styring sikrer, at vi alle kan have gavn af rummet uden konflikter.",
+      "pointer": [
+        "Rummet er komplekst at styre.",
+        "COSMOSIS er en ny analysemetode.",
+        "Amerikanske myndigheder vil bruge den.",
+        "Skal sikre bedre beslutninger om rummet."
+      ],
+      "prio": 3
+    },
+    {
+      "titel": "Interplanetary spacecraft capture a coronal mass ejection component hidden from Earth",
+      "link": "https://phys.org/news/2026-08-interplanetary-spacecraft-capture-coronal-mass.html",
+      "dato": "2026-08-21T12:50:42+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "During a coronal mass ejection (CME), the sun hurls billions of tons of magnetized plasma into space. These eruptions are among the most powerful events in the solar system, and when they are aimed toward Earth, they can seriously threaten the satellites and power grids we depend on. For now, it remains notoriously difficult to predict how these eruptions evolve over time—and, in turn, whether the",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/interplanetary-spacecr-1.jpg",
+      "billede_alt": "",
+      "kategori": "Rumvejr",
+      "rubrik": "Rumsonder fanger skjult soludbrud",
+      "resume_da": "To rumsonder har for første gang observeret en del af et soludbrud, der ikke kan ses fra Jorden. Det kan hjælpe med at forudsige, om udbrud rammer Jorden.",
+      "sektioner": [
+        {
+          "overskrift": "Skjult soludbrud observeret",
+          "tekst": "To interplanetære rumsonder har opfanget en del af et koronalt masseudbrud (CME), som ikke kan ses fra Jorden. Solen slynger millioner af tons magnetiseret plasma ud i rummet under sådan et udbrud. Observationen giver ny viden om, hvordan udbrud udvikler sig."
+        },
+        {
+          "overskrift": "Vigtigt for satellitter og strømforsyning",
+          "tekst": "Når soludbrud rammer Jorden, kan de true satellitter og elnet. Indtil nu har det været svært at forudsige, om et udbrud er på vej mod os. De nye data fra rumsonderne kan gøre forudsigelserne bedre."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Solen kaster milliarder af tons magnetiseret plasma ud i rummet.",
+        "CME'er er blandt de kraftigste begivenheder i solsystemet.",
+        "Udbrud mod Jorden kan true satellitter og elnet.",
+        "Det er svært at forudsige, hvordan udbrud udvikler sig.",
+        "Rumsonder har nu observeret en CME-komponent, der er skjult fra Jorden."
+      ],
+      "betydning": "For almindelige danskere betyder det bedre beskyttelse af satellitter og strømforsyning, hvis forskerne kan forudsige soludbrud mere præcist. Det kan mindske risikoen for, at elnet og kommunikation rammes af solstorme.",
+      "pointer": [
+        "To rumsonder har fanget skjult CME-del.",
+        "Soludbrud kan true satellitter og elnet.",
+        "Nye data kan forbedre forudsigelser.",
+        "Forskerne får bedre forståelse af udbrud."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Landspace aims to refly recovered Zhuque-3 booster within six months",
       "link": "https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months/",
@@ -4349,90 +4423,6 @@
         "Det er sikkert at observere fra Jorden."
       ],
       "prio": 6
-    },
-    {
-      "titel": "We think these Nikon binoculars are excellent for variable magnification on the go",
-      "link": "https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-these-nikon-binoculars-are-brilliant-for-variable-magnification-on-the-go",
-      "dato": "2026-08-15T09:00:00+00:00",
-      "kilde": "Space.com",
-      "resume": "Get everything between 10x and 22x with Nikon’s new Action Zoom 10-22x50 binoculars",
-      "billede": "https://cdn.mos.cms.futurecdn.net/PzSi4SRiVZY2G2v52KKXoQ-1280-80.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Nikon-kikkerter med variabel forstørrelse imponerer",
-      "resume_da": "Space.coms anmelder roser Nikon-kikkerter for deres variable forstørrelse, der er ideelle til brug på farten – både til natur- og stjernekiggeri.",
-      "sektioner": [
-        {
-          "overskrift": "Anmelderens vurdering",
-          "tekst": "Harry, der er e-commerce skribent hos Space.com, har testet kikkerterne. Han er selv ivrig fotograf og har erfaring med astrofotografering. Han anbefaler dem til dem, der vil have fleksibilitet i forstørrelsen."
-        },
-        {
-          "overskrift": "Ideelle til rejser",
-          "tekst": "Kikkerten er designet til at være nem at have med på farten. Den variable forstørrelse gør den velegnet til både korte og længere ture, hvor man vil observere både natur og himmel."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Anmeldelsen er skrevet af Harry, der startede hos Space.com i december 2024.",
-        "Harry har en bachelor i amerikansk litteratur med kreativ skrivning fra University of East Anglia.",
-        "Han har erfaring med at fotografere himmellegemer med forskellige kameraer."
-      ],
-      "betydning": "For almindelige danskere kan disse kikkerter være et godt valg, hvis man vil se på både natur og stjerner uden at skulle have flere forskellige kikkerter med.",
-      "pointer": [
-        "Nikon-kikkerter har variabel forstørrelse.",
-        "Velegnet til brug på farten.",
-        "Anbefalet af Space.coms skribent.",
-        "God til både natur- og stjernekiggeri."
-      ],
-      "prio": 4
-    },
-    {
-      "titel": "APOD: 2026 August 15 – Bright Perseids from Sweden",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/",
-      "dato": "2026-08-15T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 August 15 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Bright Perseids from [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/PerseidsAPOD_P-MHeden.jpg?w=1073&#038;h=1500&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "Two meteors flash through the night sky.  One is reflected in the water below.",
-      "kategori": "Astronomi",
-      "rubrik": "Lyse Perseider fotograferet over Sverige",
-      "resume_da": "Astronomisk billede viser to lyse Perseider og en refleksion i vand fra kysten ved Grisslehamn, Sverige. Meteorregnens top faldt sammen med nymåne, hvilket gav mørk himmel.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er Perseiderne?",
-          "tekst": "Perseiderne er et årligt meteorregn, der kommer fra kometen Swift-Tuttle. Meteorerne er kendt for at være lyse og hurtige. De ses fra stjernebilledet Perseus."
-        },
-        {
-          "overskrift": "Billedet fra Sverige",
-          "tekst": "Billedet er taget tæt på toppen af meteorregnen den 12. august. Det viser to lyse Perseider og en refleksion i vandet. Baggrunden viser Mælkevejens svage lys."
-        },
-        {
-          "overskrift": "Nymåne gav klart udsyn",
-          "tekst": "Meteorregnens top faldt sammen med nymåne. Det betød, at himlen var ekstra mørk, og meteorerne var nemme at se. For mange skywatchers fulgte meteorregnen efter en solformørkelse."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "12. august",
-          "label": "Dato for billedet"
-        }
-      ],
-      "detaljer": [
-        "Perseiderne kommer fra kometen Swift-Tuttle",
-        "Billedet er taget ved Grisslehamn i Sverige",
-        "To Perseider og en refleksion er synlige",
-        "Mælkevejen kan ses i baggrunden",
-        "Nymåne gjorde himlen mørk ved meteorregnens top",
-        "Natten efterfulgte en solformørkelse"
-      ],
-      "betydning": "Perseiderne er en populær meteorregn, som mange danskere kan se. Billedet viser, hvordan man kan opleve og fotografere fænomenet, især når forholdene er gode med ny måne.",
-      "pointer": [
-        "Årligt meteorregn fra kometen Swift-Tuttle",
-        "Lyse og hurtige meteorer",
-        "Billede fra Sverige med refleksion",
-        "Nymåne gav optimale observationsforhold"
-      ],
-      "prio": 5
     }
   ]
 }
