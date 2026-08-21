@@ -1,7 +1,206 @@
 {
-  "opdateret": "2026-08-21T17:14:29.660171+00:00",
+  "opdateret": "2026-08-21T19:16:29.468275+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Ship 41 Completes Engine Testing Ahead of Flight 14",
+      "link": "https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/",
+      "dato": "2026-08-21T18:45:52+00:00",
+      "kilde": "NASASpaceflight",
+      "resume": "While Ship 40 is preparing to be transported back to Starbase from Christmas Island, Ship&#8230; The post Ship 41 Completes Engine Testing Ahead of Flight 14 appeared first on NASASpaceFlight.com .",
+      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/Ship-41-Six-Engine-Static-Fire-scaled.jpg",
+      "billede_alt": "",
+      "kategori": "Opsendelser",
+      "rubrik": "Starship klar til næste store test efter motorprøver",
+      "resume_da": "Rumfartøjet Ship 41 har gennemført to vigtige motorprøver. Nu forberedes det til en fuld orbital flyvning, som kan blive den næste store mission.",
+      "sektioner": [
+        {
+          "overskrift": "Motorprøver gennemført",
+          "tekst": "Ship 41 testede sine motorer to gange. Først en enkelt motor for at efterligne en såkaldt deorbit-manøvre, hvor brændstoftanken kun var halvt fyldt og ventede i **25 minutter**. Derefter en fuld test med alle **seks** motorer i **60 sekunder**."
+        },
+        {
+          "overskrift": "Forberedelser til flyvning",
+          "tekst": "Nu skal Ship 41 tilbage til værftet for sidste klargøring. Det kan blive første gang, at et Starship kommer i kredsløb om Jorden. Derfor vil SpaceX sandsynligvis bruge ekstra tid på at sikre, at alt er perfekt."
+        },
+        {
+          "overskrift": "Affyringsrampe opgraderes",
+          "tekst": "Affyringsrampen har fået nye stålplader i flammegraven for at modstå varmen. Der er også tilføjet en ny kryogenisk ledning for at undgå spild af brændstof. Det skal gøre affyringen mere sikker."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "25 minutter",
+          "label": "Ventetid med brændstof"
+        },
+        {
+          "tal": "60 sekunder",
+          "label": "Varighed af motorprøve"
+        },
+        {
+          "tal": "6 motorer",
+          "label": "Antal motorer i test"
+        }
+      ],
+      "detaljer": [
+        "Ship 41 blev rullet ud til Massey's den 18. august.",
+        "Den første motorprøve var en deorbit-brænding med en enkelt motor.",
+        "Den anden var en fuld statisk tænding af alle seks motorer.",
+        "Der var forsinkelser på grund af problemer med metan-tanken.",
+        "Booster 21 er stadig under forberedelse i Mega Bay 1.",
+        "En planlagt NET-dato for Flight 14 er 15. september ifølge et internt dokument."
+      ],
+      "betydning": "Denne mission er vigtig, fordi den kan vise, at SpaceX kan bruge Starship til at sende rigtige satellitter i kredsløb. Det er et skridt mod billigere og mere fleksibel rumtransport, som kan gavne alle – også danske brugere af Starlink.",
+      "pointer": [
+        "Ship 41 har bestået sine motorprøver.",
+        "Næste skridt er klargøring til kredsløbsflyvning.",
+        "Affyringsrampen er blevet opgraderet.",
+        "Opsendelsen kan finde sted i september."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/",
+      "dato": "2026-08-21T17:41:00+00:00",
+      "kilde": "NASA",
+      "resume": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety C",
+      "billede": null,
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "NASA moderniserer raketberegningsværktøj",
+      "resume_da": "NASAs CEA-kode, der bruges til at beregne raketmotorer og kemiske reaktioner, er blevet opdateret. Den nye version er hurtigere og lettere at bruge i moderne programmer.",
+      "sektioner": [
+        {
+          "overskrift": "Nyt og forbedret",
+          "tekst": "CEA-koden er et vigtigt værktøj til at beregne, hvordan raketbrændstof opfører sig. Den nye version, CEA v3, er bygget med moderne programmeringsteknikker. Det gør den nemmere at vedligeholde og udvide."
+        },
+        {
+          "overskrift": "Hurtigere beregninger",
+          "tekst": "En enkelt beregning er blevet lidt langsommere, men når man kører mange beregninger på én gang, er den nye version meget hurtigere. I en test med over **108.500** tilfælde tog det kun cirka **1,11 sekunder** mod **15 minutter** før. Det er en **800** gange hurtigere – det gør store analyser meget mere praktiske."
+        },
+        {
+          "overskrift": "Flere brændstoffer",
+          "tekst": "Den nye version understøtter flere typer brændstof, herunder grønne raketbrændstoffer og bæredygtige flybrændstoffer. Det gør værktøjet relevant for fremtidens miljøvenlige rumfart og luftfart."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "108.500",
+          "label": "Antal tilfælde i test"
+        },
+        {
+          "tal": "1,11 sekunder",
+          "label": "Tid til test med CEA v3"
+        },
+        {
+          "tal": "15 minutter",
+          "label": "Tid til test med CEA2"
+        }
+      ],
+      "detaljer": [
+        "CEA står for Chemical Equilibrium with Applications",
+        "Den gamle version CEA2 var fra 2002",
+        "CEA v3 kan bruges fra Python, C, MATLAB og Excel",
+        "Den nye version understøtter grønne brændstoffer som ADN og HAN",
+        "Den nye version er bagudkompatibel med gamle inputfiler"
+      ],
+      "betydning": "CEA-koden bruges til at designe raketmotorer og flybrændstof. Opdateringen gør det hurtigere og lettere at udvikle fremtidens rumfartsteknologi, hvilket kan føre til mere effektive og miljøvenlige raketter og fly.",
+      "pointer": [
+        "NASA har opdateret sit raketberegningsværktøj CEA",
+        "Den nye version kan regne 800 gange hurtigere i visse tilfælde",
+        "Den understøtter nye grønne brændstoffer",
+        "Værktøjet kan nu bruges fra flere programmer"
+      ],
+      "prio": 4
+    },
+    {
+      "titel": "Webb Opens Treasure Chest",
+      "link": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
+      "dato": "2026-08-21T17:35:11+00:00",
+      "kilde": "NASA",
+      "resume": "NASA&#8217;s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an object known as a cometary globule. A cometary globule is an isolated cloud of gas and dust with a dense, [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/55457472091-12a8c7edb0-o.jpg?w=1497",
+      "billede_alt": "A region of space filled with bright stars and clouds of gas. In the center, the densest clouds form the shape of a chest with its lid open. The chest appears to glow from within. At its base it break",
+      "kategori": "Astronomi",
+      "rubrik": "Webb kigger ned i Skattebrystet i Carinatågen",
+      "resume_da": "James Webb-teleskopet har fotograferet en del af Carinatågen med et hidtil uset klart infrarødt billede. Billedet viser et kometlignende objekt, som forskerne kalder ’Skattebrystet’.",
+      "sektioner": [
+        {
+          "overskrift": "Teleskopets nye billede",
+          "tekst": "James Webb-teleskopet tog billedet den 6. august 2026. Billedet er i infrarødt lys og viser en del af Carinatågen, et område hvor der dannes stjerner. Objektet kaldes ’Skattebrystet’ og er en såkaldt kometar globule."
+        },
+        {
+          "overskrift": "Hvad er en kometypisk klump?",
+          "tekst": "En kometypisk globule er en isoleret sky af gas og støv. Den har et tæt, mørkt hoved og en lang hale, der ligner en komet. Men det er ikke en komet, men et område i rummet, hvor nye stjerner kan dannes."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Billedet er taget af James Webb-rumteleskopet",
+        "Billedet viser en del af Carinatågen kendt som Skattebrystet",
+        "Skattebrystet er en kometypisk globule",
+        "Billedet blev taget i infrarødt lys",
+        "Området er også hjemsted for de kosmiske klipper"
+      ],
+      "betydning": "Billedet giver forskere og offentligheden et unikt indblik i, hvordan stjerner fødes, og rumteleskopet kan se områder, som tidligere var skjult.",
+      "pointer": [
+        "James Webb tog billedet i 2026.",
+        "Det viser et kometlignende objekt i Carinatågen.",
+        "Objektet kaldes ’Skattebrystet’.",
+        "Billedet er i infrarødt lys."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
+      "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/",
+      "dato": "2026-08-21T17:06:36+00:00",
+      "kilde": "NASA",
+      "resume": "President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, [&#8230;]",
+      "billede": "https://www.nasa.gov/wp-content/uploads/2026/08/artemis-ii-crew-at-wh-aug-19.webp?w=2048",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Artemis II-besætning får Kongressens Æresmedalje",
+      "resume_da": "Præsident Trump vil overrække NASA's Artemis II-astronauter Kongressens Space Medal of Honor ved en ceremoni i Houston den 28. august 2026.",
+      "sektioner": [
+        {
+          "overskrift": "Historisk anerkendelse",
+          "tekst": "De fire astronauter på Artemis II-missionen modtager den høje æresbevisning. Det sker for første gang for en samlet besætning. Ceremonien finder sted i NASAs Johnson Space Center."
+        },
+        {
+          "overskrift": "Missionen rundt om Månen",
+          "tekst": "Besætningen gennemførte en 10-dages rejse rundt om Månen i april 2026. De var de første til at flyve med Orion-rumfartøjet. De har også rejst længere fra Jorden end nogen tidligere."
+        },
+        {
+          "overskrift": "Deltagere og udsendelse",
+          "tekst": "Præsidenten overrækker medaljerne, og NASA-chef Jared Isaacman deltager også. Du kan se ceremonien live på flere platforme via NASA's hjemmeside."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "10 dage",
+          "label": "Rejsens varighed"
+        },
+        {
+          "tal": "28. august",
+          "label": "Dato for ceremonien"
+        }
+      ],
+      "detaljer": [
+        "Artemis II-besætningen består af Reid Wiseman, Victor Glover, Christina Koch og Jeremy Hansen.",
+        "Jeremy Hansen er fra den canadiske rumfartsorganisation CSA.",
+        "De var de første til at rejse forbi Månen i over 50 år.",
+        "Ceremonien finder sted kl. 11:00 EDT (17:00 dansk tid) den 28. august."
+      ],
+      "betydning": "Det viser, at rumfart igen er en vigtig politisk sag, og det kan øge interessen for fremtidige måne- og marsmissioner. For almindelige danskere er det et tegn på, at rumfartens helte fejres på højeste politiske niveau.",
+      "pointer": [
+        "Artemis II-besætningen modtager Kongressens Æresmedalje",
+        "Præsident Trump overrækker medaljerne i Houston",
+        "De var de første på Orion-rumfartøjet",
+        "De rejste længst fra Jorden nogensinde"
+      ],
+      "prio": 6
+    },
     {
       "titel": "Stellar eruptions in the laboratory: First experimental evidence for their suppression in strong magnetic fields",
       "link": "https://phys.org/news/2026-08-stellar-eruptions-laboratory-experimental-evidence.html",
@@ -4223,189 +4422,6 @@
         "Panorama fra 2014."
       ],
       "prio": 3
-    },
-    {
-      "titel": "Lunar orbiter among upcoming NASA CLPS task orders",
-      "link": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/",
-      "dato": "2026-08-15T23:49:58+00:00",
-      "kilde": "SpaceNews",
-      "resume": "NASA plans to award three more lunar missions this year through a commercial services program, including an orbiter that would replace the Lunar Reconnaissance Orbiter The post Lunar orbiter among upcoming NASA CLPS task orders appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/lro-illus.jpeg?fit=1024%2C576&amp;ssl=1",
-      "billede_alt": "LRO",
-      "kategori": "Politik & penge",
-      "rubrik": "NASA planlægger nye måne-missioner",
-      "resume_da": "NASA vil i år udvælge tre nye måne-missioner via kommercielt program, herunder en orbiter, der skal afløse Lunar Reconnaissance Orbiter.",
-      "sektioner": [
-        {
-          "overskrift": "Tre nye måne-missioner",
-          "tekst": "NASA planlægger at uddele tre nye opgaver i år gennem CLPS-programmet, hvor kommercielle firmaer står for måneleverancer. Det siger en topchef i NASA. Missionerne skal sendes til Månen i de kommende år."
-        },
-        {
-          "overskrift": "Afløser for gammel orbiter",
-          "tekst": "En af missionerne er en orbiter, der skal erstatte Lunar Reconnaissance Orbiter, som har kredset om Månen siden 2009. Den nye orbiter skal fortsætte med at kortlægge Månen og finde is og andre ressourcer."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2009",
-          "label": "år Lunar Reconnaissance Orbiter blev sendt op"
-        }
-      ],
-      "detaljer": [
-        "NASA uddeler tre nye CLPS-opgaver i år.",
-        "En opgave er en måne-orbiter, der afløser Lunar Reconnaissance Orbiter.",
-        "CLPS-programmet bruger kommercielle leverandører til måne-missioner.",
-        "Lunar Reconnaissance Orbiter har kredset om Månen siden 2009."
-      ],
-      "betydning": "Det betyder, at måneforskningen fortsætter med nye øjne. Det kan føre til mere viden om Månen, som kan bruges til fremtidige bemandede missioner.",
-      "pointer": [
-        "NASA udvælger tre måne-missioner i år.",
-        "Måne-orbiter skal afløse gammel satellit.",
-        "Kommercielle firmaer skal bygge missionerne.",
-        "Månen skal kortlægges igen."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Blue Origin overviews plan for dual pad ops at Cape Canaveral",
-      "link": "https://www.nasaspaceflight.com/2026/08/blue-origin-launch-pad-cape-canaveral/",
-      "dato": "2026-08-15T22:57:11+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "As Blue Origin continues restoring its primary launch pad at LC-36A, the company has released&#8230; The post Blue Origin overviews plan for dual pad ops at Cape Canaveral appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-15-23-52-07-432.jpg",
-      "billede_alt": "",
-      "kategori": "Opsendelser",
-      "rubrik": "Blue Origin planlægger dobbelt raketplatform",
-      "resume_da": "Blue Origin vil bygge en ny affyringsrampe, LC-36B, til sin større New Glenn-raket. Den skal arbejde sammen med den eksisterende rampe og øge antallet af opsendelser.",
-      "sektioner": [
-        {
-          "overskrift": "Ny platform til større raket",
-          "tekst": "Blue Origin har vist billeder af den nye affyringsrampe LC-36B ved Cape Canaveral. Den er til New Glenn-raketten med ni motorer på første trin og fire på andet trin. Den skal bruges til tunge nyttelaster."
-        },
-        {
-          "overskrift": "Reparation efter eksplosion",
-          "tekst": "Den eksisterende rampe LC-36A bliver repareret efter en eksplosion i maj. Blue Origin øver nu med simulatorer for at gøre klar. De bruger en mobil kran til at stable raketten lodret."
-        },
-        {
-          "overskrift": "Infrastruktur til højere tempo",
-          "tekst": "Der bygges også en bygning til lodret integration af raketter. En bygning til nyttelast planlægges længere mod syd. Det skal hjælpe med at sende flere raketter afsted."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "9",
-          "label": "BE-4-motorer på første trin"
-        },
-        {
-          "tal": "4",
-          "label": "BE-3U-motorer på øverste trin"
-        },
-        {
-          "tal": "7",
-          "label": "BE-4-motorer på nuværende raket"
-        }
-      ],
-      "detaljer": [
-        "Den nye rampe LC-36B bliver bygget nord for den eksisterende LC-36.",
-        "Den nye rampe minder om SpaceX's Starship-platform i Texas.",
-        "Raketten med syv motorer har fløjet tre gange.",
-        "Eksplosionen skete på rampen tidligere på året.",
-        "Blue Origin øver med simulatorer ved et gammelt affyringsområde."
-      ],
-      "betydning": "Historien viser, at Blue Origin satser på flere opsendelser og større raketter. Det kan betyde flere satellitter i rummet, hvilket påvirker blandt andet kommunikation og vejrudsigter.",
-      "pointer": [
-        "Ny rampe til større New Glenn",
-        "Reparation efter eksplosion",
-        "Øvelser med simulatorer",
-        "Byggeri af nye faciliteter"
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Early-universe plasma may have stopped dark photons from heating cosmos",
-      "link": "https://phys.org/news/2026-08-early-universe-plasma-dark-photons.html",
-      "dato": "2026-08-15T16:40:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "A new paper published in Physical Review Letters reveals that a leading dark matter candidate—the hypothetical \"dark photon\"—would not have heated the early universe as previously thought. The finding opens a vast region for experimental searches and could change the hunt for dark matter.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2025/early-universe.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Dark photon-kandidat undgår opvarmning af tidligt univers",
-      "resume_da": "Ny forskning viser, at mørke fotoner ikke opvarmede det tidlige univers som hidtil antaget. Det åbner nye muligheder for at finde mørkt stof.",
-      "sektioner": [
-        {
-          "overskrift": "Ny indsigt i mørkt stof",
-          "tekst": "Mørkt stof er en usynlig substans, der udgør det meste af universets masse. En førende kandidat er en hypotetisk partikel kaldet 'dark photon'. Hidtil troede forskerne, at disse partikler opvarmede det tidlige univers. Nu viser en ny undersøgelse, at det ikke var tilfældet."
-        },
-        {
-          "overskrift": "Større jagtområde for forskere",
-          "tekst": "Resultatet betyder, at forskere kan lede efter mørke fotoner i et meget større område. Det ændrer strategien for, hvordan man søger efter mørkt stof. Undersøgelsen er offentliggjort i tidsskriftet Physical Review Letters."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "New paper",
-          "label": "Ny videnskabelig artikel"
-        }
-      ],
-      "detaljer": [
-        "Undersøgelsen er offentliggjort i Physical Review Letters.",
-        "Mørke fotoner er en førende kandidat til mørkt stof.",
-        "Den nye viden åbner et stort område for eksperimenter."
-      ],
-      "betydning": "For almindelige mennesker er det vigtigt, fordi det bringer os tættere på at forstå, hvad mørkt stof er – noget, der udgør hovedparten af universet. Det kan i sidste ende give en dybere forståelse af kosmos.",
-      "pointer": [
-        "Mørke fotoner opvarmede ikke tidlige univers.",
-        "Forskere kan nu søge i større område.",
-        "Resultatet ændrer jagten på mørkt stof.",
-        "Publiceret i Physical Review Letters."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Neptune's tiny moons tell the story of Triton's destructive capture",
-      "link": "https://phys.org/news/2026-07-neptune-tiny-moons-story-triton.html",
-      "dato": "2026-08-15T15:20:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Neptune's moon and ring system stand out among the giant planets because of the strange imbalance between its one very large moon and its many tiny moons. Its largest moon, Triton, makes up more than 99% of the mass of all satellites orbiting the planet while orbiting retrograde compared with Neptune's rotation. The predominant theory is that Triton is a captured Kuiper Belt object that caused a m",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/neptunes-tiny-moons-te.jpg",
-      "billede_alt": "",
-      "kategori": "Forskning",
-      "rubrik": "Neptuns små måner afslører Tritons voldsomme fortid",
-      "resume_da": "Ny forskning støtter teorien om, at Neptuns store måne Triton blev fanget fra Kuiperbæltet og ødelagde de oprindelige måner.",
-      "sektioner": [
-        {
-          "overskrift": "Tritons usædvanlige bane",
-          "tekst": "Triton er Neptuns største måne og udgør mere end **99%** af massen af alle måner om planeten. Den kredser i modsat retning af Neptuns rotation, hvilket er meget usædvanligt. Forskere mener derfor, at Triton oprindeligt var et objekt fra Kuiperbæltet."
-        },
-        {
-          "overskrift": "Bevis fra små måner",
-          "tekst": "En ny undersøgelse har analyseret lyset fra Neptuns små måner. Resultaterne viser, at de sandsynligvis er dannet af resterne efter en kollision. Denne kollision skete, da Triton blev fanget og ødelagde Neptuns oprindelige månesystem."
-        },
-        {
-          "overskrift": "Støtte til teorien",
-          "tekst": "Forskerne fandt spektroskopiske beviser, der støtter teorien om Tritons ødelæggende fangst. Det betyder, at de fleste af Neptuns nuværende små måner ikke er oprindelige, men blev skabt efter Tritons ankomst."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "99%",
-          "label": "Andel af månemassen, som Triton udgør"
-        }
-      ],
-      "detaljer": [
-        "Triton kredser retrograd, altså modsat planetens rotation.",
-        "Studiet er publiceret i tidsskriftet Science Advances.",
-        "Forskerne brugte spektroskopi til at analysere de små måners overflade."
-      ],
-      "betydning": "Historien om Solsystemets dannelse og udvikling bliver klarere. Det kan også give viden om, hvordan planeter og måner interagerer, hvilket har betydning for forståelsen af exoplaneter og potentielt livets betingelser.",
-      "pointer": [
-        "Triton blev fanget fra Kuiperbæltet.",
-        "Fangsten ødelagde de oprindelige måner.",
-        "Nye beviser fra små måner støtter teorien.",
-        "Forskningen er publiceret i Science Advances."
-      ],
-      "prio": 5
     }
   ]
 }
