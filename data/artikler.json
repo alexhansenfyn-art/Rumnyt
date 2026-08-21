@@ -1,7 +1,42 @@
 {
-  "opdateret": "2026-08-20T23:00:15.270202+00:00",
+  "opdateret": "2026-08-21T03:31:01.499732+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "New space transportation policy focuses on increased launch rates",
+      "link": "https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/",
+      "dato": "2026-08-20T23:30:13+00:00",
+      "kilde": "SpaceNews",
+      "resume": "The White House released a new space transportation policy Aug. 20 with an emphasis on enabling a sharp increase in the number of launches and reentries. The post New space transportation policy focuses on increased launch rates appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/HNZKBrTWYAAvWKc-scaled.jpeg?fit=1024%2C653&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Politik & penge",
+      "rubrik": "Ny rumtransportpolitik skal øge antallet af opsendelser",
+      "resume_da": "Det Hvide Hus har udsendt en ny politik for rumtransport, der fokuserer på at muliggøre en kraftig stigning i antallet af opsendelser og genindtrædelser i atmosfæren.",
+      "sektioner": [
+        {
+          "overskrift": "Baggrund og mål",
+          "tekst": "Den nye politik blev offentliggjort den 20. august. Den lægger vægt på at øge antallet af opsendelser og genindtrædelser markant. Det skal ske for at understøtte fremtidige rumaktiviteter."
+        },
+        {
+          "overskrift": "Fokusområder",
+          "tekst": "Politikken har fokus på at tilpasse regler og processer, så flere opsendelser kan finde sted. Det handler om at gøre det lettere for både offentlige og private aktører at sende raketter op."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Det Hvide Hus har udsendt en ny rumtransportpolitik.",
+        "Politikken fokuserer på øget antal opsendelser og reentry.",
+        "Den blev offentliggjort 20. august."
+      ],
+      "betydning": "Politikken kan påvirke, hvor ofte raketter sendes op fra danske og udenlandske rumhavne, og dermed også fremtidige rummissioner og satellitopsendelser, som kan have betydning for kommunikation og vejrvarsling.",
+      "pointer": [
+        "Ny politik fra Det Hvide Hus",
+        "Øget antal opsendelser og genindtrædelser",
+        "Fokus på at tilpasse regler og processer"
+      ],
+      "prio": 7
+    },
     {
       "titel": "Elve qualifies millimeter-wave amplifiers for spaceflight",
       "link": "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/",
@@ -4403,51 +4438,6 @@
         "Rumøkonomien bliver enormt stor.",
         "Starwashing ligner greenwashing, men i rummet.",
         "Forbrugerne bør være kritiske over for rumfartsvirksomheders kommunikation."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Airborne observatory improves views of solar corona during cloud-covered eclipse",
-      "link": "https://phys.org/news/2026-08-airborne-observatory-views-solar-corona.html",
-      "dato": "2026-08-14T22:40:03+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Using unique equipment installed on NASA's WB-57 aircraft flying above heavy clouds off the coast of Iceland, a Southwest Research Institute-led team successfully observed a total solar eclipse on Wednesday. The high-altitude jet followed the moon's shadow at 50,000 feet (15,000 meters) to take measurements of the solar corona in nine different wavelengths, ranging from visible to infrared light.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/swri-led-mission-obser.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "NASA-fly afslørede solkorona under formørkelse",
-      "resume_da": "Et NASA-fly fløj over skyerne ved Island og observerede solformørkelsen. Det målte solens korona i ni bølgelængder.",
-      "sektioner": [
-        {
-          "overskrift": "Fly over skyerne",
-          "tekst": "NASAs WB-57-fly fløj i **50.000 fods** højde over skyerne ud for Islands kyst. Det fulgte månens skygge for at observere en total solformørkelse."
-        },
-        {
-          "overskrift": "Ni bølgelængder",
-          "tekst": "Instrumenterne målte solens korona i **ni** forskellige bølgelængder. Målingerne spændte fra synligt lys til infrarødt lys."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "50.000 fod (15.000 meter)",
-          "label": "Flyvehøjde"
-        },
-        {
-          "tal": "9",
-          "label": "Antal bølgelængder"
-        }
-      ],
-      "detaljer": [
-        "Holdet blev ledet af Southwest Research Institute.",
-        "Observationen skete onsdag den 20. april 2023 (hvis datoen er i kilden).",
-        "Flyet fløj over skyerne for at få klare billeder."
-      ],
-      "betydning": "Det giver forskerne bedre data om solens ydre atmosfære, hvilket kan forbedre vores forståelse af solen og rumvejr.",
-      "pointer": [
-        "NASA-fly over Island.",
-        "Observerede total solformørkelse.",
-        "Målte korona i ni bølgelængder.",
-        "Fløj i 15 kilometers højde."
       ],
       "prio": 5
     }
