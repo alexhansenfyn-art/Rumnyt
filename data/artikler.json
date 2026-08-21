@@ -1,7 +1,52 @@
 {
-  "opdateret": "2026-08-21T19:16:29.468275+00:00",
+  "opdateret": "2026-08-21T20:55:00.697503+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
+      "link": "https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/",
+      "dato": "2026-08-21T19:48:14+00:00",
+      "kilde": "SpaceNews",
+      "resume": "Paris, France &#124; August 2026– More than 6,500 Earth observation (EO) satellites are expected to launch by 2035, generating $155.9 billion in manufacturing revenues as governments expand sovereign intelligence, surveillance, [&#8230;] The post New Novaspace forecast: 6,500+ EO satellites to launch by 2035 appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&amp;ssl=1",
+      "billede_alt": "Novaspace logo",
+      "kategori": "Satellitter",
+      "rubrik": "Rumfartsanalyse: 6.500 nye jordobservationssatellitter inden 2035",
+      "resume_da": "En ny analyse forudser, at over 6.500 jordobservationssatellitter sendes op inden 2035, hvilket vil skabe indtægter for 155,9 milliarder dollars.",
+      "sektioner": [
+        {
+          "overskrift": "Rekordmange satellitter",
+          "tekst": "Mere end **6.500** jordobservationssatellitter forventes opsendt inden 2035. Det viser en ny analyse fra Novaspace. Satellitterne skal blandt andet bruges til overvågning og efterretning."
+        },
+        {
+          "overskrift": "Store indtægter",
+          "tekst": "Opsendelserne ventes at skabe indtægter for **155,9 milliarder dollars**. Det skyldes især, at flere lande vil have deres egne satellitter til overvågning."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "6.500",
+          "label": "Antal satellitter inden 2035"
+        },
+        {
+          "tal": "$155,9 mia.",
+          "label": "Indtægter fra produktion"
+        }
+      ],
+      "detaljer": [
+        "Analysen er lavet af Novaspace.",
+        "Opsendelserne dækker perioden frem til 2035.",
+        "Satellitterne skal bl.a. bruges til overvågning og efterretning."
+      ],
+      "betydning": "Flere satellitter kan give bedre overvågning af klima og miljø, men også øget overvågning fra regeringer.",
+      "pointer": [
+        "6.500 satellitter sendes op.",
+        "Indtægter på 155,9 mia. dollars.",
+        "Overvågning er vigtig driver.",
+        "Analyse fra Novaspace."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Ship 41 Completes Engine Testing Ahead of Flight 14",
       "link": "https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/",
@@ -55,6 +100,59 @@
         "Næste skridt er klargøring til kredsløbsflyvning.",
         "Affyringsrampen er blevet opgraderet.",
         "Opsendelsen kan finde sted i september."
+      ],
+      "prio": 7
+    },
+    {
+      "titel": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
+      "link": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
+      "dato": "2026-08-21T18:43:40+00:00",
+      "kilde": "NASA",
+      "resume": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were along the eclipse […]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse/NHQ202608120208.jpg?w=25145&#038;h=17074&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "A sequence of images in a diagonal line from upper left to lower right shows the progression of a total solar eclipse, with an uneclipsed Sun in the upper left and other images showing the Sun becomin",
+      "kategori": "Astronomi",
+      "rubrik": "NASA fotograferer solformørkelse fra jord, luft og rum",
+      "resume_da": "Den 12. august 2026 kunne man se en total solformørkelse fra Grønland, Island og Spanien. NASA forskere og fotografer fangede begivenheden fra jorden, fra rummet og fra et forskningsfly.",
+      "sektioner": [
+        {
+          "overskrift": "Billeder fra jorden",
+          "tekst": "En NASA-fotograf i Spanien tog et sammensat billede af solformørkelsen, mens solen gik ned over en solsikkemark. På billedet kan man se både den totale fase og de delvise faser, samt solens korona og en solprominens."
+        },
+        {
+          "overskrift": "Rumstationen i silhouet",
+          "tekst": "I Maine, hvor man kun kunne se en delvis formørkelse, fangede en fotograf den internationale rumstation, der passerede foran solen. Rumstationen fløj med omkring **8 kilometer i sekundet**, og der var syv astronauter om bord."
+        },
+        {
+          "overskrift": "Fotos fra rummet",
+          "tekst": "En NASA-astronaut om bord på rumstationen tog billeder af den delvise formørkelse fra **262 miles** over Quebec. Fra rumstationen dækkede Månen omkring **18%** af solen."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "50.000 fod",
+          "label": "Flyvehøjde for NASA-fly"
+        },
+        {
+          "tal": "262 miles",
+          "label": "Rumstationens højde"
+        },
+        {
+          "tal": "18%",
+          "label": "Månens dækning af solen"
+        }
+      ],
+      "detaljer": [
+        "Den totale solformørkelse fandt sted den 12. august 2026.",
+        "NASA-flyet WB-57F fløj gennem formørkelsens skygge for at forlænge tiden i formørkelsen.",
+        "Studerende deltog i NASA's ballonprojekt for at studere formørkelsens effekt på atmosfæren.",
+        "Kameraer på flyet tog billeder i flere bølgelængder af lys."
+      ],
+      "betydning": "Solformørkelser giver forskere en unik mulighed for at studere solens ydre atmosfære, hvilket kan forbedre vores viden om solen og vejret i rummet. Det er også en sjov begivenhed for alle at kigge på.",
+      "pointer": [
+        "Total formørkelse i august 2026",
+        "NASA dokumenterede fra mange steder",
+        "Fotos og video til forskning"
       ],
       "prio": 7
     },
@@ -4328,100 +4426,6 @@
         "Sjældent fund"
       ],
       "prio": 5
-    },
-    {
-      "titel": "Black hole star: Astronomers discover a brand-new type of astrophysical object",
-      "link": "https://phys.org/news/2026-08-black-hole-star-astronomers-brand.html",
-      "dato": "2026-08-16T11:00:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Astronomers at MIT and elsewhere have spotted an extremely bright red spot in the early universe. The object resembles an enormous star, roughly the size of our solar system. But it also is putting out 100 billion times more energy than any known star can physically produce. In fact, such energies are closer to what a black hole might generate.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-discover-a-6.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Nyt himmelobjekt: Stjerne og sort hul i ét?",
-      "resume_da": "Astronomer har fundet et ekstremt lyst rødt objekt i det tidlige univers. Det ligner en kæmpestjerne, men udsender langt mere energi, end en stjerne kan.",
-      "sektioner": [
-        {
-          "overskrift": "Et usædvanligt fund",
-          "tekst": "Forskere fra MIT og andre steder har opdaget et meget lyst rødt objekt i det tidlige univers. Det ligner en enorm stjerne på størrelse med vores solsystem. Men det udsender langt mere energi end nogen kendt stjerne kan."
-        },
-        {
-          "overskrift": "Energi som et sort hul",
-          "tekst": "Objektet udsender **100 milliarder gange** mere energi end en normal stjerne. Faktisk minder energien mere om det, et sort hul kan producere. Derfor tror forskerne, det kan være en helt ny type himmelobjekt."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "100 milliarder gange",
-          "label": "Mere energi end en stjerne"
-        }
-      ],
-      "detaljer": [
-        "Opdaget af astronomer fra MIT og andre institutioner.",
-        "Objektet er ekstremt lyst og rødt.",
-        "Det ligner en kæmpestjerne, men er måske noget helt nyt."
-      ],
-      "betydning": "Opdagelsen kan ændre vores forståelse af, hvad der findes i universet. Måske findes der objekter, der kombinerer egenskaber fra både stjerner og sorte huller.",
-      "pointer": [
-        "Nyt lyst rødt objekt fundet i det tidlige univers.",
-        "Udsender ekstremt meget energi.",
-        "Kan være en helt ny type himmelobjekt."
-      ],
-      "prio": 7
-    },
-    {
-      "titel": "APOD: 2026 August 16 – Milky Way over Yellowstone",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/",
-      "dato": "2026-08-16T04:05:00+00:00",
-      "kilde": "NASA",
-      "resume": "APOD Science APOD APOD: 2026 August 16 – Milky… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Milky Way [&#8230;]",
-      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/mwyellowstone_lane_1800.jpg?w=1800&#038;h=1200&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-      "billede_alt": "A composite image of the night sky above the old faithful guyser in Yelowstone National Park.",
-      "kategori": "Astronomi",
-      "rubrik": "Mælkevejen over Yellowstone",
-      "resume_da": "Et flot billede viser Mælkevejen over en varm kilde i Yellowstone. Kilden er farvet af bakterier og damp.",
-      "sektioner": [
-        {
-          "overskrift": "Billedet",
-          "tekst": "Billedet er et panorama af **16** billeder taget i **2014**. Det viser Mælkevejen over Silex Spring, en varm kilde i Yellowstone. Kilden er cirka **10 meter** bred."
-        },
-        {
-          "overskrift": "Den varme kilde",
-          "tekst": "Silex Spring er farvet af lag af bakterier, der vokser i det varme vand. Dampen kommer fra magma under jorden, som varmer vandet op."
-        },
-        {
-          "overskrift": "Mælkevejen",
-          "tekst": "Mælkevejen er et bånd af lys fra milliarder af stjerner. Det er ikke skabt af søen, men ligger meget langt væk."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "10 meter",
-          "label": "Bredden på kilden"
-        },
-        {
-          "tal": "16",
-          "label": "Antal billeder i panoramaet"
-        },
-        {
-          "tal": "640.000 år",
-          "label": "Siden sidste superudbrud"
-        }
-      ],
-      "detaljer": [
-        "Billedet er taget i 2014.",
-        "Kilden hedder Silex Spring.",
-        "Yellowstone ligger i Wyoming, USA.",
-        "Mælkevejen er fyldt med stjerner."
-      ],
-      "betydning": "Billedet viser sammenhængen mellem Jordens geologi og universet. Det minder os om, at naturen både tæt på og langt væk er fascinerende.",
-      "pointer": [
-        "Smukt billede af Mælkevejen.",
-        "Varm kilde med bakterier.",
-        "Magma kan true med udbrud.",
-        "Panorama fra 2014."
-      ],
-      "prio": 3
     }
   ]
 }
