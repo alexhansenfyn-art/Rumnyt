@@ -1,7 +1,66 @@
 {
-  "opdateret": "2026-08-21T03:31:01.499732+00:00",
+  "opdateret": "2026-08-21T05:49:36.907125+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Europe’s Scorching Summer",
+      "link": "https://science.nasa.gov/earth/europes-scorching-summer/",
+      "dato": "2026-08-21T04:01:00+00:00",
+      "kilde": "NASA",
+      "resume": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712_th.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300",
+      "billede_alt": "",
+      "kategori": "Forskning",
+      "rubrik": "Europa ramt af ekstrem sommervarme",
+      "resume_da": "Sommeren 2026 bragte fem hedebølger og temperaturer over 40 grader til Vesteuropa, hvilket førte til tusindvis af dødsfald og store problemer.",
+      "sektioner": [
+        {
+          "overskrift": "Rekordvarme og hedebølger",
+          "tekst": "I 2026 oplevede Vesteuropa fem hedebølger, hvor temperaturen flere steder lå over **40°C**. Allerede i maj blev der sat rekorder, og juni og juli var de varmeste nogensinde målt. I London blev der målt **35,1°C** i maj, hvilket slog den gamle rekord med **2,3°C**."
+        },
+        {
+          "overskrift": "Konsekvenser for samfundet",
+          "tekst": "Den ekstreme varme førte til flere indlæggelser og dødsfald. Veje og jernbanespor blev ødelagt, og der opstod voldsomme skovbrande. Tørken blev forværret, hvilket påvirkede vandforsyning, transport og landbrug."
+        },
+        {
+          "overskrift": "Manglende aircondition",
+          "tekst": "Kun **23%** af europæiske hjem har aircondition, mod **90%** i USA. Det er en vigtig grund til, at flere dør af varmen i Europa. Ældre og syge er særligt udsatte, og nattetimer med varme er farlige uden aircondition."
+        },
+        {
+          "overskrift": "Fremtidige løsninger",
+          "tekst": "Forskere foreslår, at byer planter flere træer, udvider parker og bruger materialer, der ikke holder på varmen. De arbejder også på at kortlægge risikoområder med NASA-data for at gøre byer mere modstandsdygtige over for hedebølger."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "40°C",
+          "label": "Temperatur overskredet i brede områder"
+        },
+        {
+          "tal": "23%",
+          "label": "Europæiske hjem med aircondition"
+        },
+        {
+          "tal": "10.000",
+          "label": "Varmrelaterede dødsfald i Europa"
+        }
+      ],
+      "detaljer": [
+        "Vesteuropa havde fem hedebølger i sommeren 2026.",
+        "Rekorder blev slået i flere lande, fx Storbritannien, Frankrig og Slovakiet.",
+        "Varmen førte til hospitalsindlæggelser, ødelagte veje og jernbaner.",
+        "Tørken blev forværret og ramte landbrug, vandforsyning og transport.",
+        "Ældre og personer med helbredsproblemer er særligt udsatte for varmen."
+      ],
+      "betydning": "Hedebølger som denne kan blive hyppigere i fremtiden. Det er vigtigt at forberede sig og beskytte udsatte grupper, så flere ikke mister livet.",
+      "pointer": [
+        "Vesteuropas varmeste sommer nogensinde.",
+        "Fem hedebølger med temperaturer over 40°C.",
+        "Mange dødsfald på grund af varmen.",
+        "Manglende aircondition i Europa er et stort problem."
+      ],
+      "prio": 8
+    },
     {
       "titel": "New space transportation policy focuses on increased launch rates",
       "link": "https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/",
@@ -4395,51 +4454,6 @@
         "Stor kontrakt med US Space Force."
       ],
       "prio": 6
-    },
-    {
-      "titel": "'Starwashing': How space companies use the greenwashing playbook while causing environmental damage",
-      "link": "https://phys.org/news/2026-08-starwashing-space-companies-greenwashing-playbook.html",
-      "dato": "2026-08-15T01:00:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "From launchpads to low Earth orbit and beyond, space companies and their affiliates are deploying a familiar marketing tactic—with a new twist. In a space economy projected to reach US$1.8 trillion by 2035, they sell space exploration narratives by appealing to a desire to expand humankind beyond Earth—while downplaying or omitting the negative repercussions for Earth and the space environment. We",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/space-launch.jpg",
-      "billede_alt": "",
-      "kategori": "Politik & penge",
-      "rubrik": "Starwashing: Rumfartens grønne facade",
-      "resume_da": "Rumfartsvirksomheder bruger grønne fortællinger om fremtid og udforskning for at skjule miljøskader. Det kaldes 'starwashing'.",
-      "sektioner": [
-        {
-          "overskrift": "Hvad er starwashing?",
-          "tekst": "Rumfartsvirksomheder og deres partnere bruger en velkendt marketingtaktik med et twist. De sælger rumudforskning som en drøm om at brede menneskeheden ud i rummet, mens de ignorerer eller nedtoner de negative konsekvenser for Jorden og rummiljøet."
-        },
-        {
-          "overskrift": "En milliardindustri",
-          "tekst": "Rumøkonomien forventes at nå **1,8 billioner dollars** i 2035. Det gør det endnu vigtigere at se kritisk på, hvordan virksomhederne kommunikerer om deres aktiviteter."
-        },
-        {
-          "overskrift": "Sammenligning med greenwashing",
-          "tekst": "Starwashing minder om greenwashing, hvor virksomheder fremstiller sig som mere miljøvenlige, end de er. Men i rummet handler det også om at skjule skader på selve rummiljøet, for eksempel efterladte dele og satellitter."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "1,8 billioner dollars",
-          "label": "Forventet størrelse af rumøkonomien i 2035"
-        }
-      ],
-      "detaljer": [
-        "Rumfartsvirksomheder nedtoner negative konsekvenser for Jorden og rummiljøet.",
-        "De bruger fortællinger om at udvide menneskeheden ud over Jorden som marketing.",
-        "Rumøkonomien forventes at nå 1,8 billioner dollars i 2035."
-      ],
-      "betydning": "Det er vigtigt at gennemskue, når rumfart markedsføres som grøn og positiv, mens skaderne overses. For almindelige mennesker betyder det, at vi ikke altid får hele sandheden om rumfartens miljøomkostninger.",
-      "pointer": [
-        "Rumfart bruger grønne fortællinger for at skjule skader.",
-        "Rumøkonomien bliver enormt stor.",
-        "Starwashing ligner greenwashing, men i rummet.",
-        "Forbrugerne bør være kritiske over for rumfartsvirksomheders kommunikation."
-      ],
-      "prio": 5
     }
   ]
 }
