@@ -1,7 +1,42 @@
 {
-  "opdateret": "2026-08-21T08:04:00.368892+00:00",
+  "opdateret": "2026-08-21T11:02:22.904790+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Landspace aims to refly recovered Zhuque-3 booster within six months",
+      "link": "https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months/",
+      "dato": "2026-08-21T08:54:11+00:00",
+      "kilde": "SpaceNews",
+      "resume": "HELSINKI — Chinese commercial launch firm Landspace is targeting a reflight of its Zhuque-3 first stage in months, following its historic successful vertical landing Aug. 18. A company representative told [&#8230;] The post Landspace aims to refly recovered Zhuque-3 booster within six months appeared first on SpaceNews .",
+      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Zhuque-3-Y2-land-burn.jpg?fit=1024%2C596&amp;ssl=1",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Landspace vil genbruge rakettrin inden for seks måneder",
+      "resume_da": "Det kinesiske rumfartsselskab Landspace planlægger at genbruge første trin af raketten Zhuque-3 inden for seks måneder, efter en vellykket lodret landing.",
+      "sektioner": [
+        {
+          "overskrift": "Historisk landing",
+          "tekst": "Den 18. august gennemførte Landspace en vellykket lodret landing af raketten Zhuque-3's første trin. Det er første gang, et kommercielt kinesisk rumfartsselskab har opnået dette. Landingen er et vigtigt skridt mod at kunne genbruge raketter."
+        },
+        {
+          "overskrift": "Planer for genflyvning",
+          "tekst": "En talsmand for virksomheden oplyser, at de sigter mod at genflyve det genvundne trin inden for seks måneder. Det vil være et stort skridt mod at reducere omkostningerne ved rumopsendelser."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Landing skete 18. august",
+        "Første kommercielle kinesiske lodrette landing",
+        "Genflyvning planlagt inden for seks måneder"
+      ],
+      "betydning": "Genbrug af raketter kan gøre rumfart billigere og mere bæredygtigt, hvilket i sidste ende kan påvirke priser og adgang til rummet for alle.",
+      "pointer": [
+        "Kinesisk selskab vil genbruge rakettrin",
+        "Vellykket lodret landing i august",
+        "Mål: genflyvning om seks måneder"
+      ],
+      "prio": 6
+    },
     {
       "titel": "Europe’s Scorching Summer",
       "link": "https://science.nasa.gov/earth/europes-scorching-summer/",
@@ -4398,62 +4433,6 @@
         "Nymåne gav optimale observationsforhold"
       ],
       "prio": 5
-    },
-    {
-      "titel": "Rocket Lab advances via series of announcements",
-      "link": "https://www.nasaspaceflight.com/2026/08/rocket-lab-advances-announcements/",
-      "dato": "2026-08-15T03:42:01+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "Rocket Lab has formally established a new subsidiary in Germany and introduced a containerized mobile&#8230; The post Rocket Lab advances via series of announcements appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-15-04-32-28-725.jpg",
-      "billede_alt": "",
-      "kategori": "Opsendelser",
-      "rubrik": "Rocket Lab udvider med tysk fabrik og mobil rumhavn",
-      "resume_da": "Rocket Lab etablerer datterselskab i Tyskland og præsenterer et mobilt affyringssystem i containere. Samtidig skrider arbejdet på Neutron-raketten frem.",
-      "sektioner": [
-        {
-          "overskrift": "Nyt tysk selskab",
-          "tekst": "Rocket Lab har oprettet Rocket Lab Germany med hovedkvarter i München. Selskabet skal bygge på ekspertisen fra Mynaric, som Rocket Lab købte i 2025. Udover laserterminaler skal de producere satellitter og komponenter til europæiske kunder."
-        },
-        {
-          "overskrift": "Mobil affyringsrampe",
-          "tekst": "Systemet GHOST kan pakkes i standardcontainere og gør det muligt at affyre Electron-raketter næsten hvor som helst i verden. Det er især rettet mod forsvar og sikkerhed, og den første faste placering bliver i Alaska. En demonstration er planlagt til **2027**."
-        },
-        {
-          "overskrift": "Neutron-raketten skrider frem",
-          "tekst": "Arkimedies-motorerne til Neutron har nu gennemgået over **400** testaffyringer. De ni motorer til den første flyvning er i produktion, og de store raketdele er ved at blive samlet. Andet trin skal snart sendes til affyringsstedet i Virginia."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "2027",
-          "label": "År for demonstrationsflyvning"
-        },
-        {
-          "tal": "400+",
-          "label": "Antal motor-tests"
-        },
-        {
-          "tal": "9",
-          "label": "Motorer til første flyvning"
-        }
-      ],
-      "detaljer": [
-        "Rocket Lab Germany får hovedkvarter i München.",
-        "GHOST står for Global Hypersonic and Orbital Spaceport Technology.",
-        "Den mobile rampe kan bruges til Electron eller HASTE-varianter.",
-        "Kodiak, Alaska, bliver første faste placering for GHOST.",
-        "Neutron-affyring sker fra Wallops Island, Virginia.",
-        "Rocket Lab fik en kontrakt på 397 millioner dollars fra US Space Force."
-      ],
-      "betydning": "For almindelige danskere betyder det, at der bliver flere muligheder for at sende satellitter i rummet, hvilket kan forbedre kommunikation og forsvar. Det viser også, at rumindustrien vokser i Europa.",
-      "pointer": [
-        "Rocket Lab åbner tysk afdeling.",
-        "Mobil raketrampe i containere.",
-        "Neutron-raketten er tæt på første flyvning.",
-        "Stor kontrakt med US Space Force."
-      ],
-      "prio": 6
     }
   ]
 }
