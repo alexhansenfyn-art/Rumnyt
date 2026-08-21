@@ -1,7 +1,42 @@
 {
-  "opdateret": "2026-08-21T14:06:41.344576+00:00",
+  "opdateret": "2026-08-21T17:14:29.660171+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Stellar eruptions in the laboratory: First experimental evidence for their suppression in strong magnetic fields",
+      "link": "https://phys.org/news/2026-08-stellar-eruptions-laboratory-experimental-evidence.html",
+      "dato": "2026-08-21T16:20:10+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields surrounding active stars can completely suppress coronal mass ejections. This offers clues to why massive stellar eruptions are rarely observed on stars other than the sun.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/stellar-eruptions-in-t.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Stærke magnetfelter kan stoppe stjerneudbrud",
+      "resume_da": "Forskere har for første gang vist i laboratoriet, at stærke magnetfelter kan undertrykke koronale masseudbrud, hvilket kan forklare, hvorfor sådanne udbrud sjældent ses på andre stjerner.",
+      "sektioner": [
+        {
+          "overskrift": "Eksperimentet",
+          "tekst": "Et internationalt hold af astrofysikere og plasmafysikere har udført et eksperiment, der viser, at stærke magnetfelter kan fuldstændigt undertrykke koronale masseudbrud. Dette er første gang, man har set det i laboratoriet."
+        },
+        {
+          "overskrift": "Betydning for stjerner",
+          "tekst": "Resultaterne kan forklare, hvorfor massive stjerneudbrud sjældent observeres på andre stjerner end Solen. Stærke magnetfelter omkring aktive stjerner kan forhindre, at materiale slynges ud."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Forskerne brugte plasmafysik i laboratoriet.",
+        "De observerede, at magnetfelter kan fuldstændigt undertrykke udbruddene.",
+        "Dette er første eksperimentelle bevis for fænomenet."
+      ],
+      "betydning": "Det hjælper forskere med at forstå, hvorfor nogle stjerner har voldsomme udbrud, mens andre ikke har. Det kan også give viden om Solens opførsel og dermed rumvejr, der påvirker Jorden.",
+      "pointer": [
+        "Første eksperimentelle bevis.",
+        "Magnetfelter kan stoppe udbrud.",
+        "Vigtigt for stjerneforskning."
+      ],
+      "prio": 7
+    },
     {
       "titel": "The COSMOSIS framework can ensure that Washington governs space with its complexity in mind.",
       "link": "https://spacenews.com/the-cosmosis-framework-can-ensure-that-washington-governs-space-with-its-complexity-in-mind/",
@@ -4371,58 +4406,6 @@
         "Forskningen er publiceret i Science Advances."
       ],
       "prio": 5
-    },
-    {
-      "titel": "Summer Triangle Corner: Deneb",
-      "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-deneb/",
-      "dato": "2026-08-15T10:00:00+00:00",
-      "kilde": "NASA",
-      "resume": "Bird constellations abound in the night sky, including Cygnus, the majestic swan. Easy to find with its dazzling stars, it is one of the few constellations that look like its namesake, and it is full of treasures. Visible in the Northern Hemisphere all summer long, there’s so much to see and even some things that […]",
-      "billede": "https://science.nasa.gov/wp-content/uploads/2023/10/cygnusintriangleweb-896-e1698417309133.png?w=608",
-      "billede_alt": "Artist",
-      "kategori": "Astronomi",
-      "rubrik": "Sådan finder du stjernebilledet Svanen",
-      "resume_da": "Stjernebilledet Cygnus (Svanen) er let at finde på sommerhimlen. Her er guiden til dets stjerner, stjernetåger og sorte hul.",
-      "sektioner": [
-        {
-          "overskrift": "Find Svanen på himlen",
-          "tekst": "Start med den klare stjerne Deneb, som er en del af Sommertrekanten. Derfra kan du finde stjernen Albireo, som er svanens næb. Svanen har vinger ud til siderne og en hals langs Mælkevejen."
-        },
-        {
-          "overskrift": "Særlige syn med kikkert",
-          "tekst": "Med en kikkert kan du se stjernehoben Messier 29, som ligger tæt på svanens krop. Med et teleskop kan du se dobbeltstjernen Albireo, som er guld og blå. Og du kan se Cygnus Loop, en supernovarest, der ligner en lysende ring."
-        },
-        {
-          "overskrift": "Det sorte hul Cygnus X-1",
-          "tekst": "I Cygnus findes der et berømt sort hul kaldet Cygnus X-1. Det blev opdaget i 1971 og er det første sorte hul, man accepterede. Det har en masse på omkring **20 sole** og roterer over **800 gange i sekundet**."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "800 gange/sek",
-          "label": "rotation af sort hul"
-        },
-        {
-          "tal": "6.070 lysår",
-          "label": "afstand til sort hul"
-        }
-      ],
-      "detaljer": [
-        "Cygnus er latin for svane.",
-        "Deneb er en del af Sommertrekanten.",
-        "Albireo er en dobbeltstjerne.",
-        "Cygnus Loop kaldes også Slørtågen.",
-        "Cygnus X-1 blev opdaget i 1971.",
-        "Det sorte hul er 6.070 lysår væk."
-      ],
-      "betydning": "For almindelige danskere er det en mulighed for at se noget smukt på himlen og lære om universets ekstreme fænomener som sorte huller.",
-      "pointer": [
-        "Svanen er let at finde om sommeren.",
-        "Den indeholder smukke stjerner og tåger.",
-        "Der er et sort hul i nærheden.",
-        "Det er sikkert at observere fra Jorden."
-      ],
-      "prio": 6
     }
   ]
 }
