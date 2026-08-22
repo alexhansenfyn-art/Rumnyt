@@ -1,7 +1,48 @@
 {
-  "opdateret": "2026-08-22T05:04:30.823977+00:00",
+  "opdateret": "2026-08-22T07:45:26.869525+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "APOD: 2026 August 22 – Mostly Perseids",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/",
+      "dato": "2026-08-22T04:05:00+00:00",
+      "kilde": "NASA",
+      "resume": "APOD Science APOD APOD: 2026 August 22… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mostly Perseids Explanation: Recorded [&#8230;]",
+      "billede": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/allsky_CEMeNt_Aug12-13final_pretty_8bit.jpg?w=4457&#038;h=4457&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+      "billede_alt": "An allsky camera view of the Perseid meteor shower.",
+      "kategori": "Astronomi",
+      "rubrik": "Meteorregn over Tjekkiet fanget på billede",
+      "resume_da": "Et teleskop i Tjekkiet optog 1.706 meteorer natten til 13. august. De fleste var fra Perseiderne, men også svagere meteorsværme blev set.",
+      "sektioner": [
+        {
+          "overskrift": "En nat med mange meteorer",
+          "tekst": "Natten mellem 12. og 13. august 2026 optog fire kameraer på et observatorium i Tjekkiet hele himlen. I alt blev der registreret **1.706** meteorer. Det faldt sammen med Perseidernes maksimum."
+        },
+        {
+          "overskrift": "To slags meteorer",
+          "tekst": "De fleste meteorer var Perseider, som kommer fra stjernebilledet Perseus. Men der var også nogle fra Kappa Cygniderne, der har deres udspring i Svanen. Desuden så man meteorer fra et område ved Vandmanden, kaldet antihelion-komplekset."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "1.706",
+          "label": "Antal meteorer på én nat"
+        }
+      ],
+      "detaljer": [
+        "Optaget natten til 13. august 2026",
+        "Fire kameraer på et observatorium i Tjekkiet",
+        "Billedet er et sammensat all-sky-billede",
+        "De fleste meteorer var Perseider"
+      ],
+      "betydning": "Det viser, at man med almindeligt udstyr kan observere og forstå meteorsværme, som også kan ses fra Danmark. Det gør astronomi tilgængelig for alle.",
+      "pointer": [
+        "Mange meteorer på én nat",
+        "Perseider dominerede",
+        "Også svagere sværme set"
+      ],
+      "prio": 3
+    },
     {
       "titel": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
       "link": "https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/",
@@ -4384,46 +4425,6 @@
         "Alpha-raketten får hvidt ydre og større tanke.",
         "Lockheed Martin køber op til 25 opsendelser.",
         "Ny mellemtung raket Eclipse planlægges til næste år."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Einstein Probe catches rare X-ray flash from an exploding star",
-      "link": "https://phys.org/news/2026-08-einstein-probe-rare-ray-star.html",
-      "dato": "2026-08-16T14:00:02+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "Astronomers have linked an X-ray flash discovered by the Einstein Probe to a known type of supernova with unusual features that point to the birth of an ultra-dense, rapidly spinning magnetar. The paper outlining this finding was published in The Astrophysical Journal Letters on July 22.",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/einstein-probe-catches.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Sjældent røntgenblink fanges fra eksploderende stjerne",
-      "resume_da": "Astronomer har koblet et røntgenblink fra Einstein-proben til en supernova med usædvanlige træk, der peger på fødslen af en magnetar.",
-      "sektioner": [
-        {
-          "overskrift": "Et uventet fund",
-          "tekst": "Einstein-proben fangede et sjældent røntgenblink. Det blev knyttet til en kendt type supernova. Den har usædvanlige træk, der antyder fødslen af en magnetar."
-        },
-        {
-          "overskrift": "Hvad er en magnetar?",
-          "tekst": "En magnetar er en ultratæt, hurtigt roterende neutronstjerne. Den har et ekstremt stærkt magnetfelt. Sådanne objekter er sjældne og vigtige at studere."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "22. juli",
-          "label": "Artikel publiceret"
-        }
-      ],
-      "detaljer": [
-        "Opdagelsen blev offentliggjort i The Astrophysical Journal Letters",
-        "Fundet forbinder røntgenblink med en supernova"
-      ],
-      "betydning": "Det hjælper forskere med at forstå, hvordan ekstreme objekter som magnetarer dannes, hvilket kan give ny viden om stjerners livscyklus.",
-      "pointer": [
-        "Røntgenblink fanget af Einstein-probe",
-        "Knyttet til supernova",
-        "Peger på fødslen af magnetar",
-        "Sjældent fund"
       ],
       "prio": 5
     }
