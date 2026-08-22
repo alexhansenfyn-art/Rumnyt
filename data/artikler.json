@@ -1,7 +1,47 @@
 {
-  "opdateret": "2026-08-22T16:55:00.631337+00:00",
+  "opdateret": "2026-08-22T19:02:35.992277+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Mars Curiosity rover discovers massive field of polygons",
+      "link": "https://phys.org/news/2026-08-mars-curiosity-rover-massive-field.html",
+      "dato": "2026-08-22T18:00:04+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "The surface of Mars is home to some of the most breathtaking and awe-inspiring landscapes in the solar system. This is primarily because the Red Planet lacks several resurfacing processes that Earth possesses, including plate tectonics, volcanism and flowing water.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/mars-curiosity-rover-d.jpg",
+      "billede_alt": "",
+      "kategori": "Missioner",
+      "rubrik": "Curiosity finder kæmpe polygoner på Mars",
+      "resume_da": "NASAs Mars-rover Curiosity har opdaget et kæmpe felt af polygoner på Mars' overflade, hvilket kan give ny viden om planetens fortid.",
+      "sektioner": [
+        {
+          "overskrift": "Overraskende fund",
+          "tekst": "Forskere har opdaget et kæmpe felt af polygoner på Mars. Det skete med Curiosity-roveren. Polygonerne er formede mønstre i jorden, som minder om revner."
+        },
+        {
+          "overskrift": "Hvorfor det er vigtigt",
+          "tekst": "Polygonerne kan afsløre noget om Mars' tidligere klima. Måske har der engang været vand eller is i området. Det kan hjælpe os med at forstå planetens historie."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "Curiosity",
+          "label": "Roverens navn"
+        }
+      ],
+      "detaljer": [
+        "Fundet er gjort af NASA's Curiosity-rover på Mars.",
+        "Polygonerne er et stort felt af mønstre i jorden.",
+        "De kan ligne revner, der dannes når jorden tørrer ud."
+      ],
+      "betydning": "Det giver os mere viden om Mars, som kan være vigtig for fremtidige missioner og for at forstå andre planeter.",
+      "pointer": [
+        "Curiosity fandt polygoner på Mars.",
+        "De kan være dannet af vand eller is.",
+        "Fundet øger vores viden om Mars' fortid."
+      ],
+      "prio": 6
+    },
     {
       "titel": "Near-total lunar eclipse is coming up with the Americas in prime position",
       "link": "https://phys.org/news/2026-08-total-lunar-eclipse-americas-prime.html",
@@ -4376,37 +4416,6 @@
         "Forskere vil forstå, hvordan de dannes.",
         "Målinger kan forbedre vejrudsigter.",
         "Brande bliver hyppigere med varmere klima."
-      ],
-      "prio": 6
-    },
-    {
-      "titel": "Satellite operators emphasize launch deals in a constrained market",
-      "link": "https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/",
-      "dato": "2026-08-16T23:05:35+00:00",
-      "kilde": "SpaceNews",
-      "resume": "Amid a constrained launch market, satellite operators are emphasizing to investors and customers that they have lined up launch capacity, even if it is uncertain when it will be available. The post Satellite operators emphasize launch deals in a constrained market appeared first on SpaceNews .",
-      "billede": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/f9-bluebird-aug26.jpeg?fit=1024%2C683&amp;ssl=1",
-      "billede_alt": "Falcon 9 BlueBird launch",
-      "kategori": "Opsendelser",
-      "rubrik": "Satellitoperatører fremhæver opsendelsesaftaler",
-      "resume_da": "I et stramt opsendelsesmarked understreger satellitoperatører over for investorer, at de har sikret sig opsendelseskapacitet, selvom tidspunktet er usikkert.",
-      "sektioner": [
-        {
-          "overskrift": "Stramt marked",
-          "tekst": "Opsendelsesmarkedet er presset, og det er svært at få plads til at sende satellitter op. Operatørerne forsøger at berolige investorer og kunder ved at fortælle, at de har aftaler på plads, selvom det ikke vides præcis, hvornår opsendelsen finder sted."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Satellitoperatører lægger vægt på deres opsendelsesaftaler i et stramt marked.",
-        "Tidspunktet for opsendelser er usikkert, men kapaciteten er sikret."
-      ],
-      "betydning": "For almindelige danskere betyder det, at satellittjenester som navigation og kommunikation kan blive forsinket, hvis ikke opsendelserne kommer i gang.",
-      "pointer": [
-        "Opsendelsesmarkedet er presset.",
-        "Operatører har sikret sig kapacitet.",
-        "Tidspunktet er usikkert.",
-        "Investorer skal beroliges."
       ],
       "prio": 6
     }
