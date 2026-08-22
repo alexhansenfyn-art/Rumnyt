@@ -1,7 +1,39 @@
 {
-  "opdateret": "2026-08-22T10:53:01.164260+00:00",
+  "opdateret": "2026-08-22T13:43:52.016192+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Earth's magnetosphere might not protect us from superstorms after all",
+      "link": "https://phys.org/news/2026-08-earth-magnetosphere-superstorms.html",
+      "dato": "2026-08-22T12:00:06+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Science seems like a straightforward endeavor. You come up with a hypothesis, collect data to prove or disprove it, and analyze that data to see whether the hypothesis is right. But anyone who actually does science will tell you that it is often not that straightforward. One of the most common complexities is data analysis.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/earths-magnetosphere-m.jpg",
+      "billede_alt": "",
+      "kategori": "Rumvejr",
+      "rubrik": "Jordens magnetfelt svagere end troet mod superstorms",
+      "resume_da": "Nye analyser tyder på, at Jordens magnetosfære måske ikke beskytter os mod ekstreme rumstorme, som man hidtil har troet.",
+      "sektioner": [
+        {
+          "overskrift": "Overraskende resultat om magnetosfæren",
+          "tekst": "Jordens magnetfelt har ellers været anset for at være et skjold mod rumvejr. Men nye data-analyser peger på, at det ikke altid er en pålidelig beskyttelse mod de kraftigste superstorms. Det kan have betydning for både satellitter og elnet."
+        }
+      ],
+      "noegletal": [],
+      "detaljer": [
+        "Kildens hovedbudskab er, at magnetosfæren måske ikke beskytter mod superstorms.",
+        "Artiklen nævner kompleksitet i dataanalyse som årsag til, at man tidligere kan have overset dette.",
+        "Der gives ingen konkrete tal eller eksempler i kildeteksten."
+      ],
+      "betydning": "Hvis magnetosfæren er svagere end antaget, kan kraftige rumstorme påvirke vores teknologi, som vi er afhængige af i hverdagen – fx GPS og elnet.",
+      "pointer": [
+        "Magnetosfæren blev anset som et skjold mod rumvejr.",
+        "Ny analyse udfordrer den antagelse.",
+        "Konsekvenser kan ramme satellitter og elnet.",
+        "Forskerne peger på kompleksitet i dataanalyse som forklaring."
+      ],
+      "prio": 6
+    },
     {
       "titel": "APOD: 2026 August 22 – Mostly Perseids",
       "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/",
@@ -4370,61 +4402,6 @@
         "Stjernestøv er grundlaget for alt liv.",
         "Radioteleskoper afslører stjernedannelse.",
         "Forskning forbinder os med universet."
-      ],
-      "prio": 5
-    },
-    {
-      "titel": "Firefly promote next block of Alpha amid Eclipse progress",
-      "link": "https://www.nasaspaceflight.com/2026/08/firefly-block-alpha-eclipse-progress/",
-      "dato": "2026-08-16T16:31:26+00:00",
-      "kilde": "NASASpaceflight",
-      "resume": "Firefly Aerospace is advancing on two fronts this month, pushing development of its next-generation medium-lift&#8230; The post Firefly promote next block of Alpha amid Eclipse progress appeared first on NASASpaceFlight.com .",
-      "billede": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-16-17-19-57-271.jpg",
-      "billede_alt": "",
-      "kategori": "Opsendelser",
-      "rubrik": "Firefly oppgraderer Alpha og tester ny motor",
-      "resume_da": "Firefly Aerospace tester sin nye Miranda-motor i næsten fire minutter og præsenterer en opgraderet Alpha-raket med hvidt ydre og større tanke.",
-      "sektioner": [
-        {
-          "overskrift": "Ny motor testet",
-          "tekst": "Firefly har afbrændt deres nye Miranda-motor i **226 sekunder** ved fuld kraft. Det er længere end en normal flyvning kræver. De har nu gennemført over **150** testafbrændinger, og motoren er klar til kvalifikation."
-        },
-        {
-          "overskrift": "Alpha får nyt udseende",
-          "tekst": "Alpha Block II får en hvid overflade i stedet for den tidligere sorte. Den hvide farve er en del af et nyt varmebeskyttelsessystem, der skal forhindre problemer som dem, der førte til en fejl på mission 6. Raketten bliver også **2 meter** højere med større tanke."
-        },
-        {
-          "overskrift": "Mange kommende opsendelser",
-          "tekst": "Lockheed Martin har udvidet deres aftale med Firefly til at omfatte op til **25** Alpha-opsendelser gennem **2031**. De første Block II-opsendelser er planlagt til fjerde kvartal i år. Eclipse, den nye større raket, skal efter planen flyve første gang næste år."
-        }
-      ],
-      "noegletal": [
-        {
-          "tal": "226 sekunder",
-          "label": "Varighed af motortest"
-        },
-        {
-          "tal": "25",
-          "label": "Antal Alpha-opsendelser for Lockheed"
-        },
-        {
-          "tal": "2 meter",
-          "label": "Forøgelse af Alpha-højde"
-        }
-      ],
-      "detaljer": [
-        "Eclipse er Fireflys kommende mellemtunge raket, der kan løfte over 16 tons til lavt jordkredsløb.",
-        "Første trin på Eclipse er designet til at kunne genbruges og lande tilbage på affyringsrampen.",
-        "Alpha Block II har fået en hvid termisk beskyttelse, hvilket er en reaktion på en tidligere missionsfejl.",
-        "Den nye Miranda-motor bruger RP-1-kerosen og flydende ilt.",
-        "Lockheed Martin har udvidet sin kontrakt med Firefly til 2031."
-      ],
-      "betydning": "Historien viser, at Firefly er i vækst og kan blive en vigtig aktør inden for både små og mellemstore raketter. Det betyder flere muligheder for at sende satellitter op til blandt andet kommunikation og vejrovervågning, hvilket kan gavne os alle.",
-      "pointer": [
-        "Firefly tester ny motor i næsten 4 minutter.",
-        "Alpha-raketten får hvidt ydre og større tanke.",
-        "Lockheed Martin køber op til 25 opsendelser.",
-        "Ny mellemtung raket Eclipse planlægges til næste år."
       ],
       "prio": 5
     }
