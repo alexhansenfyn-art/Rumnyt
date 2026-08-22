@@ -1,7 +1,47 @@
 {
-  "opdateret": "2026-08-22T13:43:52.016192+00:00",
+  "opdateret": "2026-08-22T14:51:58.240411+00:00",
   "antal": 100,
   "artikler": [
+    {
+      "titel": "Near-total lunar eclipse is coming up with the Americas in prime position",
+      "link": "https://phys.org/news/2026-08-total-lunar-eclipse-americas-prime.html",
+      "dato": "2026-08-22T14:38:34+00:00",
+      "kilde": "Phys.org Rum",
+      "resume": "Now it's the moon's turn to pull a disappearing act. After being shut out of this month's total solar eclipse, the Americas will have the best seats in the celestial house when Earth's shadow briefly envelops the moon. Almost the entire lunar surface will be masked Thursday night into Friday—a whopping 96%—making this an especially deep partial eclipse.",
+      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/near-total-lunar-eclip.jpg",
+      "billede_alt": "",
+      "kategori": "Astronomi",
+      "rubrik": "Næsten total måneformørkelse torsdag",
+      "resume_da": "Amerika får den bedste udsigt, når Jordens skygge dækker 96% af månen torsdag nat til fredag.",
+      "sektioner": [
+        {
+          "overskrift": "Hvad sker der?",
+          "tekst": "En måneformørkelse opstår, når Jorden står mellem Solen og Månen. Jordens skygge rammer Månen og gør den mørkere. Denne gang dækker skyggen næsten hele Månen – hele **96%**."
+        },
+        {
+          "overskrift": "Hvor kan man se den?",
+          "tekst": "De bedste observationssteder er på det amerikanske kontinent. Fra Danmark er måneformørkelsen desværre ikke synlig."
+        }
+      ],
+      "noegletal": [
+        {
+          "tal": "96%",
+          "label": "af Månen er skjult"
+        }
+      ],
+      "detaljer": [
+        "Måneformørkelsen sker torsdag nat til fredag.",
+        "Det er en dyb delvis måneformørkelse.",
+        "Amerika har den bedste placering."
+      ],
+      "betydning": "For danskere er det ikke synligt, men det minder os om, hvor fascinerende vores univers er – og at der sker astronomiske begivenheder hele tiden.",
+      "pointer": [
+        "96% af Månen bliver dækket.",
+        "Torsdag nat til fredag.",
+        "Kun synlig i Amerika."
+      ],
+      "prio": 5
+    },
     {
       "titel": "Earth's magnetosphere might not protect us from superstorms after all",
       "link": "https://phys.org/news/2026-08-earth-magnetosphere-superstorms.html",
@@ -4369,41 +4409,6 @@
         "Investorer skal beroliges."
       ],
       "prio": 6
-    },
-    {
-      "titel": "Radio telescopes help scientists map molecules in space and uncover where and how stars form",
-      "link": "https://phys.org/news/2026-08-radio-telescopes-scientists-molecules-space.html",
-      "dato": "2026-08-16T22:40:01+00:00",
-      "kilde": "Phys.org Rum",
-      "resume": "You may have heard the phrase \"we are made of star-stuff.\" This statement by the astronomer Carl Sagan refers to the fact that elements heavier than hydrogen and helium were forged in the centers of the first stars. But how does this star-stuff evolve into the chemistry of rocks, plants and people?",
-      "billede": "https://scx1.b-cdn.net/csz/news/tmb/2026/radio-telescopes-help-2.jpg",
-      "billede_alt": "",
-      "kategori": "Astronomi",
-      "rubrik": "Radioteleskoper kortlægger molekyler i rummet",
-      "resume_da": "Astronomer bruger radioteleskoper til at kortlægge molekyler i rummet og forstå, hvor og hvordan stjerner dannes.",
-      "sektioner": [
-        {
-          "overskrift": "Stjernestøvets oprindelse",
-          "tekst": "Astronomen Carl Sagan sagde, at vi er lavet af stjernestøv. Det betyder, at grundstoffer tungere end brint og helium blev skabt i de første stjerners centre. Men hvordan det stjernestøv udvikler sig til kemi i sten, planter og mennesker, er stadig et spørgsmål."
-        },
-        {
-          "overskrift": "Radioteleskopernes rolle",
-          "tekst": "Radioteleskoper hjælper forskere med at kortlægge molekyler i rummet. På den måde kan de finde ud af, hvor og hvordan stjerner dannes. Det giver ny viden om universets byggesten."
-        }
-      ],
-      "noegletal": [],
-      "detaljer": [
-        "Carl Sagan udtrykte, at vi er lavet af stjernestøv.",
-        "Tunge grundstoffer blev dannet i de første stjerner.",
-        "Radioteleskoper bruges til at kortlægge molekyler i rummet."
-      ],
-      "betydning": "For almindelige mennesker giver det en forståelse af, hvordan livets byggesten opstår i universet. Det kobler os til kosmos og viser, at vores oprindelse er forbundet med stjernerne.",
-      "pointer": [
-        "Stjernestøv er grundlaget for alt liv.",
-        "Radioteleskoper afslører stjernedannelse.",
-        "Forskning forbinder os med universet."
-      ],
-      "prio": 5
     }
   ]
 }
